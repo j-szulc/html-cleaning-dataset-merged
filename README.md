@@ -1,4 +1,9 @@
-# Merged datasets from various HTML cleaning competitions
+## Merged datasets from various HTML cleaning competitions
+
+**Note that I do not own any rights to these datasets, I just merged already available, albeit some hard to find, datasets and mirrored them for ease of accessibility.
+All rights belong to their respective owners.**
+
+**For all licensing information, please refer to the original sources.**
 
 This repo contains:
 - Datasets from Cleaneval competition:
@@ -12,9 +17,13 @@ This repo contains:
 - Google news dataset: https://github.com/geodrome/page-signal,
 
 which have been all transformed into the same folder structure.
-I also added a version stripped of any HTML tags.
 
-Note that I do not own any rights to these datasets, I just merged already available, albeit some hard to find, datasets and mirrored them for ease of accessibility.
-All rights belong to their respective owners.
-
-For all licensing information, please refer to the original sources.
+To get a version stripped of any HTML tags and strip.py script to do that, which is my only contribution.
+To run it, just do:
+```
+python strip.py dataset-name/GoldStandard/ dataset-name/stripped
+```
+To get all stripped datasets run:
+```
+find . -maxdepth 1 -type d ! -name ".*" -exec bash -c 'echo Processing "$0" ; python3 strip.py "$0"/GoldStandard "$0"/stripped' {} \;
+```
