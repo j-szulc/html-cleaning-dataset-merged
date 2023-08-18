@@ -21,9 +21,11 @@ which have been all transformed into the same folder structure.
 To get a version stripped of any HTML tags and strip.py script to do that, which is my only contribution.
 To run it, just do:
 ```
-python strip.py dataset-name/GoldStandard/ dataset-name/stripped
+pip3 install bs4
+python3 strip.py dataset-name/GoldStandard/ dataset-name/stripped
 ```
 To get all stripped datasets run:
 ```
+pip3 install bs4
 find . -maxdepth 1 -type d ! -name ".*" -exec bash -c 'echo Processing "$0" ; python3 strip.py "$0"/GoldStandard "$0"/stripped' {} \;
 ```
