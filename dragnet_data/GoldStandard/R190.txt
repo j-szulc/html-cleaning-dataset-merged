@@ -1,0 +1,14 @@
+Applied Materials crafts the giant machines to make ultra-high definition displays
+
+October 30, 2012 3:30 PM
+Dean Takahashi 
+
+Applied Materials is introducing some mammoth new machines to manufacture the next-generation displays, known as ultra-high definition TVs.
+
+Santa Clara, Calif.-based Applied is the world’s largest maker of chip-making equipment and it also makes the machines that are used to craft flat-panel displays. Today, it is announcing new manufacturing tools that process the chemicals needed to create displays with extreme precision.
+
+The company is announcing new physical vapor deposition (PVD) and plasma-enhanced chemical vapor deposition machines that deposit thin layers of chemicals to create displays. The machines can be used to make portable or large-screen TV displays. They can be specifically used to make thin-film transistor (TFT) screens, liquid crystal displays (LCD), and organic light-emitting diode (OLED) screens.
+
+“The display industry is undergoing one of the most critical technical transitions in the last 20 years –  which is being driven by advances in TFT technology,” said Tom Edman, group vice president and general manager of Applied’s Display Business Group. “Applied Materials has developed a proven portfolio of systems to help our customers make the technical leap to implementing these new films. Customers have reported excellent results with our systems and we already have received multiple orders from major display manufacturers.”
+
+The new system uses rotary cathode technology to deposit a new substance called Igzo, to create the transistors, or basic building blocks, in an electronic screen. The material can overcome “mura effects” that reduce the quality of the display. Screens made with the technology should be more beautiful and affordable. They can deposit films as thin as 1.6 millimeters on sheets of glass.

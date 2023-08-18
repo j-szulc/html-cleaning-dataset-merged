@@ -1,0 +1,18 @@
+LaunchRock CEO Unveils Big Revamp While Being Pelted With Garbage
+Anthony Ha 
+
+LaunchRock, the company that helps other startups acquire customers, is announcing a new, more customizable version of its service today.
+
+The initial version of LaunchRock was focused on helping startups create a launch page where they could recruit beta testers. That’s still a core part of LaunchRock’s features, but the company has broadened into a service that helps startups build their relationships with users, with tools like social sharing, email messaging, and analytics.
+
+The latest changes are outlined in a company blog post, which says the product code was rewritten from scratch. Customers can now choose themes to meet the specific goals of their launch pages. They can customize things even further by actually rewriting their LaunchRock code with the new Advanced Code Editor. And there’s a new Insights dashboard that displays a company’s users and how they were acquired.
+
+Co-founder and CEO Jameson Detweiler told me that the redesign’s big theme is “flexibility”:
+
+    We’ve really cleaned up everything to give you more options so that no matter what your needs, there should be something for you. If you’ve got a new mobile app, we’ve got a theme for that. If you’ve got a demo video, another theme. Want a different type of design, you’ve got multiple options. You can also dig into the code and write a completely custom page with custom content and fields and still keep the incentivized sharing features that we offer.
+
+LaunchRock is also announcing that it has helped customers sign up 5 million users, including 300,000 in October, and it’s launching 250 new sites a day.
+
+When the company made its last big announcement, the acquisition of Giftiki, it also released what Detweiler claimed was “the most epic team photo ever.” (He might have been right.) It seems like he’s trying to top himself with a new video, where he outlines the new features while his employees “launch” random crap at him.
+
+It’s kind of nuts, but I admire his dedication.

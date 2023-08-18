@@ -1,0 +1,30 @@
+RedNotebook Portable 1.6.1 (integrated journal) Released
+Submitted by vf2nsr on November 12, 2012 - 3:03pm
+
+RedNotebook Portable 1.6.1 has been released. RedNotebook is a modern journal. It includes a calendar navigation, customizable templates, export functionality and word clouds. You can also format, tag and search your entries. This release updates RedNotebook to the latest version and greatly improves launch time. Note that some users who have selected a custom location for their last opened Notebook will need to re-open it after upgrading. It's packaged in PortableApps.com Format so it can easily integrate with the PortableApps.com Platform. And it's open source and completely free.
+
+Update automatically or install from the portable app store in the PortableApps.com Platform.
+
+Features
+
+
+    Tagging
+    Format your text bold, italic or underlined
+    Insert Images, files and links to websites
+    Links and mail addresses are recognized automatically
+    Live-Search
+    Automatic saving
+    Backup to zip archive
+    Word Clouds with most often used words and tags
+    Templates
+    Export the journal to PDF, HTML, Latex or plain text
+    The data is stored in plain text files, no database is needed
+    Translated into more than 20 languages
+
+Learn more about RedNotebook...
+PortableApps.com Installer / PortableApps.com Format
+
+RedNotebook Portable is packaged in a PortableApps.com Installer so it will automatically detect an existing PortableApps.com installation when your drive is plugged in. It supports upgrades by installing right over an existing copy, preserving all settings. And it's in PortableApps.com Format, so it automatically works with the PortableApps.com Suite including the Menu and Backup Utility.
+Download
+
+RedNotebook Portable is available for immediate download from the RedNotebook Portable homepage. Get it today!

@@ -1,0 +1,575 @@
+Phoenix Suns Point Guard Analysis: Offense
+
+At_tiny by Omaha Sun on Aug 8, 2012 9:00 AM MST in Phoenix Suns Commentary
+Tweet
+
+    52 comments
+    Story-email Email
+    Printer Print
+
+This is either a picture of one of the biggest +/- differentials or one of the best point guard rotations in the NBA, depending on which month you're talking about.
+
+It has taken most of the offseason, but we are nearing the end of the MySynergySports.com review of the 2011-12 Phoneix Suns. Only one position group remains, and it is the position that has defined the Suns for the last eight years: point guards. First up is offense.
+Center: Offense - Defense
+
+Power Forward: Offense - Defense
+
+Small Forward: Offense - Defense
+
+Shooting Guard: Offense - Defense
+
+
+In my last installment, I included a poll asking whether I should take a look at our old (pun intended) starting point guard or our new one. Goran Dragic was the overwhelming winner of the poll, but the comments were more balanced. However, after a conversation with NashMV3 I was reminded that this is a series reviewing the 2011-12 Phoenix Suns. Steve Nash was on that team, while Goran Dragic was not. For those that wish to make a clean break from the Nash era and have no interest in being reminded about him, feel free to skip over that part of this story. For those that are excited about Dragic, stay tuned to the Bright Side.
+
+Star-divide
+
+First, allow me to explain in more detail the numbers I looked at. Here's a key for the terms Synergy uses:
+
+    Synergy Stat Definitions
+
+
+    • PPP – Points Per Play. A "Play" is always ended with a shot attempt, turnover or getting to the free throw line. PPP is the player’s total points, excluding technical free throws, divided by their total plays.
+
+    • Rank – This is where a player or team’s PPP ranks amongst their league peers. A player must have at least 25 plays for a given category in order to qualify for a league ranking.
+
+    • %SF - Percent Shooting Foul. This is the percentage of plays where the player or team drew a shooting foul.
+
+    • %TO – Percent Turnover. This is the percentage of plays where the player or team turns the ball over.
+
+    • %Score – Percent Score. This is the percentage of plays where the player or team scores at least 1 point, including any resulting free throws.
+
+So these numbers track the raw results. They don't factor in everything, which is where the interpretation begins and where watching the games live helps.
+
+The offensive categories are Isolation, Pick-and-Roll Ball Handler, Post-Up, Pick-and-Roll Roll Man, Spot-Up, Off Screen, Hand-Off, Cut, Offensive Rebound, Transition, All Other Plays and Overall. On defense, the categories are the same minus the Cut, Offensive Rebound, Transition and All Other Plays categories as there aren't really any individual defenders assigned on these plays.
+
+With that out of the way, let's dive into the numbers.
+
+Steve Nash
+
+Everybody knows Steve Nash is a pick-and-roll point guard. That is who he is and that is what he does best. So it should come as a surprise to absolutely no one that 60.9% of Nash's possessions were pick-and-rolls. As a pick-and-roll ball-handler, Nash shot 53.6 percent from the field and 39.7 percent from 3-point range. He did turn the ball over on 23.8 percent of those plays, but he still finished at 0.92 PPP and was ranked 28th overall. Keep in mind this was only his scoring and does not factor in his assists at all, which is the best part of Nash's game.
+
+No other play type is even close, as second on the list is isolation at only 64 total plays all year. He showcased his typical selective shooting and trademark efficiency with or without a pick, as he shot 51.1 percent from the field and scored 0.89 PPP (rank 33). He can't do it as often as he used to, but the old man still has some moves.
+
+Third is transition at 60 total plays. Nash wasn't so good as a scorer on the break with a 33.3 turnover percentage and a 0.93 PPP. That was ranked 252nd overall. He still shot pretty well, but the fact that he turned it over so much and was usually the guy starting the break rather than finishing it hurt his PPP.
+
+When Hedo Turkoglu was brought in, the plan was to put the ball in his hands some to let Nash, one of the greatest shooters of all time, act more as a spot-up shooter. Based on Nash's numbers, that might have been a good idea on paper. He spotted up on 49 plays and scored 1.27 PPP, which was ranked 11th overall. However, as the 60.9% percent pick-and-roll number suggests, that's not how Nash plays. He wants the ball.
+
+Nash's sharpshooting was also evident in his 63 plays running off screens or taking hand-offs, as he converted 30 of his 51 shot attempts.
+
+Overall, Nash scored 0.92 PPP and was ranked 164th. He shot over 50 percent from the field and was just shy of 40 percent from 3-point range, but he also turned the ball over on 26.2 percent of his possessions. Nash drew a shooting foul on only 1.6 percent of his plays, though, which means he didn't get to use his 90 percent free throw accuracy too often. Too many turnovers, too few free throws and a relatively low number of 3-point makes are the reason for his fairly average overall offensive ranking.
+
+Also interesting to note is that the decline in Nash's game is pretty evident by looking at his last three seasons. His fouls drawn, field goal attempts an 3-point field goal attempts all have been decreasing while his turnovers have gone up. He's also became far more reliant on the pick-and-roll to get his shot off as his percentage of plays as the pick-and-roll ball-handler have shot up and all his other play type percentages (most notably his isolation numbers) have gone down. We all saw this happening on the court, so this shouldn't be a surprise. He's getting old (well, older).
+
+Sebastian Telfair
+
+Like the man he backed up, Sebastian Telfair was primarily a pick-and-roll point guard with 43.2 percent of his plays coming as a pick-and-roll ball-handler. He wasn't quite the master Nash was, as either a scorer or passer, but he still found a way to be effective despite low shooting percentages. Telfair used screens mainly to create space to pull-up for a jump shot, a shot he missed a ton early and hit a lot in April. That explains his low field goal percentage at least somewhat. Telfair only shot 39.2 percent from the field and 31.1 percent from beyond the arc, but he did hit 14 3-pointers and his shoot-first mentality meant he kept his turnovers relatively low at 11.8 percent. Telfair scored 0.80 PPP, which ranked him 67th overall.
+
+Isolation is second at 16 percent, and just like with the pick-and-roll, his shooting percentages are terrible but he still manages to be effective. He shot 38.8 percent, but did a good job of drawing fouls at 11.6 percent of his possessions (which is only 8 trips to the line, but still a good percentage). His PPP was 0.81 which was ranked 78th overall.
+
+Oddly enough, Telfair actually shot much better in transition (14.2 percent of his possessions), yet only scored 0.97 PPP and was ranked 239th. Telfair shot nearly 50 percent, while most other decent players shot well above 50 percent. Telfair took a lot of jumpers on the break and missed a lot of tough layups. Even though he said he loved to play fast, he was actually more effective in the half-court, at least compared to his peers.
+
+Bassy did pretty well as a spot-up shooter, which was only on 39 plays all year. He scored 1.08 PPP and was ranked 51st. However, I would beware a small sample size here as he didn't shoot a particularly high percentage and drew two shooting fouls to affect his final number.
+
+Even though most of Telfair's rankings look pretty decent, his overall performance was less than impressive at 0.85 PPP and a rank of 285. Telfair did well as a pick-an-roll ball-handler and in isolation, but both of those aren't very efficient play types and because they made up the majority of his attempts it hurts his final ranking.
+
+Another thing to keep in mind is the disparity between the way he played at the start of the season and at the end of it. It is difficult looking at his season and judging it as a whole, especially because we don't know which one is the real Bassy Telfair right now.
+
+
+Phoenix Suns Point Guard Analysis: Offense
+
+At_tiny by Omaha Sun on Aug 8, 2012 9:00 AM MST in Phoenix Suns Commentary
+Tweet
+
+    52 comments
+    Story-email Email
+    Printer Print
+
+This is either a picture of one of the biggest +/- differentials or one of the best point guard rotations in the NBA, depending on which month you're talking about.
+
+It has taken most of the offseason, but we are nearing the end of the MySynergySports.com review of the 2011-12 Phoneix Suns. Only one position group remains, and it is the position that has defined the Suns for the last eight years: point guards. First up is offense.
+Center: Offense - Defense
+
+Power Forward: Offense - Defense
+
+Small Forward: Offense - Defense
+
+Shooting Guard: Offense - Defense
+
+
+In my last installment, I included a poll asking whether I should take a look at our old (pun intended) starting point guard or our new one. Goran Dragic was the overwhelming winner of the poll, but the comments were more balanced. However, after a conversation with NashMV3 I was reminded that this is a series reviewing the 2011-12 Phoenix Suns. Steve Nash was on that team, while Goran Dragic was not. For those that wish to make a clean break from the Nash era and have no interest in being reminded about him, feel free to skip over that part of this story. For those that are excited about Dragic, stay tuned to the Bright Side.
+
+Star-divide
+
+First, allow me to explain in more detail the numbers I looked at. Here's a key for the terms Synergy uses:
+
+    Synergy Stat Definitions
+
+
+    • PPP – Points Per Play. A "Play" is always ended with a shot attempt, turnover or getting to the free throw line. PPP is the player’s total points, excluding technical free throws, divided by their total plays.
+
+    • Rank – This is where a player or team’s PPP ranks amongst their league peers. A player must have at least 25 plays for a given category in order to qualify for a league ranking.
+
+    • %SF - Percent Shooting Foul. This is the percentage of plays where the player or team drew a shooting foul.
+
+    • %TO – Percent Turnover. This is the percentage of plays where the player or team turns the ball over.
+
+    • %Score – Percent Score. This is the percentage of plays where the player or team scores at least 1 point, including any resulting free throws.
+
+So these numbers track the raw results. They don't factor in everything, which is where the interpretation begins and where watching the games live helps.
+
+The offensive categories are Isolation, Pick-and-Roll Ball Handler, Post-Up, Pick-and-Roll Roll Man, Spot-Up, Off Screen, Hand-Off, Cut, Offensive Rebound, Transition, All Other Plays and Overall. On defense, the categories are the same minus the Cut, Offensive Rebound, Transition and All Other Plays categories as there aren't really any individual defenders assigned on these plays.
+
+With that out of the way, let's dive into the numbers.
+
+Steve Nash
+
+Everybody knows Steve Nash is a pick-and-roll point guard. That is who he is and that is what he does best. So it should come as a surprise to absolutely no one that 60.9% of Nash's possessions were pick-and-rolls. As a pick-and-roll ball-handler, Nash shot 53.6 percent from the field and 39.7 percent from 3-point range. He did turn the ball over on 23.8 percent of those plays, but he still finished at 0.92 PPP and was ranked 28th overall. Keep in mind this was only his scoring and does not factor in his assists at all, which is the best part of Nash's game.
+
+No other play type is even close, as second on the list is isolation at only 64 total plays all year. He showcased his typical selective shooting and trademark efficiency with or without a pick, as he shot 51.1 percent from the field and scored 0.89 PPP (rank 33). He can't do it as often as he used to, but the old man still has some moves.
+
+Third is transition at 60 total plays. Nash wasn't so good as a scorer on the break with a 33.3 turnover percentage and a 0.93 PPP. That was ranked 252nd overall. He still shot pretty well, but the fact that he turned it over so much and was usually the guy starting the break rather than finishing it hurt his PPP.
+
+When Hedo Turkoglu was brought in, the plan was to put the ball in his hands some to let Nash, one of the greatest shooters of all time, act more as a spot-up shooter. Based on Nash's numbers, that might have been a good idea on paper. He spotted up on 49 plays and scored 1.27 PPP, which was ranked 11th overall. However, as the 60.9% percent pick-and-roll number suggests, that's not how Nash plays. He wants the ball.
+
+Nash's sharpshooting was also evident in his 63 plays running off screens or taking hand-offs, as he converted 30 of his 51 shot attempts.
+
+Overall, Nash scored 0.92 PPP and was ranked 164th. He shot over 50 percent from the field and was just shy of 40 percent from 3-point range, but he also turned the ball over on 26.2 percent of his possessions. Nash drew a shooting foul on only 1.6 percent of his plays, though, which means he didn't get to use his 90 percent free throw accuracy too often. Too many turnovers, too few free throws and a relatively low number of 3-point makes are the reason for his fairly average overall offensive ranking.
+
+Also interesting to note is that the decline in Nash's game is pretty evident by looking at his last three seasons. His fouls drawn, field goal attempts an 3-point field goal attempts all have been decreasing while his turnovers have gone up. He's also became far more reliant on the pick-and-roll to get his shot off as his percentage of plays as the pick-and-roll ball-handler have shot up and all his other play type percentages (most notably his isolation numbers) have gone down. We all saw this happening on the court, so this shouldn't be a surprise. He's getting old (well, older).
+
+Sebastian Telfair
+
+Like the man he backed up, Sebastian Telfair was primarily a pick-and-roll point guard with 43.2 percent of his plays coming as a pick-and-roll ball-handler. He wasn't quite the master Nash was, as either a scorer or passer, but he still found a way to be effective despite low shooting percentages. Telfair used screens mainly to create space to pull-up for a jump shot, a shot he missed a ton early and hit a lot in April. That explains his low field goal percentage at least somewhat. Telfair only shot 39.2 percent from the field and 31.1 percent from beyond the arc, but he did hit 14 3-pointers and his shoot-first mentality meant he kept his turnovers relatively low at 11.8 percent. Telfair scored 0.80 PPP, which ranked him 67th overall.
+
+Isolation is second at 16 percent, and just like with the pick-and-roll, his shooting percentages are terrible but he still manages to be effective. He shot 38.8 percent, but did a good job of drawing fouls at 11.6 percent of his possessions (which is only 8 trips to the line, but still a good percentage). His PPP was 0.81 which was ranked 78th overall.
+
+Oddly enough, Telfair actually shot much better in transition (14.2 percent of his possessions), yet only scored 0.97 PPP and was ranked 239th. Telfair shot nearly 50 percent, while most other decent players shot well above 50 percent. Telfair took a lot of jumpers on the break and missed a lot of tough layups. Even though he said he loved to play fast, he was actually more effective in the half-court, at least compared to his peers.
+
+Bassy did pretty well as a spot-up shooter, which was only on 39 plays all year. He scored 1.08 PPP and was ranked 51st. However, I would beware a small sample size here as he didn't shoot a particularly high percentage and drew two shooting fouls to affect his final number.
+
+Even though most of Telfair's rankings look pretty decent, his overall performance was less than impressive at 0.85 PPP and a rank of 285. Telfair did well as a pick-an-roll ball-handler and in isolation, but both of those aren't very efficient play types and because they made up the majority of his attempts it hurts his final ranking.
+
+Another thing to keep in mind is the disparity between the way he played at the start of the season and at the end of it. It is difficult looking at his season and judging it as a whole, especially because we don't know which one is the real Bassy Telfair right now.
+
+Ronnie Price
+
+Just kidding! Ronnie Price sucks on offense. 0.73 PPP, rank 418th, 37.7 field goal percentage, 23.5 %TO.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Great work Jacob
+
+Thanks for all the hard work and time you’ve put into all of these!
+
+BSotS☼
+I'm a Call of Duty Phenom, peep my Channel
+
+by Leiland Tanner on Aug 8, 2012 9:37 AM MST    
+indeed!
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 12:39 PM MST via mobile up    
+
+yes!
+
+Blogging Suns Basketball at Bright Side of the Sun
+
+by Alex Laugan on Aug 8, 2012 8:36 PM MST up    
+Cool nice article
+
+Especially the Ronnie price part
+
+"Clear eyes, full hearts, can't lose"
+
+I once ran into Memphis Grizzlies G Tony Allen in a resturant batheroom. He came out of the stall, looked me in the eyes and left the bathroom without washing his hands.....
+
+by phxpurple on Aug 8, 2012 10:04 AM MST via Android app    
+
+I thought the Ronnie Price part was by far the most spot-on
+
+Blogging Suns Basketball at Bright Side of the Sun
+
+by Alex Laugan on Aug 8, 2012 8:37 PM MST up    
+Well-written piece, Jacob.
+
+    Telfair did well as a pick-an-roll ball-handler and in isolation, but both of those aren’t very efficient play types
+
+Could you clarify? I thought the P&R was supposed to be one of the more efficient plays in the league. Do you mean it’s just that it’s not efficient in the case of Bassy since he shot so poorly?
+
+"Don't believe everything you read on the Internet." - George Washington
+
+by NashMV3 on Aug 8, 2012 10:52 AM MST     1 recs
+He means iso isnt effiecient
+
+"Clear eyes, full hearts, can't lose"
+
+I once ran into Memphis Grizzlies G Tony Allen in a resturant batheroom. He came out of the stall, looked me in the eyes and left the bathroom without washing his hands.....
+
+by phxpurple on Aug 8, 2012 11:00 AM MST via Android app up    
+The pick-and-roll is much more efficient when the PG passes to the roll man.
+
+The roll man gets dunks and layups, while the ball-handler gets a lot of jump shots off the dribble. There are some guys (like Steve Nash) that are very efficient as P&R ball-handlers, but there are a lot more that aren’t as efficient, which is why Bassy ranks so well despite not looking that great.
+
+Go Suns, Packers, Jays, and Huskers!
+
+Read my thoughts on Creighton University athletics at Creightonian.com
+
+I also edit things at Bright Side of the Sun. Check it out.
+
+My Twitter thingy: . Go ahead and follow me if you want to. Or don't.
+
+by Omaha Sun on Aug 8, 2012 11:36 AM MST up    
+Thanks for the explanation.
+
+I just hope Bassy carries the momentum he had built in the final months of last season over to this season…
+
+"Don't believe everything you read on the Internet." - George Washington
+
+by NashMV3 on Aug 8, 2012 11:40 AM MST up    
+It would be awesome to have this on our current players
+
+However thank you so much for this posts, they have been very informative. I wonder how bad are we with the projected numbers of our current core from last year.
+
+roses are red violets are blue, Michael Redd is coming for you!
+
+by Lino Canaan on Aug 8, 2012 11:34 AM MST via mobile    
+
+    For those that are excited about Dragic, stay tuned to the Bright Side.
+
+:-)
+
+Go Suns, Packers, Jays, and Huskers!
+
+Read my thoughts on Creighton University athletics at Creightonian.com
+
+I also edit things at Bright Side of the Sun. Check it out.
+
+My Twitter thingy: . Go ahead and follow me if you want to. Or don't.
+
+by Omaha Sun on Aug 8, 2012 11:38 AM MST up     1 recs
+Rec'd for picture caption
+
+Looks like it's gonna get "Gor-y" around here...
+
+by The Hammered Dragon on Aug 8, 2012 11:34 AM MST    
+Bassy definitely earned his minutes last year
+
+But I really wanna see K-Marsh get 15 plus minutes this season yet Idk how this is gonna happen with Bassy on the floor. I know contract wise Bassy could be gone next season and that would open the door but I think Marshall needs good minutes with the 2nd unit. I don’t want to waist a year with him riding the bench even though he may struggle early on. If the FO truly believes he is the future then there is no point in really running Telfair that much. I would love to include Bassy in some type of trade deadline deal.
+
+Plus I think Marshall could really be beneficial with his pass first mentality and up-tempo pace to the 2nd unit. Him and Keef are gonna be fun to watch. Hope they find some chemistry together as they did in Summer League.
+
+Nash free for threeeeeeee
+
+by NashtyNash on Aug 8, 2012 11:37 AM MST    
+Waste*
+
+Nash free for threeeeeeee
+
+by NashtyNash on Aug 8, 2012 11:37 AM MST up    
+We may see a bit of that.
+
+It appears as if the FO intervened and told Gentry to play Keef more than he probably deserved, so there’s a chance the same will happen with K-Butter. However, I think Bassy will start out the year as the back-up until Marshall can take it from him. Remember, Marshall has a long way to go. I’m not a fan of just throwing guys into the fire, particularly PGs, if they aren’t ready. The PG has so much more responsibility, not only for himself but for the rest of his teammates. I don’t want to put that pressure on him until he shows he can handle it.
+
+Also, there’s a chance we get first half Bassy instead of second half Bassy, in which case Marshall would probably get minutes earlier on.
+
+Go Suns, Packers, Jays, and Huskers!
+
+Read my thoughts on Creighton University athletics at Creightonian.com
+
+I also edit things at Bright Side of the Sun. Check it out.
+
+My Twitter thingy: . Go ahead and follow me if you want to. Or don't.
+
+by Omaha Sun on Aug 8, 2012 11:42 AM MST up    
+Agreed
+
+I think easing him into 15 minutes a night against backups would be a good way to get his experience without blowing away any confidence he builds as he progresses. I remember not long ago we had discussions about really throwing him in there as starting point. That would have been bad..
+
+Nash free for threeeeeeee
+
+by NashtyNash on Aug 8, 2012 11:45 AM MST up    
+I think the job is Bassy's for now.
+
+Agreed that if Bassy doesn’t play at the level he finished the year, he’ll be out. But I don’t expect that to happen.
+
+Initially, Marshall should be given garbage time when we are way down and ease him in that way to the NBA.
+
+A slower transition will help him understand the game better, and how to learn to play from Dragic, who will now be his mentor- and I guess possibly some from Bassy too.
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 12:44 PM MST via mobile up    
+Given the choice of Morris, Warrick, and Chilly, your pickings are pretty slim for the backup 4.
+
+"Don't believe everything you read on the Internet." - George Washington
+
+by NashMV3 on Aug 8, 2012 11:48 AM MST up    
+yeah- I didn't get that comment above either.
+
+Who else was going to play back up that was better at D than a cardboard cut-out?
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 12:46 PM MST via mobile up    
+Forgot to add Great write up!!
+
+Nash free for threeeeeeee
+
+by NashtyNash on Aug 8, 2012 11:38 AM MST    
+Please give us Dragic numbers!
+
+Please please please :)
+
+Alea iacta est!
+
+by PolishHammer on Aug 8, 2012 12:08 PM MST    
+Again,
+
+    For those that are excited about Dragic, stay tuned to the Bright Side.
+
+Go Suns, Packers, Jays, and Huskers!
+
+Read my thoughts on Creighton University athletics at Creightonian.com
+
+I also edit things at Bright Side of the Sun. Check it out.
+
+My Twitter thingy: . Go ahead and follow me if you want to. Or don't.
+
+by Omaha Sun on Aug 8, 2012 12:13 PM MST up    
+
+Dragic for MVP
+
+by smeagolheart on Aug 8, 2012 2:36 PM MST up    
+If I wanted to know more about Goran Dragic where would I go?
+
+No longer trying to light Vince Carter on fire.
+
+by Scott Howard on Aug 8, 2012 3:05 PM MST up    
+Dragic_Is_Magic
+
+Don't trade Dudley!
+
+by Beavis 25 on Aug 8, 2012 3:10 PM MST up    
+You mean the guy we traded 2 years ago?
+
+"The Knicks with the swiss cheese defense.
+...Vince Carter likes cheese." -Walt Frazier
+
+by ajcarleton on Aug 9, 2012 9:42 AM MST up    
+
+… Hadn’t heard he was back.
+
+"The Knicks with the swiss cheese defense.
+...Vince Carter likes cheese." -Walt Frazier
+
+by ajcarleton on Aug 9, 2012 9:43 AM MST up    
+I think it makes sense that you evaluated Nash.
+
+The FO’s decision to let Nash go was the key to the off-season, and to know where this team is headed, a fair assessment of what was lost was needed.
+
+It’ll be interesting to see what kind of identity this team forms with the single player who gave them an identity gone. Gentry’s in for a big challenge trying to make all these new pieces fit, and he’s already warned fans to be patient. It’s going to be rough sledding for awhile, just a question of how long.
+
+"Doubt is humble, and that is what man needs to be, considering that human history is just a litany of getting shit dead wrong." ~Bill Maher
+
+by East Bay Ray on Aug 8, 2012 12:18 PM MST    
+"Be patient" is the biggest reponsibility dodge there is.
+
+What management is really telling us is: Be patient, it takes a long time to fix the kind of damage we’ve done to this team.
+
+I'm Michael Beasley's imaginary friend.
+
+by suns68 on Aug 8, 2012 1:51 PM MST via mobile up    
+
+I don’t agree with that at all. Rebuilding is never an instantaneous endeavor and I’m not sure I understand what you’re referencing when say ‘damage’ that anyone has done to the team.
+
+BSotS☼
+I'm a Call of Duty Phenom, peep my Channel
+
+by Leiland Tanner on Aug 8, 2012 2:17 PM MST up    
+What? Let me clarify...
+
+When I talk about damage to the team, I am specifically referencing management that took a team that was a Western Conference finalist and turned it into a lottery team in a single season. And continued on course to a team that will very probably be the worst Suns team to take the floor since we were an expansion team in 1968.
+
+Featuring such brilliant moves as Hedo, Mikael Pietrus, Josh Childress, Vince Carter, Earl Barron, the Brooks/Dragic trade, need I go on?
+
+We aren’t rebuilding ANYTHING, we’re declining to the Sacramento zone and praying for a miracle from the likes of Michael Beasley and Luis Scola and Sebastian Telfair..
+
+If they make it to even the first round of the playoffs before 2016, I’ll apologize for doubting.
+
+I'm Michael Beasley's imaginary friend.
+
+by suns68 on Aug 8, 2012 5:19 PM MST via mobile up     1 recs
+When you put it this way....
+
+    I am specifically referencing management that took a team that was a Western Conference finalist and turned it into a lottery team in a single season
+
+Damn.
+
+Back to back lotto appearances at that.
+
+Ultimately, I'm glad to be a Phoenix Suns fan. It's a relationship complicated by heartbreak and disappointment, but made healthy by their strength of conviction in their work and in what is right; in small ways, through them, I gain that conviction.
+
+by rsavaj on Aug 8, 2012 6:03 PM MST up    
+Well to be fair, the Suns were not expected to even get out of the second round that year.
+
+They shattered all of our best (reasonable) expectations by winning almost every game at the end of the season, SWEEPING the Spurs (I still have wet dreams about that series), and taking the eventual champions to 6 games in the WCF.
+But with that said, letting Amare go did hurt the team (I still believe it was ultimately for the best) and signing Turkoglu, Childress and Warrick to help replace him did turn out to be horrible, franchise-crippling moves.
+
+"If you go out with a girl and they say she has a great personality, she's ugly. If they tell you a guy works hard, he can't play a lick. Same thing." -Sir Charles
+
+by round_mound_of_rebound on Aug 8, 2012 7:05 PM MST up    
+I don't think anyone expected the suns to finish higher than 6th that year.
+
+Everyone said they had “overachieved” in ’10.
+
+@suns68: I understand the sentiment you put forward- but I’d like to argue/defend a couple of points.
+1. Pietrus and Carter were part of getting rid of Hedo, and it brought us Gortat. That was actually a good move, all in all. No argument about Hedo/Chilly/Hak.
+2. Dragic needed to be traded. I supported that trade. He was declining and needed a change. We gambled on Brooks. And, if Brooks had stayed last year, he might have made that trade look better. Even if not, we had to do something that year. We were on the cusp and our 2nd unit was horrible at the hands of Dragic. He’s grown and become the player he should be, but couldn’t under Nash, IMO.
+3. We aren’t praying for a miracle from Beasley, Scola, and Telfair- though I understand what you mean. We are gambling on Beasley. But Scola is really a solid player on a great contract. Telfair is a back-up PG- not the starter. And our starter PG is pretty damn good and hopefully still getting better.
+4. I hope it isn’t possible we’ll be the very worst in franchise history. The couple of years after Barkley left were horrible. We have WAY more talent this year than during that time. If anything, we’ll be more entertaining to watch than that era and the post-Finley /pre-Amare era.
+
+So, while I understand your frustration, and agree we won’t be very good, I think these are not fully rational arguments. I’m guessing your just venting, and that’s fine. But I just want to present a counter argument.
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 7:54 PM MST via mobile up    
+
+    Another thing to keep in mind is the disparity between the way he played at the start of the season and at the end of it. It is difficult looking at his season and judging it as a whole, especially because we don’t know which one is the real Bassy Telfair right now.
+
+Yep. In school students are graded by quarter. Looking at Bassy’s season as a whole would be unfair. He sucked the first half of the season, but so did the entire team with the exception of Nash and Gortat who were responsible for those 12 wins. They were 12-19 which was below the majorities expectations. Most thought they would have been around .500 or perhaps a bit better due to the minimum amount of roster turnover from the previous year, but they were underachieving.
+
+Usually when most of the class is doing poorly that says something about the teacher. In the NBA it’s different though, but not completely. Talent makes the biggest difference, but in our case it was also kind of Gentry’s fault. He took too long to figure out the rotations and by the time he did it was too late. It was really Telfair who kick-started the turnaround and he deserves quite a bit of credit for that.
+
+Don't trade Dudley!
+
+by Beavis 25 on Aug 8, 2012 12:22 PM MST    
+
+some of that is true- but also, the guys weren’t hitting open shots in that first half. I think a lot of it was getting back into playing shape.
+
+But I agree that Bassy and Brown figuring out the game plan and identity helped a lot. Morris too.
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 12:48 PM MST via mobile up    
+Again- great post.
+
+I think it is interesting to see Nash’s decline. He just wasn’t as effective. It’ll be interesting to see what happens in LA, whether he gets more rest without the ball in his hands and therefore becomes a more effective shooter, or if his body continues it’s slow decline and he isn’t all that effective at much besides keeping the dribble alive and passing.
+
+I really hope Bassy continues improving- or at least plays this year like he finished the last one. I think all the support he got from the coaches and players really helped him. He needs to build on that as much as possible.
+
+Happy to know we’ve got a Dragic evaluation of some type coming up. Thanks again for doing all the heavy lifting here, Omaha!
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 12:52 PM MST via mobile    
+I'm not sure Nash's decline is all that relevant
+
+Nash has never been a player to be judged by what he does individually – but more by what his team does with him on court.
+
+And there Nash was still brilliant. Despite a down shooting year from all non-Gortat players, the Suns still finished 9th on offence, and with Nash on court – http://basketballvalue.com/teamplayers.php?team=PHX&year=2011-2012 – we had a top 5 offence at 109.32 – only .5 outside third.
+
+Nash just needed weapons, and I think LA will show Nash’s true worth, as LA finished BELOW us last year in oRtg – and they didn’t have Bassy as a backup!
+
+by MMotherwell on Aug 8, 2012 8:37 PM MST     2 recs
+
+if only Gentry would have played Nash 48 minutes a game, we’d a won 60+ games!
+
+Blogging Suns Basketball at Bright Side of the Sun
+
+by Alex Laugan on Aug 8, 2012 8:42 PM MST up    
+Indeed
+
+Probably closer to 70.
+
+Such a shame the drop off as so large – even when Dragic was here most of the time. Doesn’t seem like it would be THAT hard to find a backup PG.
+
+by MMotherwell on Aug 8, 2012 9:50 PM MST up    
+You are right about Nash's brilliance in making an offense run.
+
+But he wasn’t as dynamic a player, and couldnt take over games anymore. I think one of the most interesting aspects of basketball is what aging PG’s do on the court. Like Stockton, Kidd, and now Nash. They show so much brilliance in running a team, even when they aren’t as much of a scoring threat. That’s what I meant by interesting.
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 10:14 PM MST via mobile up    
+
+But think what Nash couldve done with last years team if it was ‘05 Nash. He’d have played 36 min per game and we’d probably have been a 7th seed.
+
+On the back up question- sometimes I wonder if our backups just didn’t get enough playing time behind Nash. If it is too limited I wonder if they never get the feel for the team and/or 2nd unit. Last season Nash was played less minutes than in the past 8 seasons, and Bassy caught on. Coincidence, or timing with bassy’s confidence? Or both?
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 8, 2012 10:21 PM MST via mobile up    
+
+    Probably closer to 70.
+
+Kinda hard to pull that off in a 66-game season.
+
+"Don't believe everything you read on the Internet." - George Washington
+
+by NashMV3 on Aug 8, 2012 10:22 PM MST up    
+I could do it
+
+Don't trade Dudley!
+
+by Beavis 25 on Aug 8, 2012 11:06 PM MST up    
+It's precisely why Stern put out a restraining order on you.
+
+"Don't believe everything you read on the Internet." - George Washington
+
+by NashMV3 on Aug 8, 2012 11:45 PM MST up    
+For basketball reasons.
+
+Bring on the Suns Youth Brigade!
+
+by sun-arc on Aug 9, 2012 12:03 AM MST via mobile up    
+Not if you win the title
+
+by MMotherwell on Aug 9, 2012 12:54 AM MST up    
+Also are you sure about Nash's decline?
+
+His per 36 numbers are fairly similar for the last 3 years: http://www.basketball-reference.com/players/n/nashst01.html – and his TOV% has increased, but it is roughly where ti always was.
+
+Did you adjust for a 66 game schedule?
+
+by MMotherwell on Aug 9, 2012 12:54 AM MST up    
+You are quite right, Nash isn't really declining but adjusting...
+
+to his ageing body.
+he is a step slower and probably needs shorter minutes to stay effective in the 4th.
+
+The biggest risk however is that he will fall apart eventually and sadly that’s what I predict to happen this year to both Nash and BAMF.
+
+You could argue that he doesn’t need to be the focal point of offense in the Lakers system as much as he needed to be here but I believe this season will drain him pretty fast.
+
+Still I rather see his minutes and games played declining than his PER48 stats. HE still remains a top 3 PG in this league.
+
+Feed the cutter!!!
+
+by Piotr Szczesniak on Aug 9, 2012 3:35 AM MST up    
+But you don't know if he can still play 36 minutes a game.
+
+"I don't lift weights because they are heavy, and I don't run because it makes me tired." - Charles Barkley
+
+by Suns R Us on Aug 9, 2012 4:59 AM MST up    
+hahahah
+
+" He spotted up on 49 plays and scored 1.27 PPP, which was ranked 11th overall. However, as the 60.9% percent pick-and-roll number suggests, that’s not how Nash plays. He wants the ball."
+
+yessss
+
+by aIvin adams on Aug 9, 2012 7:29 AM MST via mobile    
+ronnie price for the LULZ
+
+In Youth We Trust
+
+by raxado on Aug 9, 2012 9:13 AM MST    
+

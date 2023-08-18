@@ -1,0 +1,36 @@
+
+Binomial coefficient trick
+
+by John on July 21, 2012
+
+Binomial coefficients are simplest to work with when the arguments are non-negative integers, but more general arguments are possible and useful. Concrete Mathematics argues that the most useful case is when the top index is real and the bottom index is an integer, and sticks to that assumption, though both arguments could be real or even complex. More on that here.
+
+Later the book claims
+
+(r - k) {r \choose k} = r {r-1 \choose k}
+
+for all (real) r and gives a proof. Following the proof is an interesting discussion.
+
+    But wait a minute. We’ve claimed that the identity holds for all real r, yet the derivation we just gave holds only when r is a positive integer. … Have we been cheating?
+
+No, they have not been cheating. Both sides of the equation are polynomials in r. If two polynomials of degree d agree at d+1 points, they must agree everywhere. But these polynomials agree at an infinite number of points, namely all integers, and so they must be equal.
+
+This is a common trick when working with binomial coefficients. It lets us use combinatorial arguments to prove theorems that extend to cases where the binomial coefficients do not have a combinatorial interpretation. But it’s also more generally useful. Often an equation amounts to saying two polynomials are equal, though we may not think of the terms as polynomials. But if we recognize that they are polynomials, we need only prove equality at a finite number of points to establish equality everywhere.
+
+A similar technique is common in complex variables. You often prove an identity assuming real variables, then get the complex version for free. For example, every trig identity you saw in high school remains valid when the arguments are complex numbers. Why? Because analytic functions are, roughly speaking, polynomials of infinite degree (i.e. they have a convergent power series). If two analytic functions agree on an infinite set of values with a limit point (such as the real line) then they agree everywhere.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+DKB @ NYU 07.21.12 at 17:46
+
+    You might like Wilf’s book, generating function for all kinds of things like this.
+    http://www.math.upenn.edu/~wilf/DownldGF.html
+
+
+John 07.21.12 at 18:35
+
+    Thanks. I really like Wilf’s book.

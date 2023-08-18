@@ -1,0 +1,7 @@
+Global internet speeds creep back up in 2012, US lags behind South Korea, others
+
+By Kimber Streams on August 9, 2012 04:04 pm 0Comments
+
+The average global internet connection speed has increased slightly since the end of last year, and mobile data traffic has almost doubled over the past year according to data presented in Akamai's latest "State of the Internet" report. Despite significant increases in high-speed broadband adoption, Akamai reports that the average global internet connection speed in the first quarter of this year was 2.6Mbps — the same is was three quarters earlier — after an unusual dip to 2.3Mbps at the end of last year.
+
+Delaware has the fastest connection speed of any state in the US at 10.2Mbps, with New Hampshire and Vermont rounding out the top three. Globally, the US has risen from 13th to 12th place with an average of 6.7Mbps, but South Korea continues to rank first with a speed of 15.6Mbps, despite a drop of 1.5 percent since the end of last year. But if Google Fiber and its 1,000Mbps connection spread, the US may shoot up this list. 

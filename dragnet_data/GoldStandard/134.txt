@@ -1,0 +1,35 @@
+Nasa's 'untried' technology to land Curiosity on Mars
+Richard Hollingham
+
+    
+
+On 6 August, the largest rover ever sent to Mars should touchdown on the planet’s surface. For the landing, the mission uses a complex – and untried – “sky crane”. Our space columnist finds out how it’s going to work. (Video of landing courtesy of Nasa).
+
+
+
+
+If you’re contemplating a mission to Mars, Nasa’s Chronology of Mars Exploration makes depressing reading. For every successful Russian Mars 3 or American Viking 1, there’s a failed Beagle 2 (UK) or Mars Polar Lander (US). In fact only of the 42 missions listed, only 17 have been successful. The odds, over the past half-century, of a Mars mission succeeding are around 40%.
+
+To be fair, several early missions didn’t even make it off the launch pad and the chances of success have improved considerably over the decades. But you don’t have to go back far to see failure. Only last year, Russia’s Phobos-Grunt mission to the Martian moon Phobos failed to make it out of Earth orbit (well, it did eventually when it burned up on re-entry). Perhaps the most infamous though is Nasa’s 1999 Mars Climate Orbiter, where a mix-up between imperial and metric measurements sent the spacecraft careering into the Martian atmosphere to be destroyed.
+
+On 6 August (GMT) 2012 Nasa will try again with what is almost certainly the most ambitious and exciting Mars mission ever launched. The Mars Science Laboratory (MSL) with the Curiosity rover is designed to investigate whether the planet ever had the conditions to support life.
+
+The rover is essentially a robotic geologist, that will collect and analyse soil and rock samples as it trundles across the Martian surface. And it is big: around the size of a Mini Cooper or small SUV; at 900kg (almost a tonne), it’s heavy and when hurtling towards the planet, it’s travelling at some 5km/s (mps), roughly 18,000km/h (11,000mph).
+
+So, here’s the engineering challenge: successfully land a rapidly moving, car-sized rover on an alien planet. Remember to show your workings.
+
+“When you have a big vehicle, it’s actually very difficult to slow down,” says Dan Rasky from Nasa Ames in Silicon Valley, California. Rasky, now the director of the Emerging Commercial Space Office, helped develop the MSL heat shield that will protect the spacecraft as it enters the Martian atmosphere.
+
+“The major part of slowing down is being done with your heat shield,” says Rasky. “It’s a very tenuous atmosphere – similar to 100,000 feet [30,000 metres] here on Earth – but if you design things right, you can still slow things down enough that you can land safely.”
+
+‘Scary’ idea
+
+Nasa engineers originally planned to employ the same material that was used to land the Viking missions in 1975. But when they tested it in a special wind tunnel, equipped with high intensity heaters designed to simulate the conditions the MSL spacecraft will face, things didn’t turn out as expected.
+
+“The material didn’t work,” Rasky tells me. “The very high heat just burned through the heat shield which would have burned into the structure of the spacecraft. So you would have got to the surface in pieces.”
+
+Instead, the engineers turned to Phenolic Impregnated Carbon Ablator, or PICA for short. Phenolic is the same material that we use for saucepan handles, a plastic that burns but doesn’t melt. PICA was first used on Nasa’s Stardust mission and is also fitted to the SpaceX Dragon Capsule.
+
+“There’s part of it that gets burned away. The Phenolic burns to generate a pyrolysis gas, which turns out to be an important way that it absorbs the heat,” Rasky explains. “SpaceX intends to get multiple uses out of its heat shield, which you can do if you size it correctly.”
+
+Once the heat shield has done its job, the MSL spacecraft should have slowed to around 400m/s. With the rover still encased in the shell of the heat shield, the parachute deploys to slow the descent down even further. Parachutes have a proven track record on Mars – most recently with the Phoenix mission. But with MSL, the parachute is only the first stage in a much more complex landing process. This will be the first mission to use a ‘sky crane’.

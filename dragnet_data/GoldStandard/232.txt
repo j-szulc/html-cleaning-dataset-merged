@@ -1,0 +1,731 @@
+The Decline of Google's (and Everybody's) Ad Business 
+Posted by timothy on Tuesday July 24, @12:06PM
+from the demoralizing-and-relentless-are-only-two-of-the-words dept.
+Hugh Pickens writes "Rebecca Greenfield writes that during their recent earnings call, Google reported a 16 percent decline in Cost-per-Click (CPC), meaning the value of each advertisement clicked has gone down. This follows a 12 percent drop last quarter and 8 percent the quarter before that showing an unfortunate reality of online advertising — unlike the print world, internet ads lose value over time. The daily and stubborn reality for everybody building businesses on the strength of Web advertising is that the value of digital ads decreases every quarter, a consequence of their simultaneous ineffectiveness and efficiency, writes Michael Wolff. 'The nature of people's behavior on the Web and of how they interact with advertising, as well as the character of those ads themselves and their inability to command attention, has meant a marked decline in advertising's impact.' This isn't just Google's problem. Overall, Internet advertising has decreased in value over the years as online advertising continues its race to the bottom. 'I don't know anyone in the ad-supported Web business who isn't engaged in a relentless, demoralizing, no-exit operation to realign costs with falling per-user revenues,' adds Wolff, 'or who isn't manically inflating traffic to compensate for ever-lower per-user value.' For Google's overall business, this loss doesn't mean as much, since it has since expanded its business beyond AdWords — including its recent acquisition of Motorola. For companies that didn't just buy big hardware companies however, it's a scarier proposition. Like Facebook, for example."
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+by ravenswood1000 (543817)
+The ads were getting a bit overwhelming. Maybe this will mean less of them.
+
+   
+    by Anonymous Coward
+
+    No. According to the summary (and common sense), you'd see that their response is going to be more ads, to compensate for their less effective nature.
+       
+        by 0123456 (636235)
+
+        The summary is talking about cost per click. Putting up more ads is unlikely to encourage more people to click on them, since very few people ever click on any ad.
+            
+            by justforgetme (1814588) on Tuesday July 24, @01:06PM (#40751967) Homepage
+
+            Only if you are a logical person. The teams of accountants running big Internet outfits that are dependent on advert revenue just see this as a que to "Hey! There's a spot we haven't put an ad on!".
+
+            Honestly though, from personal experience, redefining your ad strategy to something much more minimal, elegant and integrated seems to be working atm. The Plain advertisement times on the net are over. Now it seems to be all about social recommendation. (Which is nicer IMHO)
+             
+                  
+             
+       
+        by Cute Fuzzy Bunny (2234232)
+
+        "Yes, we're going to do the same thing, only moreso"
+
+        "Insanity is defined as doing the same thing and expecting a different result"
+
+        "We lose money on every sale, but we make it up on volume"
+
+        Any others?
+
+        So far, for all of my life, at least as well as I can remember...I've never been made aware of a product due to an ad, never decided to buy something due to an ad, and never decided to buy or get behind some other product/service/person as a result of an ad. Of course, this may be because I used to make ads and
+           
+            by geoffrobinson (109879)
+
+            And then the Doritos Locos Taco was introduced...and it was if the world had changed.
+                
+                by Cute Fuzzy Bunny (2234232)
+
+                Hey theres a product where the ad definitely influenced my 7 year old. He wanted one right away. Which was a great learning experience, because as it turns out the doritos taco shells suck. They crack very easily. So my little man learned that ads lie and something that looks great on tv in an ad might just stink.
+
+                Good stuff.
+            
+            by neonKow (1239288) on Tuesday July 24, @01:30PM (#40752317) Journal
+
+            You give yourself and human brains too much credit. It doesn't take that much to get into our subconscious, and into our decision making process.
+
+            http://www.youtube.com/watch?v=ZyQjr1YL0zg [youtube.com]
+
+            Obviously, this Derren Brown video is a little dramatic and not very scientific, but the fact remains that we humans draw a lot of our "spontaneous" creativity and "rational" decisions from our surroundings. You may think that you're immune to the effect, but regardless of the amount of truth in an ad for ACME brand frozen lasagna, the fact that Morgan Freeman is telling you that it is delicious and nutritious will have an effect on your decision 3 months from now when you're deciding which brand you trust more.
+
+            And imagine how susceptible kids are.
+             
+                  
+             
+                by garett_spencley (193892)
+
+                Derren Brown is a magician. He has used an interest in psychology as a means of misdirection, to get otherwise sceptical people to, even just temporarily, buy in to the possibility that he's not using tricks. Not in an attempt to make people think that he's "really magic" or even to sell psychology as something that it's not, but as a new way to say "LOOK OVER THERE!" so that they're looking in the opposite direction of what's really going on.
+
+                I'm a hobbyist magician and Derren Brown became my hero when I wa
+                    
+                    by jpapon (1877296)
+                    Perhaps you're not directly susceptible, but someone had to choose which product to buy in the first place (so that there are reviews for you to base your decision on). Those people, the initial buyers, were influenced by advertising; there won't be many reviews for a product which wasn't advertised somewhere. Not only that, but you'll probably trust the reviews more if there are many of them, rather than just a few. A product will be more likely to have many reviews if it has more extensive advertising.
+            
+            by betterunixthanunix (980855)
+
+            I've never been made aware of a product due to an ad, never decided to buy something due to an ad, and never decided to buy or get behind some other product/service/person as a result of an ad.
+
+            Then you have never been forced to spend your money economically. Quite a bit of furniture in my home was purchased on Craigslist (I am a grad student -- money is not easy to come by), and when my family came over at the beginning of the summer and I needed a grill, I looked at advertisements to find a grill that I could afford. Advertising can be constructive and useful -- when it is not so annoying that you have no choice but to automatically block it.
+
+            The problem with advertisers is their greed. W
+    
+    by rtaylor (70602) on Tuesday July 24, @12:13PM (#40751013) Homepage
+
+    Quite the opposite.
+
+    If each ad display has less value, maintaining revenue means being more agressive with advertisments.
+     
+          
+     
+        by Animats (122034) on Tuesday July 24, @12:27PM (#40751263) Homepage
+
+        If each ad display has less value, maintaining revenue means being more agressive with advertisements.
+
+        Myspace tried that. That didn't end well. It didn't work out well for Yahoo, either.
+
+        Facebook is trying it now. That may not end well. One clear implication - Facebook stock is hugely overpriced. Based on current revenue, Facebook is worth about $7 per share. The stock price assumes a huge growth in revenue. Probably not going to happen. Even a slow decline in Facebook's revenue means the glory days are over.
+
+        Ads on search results are worth far more than ads on other media. Ads on search results are presented when someone is actively looking for something in the relevant category. Ads on content are irrelevant interruptions.
+         
+              
+         
+            
+            by Sir_Sri (199544)
+
+            Facebook stock is hugely overpriced. Based on current revenue, Facebook is worth about $7 per share. The stock price assumes a huge growth in revenue
+
+            Unless you're a real pro financial analyst you can't claim it is overpriced and then immediately point out that it's priced assuming a huge growth model. Just because ads look like they're going to do poorly doesn't mean Facebook can't still see a huge growth in revenue, they have a huge segment of the world economy that has   but mostly sketchy shitty ads, they have the option to bundle up your data and sell that, and the more users they have and the more information they have the more they can bun
+                
+                by aaarrrgggh (9205)
+
+                The fact that ad value is hard to quantify is what built the advertising business. It has been proven effective for maintaining brand awareness, but that is a dangerous game because how many brands do most people have a capacity for? My guess is around 100 to a maximum of about 300. Drowning out your competitor with more ads quickly hits diminishing returns-- you have to try different approaches. (Flugtag comes to mind.)
+
+                The other ad segment, actually measurably selling stuff, is constrained by the amoun
+                    
+                    by TheRaven64 (641858) on Tuesday July 24, @01:12PM (#40752073) Journal
+
+                    I stopped reading there. What magic do "real pro financial analysts" have which slashdotters do not have?
+
+                    They can convincingly spout bullshit.
+                     
+                          
+                     
+                    by Sir_Sri (199544)
+
+                    What magic do "real pro financial analysts" have which slashdotters do not have?
+
+                    The time to read all of facebooks public disclosure documents, and time to pay attention to all of their statements about future revenue, and have the background to actually understand all of the content, which those of us who do real work ignore.
+                
+                by Znork (31774)
+
+                There are certainly times when I want to be advertised to. Place an ad on a price comparison site in the form of your price and what you're selling and I'll certainly find that valuable. Or get your product reviewed in a magazine or by some consumer testing site. Even brand advertisements hold some interest when I'm shopping or researching things I'm in the market for.
+
+                However, advertising on   is akin to some asshat barging into a conversation I'm having with a friend in a bar and trying to sell some
+    
+    by jellomizer (103300) on Tuesday July 24, @12:38PM (#40751483)
+
+    The problem is the quality of the adds.
+
+    Internet adds will be far more useful if we could somehow trust the content in them. If Companies like Google, did the extra work to verify the authenticity of the companies and was willing to put its own brand reputation behind the quality of the people placing the adds, I think the value of the adds will go right up. Because right now there isn't any good way to tell the difference from a stable start-up/small company with a snake oil sales man.
+     
+          
+     
+        by Skal Tura (595728)
+
+        they are doing that. Quite stupidly tho. They are banning advertisements with common terms, such as BitTorrent which albeit being a trademark is also name of a common protocol. That's the term i best remember, but there was others, that's when i stopped AdWords completely.
+        In any case, adwords was worthless and over priced for us, didn't lead to enough sales to justify the cost (something like 100€  per sale cost), one of the least effective advertising we have done. The very same ads, well same content
+       
+        by Dog-Cow (21281) on Tuesday July 24, @12:58PM (#40751825)
+
+        The quality of the subtracts aren't all that great either.
+         
+              
+         
+
+by Thud457 (234763) on Tuesday July 24, @12:10PM (#40750927) Homepage Journal
+The 1% don't eat nowhere near as much Doritos as the 99%.
+Yay! They've finally clogged the pump of consumerism!
+ 
+      
+ 
+
+    by fuzzyfuzzyfungus (1223518)
+
+    It isn't so much 'clogged' as 'sucking air'...
+    
+    by slashmydots (2189826) on Tuesday July 24, @12:33PM (#40751391)
+    You're saying they ran out of customers? Ummm I don't think so. Here, let me suggest a market research project for you. Go up to anyone you know and ask them when the last time was that they clicked on a web ad. I've never had anyone say they had ever. I think 90-100% of ad clicks are fake and internet advertising is a scam. Stupid companies that don't track ROIs don't realize that it's a complete waste of money or they assign some made up number like "value gained from visitors that at least came to the website via the ad" without realizing they're clickbots. I think the entirety of the decline is companies realizing they're wasting money and it's not a 1.0  ROI.
+     
+          
+     
+        by kaiser423 (828989)
+        I click Google ads on their search engine site all the time. Of course, I'm always searching for technology to meet some new requirements, or fed up with a vendor and looking for a new one and the Google ads are consistently very relevant for that.
+
+        Now, while doing personal searches or ads on a general webpage? Largely useless.
+        
+        by mechtech256 (2617089) on Tuesday July 24, @01:11PM (#40752053)
+        As someone who was part of an online business that got 80% of first time sales from google ads, I disagree. You're also sorely mistaken if you think that successful web businesses don't track ROI and which customers are coming from where. It's incredibly easy to do even for a layman, and it's very hard to make money with an ebusiness without doing it. There are so many companies in every product category that staying alive comes down to SEO and ad management.
+         
+              
+         
+        by ceoyoyo (59147) on Tuesday July 24, @01:39PM (#40752491)
+
+        I've often thought that advertising, all advertising is hugely overvalued, even more so with the Internet bringing us quick and easy information about competing products.
+
+        SOME advertising is certainly valuable, but the returns must diminish quite quickly after you've reached a threshold where people know you exist.
+         
+              
+         
+        by rgbrenner (317308) on Tuesday July 24, @02:01PM (#40752871)
+
+        I've never had anyone say they had ever.
+
+        And I once had an argument with an uncle that insisted that there are no ads on Google at all.
+
+        In fact, 45.5% of people cannot identify ads on the google search results page:
+        http://venturefizz.com/blog/war-free-clicks-think-nobody-clicks-google-ads-think-again [venturefizz.com]
+         
+              
+         
+        
+        by Grizzley9 (1407005)
+        The only time I ever click on a Google ad is by accident when the list of items comes up after my search I click on the first item, but it hasn't quite loaded the entire page yet and I end up clicking on the ads at the top of the page instead. Lousy Google, tricking me into clicking on ads.
+
+
+by Moheeheeko (1682914) on Tuesday July 24, @12:12PM (#40750983)
+Adblock: Savior of the Internet.
+ 
+      
+ 
+
+    
+    by Sarten-X (1102295) on Tuesday July 24, @12:18PM (#40751101) Homepage
+    Adblock: Tragedy of the Commons.
+     
+          
+     
+        
+        by Black Parrot (19622) on Tuesday July 24, @12:24PM (#40751211)
+
+        Adblock: Tragedy of the Commons.
+
+        It's amusing to see the commercialized internet compared to "the commons".
+         
+              
+         
+            
+            by Sarten-X (1102295) on Tuesday July 24, @12:52PM (#40751713) Homepage
+            And why is that amusing? A content-filled and freely-accessible Internet is a resource that the whole community benefits from, and yet Adblock drives up the real cost of having that content and accessibility. Sure, there would be some content without ads, but it'd be limited to corporate-sponsored subconscious marketing endeavors, personal philanthropy, and whatever society can produce in its spare time after paying the bills.
+             
+                  
+             
+                
+                by firewrought (36952) on Tuesday July 24, @02:22PM (#40753247)
+
+                A content-filled and freely-accessible Internet is a resource that the whole community benefits from, and yet Adblock drives up the real cost of having that content and accessibility.
+
+                Just FYI, Adblock is working with advertising companies to permit non-intrusive advertising [adblockplus.org]. They don't allow very many [adblockplus.org] at this point, but the feature is implemented in the current version of the software and enabled by default; they are working to build a process for handling the exceptions list.
+
+                I say all this because the popularity of Adblock was driven not by a blanket hatred of online advertising, but by the aggressiveness with which some players tried to overtap the market for eyeballs. E.g. your fellow advertisers played a role in precipitating this because they used pop-ups, overlays, flashy animations, and other gratuitous elements to outshout you.
+
+                I'm not saying the world is a fair place or that Adblockers such as myself are perfectly in the right. What I am saying is that the web-centric approach is a great equalizer: customers have more choices in how they consume content, and content producers can't impose the same 33% ad content that cable TV does*. (It's also a great equalizer for little guy content-producers, who no longer have to own a media empire to put compelling content out there.)
+
+                (*I made up the 33% number... that's just my estimate based on watching the clock a few times, and it doesn't include ticker ads, corner overlays, or product placements. Would love to see the actual data for cable TV in various markets.)
+                 
+                      
+                 
+                
+                by betterunixthanunix (980855)
+                Adblock is not the cause of the problem, it is the reaction to the problem -- the problem of an adversarial web where advertisements try to take over your browser, where advertisers are hell-bent on tracking your browsing habits, where your browser can freeze, crash, or otherwise be rendered unusable by some poorly coded advertisement, and where trying to read an article become difficult because of an advertisement that covers the text.
+
+                Advertising would have been a fine model for funding websites, if it
+                    
+                    by Shompol (1690084)
+
+                    on a fishing website, post and ad for a nice fishing pole.
+
+                    How about post impartial specs, tests, images and prices so I can choose the best fishing pole? What an ad does is gives higher visibility to an overpriced middle of the pack, throws off judgement of some buyers and makes them pay a fat premium for a mediocre product, compensating manufacturer the price of advertising, and indirectly supporting the fishing pole website.
+
+                    If all advertising dies tomorrow, the world will be a better place.
+            
+            by Dog-Cow (21281)
+
+            The Internet, in the form you and I are using, has always been commercialized. I remember when the Internet Yellow Pages really did have most of the best sites on the 'net. Those days are gone and not coming back.
+        
+        by betterunixthanunix (980855) on Tuesday July 24, @02:19PM (#40753183)
+        Adblock and related software is a natural reaction to the invasive, annoying advertising that became the norm on the web. Nobody wants to have their browsing habits tracked everywhere, nobody wants to have the article they are reading suddenly vanish and get replaced with an advertisement, nobody wants their CPU time wasted on animating an ad. Advertising on the web should have mimicked advertising on paper -- passive, less obnoxious, and easily ignored (at least conciously) -- and the revenue model should have mimicked paper as well. "Get paid for clicks" is the problem here; that's how we got into this horrible situation, and that's why ABP is basically a must for anyone who uses a browser.
+
+        There is no tragedy of the commons here, there are just greedy idiots, shortsited website operators, and an Internet that has turned into an adversarial game.
+         
+              
+         
+        by DragonWriter (970822)
+
+            Adblock: Tragedy of the Commons.
+
+        Are you referring to the decision to use AdBlock being one which is encouraged because of a Tragedy of the Commons situation in which the "players" are consumers of internet content, or are you referring to the production of ad blocking tools being a result of the escalation of intrusive advertising which results from a Tragedy of the Commons in which ad-supported internet sites are the players?
+
+        Because, you know, both are true.
+   
+    by SQLGuru (980662)
+
+    Adblock is great until all of the sites you enjoy for free all go under because their ad revenue couldn't sustain the site. I don't use Adblock.....I just don't visit sites who are too aggressive with ads (i.e. pop-ups) or consistently have ads that I disagree with.
+        
+        by 0123456 (636235) on Tuesday July 24, @12:37PM (#40751453)
+
+        There were plenty of free sites on the Internet in the 90s when few people ran ads. Many of the were better than modern sites because they didn't have the desperate need to bring in more users to make more money from those ads.
+
+        And that was when a hosting account cost far more for far less than you get for the same price today. Of course every page didn't include a megabyte of Javascript crap to 'Web 2.0'-ise it.
+         
+              
+         
+            
+            by CanHasDIY (1672858)
+            Have to agree with this; I just set up a website for my in-laws business via domain.com (always use coupon code HAK5 - 15% off! Thanks, Darren!), and the total cost for the year is less than $100. Granted, it's fairly basic, but for that price I get unlimited space, bandwidth, subdomains, shit-tons of emails, some handy built-ins like Drupal and PHPbb...
+
+            Maybe it's because I'm fairly new to Web 2.0, but I just don't understand what's so expensive about running a website...
+        
+        by daem0n1x (748565) on Tuesday July 24, @12:48PM (#40751653)
+
+        Adblock is great until all of the sites you enjoy for free all go under because their ad revenue couldn't sustain the site. I don't use Adblock.....I just don't visit sites who are too aggressive with ads (i.e. pop-ups) or consistently have ads that I disagree with.
+
+        I fucking hate advertisement, and I don't have money to buy what the advertisements advertise, anyway, so even if I loved it, it wouldn't make any difference. I find advertisement profoundly annoying. So I use Adblock.
+
+        As a devote believer in the free market, I'm only concerned about my own selfish interest of not seeing any ads when I surf the Web. And if everybody is as selfish as me, everything will be fine. Oh, wait...
+
+        So, you're saying a free market is not the ultimate and final solution for something? Oh, why, but why do you hate freedom? Why do you hate America?
+         
+              
+         
+            
+            by 0123456 (636235)
+
+            So, you're saying a free market is not the ultimate and final solution for something?
+            Oh, why, but why do you hate freedom? Why do you hate America?
+
+            Sites that people won't willingly pay for, be it directly or by clicking on ads, will go bust. Since people don't care enough about those sites to pay for them, no-one will really miss them.
+        
+        by datavirtue (1104259)
+
+        People get REALLY good at ignoring ads. I can click "Ignore this ad" or "Skip this ad" and never have the slightest clue what it was about. I guarantee that people have trained themselves to tune out FB ads and don't even realize they are there anymore. I make money from ads and have not seen a decline.
+            
+            by cpu6502 (1960974) on Tuesday July 24, @12:44PM (#40751571)
+
+            I don't have Adblock on my computer. I have adblock in my head, and mentally don't see them (unless it's some girl with naked breasts). Ads on radio and television are more effective than web, since I can't skip those and am forced to listen.
+
+            I've noticed some websites are adopting the TV/radio model but forcing you to watch a 15 second ad before reaching the actual website. My concern is that websites might start charging money to view them (see Hulu and the shows they hide behind a $7 paywall). I'd rather have free ad-based internet than a pay-to-view internet.
+             
+                  
+             
+            by Sir_Sri (199544)
+
+            The thing with   ads is that for a long time, around here at least, all of their ads were super sketchy, so you wouldn't want to click on them anyway. But times change and   is a big serious publicly traded company now with boring companies advertising there. I still might not click on a Car ad on   (or a Coke ad) because why would you ever need to click on those ads? I'm not going to buy a car because I saw it advertised on  . But those ads serve to maintain a brand image an
+
+by rodrigoandrade (713371)
+
+I hate ads!!!!
+
+At least now the talented engineers at Google et al. will use their bright minds to actually create the next great innovation, instead of creating the next obnoxious ad that circumvents AdBlock, the next stupid ad-ridden Skinner... er, social game, etc.
+
+   
+    by jellomizer (103300)
+
+    And how is Google going to make money to pay for those next great innovations?
+        
+        by daem0n1x (748565)
+
+        And how is Google going to make money to pay for those next great innovations?
+
+        Really not our concern, is it? Don't you believe in free initiative?
+
+
+by Chas (5144)
+
+We could only be so lucky.
+If it could take Twitter with it to the grave, so much the better!
+
+    by fuzzyfuzzyfungus (1223518) on Tuesday July 24, @12:25PM (#40751221) Journal
+
+    You should be so lucky... If Facebook stops having luck with the ad sales, they can just set up a new HQ somewhere in Langley and provide bespoke social-mapping solutions to a shadowy array of government and corporate customers(assuming that they don't already).
+     
+          
+     
+       
+        by Nethemas the Great (909900)
+        You're assuming they do not do this already? We already know that Facebook will pimp their customers to anyone. Since when does "anyone" not include intrusive governments?
+    
+    by kiwimate (458274) on Tuesday July 24, @01:01PM (#40751875) Journal
+
+    We could only be so lucky.
+    If it could take Twitter with it to the grave, so much the better!
+
+    There's a big difference between ads and Facebook/Twitter.
+
+    Ads are prevalent throughout the web. You are likely to come across them no matter what your browsing habits (unless you use AdBlock).
+
+    Facebook and Twitter require you to visit them and/or sign up. I see no impact to my life from Twitter because I don't use it. I do see an impact from Facebook because I choose to use it and it is a valuable tool for keeping in touch with friends and family all around the world.
+
+    I've never understood why so many people on Slashdot complain about Facebook. Nobody is forced to use it. Plenty of people choose to ignore it and their lives go on. Similarly, plenty of people choose to use it, aware of potential pitfalls, and their lives do not explode in flames.
+
+    If you dislike it for whatever reason, then don't use it. If you don't sign up for a Facebook account, Zuckerberg is not going to send proselytes to your door to pass on the good word. If you do sign up for a Facebook account, don't give them your cell phone number and address.
+
+    Google, on the other hand, collects all manner of data about you from the myriad of services you use, even if you don't sign up for an account.
+
+    I expect several replies about Facebook's abuse of privacy, poor security, etc. Don't sign up.
+    
+          
+     
+
+
+by Hatta (162192) on Tuesday July 24, @12:15PM (#40751041) Journal
+
+The internet had plenty of good content before it was ad supported, and it will have plenty of good content afterwards. Come to think of it, the content was actually better before it was add supported.
+ 
+      
+ 
+
+    
+    by rgbrenner (317308)
+
+    http://en.wikipedia.org/wiki/Web_banner [wikipedia.org]
+
+    The pioneer of online advertising was Prodigy, a company owned by IBM and Sears at the time. Prodigy used online advertising first to promote Sears products in the 1980s, and then other advertisers, including AOL, one of Prodigy's direct competitors.
+
+    So when you say "the content was actually better before it was add [sic] supported," you're talking about the 1970's?
+
+    Yes.. lots of very interesting content on the internet in the 70's. Much better than today [/sarcasm]
+    
+    by oakgrove (845019)
+    Is the "good content" that existed before ads actually gone though? I realize that content evolves over time but I would presume that the ad supported stuff is additive rather than a replacement for what is/was already there. I'm curious though, how would something like Google search be supported if not through ads? Micro-payments? Subscription?
+        
+        by Hatta (162192)
+
+        I'm afraid I don't have quotes from USENET in 1992 at hand. I propose the content creators make a living doing what they are experts at. People who are good at things like talking about those things. That's better content than almost anything you'll find on the web today.
+
+        Even today, the best content you'll find is buried on niche web fora. That's where you find people who are passionate talking about their passion. Ad supported, but not because the content creators get paid. Ads are just there to pay
+           
+            by 0123456 (636235)
+
+            Even today, the best content you'll find is buried on niche web fora.
+
+            Most of the experts I know have given up on the web and gone back to email lists; a few dozen messages per day with high signal to noise ratio are much easier to handle than a web forum and the use of email and difficulty of finding the lists keeps out the riff-raff.
+        
+        by 0123456 (636235)
+
+        My web sites cost a total of $6 a month, if I remember correctly; certainly it's $10 a month. Technically they come with 'unlimited bandwidth', but practically they would slow to a crawl with too many users.
+
+        Back in the early 90s, I was paying $25 a month and the server shared bandwidth over a 56k modem. A couple of years later they upgraded to a direct link comparable to a slow home DSL line today.
+
+        So long as you're not hosting video or other big files or bloating every web page with megabytes of Javascript,
+
+
+by Hentes (2461350)
+
+The money in internet advertising grows slower than the number of internet ads, making them cheaper.
+
+
+by DNS-and-BIND (461968)
+
+Google's unobtrusive text ads are out. Solution: really big ads that get in your face before you can get to the content [evanmarckatz.com]. These sorts of ads have become much more popular recently and I can only conclude it's because they work.
+
+Also growing in popularity is "answer this marketing survey before you get more than one paragraph of the content". It's only one question now, but as it grows in popularity there will be more questions. Ultimately you'll have to fill out an entire multi-page survey before being
+
+   
+    by 0123456 (636235)
+
+    Google's unobtrusive text ads are out. Solution: really big ads that get in your face before you can get to the content [evanmarckatz.com]. These sorts of ads have become much more popular recently and I can only conclude it's because they work.
+
+    I would conclude it's because they're desperate. When ads fail, advertisers don't give up and find a real job, they make them bigger and more obnoxious.
+
+    No-one wants to be plagued with ads when they're looking for information. I think I've intentionally clicked on about three ads in the entire time I've been using the Internet.
+    
+    by epine (68316)
+
+        These sorts of ads have become much more popular recently and I can only conclude it's because they work.
+
+    There's a scene in Schindler's List where Amon Goeth sizes up Schindler's strange request remarking, "Whatever you do, there's always money in it, but this one I can't figure out." For some reason, I didn't spot this one in the usual movie quote compilations. Probably because the point is sharp but the language is dull.
+
+    I wouldn't jump to conclusions too quickly. Fortunately for his Jews, Schindler was
+   
+    by daem0n1x (748565)
+
+    Google's unobtrusive text ads are out. Solution: really big ads that get in your face before you can get to the content [evanmarckatz.com]. These sorts of ads have become much more popular recently and I can only conclude it's because they work.
+
+    Also growing in popularity is "answer this marketing survey before you get more than one paragraph of the content". It's only one question now, but as it grows in popularity there will be more questions. Ultimately you'll have to fill out an entire multi-page survey before being allowed to access content. This will be linked to your real name and Facebook account, of course.
+
+    Yes, because annoying the fuck out of your users can't possibly go wrong...
+        
+        by Shikaku (1129753)
+
+        Yes they are.
+            
+            by dgatwood (11270)
+
+                What is the user doing on your site? Does he need no other tool for completing the task?
+
+            If the user does need other tools, odds are good that the buying decision will be guided primarily by experts on the site, not by ads on the site. After all, if the user is serious enough to be reading a site on a particular subject, then the user probably cares about choosing the right products and is unlikely to be swayed significantly by a pretty advertisement that says "Brand X gear is awesome" right above an actual
+
+by Covalent (1001277) on Tuesday July 24, @12:18PM (#40751089)
+...who clicks on ads? The only time I click them is by mistake and then in frustration I close the new window, usually before it loads. My value per click is $0.
+ 
+      
+ 
+
+    by datavirtue (1104259)
+
+    Some companies are wholly supported by this accidental clicking. They make good bank too, sometimes tens of thousands per month. Its not hard if don't mind being an ad spamming douche that adds no value to the internet.
+        
+        by datavirtue (1104259)
+
+        I like making money from ads but the thought of spamming, and deceiving people turns my stomach.
+
+
+by Ryanrule (1657199)
+
+Fuck them all. Slime of the earth, people that sell and run this stuff.
+
+       
+        by datavirtue (1104259)
+
+        Slashdot ad hosting is done right. There are hardly any ads and they are usually relevant.
+
+
+by oakgrove (845019)
+I realize we've all been lulled into believing that inflation is somehow inevitable but in a correctly functioning capitalist society, prices for just about everything should actually go down as production becomes ever more efficient.
+
+    
+    by SuricouRaven (1897204)
+    But if prices went down for everything, that means the cost of living would also go down, which means that employees would be willing to work for less, so wages would fall, so the real value of goods remains constant.
+
+    Markets are really very complex things - everything interconnects in intricate and not-always-obvious ways.
+        
+        by MozeeToby (1163751)
+
+        Don't forget, if the price of everything will be cheaper tomorrow than it is today, I'm better off to hold off buying anything until the last possible moment. Deflation harms the economy by slowing consumer spending. Granted, don't see many people in the US capable of thinking that long term, but that is the prevailing theory.
+        
+        by cpu6502 (1960974)
+
+        >>>But if prices went down for everything, that means the cost of living would also go down, which means that employees would be willing to work for less, so wages would fall, so the real value of goods remains constant.
+
+        It worked just fine in the U.S. 1800s when inflation was essentially zero. There's no reason we can't fix the money supply to ~3 trillion circulating dollars and have another century of zero inflation.
+        
+        by ceoyoyo (59147)
+
+        "which means that employees would be willing to work for less"
+
+        That's a big, unjustified assumption. The historical record suggests that it's untrue. As things become cheaper we expect our standard of living to increase and, over the long term, it definitely has.
+    
+    by Black Parrot (19622)
+
+    I realize we've all been lulled into believing that inflation is somehow inevitable but in a correctly functioning capitalist society, prices for just about everything should actually go down as production becomes ever more efficient.
+
+    Internet ads: infinite supply, zero demand. Small wonder they aren't paying off.
+    
+    by datavirtue (1104259)
+
+    Prices can decline in the face of inflation. Inflation doesn't mean you are really paying more. You need to study economics.
+        
+        by datavirtue (1104259)
+
+        Right now we have banks sitting on cash (the Fed is paying them interest on reserves!), and they do not want to lend do to the issues you have cited. The House wants the Fed to act and Fed wants the House to act. The Fed's weapons are weak and the House IS weak. Add to this new taxes and regulation and We Have A Problem. Are they getting taxed on the income from the interest the Fed is paying the banks right now? IDK, does anyone else know anything more about this?
+
+
+by samazon (2601193)
+They say video games and tv desensitize you to violence and sex? I've been so inundated with advertising that I don't even care anymore. I literally do not pay attention to anything that scrolls, flashes, or pops up. My attention can no longer be grabbed. If I want your ads (read: Newegg and Buddies Pro Shop) I'll sign up for an email newsletter. Otherwise, you can forget any ad making an impression on me.
+
+
+by pubwvj (1045960)
+
+The advertisers scream and rant and rave. Pretty soon we filter them out both with automatic filtering done at the software level and and mental filtering done at the wetware level.
+
+If I want something I go looking for it. Advertising doesn't make me buy. Thus advertising is a waste of money. It just jacks up the costs. In tight markets that extra cost makes or breaks.
+
+    
+    by Attila Dimedici (1036002)
+    I know someone who is heavily involved in business management (involved in management consultant at the Vice President and above level of companies like Nissan USA, IBM, GMAC, etc) who has repeatedly said that good advertising/marketing is providing information to your potential customers. He would argue that the only time a business really wants to advertise/market to someone is when they are looking for something that business sells.
+    Really the problem with advertising has become that businesses no longe
+    
+    by edremy (36408)
+    You think that, but you're not correct. An awful lot of advertising has nothing to do with selling X to you right now. It's to let you know that X is available, and from company Y. In a year or two you might find a case where you need X, and your subconscious will remember that you can get it from Y. Most people only consider 2-3 options when buying something, so getting on that list is critical.
+        
+        by 0123456 (636235)
+
+        Well, that's what advertisers tell you when they're trying to convince you to buy ads with no objective evidence that they work.
+
+
+by slashmydots (2189826)
+There's a rule in business. If you make money off of primarily 1 main product and everyone universally hates your product, you're eventually going to go bankrupt. Welcome to advertising!
+
+by Hugh Pickens writes (1984118)
+
+Could you please correct the submitter's link.
+
+It should be:
+
+http://honorponcacity.com/ [honorponcacity.com]
+
+The link is correct in my original submission.
+
+Best Regards,
+
+Hugh Pickens
+
+by Bill, Shooter of Bul (629286) on Tuesday July 24, @12:26PM (#40751237) Journal
+The company that has been hemmoraging money since 2004 will save Google from declining ad revenues?
+ 
+      
+ 
+
+by JDG1980 (2438906) on Tuesday July 24, @12:28PM (#40751303)
+
+This follows a 12 percent drop last quarter and 8 percent the quarter before that showing an unfortunate reality of online advertising â" unlike the print world, internet ads lose value over time.
+
+Or, alternatively, print ads were never really all that successful, but unlike on the Web, there was never any way to measure their efficacy with much precision.
+ 
+      
+ 
+
+    
+    by tthomas48 (180798)
+
+    And in the same spirit. Companies really like seeing 30 second movies about themselves on TV regardless of return on investment. Internet Ads are nowhere near as fun as TV ads or magazine ads you can put in a frame.
+            
+            by aaarrrgggh (9205)
+
+            Pretty much every merchant loses money on groupons. They hope to build a following, but that really isn't what grouponners are after-- they just want the next deal.
+
+by Anonymous Coward on Tuesday July 24, @12:29PM (#40751325)
+
+I work in Google ads and the cost-per-click fretting miss the mark for lots of reasons.
+
+- First we are talking year-over-year drop so the numbers are nowhere close to what the summary implies. In fact, they went up last quarter if I recall correctly.
+- Second we believe lowering cost-per-click is a *good* thing as long as other metrics (such as revenue and clickthrough rate) stay neutral. It means advertisers are getting their clicks for less cost, which makes them happier, and more likely to dump more money in. This is exactly what has happened recently. It is not because advertisers are lowering bids - it is because of (intentional) changes on our end mostly.
+- There is only one legitimate actual concern here: advertisers pay less for mobile ads, and mobile is becoming more and more important. But that has nothing to do with less interest in ads in general.
+ 
+      
+ 
+
+by DOsinga (134115)
+Look at this graph: http://www.rimmkaufman.com/content/Goog-Growth-Q1-2012.png [rimmkaufman.com] CPC go up and go down. But not like Wolff says, always going down. They went sharply down around 2008, then went up for a bit, now go down. I blame economic contraction in Europe which account for half of Google's traffic.
+
+by Karlt1 (231423) on Tuesday July 24, @12:44PM (#40751579)
+
+"'I don't know anyone in the ad-supported Web business who isn't engaged in a relentless, demoralizing, no-exit operation to realign costs with falling per-user revenues,' â" including its recent acquisition of Motorola,"
+
+Because being a commodity Android phone manufacturer definitely protects you from a relentless, demoralizing no-exit operations to realign costs with falling per-user revenues.....
+
+http://www.asymco.com/2011/05/16/iphone-share-of-phone-market-in-q1/ [asymco.com]
+ 
+      
+ 
+
+by davidwr (791652)
+
+Time was, Internet ads were a novelty. I've since learned to "see past them," pretty much ignoring them.
+
+It's to the point now that if your ad is so in your face that it gets my attention, I view it as intrusive and it has a NEGATIVE impact instead of the positive impact you wanted it to have.
+
+I learned the same trick with newspaper, billboard, TV, and radio ads as a child. I expect most others did as well. This might explain why the effectiveness of those ads hasn't changed recently.
+
+This comment sponsored
+
+by vlm (69642) on Tuesday July 24, @12:52PM (#40751709)
+
+The only successful targeted internet ad company that I know of is Amazon.
+
+I've bought hundreds (thousands?) of dollars of stuff based on recommended items. I forget exactly how they phrase it but its something like "people who bought your Charlie Stross book "Rule 34" also bought the following books" and they list Accelerando and The Apocalypse Codex and so on. Ditto about a zillion other authors and non-book products.
+
+I've never intentionally clicked on or purchased anything from any other targeted ad, and have been using ad blockers since weeks after that tech was invented.
+
+The scary part is thinking about what really finely focused /. ads would push on us /.ers. Hmm. Instant Hot Grits, Debian install disks, buy this package at a discount: one cup now with pix of two girls, lots of rick astley / rickroll music...
+ 
+      
+ 
+
+    
+    by steelfood (895457)
+
+    Because Amazon is a retailer, it's not an ad, it's a recommendation. It's like the salesperson at Best Buy or some other brick and mortar recommending that you buy the latest 802.11n router with your brand spanking new laptop.
+
+    To be an ad, Amazon would have to be the company responsible for the product or service that it is recommending. E.g. if you saw stuff on Amazon's product pages about their S3 rates, that'd be an ad.
+
+by tekrat (242117) on Tuesday July 24, @02:14PM (#40753087) Homepage Journal
+
+People that *used* to spend their time on various internet websites (and maybe used to click on ads), now spend *all* their time on  .
+
+Facebook has supplanted the rest of the commercial internet. People that hung out on Reddit or 4Chan or Digg or iWon.com now just spend all their time playing FarmWars on  .
+
+Online advertising *depended* upon "dummies". People that actually would try to punch the money. People that believed you could get a Laptop for one dollar. People that were interested in a local housewife's anti-aging/diet formula that WORKS!!! and the big companies don't want anyone to know about.
+
+Yes. Dummies. And now those dummies are on Facebook, sharing George Takei's silly pictures, posting lolcats, and piss-poor photoshops as "real images". That's why internet revenues are down -- those dummies are too busy with their lolcats to punch the monkey.
+ 
+      
+ 
+
+by Eravnrekaree (467752) on Tuesday July 24, @04:24PM (#40755307)
+
+A mistake from the beginning on the internet was to assume users had to click on ads for them to have value. Few other mediums place such a requirement on themselves, including print, billbaords, radio ads, etc. The whole point is to plant awareness of a brand in the mind of trhe consumer, so that they may decide to try the product. It is the same online, if we focus on the ads making a visual impression and creating a memory, they can be seen as effective in creating awareness, and in fact, millions can see an online ad, which makes it something that is as visible as a print ad. Many consumers will see an ad and make a note on it but as they are busy doing something else may not click on the link. its unreasonable to expect users to click on a link and also not necessary.
+
+Online ads are just an online billboard, its stupid to try to obsess over link hits, something that isnt even a possibility anyway with other ad mediums .
+It seems like the online ad business decided to count link hits, becuse "we could", but it was actually a bad idea, few other ads mediums measure their success on whether a user will make a split second decision but rather on whether they buy the product in coming weeks, even months.
+ 
+      
+ 
+
+
+by Crypto Gnome (651401) on Tuesday July 24, @09:32PM (#40759547) Homepage Journal
+Anyone with more than half a brain can do a quick search for "declining advertising revenues" and IMMEDIATELY discover this decline in revenues is NOT RESTRICTED TO THE INTERNET.
+
+Also this declining in advertising revenus has been going on for years.
+
+http://stateofthemedia.org/2012/newspapers-building-digital-revenues-proves-painfully-slow/newspapers-by-the-numbers/ [stateofthemedia.org]
+
+Rapidly declining advertising revenues continue to be the industry’s core problem. The losses in 2011 were slightly worse than those of 2010 – 7.3% compared to 6.3%. Ad revenues are now less than half what they were in 2006.
+
+http://www.nytimes.com/2012/02/03/business/media/quarterly-profit-falls-12-2-at-times-co.html [nytimes.com]
+
+The New York Times Company reported on Thursday that its fourth-quarter profit declined 12.2 percent as rising subscription and digital advertising revenue at its largest newspapers could not offset the continued drop-off in print advertising.
+
+http://online.wsj.com/article/BT-CO-20120703-702076.html [wsj.com]
+
+Mediaset SpA (MS.MI), Italy's largest private broadcaster, expects advertising revenue in its home market to decline in the first half of 2012
+
+http://www.guardian.co.uk/business/2011/may/08/itv-advertising-sales-drop [guardian.co.uk]
+
+ITV expected to report first decline in ad revenues for 18 months
+
+http://www.exa.com.au/articles/autumn_09/ [exa.com.au]
+
+Meanwhile, free to air broadcasters have experienced multi-million dollar dives in profits and are writing their assets down as worthless. Channel 7, 9 and 10 are crippled by debt and funding problems in the face of declining advertising revenues and changing trends. Likewise, print media is experiencing huge decreases in both readership and advertising revenue.
+
+http://www.filmneweurope.com/news/romania/declining-ad-revenues-at-romanian-tv [filmneweurope.com]
+
+The deficit of the Romanian's public TV, SRTV (www.tvr.ro), decreased by 0.71% in 2011, to €36.7 million Euro, while revenue from advertising was 7.4 million euro in 2011, down 24.06% from 2010.
+
+http://www.abc.net.au/news/2012-02-15/sbs-admits-financial-trouble/3830502 [abc.net.au]
+
+SBS battling falling ad revenue
+
+http://multimedia.journalism.berkeley.edu/tutorials/digital-transform/print-editions-decline/ [berkeley.edu]
+
+A steady decline in print circulation and a precipitous drop in advertising revenue in 2008 and 2009, especially classified advertising, have taken their toll on newspapers and newspaper chains.
+ 
+      
+ 
+
+

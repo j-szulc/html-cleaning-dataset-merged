@@ -1,0 +1,67 @@
+September 20, 2012
+Mother dough
+
+Art is our chief means of breaking bread with the dead.
+                            –W. H. Auden
+
+As a teacher and old seasoned gamer, I enjoy playing a simple 2-stage exercise with my students. Here’s how it works. A student describes a game he’s played recently, and I have one minute to identify the game. I can ask as many questions as I can squeeze into 60 seconds, but he is limited to one-word answers. Example:
+
+Q: Is it a shooter?
+A: No.
+Q: New or old?
+A: Old.
+Q: After 1990?
+A: Yes.
+Q: SNES game?
+A: Yes.
+Q. RPG?
+A: Yes.
+Q. Tactical?
+A: No.
+Q: Square Enix?
+A: …Sorta.
+Q: Final Fantasy series?
+A: No.
+Q: Dragon Quest series?
+A: No.
+Q: Chrono Trigger?
+A: Win!
+
+It’s easy if we avoid obscure titles. But here’s where it gets interesting (pedagogically, at least). After I’ve identified the game, the students must collectively pull the game up by its roots. In other words, they must trace the game’s influences (e.g. Chrono Trigger’s active battle system derives from Final Fantasy IV, which used a fixed character class system derived from earlier games like Wizardry, etc.) as far back as they can. As you might expect, most of our electronic trails converge at games like Colossal Cave Adventure, Ultima, and Space Invaders. And yes, Dungeons & Dragons is Kevin Bacon.
+
+The real goal of this exercise is to examine the game design process as an ongoing series of evolutionary steps emanating from pillar games that establish mechanical standards or paradigms. If we understand a game’s roots, we better understand how and why that game functions as it does. Or as my uncle advised me many years ago, you haven’t really met a girl until you’ve met her parents.
+
+Historians have typically relied on a branching tree metaphor to illustrate this evolution, but (stick with me here) I think bread-making is a more apt metaphor. Let me explain.
+
+Artisan bread-makers use a starter dough - a yeast-bacteria culture often called the “Mother dough” - to initiate the crucial fermentation process before kneading and baking, giving the bread a distinctively complex flavor. The Boudin Bakery in San Francisco, for example, has drawn from the same Mother dough culture for over 150 years. So when you bite into their sourdough bread, you are truly eating from the same batch of Mother dough brewed by the Boudin family in 1849.
+
+Different types of Mother dough produce very different kinds of bread. I like this analogy because it suggests the game design process is less about branching from a fixed trunk and more about producing recipes and variations of recipes from identifiable organic cultures. You can taste the presence of the Mother dough in every variation of bread made from it. 
+
+Donkey Kong is platformer mother dough. Defender is side-scrolling shooter mother dough. One way of understanding later games - Super Mario Bros. and Mega Man, for example - is to see them mixing both recipes, but in different ratios. Both rely heavily on DK, but MM contains a cup of Defender, and SMB only a tablespoon.
+
+I’ll try not to over-extend this food metaphor, but I hope you see what I’m getting at. To fully comprehend modern games like Trine (2D multiplayer action platform puzzler) or Spelunky (2D roguelike dungeon-crawling platformer), we must see them as complex concoctions with many flavoring agents (music, art style, etc.) drawing from identifiable mechanical cores. If you can taste or feel Thief while playing Mark of the Ninja, you are communing with Executive Chef/Lead Designer Nels Anderson on an essential level. It’s in there and your connection to it is more than intellectual.
+
+Somewhere in the ancient, mystic trinity
+You get three as a magic number.
+                -Three is a Magic Number, Schoolhouse Rock
+
+I’ve been thinking about bread and games and threes lately. Tending to an ill family member (on the mend, happily) left me with hours of time to kill in the hospital, so I played a lot of handheld and iOS games. If you spend any time perusing the App Store library, you’ll quickly discover a cavalcade of Match–3 games that draw their inspiration from Bejeweled. There are dozens of them.
+
+One way of seeing these games is to dismiss them as derivative cash-ins aimed at the casual crowd. Plenty of Bejeweled clones deserve such contempt, especially those that do nothing more than re-skin the original. But what exactly is the original? Is Bejeweled Mother dough?
+
+The answer is no, not even close. Matching tile games predate Bejeweled (2001) by nearly 20 years, including games like Panel de Pon (1995), Dr. Mario (1990), and Tetris (1985). And those are just the electronic games. If we got serious about this, we’d probably wind up back at Tic Tac Toe.1
+
+Mother dough or not, I’m fascinated by Bejeweled as a recipe for designers to fuse or blend with other genres. If you’re interested in the iterative process of conceptual design, the games below are mini-case studies for how to successfully commingle genres, leveraging the familiar while producing something new and fun to play.
+Puzzle Quest - Tile-matching strategy RPG (2007) 
+
+Might & Magic: Clash of Heroes - Tile-matching adventure RPG (2009)
+
+WarGames WOPR - Tile-matching tactical war sim (2012) 
+
+Puzzle Craft - Tile-matching city-building sim (2012) 
+
+10000000 - Tile matching dungeon crawler (2012) 
+
+None of these games pioneer or revolutionize game design. At a glance, they all look the same; but they aren't. Each cleverly repurposes stalwart genres, forging something new enough and different enough to be worth playing. If games are like recipes handed down and modified over the years, these games let you smell the bread baking.
+
+1. If you’re curious about the history of matching tile games, Jesper Juul produced one in 2007, and it’s typical of his work: carefully researched and comprehensive. I recommend it.

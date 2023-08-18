@@ -1,0 +1,657 @@
+Ask Slashdot  Value of Website Design Tools vs. Hand Coding?
+Posted by timothy on Tuesday July 24, @10 23AM
+from the pre-built-motherboards-are-for-wimps dept.
+An anonymous reader writes "I am pretty computer literate, and have a son who is extremely computer savvy. He taught himself C#, Javascript, built his own desktop with his Christmas and birthday money two years ago and is an avid reader of stackoverflow, reddit and many forums. He recently was asked to design a website for an architect, and likes to code by hand using Notepad   and the Chrome developer tools. He uses CSS and Javascript libraries, but is convinced that all visual editors (Dreamweaver, Expression Web and so on) are only for extreme beginners and create non responsive, non compliant sites. I argue with him that while handcoding abilities are essential and great there is a value in knowing and using WYSIWYG editors. We agreed that having slashdot weigh in would be useful — comments appreciated on either the approach or good tools he can and should use."
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+by Anonymous Coward
+
+hand code it efficiently and your site uses less code, which means search engines can crawl it faster.
+
+WYSYWIG is for those who have visual talent
+
+hand coding is for those who want it functional
+
+if you can do both, you're very talented, and probably underpaid
+
+    by Pieroxy (222434) on Tuesday July 24, @10 34AM (#40749375) Homepage
+
+    Not bad but most likely completely off the mark, at least in regards to the question asked.
+
+    If you design a website for someone, you've lost right there. What you should design is a *system* and the first thing to design in this system is that who can do what with it. For one, whenever it's live, how much control does the owner of the website want over his website? Should he call you every time his phone number or opening hours changes and he naturally wants an update? Will you charge him for that? How much? What's your SLA on such requests? What if he wants a "quote of the day" ? Do you handle that by hand? Are you sure? etc.
+
+    Start from there and drill down to the expectations of both parties. Then find a middle ground.
+
+    Which tool should be used can only be defined afterward.
+     
+          
+     
+        by Canazza (1428553) on Tuesday July 24, @11 39AM (#40750409)
+
+        Let the artist design the layout in a WYSIWYG editor,
+        Let the programmer design the delivery system in whatever IDE they want.
+
+        WYSIWYG editors are useless for coding, likewise development IDEs are useless for design.
+
+        A good design will let a programmer deliver their content in they way the designer wants.
+        A good system will let the artist have reign over content placement.
+
+        Your Art should be code agnostic. Your code should be design agnostic.
+
+        This is why there are two professions. Web Designers and Web Developers. When I was working on my own, designing *and* developing sites, I used dreamweaver. Now I work in a team, with a designer, and I've barely touched Dreamweaver in years. It's not the 'novice' factor, it's because I no longer need to design a website. I develop.
+        If the designer finds using Dreamweaver helps him develop faster, good for him. The great thing about HTML is that it can be passed from programme to programme and retain all its structure.
+
+        No WYSIWYG editor, or programming IDE, can replace actually communicating with your team.
+
+        The Article poster also mentions his son uses Google Dev Tools. Now, I'm assuming this is the Firebug-like console that lets you twiddle with the html tags and CSS values. Well, what's that if not a WYSIWYG tool?
+         
+              
+         
+    by Eponymous Hero (2090636) on Tuesday July 24, @01 20PM (#40752193)
+    i think you mean well, but these are all specious points.
+
+    it's nice if a search engine can get done crawling your site faster than it did before. but there's no search algorithm that says, "wow that was pleasantly quick, i'm going to add relevancy points to this site simply because it was a joy to search." a site with 100x more content than yours but with information just as relevant as yours and full white hat obedience will take longer to index and still be ranked higher than yours. you could also hand code 1000 pages of efficient content and a competitor site that generated 100 pages of content can still load just as quickly and take less time to crawl. in the end, how fast the search engine crawled your site means jack shit. being a site worth visiting is still the best thing you can do for relevance.
+
+    whatever this "visual talent" is, it's not enough to perform every task necessary in web development -- unless you're making brochureware, in which case arguing about hand coding vs editors is stupid. wysywigs are popular with beginners because they hold your hand through the easy stuff. if you know how to write code, and write it well, wysywigs just get in the way. as for not being able to produce compliant sites, not every site needs to be compliant, and as for non responsive, that has nothing to do with whether dreamweaver wrote the code or you wrote it in vim.
+
+    everyone wants their site to function. this can be done by hand coding or with an IDE. i also deign to lump programs like dreamweaver into the IDE category. they are editors but they don't offer the advanced tools that IDEs provide. the tools they do offer are sometimes dangerous to have so close to your code, like the built-in ftp. one wrong click and your production site has all your broken dev code on it. i prefer to keep my ftp separate, like my kitchen and bathroom. ftp in your editor/IDE is like a toilet in your kitchen.
+
+    in reality, the reason why this argument persists is that choosing one over the other requires a tradeoff, and we all have different things we're willing to give up. text editors and command line editors can be extremely fast to use when all the features and shortcuts have been memorized. they're not always easy to memorize, but you can get a lot done really quickly. however, IDE users sacrifice that speed for stability and organization. some text editors have plugins or modules to accomplish what IDEs do (like debuggers and intellisense), but they're never as good as IDEs. it's only about what you're comfortable with, and whether different kinds of projects you work on change your comfort level.
+
+    it might be that if you're maintaining a fair number of simple sites, text editors are the way to go. you need to make changes fast and you need to oops undo those changes really fast. if you're working on one or two very large sites with multiple developers and you have numerous strictures to launching code, IDEs will most likely make your job easier and help manage the complexity for you. in my experience the coders who take advantage of the benefits of IDEs get the bigger, better paying jobs. i've worked with quite a few enterprise developers and they nearly all use IDEs. one exception is a guy who preferred a command line editor and ended up leaving programming for network administration. YMMV
+     
+          
+     
+            
+        by tripleevenfall (1990004)
+
+        I think in the HTML area especially, the "hand coding is better" is a vestige of the era where a lot of people were using Frontpage (etc.) and you were going to get a lot of Microsoft EEE garbage in the page code.
+
+        Today if you use a good wysiwyg editor, you will probably get pretty tight code and at least save yourself a bucket of time on the initial build. Small adjustments by hand-coding are preferable to me, but not large tasks.
+            by icebraining (1313345) on Tuesday July 24, @11 24AM (#40750143) Homepage
+
+            Today, if you're doing it right, hand-coding it should take less than than loading the editor. HTML should merely serve do indicate the structure of the page. Everything else should be done by CSS, and then it's best to use a browser tool like Firebug instead of an HTML editor.
+             
+                  
+             
+
+by theNetImp (190602) on Tuesday July 24, @10 27AM (#40749215)
+
+WYSIWYG like Dreamweaver always write code that is hard to read so when you have to edit something manually it's a PITA. Also Dreamweaver tries to fix what you edit manually. Also DW etc all aren't always 100% compliant in their browser view, so things look great there and crappy elsewhere.
+ 
+      
+ 
+
+        
+    by mcgrew (92797) *
+
+    I agree. Those tools have limited utility in a small number of cases. One of the few examples would be making a page with a map, where clicking on a state brings up a page on that state -- but I'd use the tools to create the map, just because it's a royal pain to do it without the tools. I'd copy the tool-generated code into the hand-written page.
+
+    But for the most part, I agree with the submitter's kid -- visual editors are only for extreme beginners and create non responsive, non compliant sites.
+
+    Perhaps thi
+            
+        by Vanderhoth (1582661)
+        I also use a combination. I do use DM as my primary development environment, but typically do the coding without the graphical designer. The value in DM is really that it helps me manage my large site, which is several thousand pages and even more assets.
+        
+    by webheaded (997188)
+    Actually (at least with Dreamweaver CS5) I've noticed the code is nice and clean. After using FrontPage for a long time (basically as a glorified text formatter and table maker), I tried Dreamweaver and was fairly impressed. There isn't a lot of junk everywhere and you can setup lots of nifty formatting options to keep the code easier to read. You can even have it reformat pages you'd previously written in FrontPage to be formatted nicely again (thank god).
+
+    The thing is, starting with one of these is a
+        
+    by diodeus (96408)
+
+    I agree. WYSIWIG is handy for marking-up blocks of *copy* with pre-defined styles. It ends there. Professional drivers don't use automatic transmissions, they do it manually, so should any self-respecting web developer.
+    by billDCat (448249) on Tuesday July 24, @12 40PM (#40751529) Homepage
+
+    That's not been my experience with Dreamweaver for a long time, and I've been using it since version 3 in 1999. Back then it was one of the cleanest HTML editors out there and since then I think they've done a decent job of keeping it clean and keeping it from messing up markup you've added by hand. The issue that I see with how cruft is created in an HTML editor is from lack of familiarity with the raw HTML and CSS. For instance, if you just go ahead and start setting display properties on an element, it's going to put it inline or in a style embedded on that page. You have to at least know to set up an external stylesheet and how to link those styles to elements on that page to prevent that kind of cruft from forming. Also it makes a big difference to work in Dreamweaver's split code/design view, so that changes in one panel immediately show in the other. I've been coding by hand for a long time, but I still like having this view as it gives me confirmation that the page is structured the way I intended.
+     
+          
+     
+            
+        by billDCat (448249)
+
+        Ick, I stayed far, far away from that tool. I've worked with the markup that it's generated and it wasn't pretty. Then again, I've also worked with markup hand coded from people who weren't familiar with HTML/CSS best practices (even very recently), and it was equally painful to get the page to a level where I wouldn't cringe looking at the markup. Ultimately, whatever tool you use, it's no replacement for experience.
+
+by penguinstorm (575341) on Tuesday July 24, @10 27AM (#40749217) Homepage
+
+I see Dreamweaver code, I expect nothing but pain.
+
+I like Panic's Coda, which is more of a web project oriented IDE than a Design Tool.
+ 
+      
+ 
+
+        
+    by damien_kane (519267)
+
+    I like Panic's Coda, which is more of a web project oriented IDE than a Design Tool.
+
+    I do believe you need to hand in your geek card now.
+    Is one of the first things we learn not "Don't Panic"?
+        
+    by dingen (958134)
+
+    Using something like Coda equals to hand coding in my book.
+
+Clean Up (Score 5, Interesting)
+by Anonymous Coward on Tuesday July 24, @10 27AM (#40749231)
+
+My experience with WYSIWYG editors mostly consists of having to come back after and maintain the site. It has invariably been a mess. Half of my effort is spent organizing the code before I can work with it. I'm sure a graphical editor can be written to create clean code, but I've yet to see one. Then again, many developers create the same kind of problems when coding by hand...
+ 
+      
+ 
+
+        
+    by CastrTroy (595695)
+    Exactly my thoughts. If you have people who don't know HTML and CSS well, you will get an unreadable mess regardless if you use WYSIWYG or hand code it. If you have people who really know what they are doing then hand-coding is best. But if you have a bunch of people who don't understand HTML that well, then you are probably better off going with WYSIWYG and dealing with the increased time to fix problems. At least you won't have to deal with people coding things by hand who end up forgetting to close ta
+    by Archangel Michael (180766)
+
+    Hand Coding in HTML today is stupid. My time is worth more to me than .01 second difference in load times. I stopped hand coding sites about 12 years ago, and haven't looked back since. I can still tweak HTML if needed. Good to know, just above useless otherwise.
+
+    The Ask Question is stupid, because it is an XOR problem, when the true answer lies outside the framework of his question. IF his son is that talented, have him build a CMS in whatever language, that teaches more than HTML Coding and Programming. Th
+            
+        by Deep Esophagus (686515)
+
+        Sure, using a CMS is fantastic... if you want your content to look exactly like the content of everybody else who uses the same CMS. I know, I know... "But mine is unique! I have a totally different font and background wallpaper! And I put my menus on the RIGHT side instead of on the left! And I can choose one, two, or even THREE columns in my layout!"
+
+        No, thanks. I'll take the time to do it right, with no unreadable / unmaintainable garbage to wade through when I have to make changes and complete contr
+                
+            by MrAngryForNoReason (711935)
+
+                The times I've used Joomla or Wordpress took me longer to configure the design to my specifications than it would have to just do it all in HTML to begin with.
+
+            I'm not sure what you were doing in Wordpress to "configure the design" but normally to produce a Wordpress theme you start with a flat HTML design and then add in elements to loop through posts or pull in widget areas. If you are referring to hacking about with an existing theme to try and make it look how you want then yes that isn't an efficient wa
+        
+    by AmiMoJo (196126)
+
+    I am currently converting my web site from hand-written HTML/CSS/PHP to an Expression Web project. It isn't a bad product, doesn't mangle your code and doesn't try to hide it from you. What it produces is generally clean and tidy, and it does the minimum amount of filesystem pollution. Critically it doesn't force you to organize the site the way it wants to.
+
+    The interface could be a bit better, but overall I find that doing a combination of manual editing and WYSIWYG for the bulk of the actual content works
+
+by XxtraLarGe (551297) on Tuesday July 24, @10 28AM (#40749233) Journal
+Hand coding is great, especially if you don't want to have to lay out the money for design tools, but if you already have access to them, use the design tools instead. You can save a ton of time using Dreamweaver's templates when designing a site. Also, if you use a split view, you can see the changes you make in HTML & CSS almost immediately. You still need to know how to hand code to be able to get through some really tricky parts, but let the design tools do most of the work for you, then tweak manually.
+ 
+      
+ 
+
+        
+    by ahabswhale (1189519)
+
+    Design tools are useful for rapid prototypes but utterly worthless if you're going to turn the output into a real website.
+
+    Real UI developers code by hand. Everyone else is just a dilettante.
+        
+    by icebraining (1313345)
+
+    For HTML you shouldn't need it, it's not supposed to be "seen". For CSS it's better to use something in-browser like Firebug or the Chrome developer tools; they're free and closer to what will actually be rendered.
+
+by hobarrera (2008506) on Tuesday July 24, @10 28AM (#40749235) Homepage
+
+Designers will always upvote WYSIWYG editors. Hardcore hackers will always defend coding themselves, instead of drag-and-dropping and following wizards.
+If you try to make a hacker use wizards to design a website, he'll fail, and the opposite also applies.
+
+As long as he's adept as using the tools he's using, then he'll most likely succeed. Personally, I prefer to code the website myself. Why? Because I can see the code completely, and understand what's happening, and what every line means. I can always fix any bug found, because I know where it lies. If I had used some tool to generate it, there'd probably be parts of the code that I wouldn't understand and wouldn't know how to fix.
+ 
+      
+ 
+
+        
+    by vlm (69642)
+
+    I can always fix any bug found, because I know where it lies. If I had used some tool to generate it, there'd probably be parts of the code that I wouldn't understand and wouldn't know how to fix.
+
+    Note that fix is defined not only as technical bugs, which are hard when handcoding and impossible with a GUI, but also "fix" as in the guy who signs your paycheck saying move this there, or slightly lighten the tone of gray across the site.
+            
+        by hobarrera (2008506)
+
+        Indeed. With enough knowledge, you can fix any bug, or change almost anything using notepad  . WYSIWYG have their limits, some are very flexible, but they have their limitations in the end.
+    by bluefoxlucid (723572)
+    It's silly. WYSIWYG editors are a mess and of very little use; content management systems, however, are an excellent tool.
+            
+        by hobarrera (2008506)
+
+        For some jobs, yes, they are. I can't stand it when people use CMS for every single website. It's a matter of using the right tool for the right job. I've seen two-page static websites based on joomla, and that's just ridiculous!
+                
+            by CannonballHead (842625)
+
+            I've seen two-page static websites based on joomla, and that's just ridiculous!
+
+            It was probably a selling point for a website designer.
+        
+    by liamevo (1358257)
+
+    I'm a designer, I don't know any other designer who uses WYSIWYG editors. What sort of "designers" do you know or are you just guessing at our opinions?
+            
+        by hobarrera (2008506)
+
+        Are you telling me that you're a designer and actually code the website yourself?
+            
+        by ahabswhale (1189519)
+
+        Any good designer does it by hand. WYSIWYG tools generate shitty, bloated code. If you want to put together a static site, then fine use a WYSIWYG tool but for a dynamic site, every developer I know would laugh their ass off if you handed them prototypes generated with a tool like Dreamweaver. And you would probably be fired shortly thereafter.
+
+by rtilghman (736281)
+
+Probably a copy of Homesite (do not laugh!) or a couple other more recent apps that do a fairly good job in the same vein. Topstyle is a default though... I've yet to see a better CSS coding tool in terms of library and standards controls.
+
+-rt
+
+by bobetov (448774) on Tuesday July 24, @10 29AM (#40749267) Homepage
+
+Hand coding is the only way to go. Modern web pages integrate HTML, CSS, and several different javascript libraries. They contain div's with dynamic content updated via AJAX. They are often built with templating libraries such as Rails' ERB, meaning you have code (conditional statements, for example) mixed into your page's HTML.
+
+DOM structure matters - with a WYSIWYG tool like Dreamweaver, you have no control over the actual content of the page unless you go into HTML mode and basically use it like Notepad.
+
+Your son is doing it the right way. If you want to save time, build a personal library of javascript libs and CSS snippets that you rely on. But skip the dedicated editors. You lose much much more than you gain.
+ 
+      
+ 
+
+        
+    by mortonda (5175)
+
+    This. "DOM structure matters"
+
+    If you you are making an interactive or dynamic site, having good semantic markup is essential, and in any case, you'll have to peek at the source to wire it up. If you have to peek at it, why not just write it yourself?
+
+    Once you learn your text editor well (I prefer subliime text 2) you can probably code faster than the design tools anyway. The only thing I might want a design tool for is simply for finding the color scheme I want.
+        
+    by knetcomp (1611179)
+    I completely agree with this. Having been a professional web developer for 8 years, I could not imagine any of my coworkers ever working with a WYSIWYG editor. The only thing you would accomplish is a big unmanageable mess, and a slap on the face by the developer who has to clean it up. Yes, there are better tools than Notepad  , but the solution is not a "web design" tool.
+            
+        by gl4ss (559668)
+
+        professional only means that you're getting paid.
+        plenty of professional sites have been made with dreamweaver.
+
+        however in this case I would argue that the question shouldn't even be if to use dreamweaver or not, but rather should he use a ready made cms or not as the base.
+        
+    by locopuyo (1433631)
+    I agree.
+    I am a professional developer and I've used the newest version of Dreamweaver a couple months ago to build a few pages.
+    Dreamweaver is a lot better than it used to be. The coder view is a lot better and it actually keeps things formatted the way you want and has some nice autocomplete stuff with CSS and javascript. Ironically the design view is pretty much worthless. When you are using javascript and moving things dynamically it makes the WYSIWYG part of it useless. But as a tool for creating w
+        
+    by Mia'cova (691309)
+
+    Pretty much exactly right. I'll just add that the important tools for building dynamic sites are the tools built into the browsers. Dreamweaver isn't going to help you debug your javascript. Laying out a little DOM is typically not where the majority of development time is spent.
+
+    WYSIWYG editors are only useful for quickly prototyping ideas. They produce throw-away quality results. Professional developers, such as myself, create throw-away quality results by hand  )
+    by PraiseBob (1923958)
+    OP is correct. The problem with WYSIWYG editors is that they don't operate well with dynamic content. They can work for dynamic content if you jump through enough hoops. But you are in constant danger of basically clicking the wrong button and destroying the flow of any logic you've put in, and having to rebuild . It costs more time to work with a wysiwig editor than it saves by helping in generating the design, unless you are doing an extremely simple page with no logic, and lots of design elements.
+        
+    by curunir (98273) *
+
+    While I agree with what you've said, there's one piece that I think is necessary to make hand coding work. If you've got a client like the kid in the story has, use a rapid mock-up tool like Balsamiq to create mock-ups that the client can ok before you start coding by hand. Hand coding produces the best results, but it's also the slowest method. If you go through many iterations before you get to a finished product, you'll waste a lot of time using hand coding alone. It's better to reach some semblance of c
+            
+        by oiron (697563)
+
+        Obviously not! He said Rails, not PHP.
+
+        If it's anything like django's templates (which is what I know), it's more of a templating language, which allows you to do things like specify a template for a comment field, and then replicate it using a for loop. Or select one of two divs depending on a condition. Stuff like that, which gets done on server side...
+            
+        by equex (747231)
+        Conditional presentation, the business logic still lies on the server.
+
+by cpu6502 (1960974)
+
+Use the tools to auto-generate the code, and thus save time, but then clean-up the final result to your own personal tastes. This is what I do with VHDL or Verilog. (Also a good way to learn new techniques from the generation program.)
+
+    by SQLGuru (980662) on Tuesday July 24, @10 39AM (#40749455) Journal
+
+    It's a trade-off between speed and efficiency. The visual tools are faster for getting the page to look right, but horrible for the generated code. Hand coding takes longer but is much more efficient. The best of both worlds is to use a visual tool for the high-level layout, run it through an optimizer, and then hand-tweak the result for efficiency.
+
+    This turns out to be similar to the flow you'll experience "in the real world" working for a larger corporation. There will be a designer who uses the visual tool (if they make it past Photoshop) and then "throw it over the wall" to the developer who is left to clean up the mess. The developer will run it through an optimizer and then tweak the resulting code.
+
+    I will say that the Expression suite works really well in that it doesn't do horrible generated code and the tool allows you access to the underlying code. It's great for XAML, but it can do HTML, CSS, and Javascript.
+     
+          
+     
+        
+    by HarrySquatter (1698416)
+
+    Because it doesn't save time. WYSIWYG is good for knocking up a prototype design but it usually makes such heinous code that it isn't worth it to fix.
+        
+    by Korin43 (881732)
+
+    Use the tools to auto-generate the code, and thus save time, but then clean-up the final result to your own personal tastes.
+
+    Cleaning up the output from a WYSIWYG takes longer than just writing the page correctly the first time. In fact, making a messy page in a WYSIWYG frequently takes longer even before you take cleanup time into account.
+
+by osssmkatz (734824) on Tuesday July 24, @10 32AM (#40749321) Journal
+Using a CMS will allow him to use the CSS customizations he loves, and javascript as well, while giving the architect something they can maintain after he's gone. Many drupal developers now prototype in drupal gardens (drupalgardens.com) exporting it when they're done or have reached the limit of the hosted environment. Either way, lynda.com has tutorials on the three major CMSes (wordpress, joomla, and drupal) as well as how to choose. Dreamweaver is a useful tool, but CMSes are a much better way to go. --Sam
+ 
+      
+ 
+
+    by bwintx (813768) on Tuesday July 24, @10 46AM (#40749569)
+    CMS experience will be invaluable to him. Increasingly, companies are refusing to do it any other way. Unless you and he are absolutely sure he will never, ever have to work for someone else, he needs to learn the CMS way ASAP. I hate to say that because I've been hand-coding for 15 years, but it's also why I am saying that. I'll leave it at that.
+     
+          
+     
+
+by Anonymous Coward on Tuesday July 24, @10 32AM (#40749325)
+
+You guys are reversed from the typical roles I would have expected. It sounds like your kid is a developer at heart, not a designer. Those tools you want him to use are for designers, which is why he doesn't like them. He doesn't think that way.
+
+Find him something he can do as a developer, since it sounds like that will be where he's comfortable. There are too many "website design" people out there anyway.
+ 
+      
+ 
+
+by Anonymous Coward
+
+There is absolutely no value in using a WYISWYG if your making any type of website beyond a small staicsote. If he he knows C# hes already using visual studio, and the skills learned using an IDE and its debugging tools are a much greater asset than learning to painfully try to force some WYSISWYG editor from slaughtering your code.
+
+by nomego (869651)
+Hand coding will always have the upper hand for the competent. Especially when incorporating new technologies and techniques. Good code/system design, IDEs with syntax highlighting and other helper functions, build/verify tools (grunt/jslint/etc) and frameworks are the things that will accelerate developement. Frameworks like jQuery UI will take care of different browser hacks like design tools can help with, for example.
+
+by vlm (69642)
+
+"website coding" is very much like womens high fashion clothing. All that matters is what it looks like and who's promoting it. All form, no substance.
+
+Therefore making engineering style analysis is a complete waste of time. It's like arguing which womens wedding dress is more structurally sound, or making the primary design decisions about womens fashion shoes by doing a finite element analysis. You're going about it wrong.
+
+That said, it seems very difficult to do anything involving CGI without knowing h
+
+by Anonymous Coward
+
+I agree with your son, I have been professionaly building websites (backend and frontend development) in gedit for about 6 years now, so i might be a bit biassed. But _building_ websites with WYSIWYG editors (in "visual" mode) just makes you fight the markup the editor generates. It is also slower, since you will need to go to different menu's etc to set basic properties etc.
+
+That being said, using a WYSIWYG editor for adding images and text is a different story, I still have not found an example of a progra
+
+by Hentes (2461350)
+
+It has been some time since I did web development, but I remember many WYSIWYG editors that you could configure to view the source on one side and the result on the other. Thus you could see what you did while handcoding, or could create a prototype quickly with the editor and find the parts that neeeded refinement.
+
+by Ashenkase (2008188)
+Young buck is right.
+
+by james_van (2241758)
+WYSIWYG editors are great for beginners. but, as most everyone has pointed out, they invariably generate messy code. once you've gotten past the beginner stage, you need to get your hands in the code and learn to do things properly. i realize that designers are often quick to say that you should use an editor, but lets look at it this way- would you take carpentry advice from a plumber? probably not. so why would you take advice on coding a website from a designer? and as for using the tools to genera
+
+by Quick Reply (688867)
+
+I could craft a Table cell-by-cell but why should I when I can get a simple tool to do it for me. Foundation coding skills are essential but you also got to see the realities, and some tasks are quite simply a waste of time to do manually.
+
+Ah, To Know Everything Again (Score 5, Insightful)
+by eldavojohn (898314) * <my/.username@@@gmail.com> on Tuesday July 24, @10 40AM (#40749473) Journal
+Well, I'll start off by saying that your son sounds very smart and gifted -- although it also sounds like he is at that very special age where he knows everything. I too experienced such youthful bliss and ignorance but the only cure was time and experience. I might have even made similar claims that all visual editors are detrimental in some form or fashion. I have found myself shying away from absolutes like this and, actually, find it difficult to determine when something is "visual." Is the color scheme in my VIM and EMACS windows a "visual" editor? I find myself today locked in a love/hate relationship with several that I am running as I write this. I think the best course of action for you is to remind your son that nobody ever wrote a heavy integrated development environment with the intent of completely removing the burden of coding on the developer. Also, a solution that takes you 90% of the way quickly but still requires you to write out and augment that final 10% is still more useful than starting with nothing at all. I suggest you and your son work through the Rails 3 tutorial using scaffolds. This is an example where something from the command line augments your ability to stand up web applications quickly. I also suggest you do exercises with Eclipse (or I guess Visual Studio Express if he uses C#) and try to import 10 or 20 libraries into the project. Doing this with an IDE is much friendlier than doing this from the command line or hand writing ant/maven scripts.
+
+There's nothing wrong with doing everything by hand ... but then again, there's no reason to shirk productivity in the name of purity. When I was writing huge monolithic classes with no dependencies in college, I was doing everything in VI. Those days have passed, I must write modules that exist in a massive hierarchical tree for many teams now. I depend on IDEs and their integration with various other tools ... and I'm not ashamed to admit it.
+
+My rule of thumb is to let editors do the mindless work for you, but never let them do so much that you don't understand exactly what it is that they're doing. If you do allow them to do something so complicated you cannot understand it, you enter into dependence that cannot be undone. You will find yourself unable to augment the automation further and left with 90% solutions and unfinished projects.
+
+Perhaps another line of reasoning to use with him is to ask him to write a windows program using just 0s and 1s or hex in a hex editor. When he cannot do this, ask him why he is okay with C# augmenting his abilities to control the computer. Then ask him why he draws the line there and why not allow more code (IDEs and their plugins) to do more work for him. Sure, everyone draws a line in the sand and sticks to it. I've met kernel hackers that don't even trust compilers. If your son chooses that path, then let him choose his own path.
+ 
+      
+ 
+
+by claytongulick (725397)
+
+As with most things, the correct approach is a balanced one. Going to extremes on either side of the issue with invariably result in negative consequences.
+
+Having an in-depth knowledge of html, css and javascript is crucial to effective web development and design. Having design/graphical tools let's you step back from the code and see things in a "big-picture" light, allowing you to create innovative designs that you probably wouldn't have considered otherwise.
+
+I generally use both approaches. I like to use A
+
+        
+    by claytongulick (725397)
+
+    *sigh* my kingdom for an EDIT button on slashdot. How many typos and errors can a person make in a single post? Sorry.
+
+by vertseven (79013) on Tuesday July 24, @10 42AM (#40749507) Homepage
+
+Background  I've been a web developer since 1994 and have tried multiple visual editors from the beginning. And try to keep an open mind about new ones. But have yet to be impressed by the final outcome.
+
+What you see is all that you get with a WYSIWYG. You can design and move things around for a template, then build a website from that template(s). But when it comes to redesigning, adding functionality, or updating the website that was built entirely with a visual editor, things get messy very quickly. A visual editor doesn't know what the developer is building and for what purpose, so it attempts to work around the browser quirks in a redundant manner. This leads to extra JS and CSS libraries, snippets, and junk that isn't always necessary. For a secondary developer, all of this extra junk becomes confusing and will cause major headaches.
+
+Am I completely opposed to visual editors? No, but it is essential for any designer/developer to learn the mark-up first. Then, if it's essential for a specific project to learn how to use a WYSIWYG editor. But to always maintain a vigilant eye on what mark-up is being dumped on the pages.
+ 
+      
+ 
+
+by Quakeulf (2650167)
+I am probably one of the least technically inclined people codewise to visit and post on the Slashdots, but I have done my fair share of websight design throughout the years and I end up doing everything back-end in Notepad  . The design I do in whatever image editor is suitable, then I assemble the pieces in Notepad   afterwards. I have also used Notepad   when doing PHP and creating and maintaining simple image galleries and so on. When given the choice I have done things hand coded and pushed it throug
+
+by cozziewozzie (344246)
+
+It's not that tools like DreamWeaver are ALWAYS the wrong tool -- they can be useful for graphic designers with little computer knowledge -- but your son is a programmer, a tinkerer, who uses advanced editors, likes to understand stuff he builds in detail, and is not afraid of programming and editing by hand. I'm willing to bet anything that he will create better looking, more reliable, more standards-compliant and more correct webpages in less time if he learns the basics of modern HTML/CSS than he would i
+
+by brennanw (5761)
+
+Basically I would create something using Dreamweaver, then look at the html, then change the html to see how it changed the page.
+
+I think at the end of the day it depends on what you're doing, though. For very simple sites, a website design tool can produce clean code, depending on how you've configured it, and it'll be faster to use a GUI for a simple site than anything else. But the more complicated your design gets, the more junk it's going to throw in to get it to look the way you want. And these days so
+
+        by brennanw (5761)
+
+        ... but what I really loved about Dreamweaver find and replace tool was the way you could conditionally setup when to replace text and when not to... and to use wild cards to only replace certain pieces of code, all in a very user-friendly interface.
+
+        I mean, you can do all this with most S&R tools if you're very familiar with regular expressions, but I'm not, and I find them very hard to parse. Dreamweaver let me see the search visually and in comparatively plain English, which made it very easy to troub
+
+by vitaflo (20507) on Tuesday July 24, @11 04AM (#40749853) Homepage
+
+I've never used a WYSIWYG editor for any website and nobody worth their salt ever would. So your kid is correct and is learning it the right way.
+
+However, what is just as essential (imho) as knowing how to code it all by hand is having a good grasp of graphic design and user experience. If you are able to master both you are a rare breed and extremely marketable in today's world.
+
+The only real design tools you need to design websites is a copy of Photoshop and a good text editor. Everything else is basically fluff.
+ 
+      
+ 
+
+by dejanc (1528235) on Tuesday July 24, @11 10AM (#40749933)
+
+I make my living by making websites. We generally split the process into several parts 
+
+    Designers design the site, usually in Photoshop
+    The design is sent to HTML/CSS coders, who cut it up and put it back together as code
+    Finally, programmers do their part and utilize a MVC framework to make it functional.
+
+Designers don't know how to code, HTML/CSS people usually know enough programming to code a dynamic template (that's why template engines like Smarty or HTML  Template were invented). Programmers don't even know how to use Photoshop and generally know a little about CSS so they can connect JavaScript if necessary, but not enough to know all the quirks of e.g. Internet Explorer 6 or absolute vs relative positioning.
+
+WYSIWYG tools have no place in such process. They stand in the way, as the code they generate is usually not standards compliant, doesn't work cross-browser, etc. Also, some things are just too hard or impossible to do with WYWIWYS tools. Modern websites have very complex HTML structure and often use CSS libraries. Trying to force an editor into submission is usually harder and more time consuming then just writing your own code.
+
+Design in a tool for designing. Photoshop is the choice of pros. I use Inkscape when I want to play with some designs and create mockups. Works very well and is free (beer & speech).
+
+Code in a tool for coding. Anything from Vim to Coda to Notepad   to DreamWeaver's code editor will do.
+
+It's cool for your son to try to both design and develop and a website, but in the long run, he will have to chose one and stick to it if he wants to make it. In the professional world of web development, designers usually don't go near the code, and with a reason. If he is artistically inclined, then designing is good, but coding will be a distraction. If he is technically inclined, then designing a proper website will be too hard for him. He is better off just buying (or downloading for free) a PSD template and using it instead.
+ 
+      
+ 
+
+by TheSunborn (68004)
+
+First a note "When you write  WYSIWYG editors" i asume you talk about using them as graphics designers with drag/drop and not just as fancy html editors.
+
+First  No I don't think there is any value in "knowing and using WYSIWYG editors" if you already know html. If you know html then writing html is at least as fast as using a WYSIWYG editor. But there are really 3 reasons that most sites are not made with a WYSIWYG.
+
+1  What happens when the architect want to edit the text on the site, or want to add an othe
+
+by DdJ (10790)
+
+If using the GUI tool saves you time (or other costs) over the completely lifespan of the content produced, go for it. (An example might be a party announcement that's viewed by three dozen people for a week and then never needs to be seen again.)
+
+If using the GUI tool would save you up-front time while designing, but would increase the cost of maintaining or updating the site, use it for prototyping but not for the deployed version. (Examples are easy to imagine, especially if you collaborate on the desig
+
+by gshegosh (1587463)
+Twitter Bootstrap and the likes are the way to go IMO. Even though initial creation time might be a tad faster with WYSIWYG tools, it's a pain to AJAXify, optimize for speed and size, request count and maintain in the longer period of time. It is also almost impossible to use diff tools and source version control software on machine-generated code. And, everyone that would like to modify the page needs an expensive piece of software.
+
+by Eirenarch (1099517) on Tuesday July 24, @11 31AM (#40750237)
+
+If you ask on /. the battle for editors is already lost. After all most people here use Linux and are fans of the command line so it is obvious that they will be anti-WYSIWYG tools.
+
+I personally believe visual editors are really helpful and an IDE (as opposed to Notepad  ) is a must.
+ 
+      
+ 
+
+by Chatterton (228704)
+
+I use Dreamweaver as a better editor. I don't really use the WYSIWYG part of it but all the nicities like templates, editable regions and links management. When i create a new website i go generally in manual coding and define where my editors could update the page with the editable regions and stop them messing with the code of the page structure (but they can use the WYSIWYG features of DW for their editing). The templates make it easier to do changes globally in the website and the link managment reduce
+
+by DCstewieG (824956)
+
+I think of it like the falling green code in The Matrix. Once you really know what you're doing, you can look at HTML and see the page itself. I don't even see the DIVs, all I see is...blonde, brunette, red-head...
+
+by EmperorOfCanada (1332175)
+For a small site with limited functionality WYSIWYG is probably fine. A bit more complicated and WYSIWYG with some hand customization is also fine. But if you were building slashdot then handcoding is the only way to go. All that will happen with WYSIWYG on a big site is that you will take X amount of time to be 90% done and then you will fight the code for 2X time and then redo the whole thing by hand in 10X time. Or worse without a complete redo you will end up with a spaghetti bastard that never really w
+
+by Bogtha (906264)
+
+To put it bluntly  your son knows what he's talking about and you do not. He is on the right path and you are unwittingly sabotaging him.
+
+I've been developing for the web since the 90s, and in all that time, I've never met somebody who works full-time as a web developer who does not hand-code. The "WYSIWYG" editors are a last resort for people who do not know how to code. If he wants to do this professionally and he follows your advice, he'd be turning himself into a laughing stock.
+
+    I argue with him t 
+
+by RattFink (93631)
+
+Most developers I know myself included would never use WYSIWYG for anything other then prototyping layouts. That said I typically work with Dreamweaver in code view largely because it has decent site wide search, has pretty decent navigation features, supports subversion and handles code syncing reasonably well not anything I would pay what it costs for but since it was a company purchase and it does the job good enough not to piss me off, I use it.
+
+by Cajun Hell (725246)
+
+There is nothing wrong with using high-level tools rather than, every day and every hour, getting bogged down in the details. In a basic sense, at first you (rather than your son) appear to have the right idea.
+
+But you have to use the right tools, and the fact that you would recommend "visual editors" or use the absolutely web-alien acronym of WYSIWYG, suggests you don't know what the right tools are. And guess how you learn what tools are good  by learning the details that you hoped to not get bogged do
+
+by Thuktun (221615)
+
+The closest thing I use to a "website design tool" these days is jsfiddle [jsfiddle.net]. Hand-coding but with a tight loop between editing something and seeing how it looks.
+
+by l0ungeb0y (442022)
+
+Seriously, I've yet to see a WYSIWYG that did anything but create timewaste by having to first learn it's interface then spend time getting around it's interface when it comes to the inevitable real world scenario requiring you to do things the WYSIWYG designers didn't account for.
+
+I do however love IDE's and use Aptana Studio 3 for Rails, PHP and HTML5 development. With that framework, I use HAML to speed up my HTML generation, since it's a nice short-hand format that produces compliant HTML and XHTML and S
+
+by pubwvj (1045960)
+
+WYSIWYG write awful code. Hand coding is much better.
+
+by assertation (1255714)
+
+Teach your son a lesson, let him make web sites in notepad.
+
+He will learn good things from the practice and when he gets tired of doing things in a gratuitously time consuming and repetitive way he will learn a WYSIWYG tool.
+
+A child learning basic skills with a screw driver and an erector set is a good thing. Eventually, if that kid goes into a blue collar field s/he will use a power screw drive if s/he is bolting things together all day.
+
+    by SJHillman (1966756) on Tuesday July 24, @10 30AM (#40749281)
+
+    It's been a while since I've used a WYSIWYG editor, I had to go back through and clean out a lot of unnecessary garbage from the HTML and make a few modifications. For some complex designs, it worked better than doing it all in a text editor but those were more the exception than the rule.
+     
+          
+     
+            
+        by JoeMerchant (803320)
+
+        With hand coding, I can do anything. With WYSIWYG, you tend to do the more tedious stuff more often because the tools make it easy.
+
+        With hand coding, I can always go back and modify something later. With WYSIWYG, the HTML it generates is generally so obfuscated that you need to use a tool to maintain it, and often you are effectively locked into a tool because many tools confuse each other with constructs that only they understand for editing.
+        
+    by hackula (2596247)
+    Visual Studio 2010's designer works decently. If I am working in Webforms, I typically rough it out in the designer with dragndrop, then tweak it in the code. This works pretty well. Every once in awhile the designer craps out on a particularly complex page. In general this "roughing out" stage is only the beginning of a UI anyway though, so it is not like it makes that big of a difference. As far as VS 2010 goes, the designers for Winforms, WPF, and Silverlight are way better than Webforms designer, but it
+
+    by HarrySquatter (1698416) on Tuesday July 24, @10 30AM (#40749297)
+
+    Hand coding doesn't mean you don't use tools to do your job.
+     
+          
+     
+    by ickleberry (864871) <web@pineapple.vg> on Tuesday July 24, @10 34AM (#40749371) Homepage
+    I wish more websites were very basic. Too much Web 2.0 clutter in most of them now, that includes /.
+
+    Gopher is a sigh of relief vs. Web 2.0
+     
+          
+     
+        
+    by vlm (69642)
+
+    Unless your website is very basic, in which case it will probably never get noticed.
+
+    Ah see there's the problem. Noticed by who?
+
+    He has a contract to get the word out online about an architect, provide content and information that someone who hires architects finds interesting when google search drops them on the front page. If, instead, it gets turned into a game of "let me try to impress other web developers by whacked out trendy style hacks, with a secondary side theme of advertising his office as long as it doesn't conflict with my artistic vision too much and don't waste my time and s
+        
+    by mcgrew (92797) *
+
+    Imagine trying to program the software you use in machine code, without any tools to aid?
+
+    I've done it. Granted, it was 30 years ago and the computer was so slow and had so little memory that machine code (assembled by hand since there was no assembler for the platform) that it was the only way to go.
+
+    But the difference is, a modern executable can contain millions of machine instructions. It's simply not feasable to write a big program in assembly. But HTML? HTML and javascript are child's play. There's littl
+
+        by KraxxxZ01 (2445360) on Tuesday July 24, @10 33AM (#40749341)
+        My guess is Objective-C and butt humping.
+         
+              
+         
+        by Anonymous Coward
+
+        His skillset? Gettting first post on Slashdot, of course.
+        by Applekid (993327) on Tuesday July 24, @10 50AM (#40749625)
+
+        Why would you curse your children by indoctrinating them into the Microsoft ecosystem?
+
+        It sucks, it's a minority technology (i.e. the various Java platforms are the dominant business technology) and Microsoft is on the way out.
+
+        TFS 
+
+        He taught himself C#
+
+        Perhaps a better parent would discourage such efforts. If he doesn't study The True Language, he's a blasphemer and the books he's been reading should be burned.
+
+        Holy wars aside, learning OOP goes beyond the syntactical sugar of the actual language.
+         
+              
+         
+                            
+                        by spazdor (902907)
+
+                        Emacs is an excellent operating system - all it's missing is a decent text editor. ...Saaay, has anyone implemented a version of vi that runs in Emacs?
+
+        
+    by dingen (958134)
+
+    You forgot to mention the part about your client's site getting hacked and you being liable.
+
+        
+    by hackula (2596247)
+    Yeah, he is probably using VS Express Web Developer 2010. VS is a terrific IDE, C# is a terrific language, ASP.Net webforms....barf! I hope he is using MVC with the Razor view engine. Webforms totally blows, but MVC easily rivals RoR or Django when you consider the power of the VS and the surrounding .Net platform. I know people love to hate M$, but in the real world where we need to get things done, VS is pretty much the best thing ever. I recently (6 months ago) switched my entire tech stack to open sourc
+
+        
+    by tnk1 (899206)
+
+    I've never had any difficulty adjusting things manually in code/markup that came out of a WYSIWYG design tool. In fact, even Dreamweaver makes it pretty darn easy to do so. I frequently slap together a UI/design with the design tool and add the AJAX elements afterward and it works pretty well. I can see where it could be a pain, if you are used to working a particular way, but it's simply a matter of altering your workflow to not have the tool step on the dynamic functionality you are doing.
+
+    The issues wi
+
+        
+    by spiffmastercow (1001386)
+
+    Design tools  worthless Hand coding  priceless
+
+    I don't want to sound rude, but C# is for literally retards... Tell him to learn C and C   so that he knows something about programming...
+
+    I started out coding video games in C, then moved on to writing emulators in C  . These days I code in C#, and I think it's significantly more complex and elegant than C  . Pure C *can* have a simplistic beauty to it if you avoid the fucking typedefs, but C   is the worst of both worlds -- too easy to lose track of what you're doing, and too abstracted to provide maximum performance.
+
+        
+    by TheSunborn (68004)
+
+    True, but you need to write your own html template, to configure the look and feel of the website. Unless you want a total generic looking website. Which may be ok, depending on budget and customer.
+
+    But this is a site for an architect, and based on what happend last time I designed a site for an architect he will end up doing a new theme from start anyway even if he ends up using a cms  -}
+
+

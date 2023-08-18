@@ -1,0 +1,16 @@
+Danger!! High Voltage! Heatma.ps knows what happens when we touch…iPhones
+
+October 30, 2012 3:26 PM
+Rebecca Grant 
+
+Touch is one of my top five favorite senses. Without it, we wouldn’t understand the furry softness of a poodle, the luxuriousness or silk sheets, or the interaction users have with the screens on their iPhones.
+
+Heatma.ps offers a touch-based data analytics service that tells developers how users are interacting with the app, beyond actions and clicks. This Warsaw, Poland based company emerged out of stealth mode today and announced $400K in seed funding to move the software beyond beta testing.
+
+The technology collects touches, gestures, and device interactions and then turns the data into meaningful information. The reports provides insight into users’ first touches upon opening an app, which functions are overlooked, device orientation etc… to give designers a deeper glimpse into the quality of the user interface.
+
+“From a business point of view, having a tool that points out flaws in an app, helps to eliminate them and as a result, create a better product,” said founder CEO Cyprian Ciećkiewicz. A better product can be sold for a greater value. Other offerings on the market are solely based on actions and clicks. This technology benefits companies by allowing them to provide the best user experience possible, which translates into more downloads and better user ratings.”
+
+So far, 100 apps are using the framework and the number of custom reports developers receive depends on the level of their subscription plan. Now that it has publicly launched, the goal is to tap into the large American market.
+
+While Poland has a strong reserve of talented developers, Ciećkiewicz said the app market is small and most developers are more interested in working for well-known companies, rather than startups. He knew that to get his company off the ground he needed connections abroad. This inspired him to bid on a charity auction prize to attend a Giants game with Silicon Valley angel investors. As luck would have it, he won, and the rest is history.

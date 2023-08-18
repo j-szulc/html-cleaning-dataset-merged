@@ -1,0 +1,32 @@
+Impression share reporting changes are here
+
+Wednesday, November 07, 2012 | 10:00 AM
+
+Labels: adwords
+
+Impression share (IS) is the number of impressions you received in a campaign or ad group divided by the estimated number of impressions you were eligible to receive. Today, we are rolling out several improvements and changes for AdWords impression share reporting announced back on October 1st. Here’s a recap of what’s new and some tips on how to use impressions share metrics.
+
+What’s new
+Here’s a list of the improvements.
+
+    Distinct search and display columns. We’re adding new columns to cleanly separate search and display impression share. 
+    “Hour of day” segmentation. Based on your feedback, we’re enabling “Hour of day” segmentation so you can evaluate how your ad coverage varies by the hour. 
+    Filters, charts and rules. You’ll be able to apply filters, see charts, and apply automated rules using IS metrics. 
+    Accuracy. We’re improving the accuracy of how we calculate impression share data. 
+
+As previously mentioned on our blog and social media, along with these changes, historical IS reporting data is now only available going back to October 1, 2012.
+
+Tips on using impression share metrics
+Many optimization experts advise a regular review of impression share metrics in well-performing campaigns and ad groups where you want more volume. Use the “Search Impression Share” (or “Display Impression Share” for display campaigns) and look for values below 100%. A lower IS metric means more opportunity for incremental impressions, clicks and conversions.
+
+Once you’ve identified well-performing campaigns or ad groups with good growth potential, you’ll want to determine which changes to make to increase your results. Start by looking at the “Lost IS (budget)” (for either Search or Display). This column tells you what percent of the time your ads didn’t appear because your daily budget was insufficient. To reduce lost impressions due to budget, simply raise your daily budget. In general, you’ll end up acquiring more customers at a similar ROI.
+
+When you’re satisfied with the results you’re seeing by reducing your “Lost IS (budget),” you can then look at your “Lost IS (rank).” This tells you what percent of impressions you missed out on due to an ad rank that was too low. To address this, you can optimize to improve your Quality Score or increase your bids. If you decide to increase your bids to increase ad impressions, closely watch how your other key performance metrics like cost per acquisition, profit, and return on ad spend are affected.
+
+Phasing out old IS columns in February 2013
+With the new IS columns now available, we’re planning to phase out the old IS columns in February 2013. Any saved reports using old IS metrics columns will need to be updated to use the new columns. When you try to access a report in the AdWords interface that’s using the old IS columns, you’ll be guided through the necessary steps to replace them with the new IS columns.
+
+More Discussion
+We hope these changes and tips help you make better optimization decisions. To exchange ideas about using IS metrics with other advertisers, you can click over to the AdWords Community. We also encourage you to contact AdWords support if you have questions.
+
+Posted by Dan Friedman, AdWords Product Manager

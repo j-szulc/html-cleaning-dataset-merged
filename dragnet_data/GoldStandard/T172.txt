@@ -1,0 +1,28 @@
+
+Outdoor Proof-of-Concept Laser-Powered UAS Flights
+
+Written by Tom Nugent on Tuesday, August 7th, 2012
+
+We are excited to announce that Lockheed Martin issued a press release today about a set of outdoor proof-of-concept flights with LaserMotive’s wireless power system and their Stalker UAS. This outdoor test was the next phase in a planned set of tests, following on the recent successful 48-hour wind tunnel test. Here’s the text of the release:
+
+    PALMDALE, Calif., August 7, 2012 — Lockheed Martin (LMT) and LaserMotive, Inc., have completed a series of flight tests of the Stalker Unmanned Aerial System (UAS) to further validate the performance of an innovative laser power system. These tests mark the first-ever outdoor flight of a UAS powered by laser.
+
+    Stalker is a small, silent UAS used by Special Operations Forces since 2006 to perform intelligence, surveillance and reconnaissance missions. In a recent wind tunnel test, the UAS demonstrated 48 hours of continuous flight powered by this innovative laser system.
+
+    “This series of proof-of-concept tests took place in a remote desert location where environmental factors like wind and heat were constants. Not only did we demonstrate that the laser powered Stalker could perform well in this type of environment, we flew during both day and night without incident,” said Tom Koonce, Lockheed Martin Skunk Works® Stalker program manager. “Ultimately we hope to provide our customers with remarkably long endurance to extend and expand the mission profiles possible for a small UAS like Stalker.”
+
+    For the demonstration, the Stalker was fitted with a lightweight photovoltaic receiver and on-board power management hardware. The ground-based laser transmitter was based on LaserMotive’s hardware developed for its winning entry in the 2009 NASA Centennial Challenge. Accomplishments of these proof-of-concept flights include:
+    • Demonstrated net positive power to Stalker in flight, at ranges up to 600 meters.
+    • Proved that the laser did not damage the Stalker and that the addition of the laser receiver did not impact its normal flight operations or aerodynamics.
+    • Operated multiple test flights in a range of desert conditions (day & night, high temperatures, and strong winds), demonstrating the ruggedness of the Stalker-mounted laser receiver power system.
+    • The beam director tracked the receiver for long periods, with centimeter accuracy at 500 meters, despite turbulence and aircraft maneuvers.
+    • Met all operational and safety requirements, including coordination with the Laser Clearinghouse and flight operations.
+
+    “We’re excited to work with Lockheed Martin to validate the ability of lasers to power Stalker in the field,” said Tom Nugent, president of LaserMotive. “Wireless power via laser is an important emerging technology, and I look forward to continuing to work together to further prove this technology in future experiments.”
+
+    Headquartered in Kent, Wash., LaserMotive is a privately held research and development company specializing in wireless power via laser for commercial applications.
+
+    Headquartered in Bethesda, Md., Lockheed Martin is a global security and aerospace company that employs about 120,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services. The corporation’s net sales for 2011 were $46.5 billion.
+
+Both companies are exhibiting at the AUVSI Unmanned Systems trade show and conference this week. The flight hardware will be on display in LaserMotive’s booth (number 4749).
+

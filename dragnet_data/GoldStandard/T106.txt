@@ -1,0 +1,14 @@
+
+9 August 2012 — Posted by Allan Odgaard
+TextMate 2 at GitHub
+
+Today I am happy to announce that you can find the source for TextMate 2 on GitHub.
+
+I’ve always wanted to allow end-users to tinker with their environment, my ability to do this is what got me excited about programming in the first place, and it is why I created the bundles concept, but there are limits to how much a bundle can do, and with the still growing user base, I think the best move forward is to open source the program.
+
+The choice of license is GPL 3. This is partly to avoid a closed source fork and partly because the hacker in me wants all software to be free (as in speech), so in a time where our platform vendor is taking steps to limit our freedom, this is my small attempt of countering such trend.
+
+I am also a pragmatist and realize that parts of the TextMate code base is useful for other (non-free) applications, so I may later move to a less restrictive license, as is currently the case with the bundles. For now, please get in touch with us if there are subsets of the code base you wish to use for non-free software, and we might be able to work something out.
+
+Anything related to the code base, including contributions, can be discussed at the textmate-dev list or #textmate on freenode.net. Pull requests can be sent via GitHub but if you plan to make larger changes, it might be good to discuss them first if you want to ensure that we are interested in accepting a pull request for such change or simply want advice on how to go about it.
+

@@ -1,0 +1,25 @@
+The smartphone or the tablet: Who's using all these devices?
+
+As more of today's consumers own both a smartphone and a tablet, how do they choose which device to use?
+
+(Credit: Flurry Analytics)
+
+How, when, and why do people use their smartphones versus their tablets? A new study from Flurry Analytics aims to answer that question.
+
+Just as smartphones have conquered the home and the workplace, tablets are poised to do the same. More consumers and workers use both devices at different times and for different reasons. Just how does that usage break down by age, gender, and application?
+
+On average, smartphone users are a bit younger, at 30, than are tablet users, at 34, according to Flurry's research. Almost 75 percent of smartphone users are 34 or younger, while more than 66 percent of tablet users are 25 or older.
+
+Slightly more men than women use smartphones, but the gender ratio is about equal for tablets. Since men traditionally adopt tech devices more than do women, says Flurry, this result suggests that tablets have more "long-term mass-market appeal."
+
+Both smartphone and tablet use increases as the day progresses. Both go up starting at around 7 p.m., but tablets show a much higher spike at that time than do smartphones. To Flurry, this means tablets are more often used alongside or instead of TVs than are smartphones.
+
+Consumers typically spend more time using tablets for media and entertainment.
+
+Games, entertainment, and news apps are among the most popular for tablet users. Smartphones account for a greater number of apps devoted to communication and other tasks. Social networking, utility, health & fitness, and lifestyle apps grab about half the usage on smartphones.
+
+Games are the most popular type of app on both devices, capturing 67 percent of time spent on tablets and 39 percent on smartphones.
+
+And not surprisingly, people on average use apps on smartphones more often during the day but for shorter bursts of time. Checking into social networks is a perfect example, Flurry noted.
+
+Flurry aims to help developers determine the use and popularity of their mobile apps. To compile these latest stats, the research firm analyzed more than 6 billion app sessions across 500 million smartphones and tablets. To determine factors like age and gender, Flurry used opt-in data from more than 30 million consumers.

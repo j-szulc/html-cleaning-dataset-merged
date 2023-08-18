@@ -1,0 +1,12 @@
+Automatic PDF Delivery to your Tablet
+By Lim Cheng Soon, 02 July 2012
+
+Few weeks ago, couple of our readers (thanks Robin and Thomas!) told us they wanted the Kindle Direct Delivery feature to send PDF instead of the usual MOBI format. I was puzzled, since it would be too small to read the PDF on Kindle.
+
+Turns out, they (like a lot of readers too, I later found out) use the Kindle app on their tablet. Now that makes perfect sense.
+
+So we quietly rolled out that feature last week. Now you can go to your Subscriber Area to activate it.
+
+Kindle iPad Delivery Screenshot
+
+And you’ll see the latest issue of Hacker Monthly (in iPad-optimized PDF format) automagically appear on your tablet every month.

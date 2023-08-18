@@ -1,0 +1,315 @@
+Aussie Judge Declares Apple-Samsung Patent Battles "Ridiculous" 69
+Posted by timothy on Tuesday July 24, @09:04AM
+from the posner-south dept.
+New submitter Ahab's compliments writes "Score another point for sensible judges — the judge in point wants to know why this dispute over the wireless technologies developed by Samsung and used by Apple shouldn't be settled through mediation. 'Why on earth are these proceedings going ahead?' Bennett asked the lawyers in court today. 'It's just ridiculous.' The judge also rejected a request to hear the various patent infringement claims from either side in separate cases."
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+    by SJ2000 (1128057) on Tuesday July 24, @09:07AM (#40748091) Homepage
+    Keep in mind Federal Court Justice Annabelle Bennett was referring to why this wasn't in mediation, that's it.
+     
+          
+     
+            by Anonymous Coward
+            Maybe but do you have it if posted from a touchscreen?
+                 
+        
+        by ackthpt (218170) on Tuesday July 24, @11:10AM (#40749935) Homepage Journal
+
+        Keep in mind Federal Court Justice Annabelle Bennett was referring to why this wasn't in mediation, that's it.
+
+        And it's a fair point by the judge, things don't go to negotiation first, they go straight to court. Reminds me of squabbles by rich people in my old home town, fighting over every little stupid perceived slight or whatever, driving their El Dorados over each others lawns, etc. Judge had enough and forced them to sort out who owned what by a court appointed mediator. Judge was furious this family tied up the courts rather than settle things among themselves. Court should be last resort, not first. But I don't suppose you're going to hear legal counsel say that, unless they are company lawyers who would rather be doing something other then fighting in court all the time.
+         
+              
+         
+                by Master Moose (1243274)
+
+                Of course you pay him to tell you that :)
+             
+    by slashmydots (2189826)
+    If it was me, I would print out their patent summary cover sheet on a piece of paper, fold it into a paper airplane, light it on fire, and throw it at them at the start of the proceedings. That might give them a hint as to what I think about their patents lol. But seriously, does anyone know if that type of situation allows the judge to invalidate the patent itself or would that have to be a different case or a different person?
+        
+        by Schmorgluck (1293264) on Tuesday July 24, @09:12AM (#40748167)
+
+        I think the judge's intent, especially in refusing to separate the cases, is to wrestle both parties into playing nice, stopping their tantrums, and actually trying to reach a reasonable compromise.
+
+        In other words, emphasizing the "civil" in "civil court".
+         
+              
+         
+            by ackthpt (218170)
+
+            I think the judge's intent, especially in refusing to separate the cases, is to wrestle both parties into playing nice, stopping their tantrums, and actually trying to reach a reasonable compromise.
+
+            In other words, emphasizing the "civil" in "civil court".
+
+            A college prof of mine, who was still a practicing attorney, pointed out that 99% of all law is based upon common sense. Not a load of fiddly technical things forced upon a people by their government, but sensible stuff so we can all get along. The Ten Commandments were same thing, when you think about it - don't steal, don't lie, don't covet stuff that isn't yours and you'll get along much better with the neighbors.
+
+            Disappointing how we seem to have a society (including businesses) which treats laws as a w
+       
+        by LordLucless (582312)
+
+        Given that it's an Australian court, and Australia is required by treaty to recognise American patents, I'm not sure it's even possible for an Australian judge to invalidate them. At best, they could only be invalidated in Australia.
+            
+            by Anonymous Coward on Tuesday July 24, @09:25AM (#40748381)
+
+            It is absurd if a patent set up in the first country must be recognised in a second country, but the second country does not have the power to declare an invalidation which is also recognised in the first.
+
+            The implication is that it is more important to create patents (no matter how absurd they are) than to repeal bad patents.
+
+            There are many problems of this sort with inter-state EU legislation, too.
+             
+                  
+             
+                by neyla (2455118) on Tuesday July 24, @09:48AM (#40748647)
+
+                Indeed. Congratulations on spotting one of the many imbalances in the current system.
+
+                Indeed this is the status quo: if something is patented in one country, other countries have agreed that they too will honor the patent. Yet if something is *invalidated* in one country, there is no requirement that this invalidation is honored elsewhere. And this is true despite it being easy, simple and cheap to get a patent, compared to the enormous expense and close scrutiny that goes into getting one invalidated.
+
+                In other news: why does the berne convention only specify that countries should have a minimum length of copyright, and that countries that have too *short* protection are in violation - while saying nothing at all about the maximum duration and allowing countries to set copyright to a million years with no issues. Where's the -balance- in that ?
+                 
+                      
+                 
+                    
+                    by kaizokuace (1082079)
+                    There is no balance.
+                     
+        by sosume (680416)
+
+        That might give them a hint as to what I think about their patents lol.
+
+        We are talking covering data transmission over the 3G wireless spectrum here, not rounded corners or slide to unlock.
+    
+    by mug funky (910186) on Tuesday July 24, @09:09AM (#40748117)
+
+    it's curious that perhaps the change we've all wanted for so long is not coming from a foundation, or lobby group, or grassroots uprising, but just from a bunch of annoyed judges who don't particularly enjoy these cases or the wasted time they come with.
+    
+          
+     
+        by Shavano (2541114)
+        I don't think that's particularly surprising. Judges are the people who have to deal with the disputes.
+    
+    by cpu6502 (1960974)
+
+    I feel maybe we should. They are wasting taxpaper dollars through their squabbling. (Plus other reasons like using Foxconn to build their devices & locking-down users' freedom.)
+        
+        by Anonymous Coward on Tuesday July 24, @09:23AM (#40748343)
+
+        Samsung is just defending themselves. If someone attacks you, and you hit them back in an attempt to get them to stop, I'm not going to call you a violent person.
+
+        Boycott Apple.
+         
+              
+         
+                by scot4875 (542869)
+
+                You mean that FRAND patent counter-suit to Apple's "you copied us" suit? You have a funny definition of "attacking" if it includes defensive counter-suits.
+
+                --Jeremy
+            
+            by cpu6502 (1960974)
+
+            >>>Boycott Apple.
+
+            Why? What are Apple's sins I'm not aware of any (except the Foxconn 80-hour-a-week worker labor thing).
+                
+                by RaceProUK (1137575)
+
+                Patenting anything that's already patented, but with the words 'using a touchscreen' appended, then suing anyone and everyone who tries to compete.
+
+                I've probably overstated it, but it's not far wrong.
+             
+        
+        by bhagwad (1426855)
+        If Apple agrees to back off, I'm sure that Samsung will back off as well. But if Samsung backs off, will Apple back off? No. So it's obvious who needs to be boycotted here.
+             
+    Misleading title (Score:5, Informative)
+    by Theaetetus (590071) <danrose.gmail@com> on Tuesday July 24, @09:14AM (#40748215) Homepage Journal
+    According to the judge, the ridiculous part isn't the patents (and feel free to have your own opinions regarding those), but rather the license dispute:
+
+    Apple refused to pay a license fee for the technology that allows phones to conduct multiple tasks including taking calls while uploading photos to the internet, Samsung's lawyer Neil Young said at the start of the trial. Apple was willing to pay and Samsung refused, the Cupertino, California-based company's lawyer Stephen Burley said.
+
+    Apple says "we were willing to pay a license fee, but they wouldn't take it," and Samsung says "they refused to pay a fee." Translation: Apple was okay with paying, but not the price that Samsung wanted. So this isn't so much a patent dispute, as it is just an argument over a license fee... in which case, yes, mediation would be a lot more reasonable.
+     
+          
+     
+        by GNUALMAFUERTE (697061) <almafuerte@gmail . c om> on Tuesday July 24, @09:25AM (#40748365)
+
+        This is bullshit. I don't usually defend faceless corporations, but I do defend the truth. Apple has been attacking samsung for a long time, and since the system is screwed, the only defense samsung has is hitting them back.
+
+        Saying they are at each others throats is bullshit. Apple has been at samsung's (and everybody else's) throat for a long time, and samsung is hitting back.
+         
+              
+         
+                by chrb (1083577) on Tuesday July 24, @09:51AM (#40748689)
+
+                Samsung tried to double dip on Standards Essential Patents.
+
+                Samsung disagree - they say that Qualcomm never even had a patent license - what they did have was a mutual "no-sue" contract which covered their customers, and that was terminated once their customer (Apple) sued Samsung. Given that Apple subsequently approached Samsung to licence these very patents, it would appear that Samsung's interpretation is correct, otherwise why would Apple bother?
+
+                Samsung counsel Neil Young today admitted that Qualcomm, which supplies chips to Apple, had an agreement with Samsung whereby the Korean tech giant would not sue Qualcomm or its customers for infringement on 3G patents. According to court documents, this agreement was first made back in 1993.
+
+                "There was an agreement between Samsung and Qualcomm. That agreement was not a licence agreement. It contains a contractual provision that Samsung would not sue Qualcomm or customers of Qualcomm who apply [the 3G patents]," Young said.
+
+                Samsung stated that this agreement was terminated in April 2011, with notice provided to Qualcomm, when Apple first filed proceedings against the Galaxy Tab in California.
+
+                Samsung sacrificed Qualcomm truce for Apple war [zdnet.com]
+                 
+                      
+                 
+                    by Brannon (221550)
+
+                    Indisputably, then, prior to April 2011; Apple had a legal right to use the patents in question because they were covered by the Qualcomm/Samsung agreement.
+
+                    Lets assume for a moment that Samsung has the right to arbitrarily terminate this agreement without grandfathering in current participants. By their own admission, as soon as they terminated their agreement with Qualcomm then Apple approached Samsung to license the patents in question under FRAND terms.
+
+                    Samsung believes they gave FRAND terms to Apple--App
+                        
+                        by organgtool (966989) on Tuesday July 24, @12:47PM (#40751631)
+
+                            Samsung believes they gave FRAND terms to Apple--Apple disagrees, they believe the terms were too onerous. Apple is asking the courts to set the price.
+
+                        Here we go with another Apple fanboy trotting out the FRAND argument. While the terms of FRAND agreements aren't usually disclosed, it is widely thought that part of the price of a FRAND license is a cross-license patent agreement. Apple, however, doesn't want to cross-license their patents, instead they want to license the FRAND patents by paying slightly more than other companies who did cross-license have paid. They are using the court system to pressure the owners of FRAND patents into such an arrangement. They appear to be doing this because for some reason they feel entitled to be able to use the complex technologies that allow phones to discover proximity to towers, determine the closest tower, connect to the tower, seamlessly transition to other towers, and many other difficult tasks for very little compensation while they wish to retain the right to sue the companies that developed those technologies over Apple's patents for slide to unlock and parsing phone numbers. And somehow Apple fanboys have deluded themselves into thinking that this is Fair and Reasonable to the patent holders of wireless technologies as well as Non-Discriminatory despite the fact that all other FRAND license agreements for those same patents likely required cross-licensing a vast war chest of patents.
+
+                            BTW: the "price" that Samsung is setting is "let us make clones of your tablets and phones"
+
+                        There's your fanboyism showing itself. If by "clone" you mean make a device whose entire functionality depends on being a touchscreen and having such groundbreaking features as rounded corners, phone number parsing, and slide to unlock, then yes Samsung has cloned Apple's products. I'll tell you what: I will concede that Samsung is cloning Apple's products if you can go into an electronics store and identify every flat-panel television in that store by brand without looking at the logo. Until then, stop making this argument as it just makes you look stupid.
+                         
+                              
+                         
+                            by Anonymous Coward
+
+                            Yes, demanding cross-licensing would be completely Fair and Reasonable towards a new entrant without patent portfolio. Point of FRAND is that anyone can walk up to patent holder and get a license for the standard technology on same terms as everyone else.
+                                
+                                by mk1004 (2488060) on Tuesday July 24, @02:33PM (#40753407)
+
+                                Point of FRAND is that anyone can walk up to patent holder and get a license for the standard technology on same terms as everyone else.
+
+                                I think FRAND allows you to get a license for the standard technology on FAIR terms, not the SAME terms as everyone else. If you enter the FRAND agreement w/o a patent portfolio to add to FRAND, it seems fair to me that you should pay more than those who do. They did the work and spent money to develop the technology used in 3G and covered by the patents. If you did not, pay more to those who did.
+                                 
+                                      
+                                 
+                                    by Brannon (221550)
+
+                                    And wanting that to be so doesn't make it true.
+
+                                    Also, Apple has a huge portfolio of LTE patents which are licensed (to all comers) under FRAND terms--so the premise of your argument is also wrong.
+                                        
+                                        by mk1004 (2488060)
+
+                                        And wanting that to be so doesn't make it true.
+
+                                        Also, Apple has a huge portfolio of LTE patents which are licensed (to all comers) under FRAND terms--so the premise of your argument is also wrong.
+
+                                        From wikipedia http://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing [wikipedia.org]
+
+                                        The most controversial issue in RAND licensing is whether the "reasonable" license price should include the value contributed by the standard-setting organization's decision to adopt the standard.
+
+                                        In other words, reasonable license price *might* take into account how valuable your patents are worth. Quality rather than quantity.
+
+                                        A quick search shows claims that Samsung has a strong LTE patent portfolio and there's speculation that that might hurt Apple in the next round for a 4G iPhone. Do you have any sources indicating that Apple actually has a strong LTE patent portfolio relative to Samsung?
+                            
+                            by sgtrock (191182)
+
+                            n/t
+                            
+                            by Brannon (221550)
+
+                            Things are paid for with money. If someone wants to agree to cross-licensing instead of money, that's fine, but what matters is the value (in dollars) of that cross-licensing agreement. That's what sets the standard for fair, reasonable, and non-discriminatory. If Hitachi got access to those licenses by trading intellectual property worth $50M, then Apple needs to pay $50M. On no planet does FRAND now require Apple to hand over a $100B business, that's just retarded.
+
+                            You claim Apple's patents aren't worth th
+                                
+                                by organgtool (966989) on Tuesday July 24, @03:02PM (#40753899)
+
+                                    Things are paid for with money
+
+                                Things are paid for by whatever the parties agree to. This may be money, goods, services, or something more creative.
+
+                                    If Hitachi got access to those licenses by trading intellectual property worth $50M, then Apple needs to pay $50M.
+
+                                Nobody is trading ownership of intellectual property in these agreements. They are simply promising not to sue each other if they happen their products happen to implement something that the other party has patented.
+
+                                    On no planet does FRAND now require Apple to hand over a $100B business, that's just retarded.
+
+                                On what planet did I suggest anything even remotely close to Apple giving up a $100B business? I simply suggested that it is fair that Apple agrees to pay a small fee per device sold and promises not to sue over any functional patents that they own in exchange for using the technologies covered by Samsung's FRAND patents - just like all of the other licensees presumably have done.
+
+                                    You claim Apple's patents aren't worth that much money. It seems to me if they weren't then Samsung wouldn't be trying so hard to get access to them. But whatever, that's what the courts are going to decide.
+
+                                Most of Apple's patents are related to software and cover broad, abstract, and trivial concepts, all of which should make them unpatentable. The only country absurd enough to grant these patents is the U.S. and if the USPTO ever gets its act together, these patents could go away overnight. Samsung is merely trying to use the FRAND patents to protect itself from Apple's onslaught of lawsuits over these frivolous patents.
+                                 
+                                      
+                                 
+                           
+                            by Zontar The Mindless (9002)
+
+                            I will concede that Samsung is cloning Apple's products if you can go into an electronics store and identify every flat-panel television in that store by brand without looking at the logo.
+
+                            Or every laptop PC.
+
+                            Or every electric shaver.
+                        
+                        by chrb (1083577)
+
+                        Indisputably, then, prior to April 2011; Apple had a legal right to use the patents in question
+
+                        No, they didn't have a legal *right*, they just had a contract that stated "we won't sue you as long as you don't sue us". Legally speaking, these are two very different things. The former means they have a patent license and are not infringing. The latter means they don't have a patent license, are infringing, but aren't going to be sued as long as the truce holds (which it didn't).
+                                     
+            by Truedat (2545458)
+            Although the other side to that argument is that according to Apple, Samsung has been constantly at their throats only with a different weapon than the courts. And as an Apple fan I would like a bit of convincing that that this latest act of aggression from Samsung is merely retaliation for earlier acts of aggression from Apple - that's if you aren't just preaching to the choir. Citing some timeline of legal action where Apple is plotted first isn't evidence.
+
+            You see another theory would be that Samsung ar
+               
+                by GNUALMAFUERTE (697061)
+
+                Samsung has been constantly at their throats only with a different weapon than the courts.
+
+                You are absolutely right. Samsung has been attacking apple in a terrible, awful, unethical way. Samsung has actually been attacking apple by putting better looking, more functional, and generally better products into the market. And this, unlike apple's offering, are open, you can install whatever firmware you want into them, you can install any app you want, even if they are not in the market, and they are cheaper!. How dare samsung do such a thing!
+
+                Really, what other "weapons other than the courts" are yo
+                   
+                    by Truedat (2545458)
+                    Ok, but why be obtuse about it, it's well documented that Apple have accused Samsung of copying isn't it? So of course that's the weapon I'm talking about. I'm not saying that Apples accusations have any merit because I've not seen any Samsung products to comment, but that would be the "first strike" from _Apples_ point of view. Don't confuse my analysis of what Apple may be thinking with my own personal opinion of the rights and wrongs of it all.
+
+                    Besides that wasn't event the point I was making: which is
+                        
+                        by GNUALMAFUERTE (697061)
+
+                        
+        
+        by zlives (2009072)
+
+        i think the mediation would take time where one manufac could still sell its product while the other had to wait till its resolved, and in todays market where time to market for a product can make a significant profit difference, a lawsuit may be a way to block both products until its resolved?
+        
+        by MozeeToby (1163751)
+
+        There's no requirement that Samsung gives Apple a license at any price, let alone the price Apple thinks they should pay. And if someone's been busy trying to sue you out of existence in every nation on the planet, how likely would you be to sell them a license?
+            
+            by Theaetetus (590071)
+
+            There's no requirement that Samsung gives Apple a license at any price, let alone the price Apple thinks they should pay. And if someone's been busy trying to sue you out of existence in every nation on the planet, how likely would you be to sell them a license?
+
+            Since the patents in question are part of a communication standard and subject to FRAND licensing, then, yeah, there is a requirement that Samsung give Apple a license, and not at "any" price, but at a Fair, Reasonable, And Non-Discriminatory price. So, their saying "$1 million dollars per phone sold" wouldn't fly.
+
+            And Apple hasn't been trying to sue Samsung out of existence. Who do you think makes the A5 chip in every iPad?
+                 
+        
+        by dbIII (701233)
+        They patented multitasking? Shouldn't something so obvious have expired a decade or two ago? Adding "with wireless" or "while riding a bicycle in a blue tshirt" shouldn't be enough to extend something so obvious, even if that's a old trick with pharma etc patents.
+            
+            by Theaetetus (590071)
+
+            They patented multitasking? Shouldn't something so obvious have expired a decade or two ago? Adding "with wireless" or "while riding a bicycle in a blue tshirt" shouldn't be enough to extend something so obvious, even if that's a old trick with pharma etc patents.
+
+            1) It's an old "trick" with pharma patents because small molecule chemistry is unpredictable. 6-Fluoro-3-piperidin-4-yl-benzo[d]isoxazole is an irritant, but 5-Fluoro-3-piperidin-4-yl-benzo[d]isoxazole is a useful intermediate product for making V1a receptor antagonists. There was a similar one in a court case a few years back - a specific molecule was moderately helpful in curing a disease, and was based on a benzene ring. If you moved the hydroxyl group by one space, it became super efficient at curing th
+         
+    
+    by ravenswood1000 (543817)
+    How much longer will it be before the public stops equating these name brands with lawsuits instead of electronics? As it is right now when I see the name "Apple" in print I cringe.
+      

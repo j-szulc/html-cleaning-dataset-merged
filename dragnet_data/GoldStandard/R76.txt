@@ -1,0 +1,72 @@
+Keep Your Content Fresh With Scoop.it
+Modified on August 31, 2012 by Matt Tschoegl	
+
+Scoop.it is a freemium service (more on that below) that allows you to create a web page to share what you find interesting with the world.
+
+It does that by (1) combining clever curation tools that make it easy to gather content in one place with (2) a reasonably wide range of sharing functionalities to let people know about your page.
+What Can You Do With It?
+
+Here are are some practical ideas that people have already come up with on how to put Scoop.it to good use:
+
+    Create a simple webpage for a single topic.  If you are teaching about a specific topic (a holiday, country, person, etc.) in some depth, you can aggregate articles on the subject matter on one page.  See here about a teacher who used it to make a Ground Hog’s Day page.
+    Publish a magazine for colleagues or like-minded types on what you think are interesting or pertinent topics.  An example can be found here as well as links to other useful web applications.
+    Organizing in one location materials that you might use across different classes.  You can use a Scoop.it page to aggregate educational videos, online quizzes, spelling resources, and other similar stuff.  These guys/gals can show you how to do it.
+    If you are teaching about an active news item, you can use Scoop.it curation tools to create a page that is constantly updated with the latest items on the topic.  Here is more about how to go about doing that.
+    Or use it to create your own lightweight, low-maintenance blog with automated content addition.  Take a look at this Scoop.it page maintained by this teacher.
+
+To get a more general idea of what Scoop.it pages can look like, browse some of them here.
+
+How It Works
+Scoop.it is based around what they call Topics.  A Topic is the page that they generate for you with a permanent URL and title. Each Topic is made up of Scoops.  The Scoops are essentially the articles that make up the content of your Topic.  There are four different ways to create Scoops.
+
+    Scoop from suggested content.  Based on keywords you enter, Scoop.it will recommend content that you might want to add to your Topic.  You can adjust the sources to make sure that it is suggesting the kind of content you would like.
+    Add a web page with their bookmarklet.  If you see a page that you like, you can use the bookmarklet they provide to tag the page and have it added to your Topic.
+    Rescoop from other topics.  When you find material/content that you really like in other Topics, you can add that content to your own Topic by rescoop-ing.
+    Create your own Scoops.  You can create blog-like entries by entering your own title, image, and text.
+
+One you have created your topic, they offer a number of different sharing options: widgets for your website and blog, buttons for your website or blog that link to your Scoop.it profile, an RSS feed for your Topic, or an easy to share Topic URL. If you would also like to use social networking tools to publicize your topic, you can share your scoops by posting to Facebook, Twitter, Linkedin, Tumblr and WordPress accounts.  To know if your Topic is reaching viewers, they also offer some pretty rudimentary tracking of user interactions with your Topic by recording the number of views that it receives daily (for more analytics, you have to pay).
+
+An example of an embedded widget below:
+
+Getting Started
+
+First, create an account with Scoop.it.  They strongly encourage you to use either your Facebook or Twitter account to log in, but if you are not eager to hand over the keys to your social network, there is an option for creating an account with just your name and email address.  They then require you to begin creating your first topic, show you how to install their bookmarklet in your browser bar, and display some popular Topics that you can choose to follow.  After that “guided tour” you can go about really curating your first Topic.
+Want More?
+
+They also offer paid plans which let you get more out of the Scoop.it service.   The primary benefits are in increased control over what you are serving: improved text formatting, hit analytics, branding, and social networking management.
+Do You Use Scoop.it?
+
+Share your page and let us know how you use it in the comments below!
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Anne Mirtschin on September 2, 2012 at 8:06 pm said:
+
+I have enjoyed using scoopit – primarily for its neat magazine look layout, the social aspects of following others and having others suggest scoops for me on my chosen topics. However, I created 7 different scoops and then found out that only three will be free to use. Having read this pose, I have thought It would be great to scoop favourite teacher and class blogs and contain them in a scoop.
+ 	
+
+    Sue Waters on September 2, 2012 at 10:30 pm said:
+
+    Hi Anne, I’ve really struggled to work out if I want to use Scoop.IT.
+
+    I can see why people are using it as a curation tool but it frustrates me on my iPad that I have to do quite a few taps to follow the link to the original article. Maybe I need to get out this frustration?
+
+    What do you think would be useful for others if we used Scoop.It?
+     	
+    Matt Tschoegl on September 3, 2012 at 7:45 am said:
+
+    Hi Anne,
+
+    If you would like a cheap option to create more scoops, they do offer a pretty hefty discount for educators. Check it out at: https://www.scoop.it/subscribe?pc=Edu&token=&sn=&showForm=true
+
+    Thanks,
+
+    Matt
+     	

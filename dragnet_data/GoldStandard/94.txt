@@ -1,0 +1,50 @@
+
+Reading the masters
+
+by John on July 16, 2012
+
+This weekend I ran across a blog post by Federico Pereiro entitled Read the masters. The post opens with a quote from Niels Henrik Abel:
+
+When asked how he developed his mathematical abilities so rapidly, he replied “by studying the masters, not their pupils.”
+
+Someone asked me via Twitter what I thought of this, and my reply took more than 140 characters, so here it is.
+
+I don’t know the context of Abel’s comment. Abel may not have intended it to come across as stark as it sounds of out context and in possibly in translation.
+
+Sometimes the pupils are better expositors than the masters, so the pupils may be worth studying, perhaps as a warm-up to reading the masters. Rather than saying “don’t read their pupils,” I’d put the emphasis on “do read the masters.” At least give them a try. Sometimes the masters are surprisingly easy to read. As C. S. Lewis said of philosophers,
+
+The student is half afraid to meet one of the great philosophers face to face. … But if he only knew, the great man, just because of his greatness, is much more intelligible than his modern commentators.
+
+Read more on Lewis’ quote here.
+
+The second part of Federico Pereiro’s blog post was the advice to plow through an original source rather than seeking something easier. That’s generally good advice, though I wouldn’t be too rigid about it. As W. C. Fields said
+
+If at first you don’t succeed, try, try again. Then quit. There’s no point in being a damn fool about it.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+John Myles White 07.16.12 at 08:34
+
+    I’ve always enjoyed this quote of Abel’s. I think the issues you raise are core to Abel’s vision, but I think there’s another one as well: dilution. The pupils of a great master are often less clearheaded than their master and treat the clever hacks of the master as unconditionally true statements of their school’s dogma. In the process, they dilute the teachings of the master by removing all of the caveats. Samuelson’s 1937 paper on exponential discounting of delayed utility, for example, is filled with caveats that seem to have been lost along the way.
+
+
+ian 07.16.12 at 12:20
+
+    I do agree that reading the masters is a good idea, but I disagree in his choice of masters (or particular choice of essays). Seemed a bit arbitrary.
+
+
+Fredrik Meyer 07.16.12 at 15:23
+
+    There is a Mathoverflow thread about this: http://mathoverflow.net/questions/28268/do-you-read-the-masters . Also, more specialized, see this math.se thread: http://math.stackexchange.com/questions/160983/famous-papers-in-algebraic-geometry.
+
+
+Larry 07.17.12 at 22:46
+
+    Another quote along these lines is from Laplace:
+    “Read Euler, read Euler, he is the master of us all.”
+
+    I think that a modern example of what Abel was saying is Richard Feynman’s “Feynman Lectures on Physics.” The depth of his understanding comes through on almost every page.

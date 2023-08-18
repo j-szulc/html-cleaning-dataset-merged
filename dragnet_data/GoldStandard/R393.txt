@@ -1,0 +1,11 @@
+November 01, 2012
+VNXe Powershell and Performance Stats… Impressive!
+
+I love the impact of the community (and ultimately the individual).   One internal warpath I’m on is to open up more of the APIs and datastructures of the things we build at EMC, and this is an example of why…
+
+Check out how David Muegge, Data Center Architect at Presidio (a great EMC partner BTW) built off the work of Henri (a great VNXe customer) has evolved into some cool tools for performance analysis…
+
+http://muegge.com/blog/?p=172#comment-732
+
+Great work guys!
+

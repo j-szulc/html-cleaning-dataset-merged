@@ -1,0 +1,51 @@
+Shareaholic Shares Traffic Sources Data
+by Daniel Scocco
+
+Shareaholic is the creator of a widget that site owners can put on their websites to allow visitors to share their content on various social bookmarking sites and social networks. Every month they release a report with the main traffic sources and trends they publishers are seeing (combined they receive over 300 million visitors per month).
+
+The October 2012 report is out, and the data is quite interesting. First and foremost because it’s pretty much putting another nail on the StumbleUpon coffin. Here’s a quote:
+
+    Pinterest aside, as far as growth and decline goes this year, the trend that stands out the most this month is around StumbleUpon. StumbleUpon’s share of traffic sent to publisher sites has steadily declined by 53% since July. Additionally, Twitter now outpaces Stumbleupon’s share of traffic by .22%. StumbleUpon recently unveiled a new site design and Pinterest-like “lists” feature which enables content consumers to curate collections of articles they enjoy – but publishers will still have to see if this results in click-throughs and traffic directly to their sites.
+
+A traffic decrease of 50% in three months is quite drastic. I used to like StumbleUpon a lot, but haven’t used it in years. What about you?
+
+Anyway make sure to check the full report as it has a bunch of other data and insights. If you are in a hurry, here are the key points:
+
+    Google obviously leads the referrals list
+    Facebook is the third, after direct traffic
+    Pinterest is fourth
+    Visitors coming from Pinterest are 10x more likely to buy
+    Despite being first the number of visitors coming from Google declined a bit
+
+Related Posts
+
+    What Do My Traffic Sources Indicate?
+    Open Discussion: How Much Traffic Does Social Media Really Generate?
+    What Is Pinterest?
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+    Stephanie on November 7, 2012 12:26 pm
+
+    Useful and interesting overview! One typo – the original article says Pinterest traffic is 10% more likely to buy, not 10x.
+    Ehsan Ullah on November 7, 2012 12:31 pm
+
+    I’ve never came across to ShareaHolic Daniel, Thanks for quite interesting overview.
+    Dean Saliba on November 8, 2012 9:54 pm
+
+    I have not used Shareaholic before but those results are very interesting, StumbleUpon has been slowly dying for a while in my eyes, and so has Digg for that matter.
+    Daniel on November 10, 2012 10:12 pm
+
+    I think I tried the share-a – holic WordPress plugin, though, there were some conflicts with my site, or possibly other plugins….
+
+    May need to look at the plugin again.
+
+    Stumbleupon has been doing a little self promo lately(via email to members) not the usual “what you may like to Stumble-read” type of emails. This may be due to their current slump in growth…..
+

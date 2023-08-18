@@ -1,0 +1,7 @@
+The AWS Report - John Smiley Discusses RDS Provisioned IOPS
+
+For this episode of The AWS Report, I interviewed John Smiley, Principal Database Engineer on the Amazon RDS team, to learn more about the new Provisioned IOPS feature for RDS:
+
+We discussed use cases and scalability, and the fact that you can add additional IOPS to a running database while it is running if your needs change. Watch it and let me know what you think!
+
+-- Jeff;

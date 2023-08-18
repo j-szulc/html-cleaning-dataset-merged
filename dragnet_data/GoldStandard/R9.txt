@@ -1,0 +1,193 @@
+Spanner - It's About Programmers Building Apps Using SQL Semantics at NoSQL Scale
+Monday, October 22, 2012 at 9:15AM 
+
+A lot of people seem to passionately dislike the term NewSQL, or pretty much any newly coined term for that matter, but after watching Alex Lloyd, Senior Staff Software Engineer Google, give a great talk on Building Spanner, that’s the term that fits Spanner best.
+
+Spanner wraps the SQL + transaction model of OldSQL around the reworked bones of a globally distributed NoSQL system. That seems NewSQL to me.
+
+As Spanner is a not so distant cousin of BigTable, the NoSQL component should be no surprise. Spanner is charged with spanning millions of machines inside any number of geographically distributed datacenters. What is surprising is how OldSQL has been embraced. In an earlier 2011 talk given by Alex at the HotStorage conference, the reason for embracing OldSQL was the desire to make it easier and faster for programmers to build applications. The main ideas will seem quite familiar:
+
+    There’s a false dichotomy between little complicated databases and huge, scalable, simple ones. We can have features and scale them too.
+    Complexity is conserved, it goes somewhere, so if it’s not in the database it's pushed to developers.
+    Push complexity down the stack so developers can concentrate on building features, not databases, not infrastructure.
+    Keys for creating a fast-moving app team: ACID transactions; global Serializability; code a 1-step transaction, not 10-step workflows; write queries instead of code loops; joins; no user defined conflict resolution functions; standardized sync; pay as you go, get what you pay for predictable performance.
+
+Spanner did not start out with the goal of becoming a NewSQL star. Spanner started as a BigTable clone, with a distributed file system metaphor. Then Spanner evolved into a global ProtocolBuf container. Eventually Spanner was pushed by internal Google customers to become more relational and application programmer friendly.
+
+Apparently the use of Dremel inside Google had shown developers it was possible to have OLAP with SQL at scale and they wanted that same ease of use and time to market for their OLTP apps. It seems Google has a lot of applications to get out the door and programmers didn’t like dealing with real-world complexities of producing reliable products on top of an eventually consistent system. 
+
+The trick was in figuring out how to make SQL work at truly huge scales. As an indicator of how deep we are still in the empirical phase of programming, that process has taken even Google over five years of development effort. Alex said the real work has actually been in building a complex reliable distributed systems. That’s the hard part to get correct.  
+
+With all the talk about atomic clocks, etc., you might get the impression that there’s magic in the system. That you can make huge cross table, cross datacenter transactions on millions of records with no penalty. That is not true. Spanner is an OLTP system. It uses a two phase commit, so long and large updates will still lock and block, programmers are still on the hook to get in and get out. The idea is these restrictions are worth the programmer productivity and any bottlenecks that do arise can be dealt with on case by case basis. From the talk I get the feeling over time, specialized application domains like pub-sub, will be brought within Spanner's domain. While the transaction side may be conventional, except for all the global repartitioning magic happening transparently under the covers, their timestamp approach to transactions does have a lot of cool capabilities on the read path.
+
+As an illustration of the difficulties of scaling to a large number of replicas per Paxos group, Alex turned to a hydrology metaphor:
+
+    You could use a Spanner partition as a strongly ordered pub-sub scheme where you have read-only replicas all over the place of some partition and you are trying to use it to distribute some data in an ordered way to a lot of different datacenters. This creates different challenges. What if you are out of bandwidth to some subset of those datacenters? You don’t want data buffered in the leader too long. If you spill it to disk you don’t want to incur the seek penalty when bandwidth becomes available. It becomes like hydrology. You have all this data going to different places at different times and you want to keep all the flows moving smoothly under changing conditions. Smoothly means fewer server restarts, means better latency tail, means better programming model.
+
+This was perhaps my favorite part of the talk. I just love the image of data flowing like water drops through millions of machines and networks, temporarily pooling in caverns of memory and disk, always splitting, always recombining, always in flux, always making progress, part of a great always flowing data cycle that never loses a drop. Just wonderful.
+
+If you have an opportunity to watch the video I highly recommend that you do, it is really good, there’s very little fluff at all. The section on the use of clocks in distributed transactions is particularly well done. But, in case you are short on time, here’s a gloss of the talk:
+
+    5 years of effort.
+    SQL semantics at NoSQL scale.
+    Trying to get an abstraction that looks like a single giant MySQL.
+    Relational databases a very familiar and productive environment to build apps in.
+    Spanner is an existence proof that is possible to scale a relational database to a global distributed storage system.
+    Write your app without thinking about transaction semantics. Just get it right. Then you go back and optimize a few high transaction writes, where the optimization will really pay off.
+    Wanted to offer really straightforward semantics to app developers. App developers should be thinking about business logic and not concurrency.
+    They way they did this was by building clocks with bounded absolute error. Then integrated them with timestamp assignment in concurrency control:
+        Total order of timestamps respects the partial order of transactions. If transaction A happens before transaction B we know transaction A’s timestamp is smaller than transaction B’s timestamp.
+        This implies efficient serializable queries over everything. You can add up to the penny your petabyte database that spans dozens of datacenters. It might take awhile to fetch all the data. But you can expect your answer to be correct.
+    BigTable early NoSQL database. Paper came out in 2006.
+    MegaStore was built on top of BigTable. It added a Paxos synchronization layer and a richer data model. Paper came out in 2011.
+    Spanner in its low level architecture looks alot like BigTable. Updates are appended to logs that live in a datacenter local distributed file system. Periodically they are compacted into immutable b-trees (SSTables) and periodically those SSTables are merged together. Leveldb is an Open Source version.
+    Developers must still think about how to partition data for efficiency, but as much as possible developers should concentrate on business logic.
+    Goal was no down time for data repartitioning. Everything Google does is racing with data movement because moving users between datacenters and resharding is a continuous background activity. Because it is a continuous process all kinds of concurrency bugs kept arising. Transactions helped get their constant repartition stream logic right. Before they had transactions they had a lot of bugs, which is part of why it took 5 years.
+    Wanted programmers to be less bound by partitioning decisions they made early in the design process.
+    Wanted to capture the most successful part of Megastore:
+        Handle large scale datacenter outages without user visible impact.
+        Handle smaller outages, little micro outages internal to a cell. Examples: outage of underlying tablet because it was overloaded or corrupted, power went out on just one rack, etc.
+        Users might see a latency bump as a timer fires and they move over to a different datacenter, but they see no impact on the semantics of the transaction.
+    But Megastore had some problems:
+        The database is partitioned into a bunch of entity groups. Entity groups are their own transaction domain, you can’t do transaction across entity groups.
+        It uses optimistic concurrency. When replicas are spread 50 msecs apart and you are doing synchronous replication the writes will take at least 50 msecs which creates a large vulnerability window for optimistic concurrency failures.
+        Benefits to consolidating layered system into a single integrated system. The interface between Spanner and the physical storage is much richer and more optimized than the interface between Megastore and Bigtable.
+    Cultural shift to SQL
+        SQL based analytics system Dremel made a lot of SQL converts at Google because of it’s power to push the semantics of your query down into the storage system and let it figure out what to do.
+        The culture is so ingrained that you can have scale or you can have SQL. Dremel showed that for analytics you can have both. Spanner shows you can have both for OLTP.
+    Business concerns drove the requirement for easier geographic partitioning. For example, moving user data from one region to another.
+        Legal concerns
+        Product growth means you want to be as efficient as possible how many people you want to put where
+    Spanner’s Data Model
+        Did not always have a relational model. Quite different than what Jeff Dean presented in 2009.
+        Example with a single relational table of Users, each user has a name and home region.
+        The User database can be divided into a couple partitions. One read-only partition in the US and another partition in Europe. A large database will have millions of partitions. Partition 1 will have three replicas in the US. The other partition has three replicas in Europe. There’s a read-only replica in the US. This is useful so you can have a write quorum in Europe which means you are never blocking on transatlantic RPC calls yet you can still query all the data, though it might be a bit old, in the US.
+        Master detail hierarchy is physically clustered together. More important on a distributed system where the odds would be the records would be stored on some other server.
+        Underneath the relational abstraction is how programmers might hand encode the keys into Bigtable. Each table cell just an entry like:
+             
+                Customer.ID.1.Name@11 -> Alice
+                Customer.ID.1.Name@10 -> Alize
+                Customer.ID.1.Order.ID.100.Product@20 -> Camera
+                Customer.ID.2.Name@5 -> Bob
+            The @10 part is the time stamp.
+            Orders for Alice will be stored with Alice before the Bob record begins.
+    Concurrency
+        At a high level Spanner uses a combination two-phase locking and snapshot isolation.
+        Didn’t try to create a crazy new model. Goal with to figure out how to scale proven models.
+        This model is best for read dominated workloads. You spend most of your time in cheap snapshot isolation reads and not a lot of time with pessimist transaction writes.
+        Blogger example of worrying about correctness first, optimization later.
+            Blogger has 280 servlets. Low frequency high complexity operations, like user creates a blog by sending a text message, then they want to merge that blog into an existing blog.
+            It took an embarrassing amount of time to create this as a series of idempotent operations orchestrated by an elaborate work flow.
+            With ACID transactions Blogger would have been faster. Time spent on these complicated programming tasks with no performance benefit could have gone into shaving 50msecs of some high frequency page with a much bigger overall impact.
+        Same process as programming on a single machine. You start with mutexes and only then do you try atomic operations.
+        NoSQL databases that only enforce weak consistency are enforcing a broadly applied premature optimization on the entire system. It should be opt-in for the pages where it is worth it.
+    Preserving commit order on a pattern Google sees a lot
+        Rule of thumb they think about during the design:
+            If T1 finishes before T2 then they want preserve that fact. There’s a commit order dependency between T2 on T1.
+            Say T3 wrote something T4 reads, so there’s a traditional data dependency, so T3 must always happen before T4.
+            T1 and T2 have no relationship between T3 and T4.
+            System performance comes from running transactions concurrently that don’t have dependencies.
+            Goal is to preserve the same dependency order as the original history.
+            Serializability is an overloaded term with a large number of variations.
+            Linearizability is an idea borrowed from concurrent programming and applies well to programming a distributed system on top of a distributed database.
+                Includes serializability and can’t commute commit order.
+                Even when there’s no detectable dependency, if a transaction happens before another that order must be preserved, even when it happens across different machines.
+        Example schema:
+            One partition is table of purchased ads. Write quorum in the US and a read-only replica in Europe.
+            One partition in the US of impressions of these ads. At 2:00 and 2:01 someone viewed a puppies ad, for example.
+            One partition in Europe for the impression of ads.
+            There’s a read-only replica of data from Europe in the US and vice versa. This allows both sides to have stale reads and fast writes without crossing the pond. You could still to a MapReduce efficiently on either side.
+        Example transactions:
+            Transaction 1: a user buys an ad.
+            In the background the ad serving system is continually scanning the partition for ads to show, sending a retrieve ads query.
+            The ad serving system accumulates over time a batch of impressions that it wants to save in the database.
+            Transaction 2: as server writes to impressions partition to record the impressions.
+            These are two different partitions, different replicas, different datacenters, potentially different continents.
+        Now you want write a SQL query to audit the impressions at the hour level. Pick a timestamp.
+            There are only three legal outcomes depending on the timestamp:
+                Sees neither the ad or the impressions.
+                Sees the ad but no impressions.
+                See both the add and all impressions.
+            In all the systems they are replacing the MapReduce or the Query has to tolerate an infinite variation of results.
+                It might see the impressions but not the ad.
+                Writing a query against such weak semantics means it’s difficult to tell the difference between corruption or a bug or concurrency anomaly.
+            The way around this was to serialize every update through a single central server. Works if updates are located together, but does not work in a decentralized model where partitions are all over the world.
+    Options for scaling Spanner’s desired semantics in a global distributed database:
+        One partition model. Lots of WAN communication. Involve all partitions in every transaction.
+        Centralized timestamp oracle. Doesn’t work well if you have updates happening on two different continents at the same time.
+        Lamport clocks. Propagate the timestamp through every external system and protocol. This works if you have few enough systems and few enough protocols, doesn’t work so well when you have a huge legacy of different distributed systems or protocols that you don’t control, like with trading partners or they are just protocols you would rather not touch. Tried several times at Google but were never successful at threading timestamps all the way through a complicated system.
+        Build a distributed timestamp oracle. Had one of these already, TrueTime, produced from a general time cleanup at Google. Time has a time an epsilon so you know the real-time of when you made that now call is somewhere within that interval. Derived from GPS receivers in a bunch of different datacenters, which are backed up by atomic clocks. The GSP system does sometimes have bugs. One code push took down a bunch of satellites so the backup is useful.
+    TrueTime
+        The target invariant: with write A and B, if A happens before B, meaning A finishes before B starts, then A should have a smaller timestamp than B. Finishes means anyone could see the effects. Not just a client, but of a Paxos slave too.
+            With this invariant it means you can say that snapshot reads at a particular timestamp are serializable.
+        TrueTime works analogously to celestial navigation, except that is hard error bounds instead of just guessing.
+        A time daemon in every Google server, every server has a crystal, every datacenter has a few time masters with GPSs from different manufacturers for bug diversity, some of them have atomic clocks to crosscheck the GPSs.
+        Every 30 seconds the daemon talks to the time masters and gets a time fix. in between it dead recons based on its own crystal. The server error margin widens over time, they picked 200 parts-per-million.
+        What time is it? Read time on local machine. Send GetTime to the time master. Return time is T. Read local server time again. You get some delta. Then you dilate that delta for whatever error margin you think is necessary. Back comes an epsilon. Now you can say time is in [t t+e)]. Time is not early than t because there’s a causal relationship from the time master reporting t from your receiving his response. But there’s a lot of slop because it’s possible that message was sent epsilon ago. You don’t know where in the round trip t was generated. The dominant error before it starts drifting is the round trip time to the masters.
+        You can build other systems for distributing time other than GPS. For example, have a blinking LED and pulse a clock to all systems. Use a heartbeating system that periodically talks to a central server and inbetween those heartbeats all of your servers think time is stationary. GPS is there and it works. Atomic clocks are a convenient cross check. And none of the hardware is that expensive.
+    Flow of a Paxos leader for a partition when it receives a commit request from a client
+        Receives a start commit.
+        Acquires transaction locks. Typical of any two phase commit system. Grab read and write locks to make sure conflicting transactions are not executed simultaneously.
+        Pick a time stamp so that the true now.max is greater than the current time.
+        In parallel do two things: run Paxos to get consensus on whatever the write was, wait until the true time is definitely past that write timestamp.
+        Typically Paxos will take longer than the wait so it adds no extra overhead.
+        Notify Paxos slaves to unlock.
+        Ack back to the client.
+    Why does this work? By waiting until the commit timestamp is in the past we are pushing all future transactions into the future into bigger timestamps. The next transaction is guaranteed to have a timestamp bigger than the previous transaction. Every transaction agrees to pick a timestamp that’s bigger than it’s start point and every transaction agrees to defer its commit until its own commit timestamp is in the past.
+        When Paxos goes too quickly or just one replica and you are just committing to local disk the TrueTime epsilon can be large compared to what it would take to commit the write otherwise.
+        Happens when TrueTime epsilon has spiked, as in the case when TrueTime masters have gone down and you have to go to a more remote TrueTime master. Or when Paxos replicas are unusually close.
+        Real world epsilon bounces between 1-7ms.
+        Tail latency went down when networking was improved by having time packets at a higher QoS. < An argument for SDN, having control packets like time and Paxos at a higher QoS through the system.
+        Reduce epsilon by polling time masters more often, poll at a high QoS, improve kernel handling, record timestamps in NIC driver, buy better oscillators, watch out for kernel bugs (power savings mode, which clock you are using).
+
+Read Path
+
+    Kinds of reads:
+        Within read-modify transaction looks like it does with standard two phase locking except that it is happening at the Paxos leader. Acquire a read lock.
+        Strong reads that are not part of a transaction, where a client will not write based on the reads. Spanner will pick a bigger timestamp and read at that timestamp.
+        Boundedly-stale reads for when you just want to know your data is 5 or 10 seconds old. Spanner will pick the largest committed timestamp that falls within your staleness bounds.
+        MapReduce / batch read - don’t care if data is fresh. Let the client pick a timestamp and say I want to know everything as of noon, for example.
+    Picking timestamps for strong reads:
+        Ask TrueTime what is a time bigger than now. You know that is also bigger than the commit timestamp of all previously committed transactions. Not always the best timestamp to pick because you want to maximize the replicas that are capable of serving the read at that timestamp.
+        Look at commit history. Pick a timestamp from recent writes.
+        Forced to declare the scope of the read up front. For example, these 5 users and this range of products. The idea of scope is above the idea of partitions.
+        Prepared distributed transactions. Because a distributed transaction has to commit at the same timestamp on every partition there is an uncertainty window where you don’t what data is going to commit a timestamp for certain objects.
+    Principle for effective use:
+        Data locality is still important. Reading a bunch of stuff from one machine is better than reading from a bunch of machines. Put customers and orders in the same partition.
+        Big users will span partitions, but there’s no semantic impact at the transaction level when crossing partitions.
+        Design app for correctness. Deal with the hundreds of nitty gritty corner cases that just need to work, that don’t need to be that fast.  For example, how many times a day do you change your gmail filters?
+        Relax the semantics for carefully audited high-traffic queries. Maybe there are cases where a boundedly-stale read will do. The further you can read in the past the more replicas will be able to serve that read.
+        Default semantics in Spanner is that they are linearizable.
+        Using flash backing would allow for millisecond writes.
+    First big user: F1
+        Migrated revenue-critical shared MySQL instances to Spanner. Big impact on Spanner data model. F1 needed a giant MySQL.
+        Spanner started out as Son of BigTable
+            Included a lot of forked BigTable code, with a distributed file system metaphor. You had a tree of directories and each directory was a unit of geographic placement. That doesn’t relate to someone building a database.
+            They added structured keys but in the end they were just building the next Megastore.
+            They decided Spanner needed a richer data model, deciding Spanner was a store for protocol buffers. Spanner would be a giant protocol buffer. This seemed reasonable, but again, it was not how users modeled data.
+            They decided F1 was a better model so they moved in the end to a relational data model. 
+
+What are they doing now?
+
+    Polishing SQL engine. Timestamps plus iterator position is enough information to restart a cross partition query. If a query will take a minute and in that minute a load balancer moves a tablet you depend on to a different server, or that server is preempted because you are running in a shared cell and the preemption forces those tablets to move, the query does not have to be aborted and the work doesn’t have to be tossed. Moving servers like this is hard to make work, but it’s really valuable to users.
+    Fine grained control over memory usage so you don’t create a distributed deadlock where when a bunch of servers are all depending on each they all need memory to make progress and they all need to make progress to free that memory.
+    Fine grained CPU scheduling. Keep fast queries fast even when a big query that is hoplessly slow comes in. The hopelessly slow query should be timesliced to make the fast queries stay fast. Keep latency tails in.
+    Strong reads based on snapshot isolation are still pretty green. Those are entering production in incrementally more use cases. 
+    Scaling to large numbers of replicas per Paxos group. You could use a Spanner partition as a strongly ordered pub-sub scheme where you have read-only replicas all over the place of some partition and you are trying to use it to distribute some data in an ordered way to a lot of different datacenters. This creates different challenges. What if you are out of bandwidth to some subset of those datacenters? You don’t want data buffered in the leader too long. If you spill it to disk you don’t want to incur the seek penalty when bandwidth becomes available. It becomes like hydrology. You have all this data going to different places at different times and you want to keep all the flows moving smoothly under changing conditions. Smoothly means fewer server restarts, means better latency tail, means better programming model.
+
+Q&A
+
+    How do you prove there are no dependencies between transactions? Say someone emails some data to a person and that person clicks on a link based that data that causes a write in another datacenter. It’s very hard to say there is no causal dependency between transactions in two different centers. And they want you to be able relate the ordering of transactions across the whole system on the assumption that there could be causal dependencies between them.
+    Room for eventual consistency and transaction models.
+        Mobile is a case where users are updating local caches and the data makes it’s way back to the servers so you can’t depend on transactions, you have to have some sort eventual consistency mechanism to merge changes and handle conflicts.
+        Google docs allowing concurrent editing is another case. You have five windows open and they are each making local updates. Those updates are asynchronously bubble back to the server. An operational transforms algebra for merging the updates is applied and only then are those updates applied to the canonical copy of the database.
+
+
+!@#$%^&*() COMMENTS
+
+
+
+
+Great post Todd. The approaches are merging!
+October 22, 2012 Ben Stopford
+

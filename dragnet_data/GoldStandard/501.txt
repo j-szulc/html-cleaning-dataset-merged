@@ -1,0 +1,32 @@
+
+Apple: Samsung, you owe us $2.5B in damages
+
+Battling with Samsung in the U.S. over patent issues, Apple reckons that the amount of damages it's due should come in at a cool $2.5 billion.
+
+by Lance Whitney
+July 24, 2012 7:26 AM PDT Follow @lancewhit
+
+Apple is looking for Samsung to fork over $2.5 billion to settle patent infringement claims in the U.S.
+
+That's the latest figure bandied about by Apple in the ongoing patent infringement saga between the two companies. But how did Apple cook up such a figure?
+
+Fleshed out by Foss Patents' Florian Mueller, the amount is based on the per-unit royalties that Apple believes it is due from Samsung as part of the intellectual property rights lawsuit.
+
+Drilling down the price tag per unit, $2.02 covers the "overscroll bounce" technology cited in the '318 patent. That technology lets users know when they've reached the bottom of a screen or list by responding with a bounce.
+
+Another $3.10 covers the "scrolling API" technology from the '915 patent. Another $2.02 is for the "tap to zoom and navigate" feature from the '163 patent. And finally, $24 covers the use of any of Apple's "design patents or or trade dress rights."
+
+Overall, that means the damages cover both design and technology, but the bulk of the $2.5 billion is more about design.
+
+Mueller provided further insight into Apple's calculations and thought process by sharing the public redacted version of the initial trial brief below:.
+
+    Samsung adopted as its number one goal to [redacted] in the smartphone and tablet markets, and it chose to compete by copying Apple. Samsung's infringing sales have enabled Samsung to overtake Apple as the largest manufacturer of smartphones in the world. Samsung has reaped billions of dollars in profits and caused Apple to lose hundreds of millions of dollars through its violation of Apple's intellectual property. Apple conservatively estimates that as of March 31, 2012, Samsung has been unjustly enriched by about [redacted; presumably $2 billion] and has additionally cost Apple about $500 million in lost profits. Apple also conservatively estimates that it is entitled to over $25 million in reasonable royalty damages on the proportionately small set of remaining sales for which it cannot obtain an award of Samsung's profits or Apple's own lost profits, for a combined total of $2.525 billion.
+
+The battle between the two began when Apple filed a lawsuit against Samsung in California, alleging that the company had copied the "look and feel" of the iPad and iPhone for its own Galaxy devices. Samsung soon took the fight overseas by filing countersuits in various countries.
+
+Each company has scored its own victories in the overall war. Apple was recently ordered by a U.K. court to run ads saying that Samsung didn't copy the iPad. But Samsung continues to suffer from bans on certain products. A German court has ruled that an existing sales ban on the Samsung Galaxy Tab 7.7 should be extended across the entire European Union.
+
+Despite efforts by U.S. District Judge Lucy Koh to convince the combatants to settle out of court, a truce seems unlikely at this point. A trial is scheduled to kick off on July 30 in federal court in San Jose, Calif.
+
+CNET contacted both Apple and Samsung for comment and will update the story if we get more information.
+

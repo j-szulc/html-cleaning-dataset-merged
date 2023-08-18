@@ -1,0 +1,29 @@
+2012 Hyundai Veloster Six-Month Road Test: Pandora Audio Streaming
+
+Over the time we've had our High Gear Media long-term Hyundai Veloster test car, we've enjoyed a whole suite of entertainment services that aren't typically wrapped into a vehicle that has a bottom-line sticker of just $22,645. One of them is the capability to stream Pandora Internet Radio from an iPhone or other smartphone handset—using the data coverage for that phone, and allowing the entertainment touch screen to control and display features and track information.
+
+We've streamed quite a few hours of Pandora, over a period of months, using several different handsets—all iPhone models—and found the service's buffering able to make it through brief areas where the signal strength is less than optimal. Sound quality is quite good when the signal is strong. And when it's not, we've heard it change, almost seamlessly, to a lower bitrate due to slower data speeds, and then back again when the data coverage was better. As with most Pandora applications, we wish the app allowed the ability to create new stations while paired.
+
+While Pandora integration works best in the 2012 Hyundai Veloster (or 2013 Hyundai Veloster, as the system hasn't significantly changed) by plugging the iPhone in to the vehicle's system through a USB cable in some models, like Cadillac XTS and ATS models and their CUE system, Pandora in the Veloster is quite the opposite, and it only works (with all of its features) over Bluetooth audio streaming.
+
+And what that means, we've found out a few times, is that you run your phone's battery down much faster.
+
+Three ways of using Pandora, each somewhat flawed
+
+Pandora playing over Bluetooth audio - in 2012 Hyundai Veloster
+Enlarge Photo
+Provided you're not making any calls, Bluetooth audio streaming seems to use between 10 and 20 percent of an iPhone's charge per hour, we've noted. That's not bad, but it creates an interesting dilemma: You can plug the iPhone in with the USB port once Pandora is running, but then the system identifies the sound source only as generic Bluetooth audio streaming, pulling the song title but nothing else, and leaving you to select stations or skip songs by glancing down and using the handset.
+
+Pandora audio streaming warning - in 2012 Hyundai Veloster
+Enlarge Photo
+On the other hand, you can launch Pandora on the infotainment screen when the phone is already plugged in. Initially, that gets you a warning screen requesting that you unplug the phone; but if you ignore that, it keeps playing Pandora but cycles to an 'iPod' mode, where we found we'd get the best sound quality of all—slightly less compressed and dithered than in either of those other modes.
+
+The workaround
+
+Pandora audio streaming - in 2012 Hyundai Veloster
+Enlarge Photo
+Considering all those pros and cons—the want to have full control through the touch screen, as well as full displays of track information, but the want to save battery power for calls—we've been left with an odd workaround for longer drives: Plug the phone into either the 115-volt AC adapter that was included with our car's Tech Package, or via an adapter and DC power port (cigarette-lighter socket), and use the app as it was intended, over Bluetooth. That way you can keep your charge, and enjoy the app for a few hours if you want to—if you don't need to worry about how much data you use.
+
+ 
+
+For all the latest updates on the Six-Month Road Test Hyundai Veloster be sure to follow us on Twitter and become a fan on Facebook after you subscribe to our YouTube channel.

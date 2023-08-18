@@ -1,0 +1,21 @@
+Wasting Money On Unnecessary Trial Endpoints
+
+By Ed Silverman // November 6th, 2012 // 10:07 am
+
+Nearly one out of every five procedures performed during later stage clinical trials – or more precisely, 18 percent – collect extraneous data and cost drug developers $1.1 million per trial, according to a new study. The money, in case you were wondering, is spent on direct costs to administer procedures for supplementary secondary, tertiary, and exploratory endpoints.
+
+This is the second such study released by the Tufts Center for the Study of Drug Development in recent months to emphasize a finding that the pharmaceutical industry may be spending money unnecessarily during the course of running clinical trials. A study released in July found that data gathered from roughly 25 percent of procedures administered to patients are not needed and may be traced to as much as $5 billion in trial costs annually (back story).
+
+The latest study extends the conversation after finding that, on average, 22.3 percent of all clinical trial procedures are considered to be so-called non-core, including 17.7 percent of Phase II procedures and 24.7 percent of Phase III procedures. In other words, a big chunk of trial work may not be essential to proving a point, or so Tufts suggests.
+
+And more than half of all procedures, or 54.3 percent, to be specific, of Phase II procedures and 47.9 percent of Phase III procedures, support primary and key secondary endpoints. The typical clinical trial protocol has an average of 13 endpoints, with the number of less essential endpoints per protocol nearly doubling the average level observed 10 years ago.
+
+The report notes that the “impetus to collect these data is strong.” How so? Drugmakers gather the data to interpret findings, guide development decisions, support adherence to protocols and design practices, and anticipate requests from regulatory agencies, purchasers, and payors, according to Tufts.
+
+A related reason, of course, is to emphasize findings that, while not essential to the study mission, allow a drugmaker to boast that its treatment is safe or effective in some way. This is called finding the silver lining. Unfortunately, some drugmakers have issued statements that greatly emphasize secondary findings even when primary endpoints met with failure.
+
+A few other nuggets: the typical Phase II and III protocols have a median of 192 and 147 procedures, respectively. And Phase II protocol complexity, as measured by the number of procedures and work burden, has grown at a faster rate than Phase III protocol complexity, as sponsors look to collect more data in earlier phase studies, the Tufts team writes.
+
+The typical Phase III study involves nearly 200 investigative sites and 600 patients from 34 countries. More than 929,000 data points are collected from an average Phase III study – nearly 2.5 times the volume of data collected from a typical Phase II study. Why? Tufts maintains this is due to the number of patients enrolled.
+
+benjamins pic thx to amagill on flickr

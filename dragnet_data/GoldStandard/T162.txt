@@ -1,0 +1,101 @@
+First color 360-degree panorama from Curiosity
+
+
+The engineers and scientists at JPL released the first color panorama of Mars taken by Curiosity today! Here it is:
+
+This view is made up of hundreds of small (144 x 144 pixel) thumbnails, so it’s not as high res as the images we’ll see soon, but it’s still very cool. I had to shrink it massively to fit the blog, so click it to see the full-blown 3600 x 750 pixel picture.
+
+You can see parts of the rover around the bottom (remember that this is a bit oddly formatted since it’s showing the entire 360° view unwrapped into a rectangular frame), including a wheel at the right. In the middle bottom is the shadow of the mast where the NAVCAMs are (the cameras that took this panorama); that was raised yesterday and appears to be working great. You may be able to see that the surface of the planet is a bit brighter around the mast shadow; that’s an optical effect called heiligenschein – literally, "halo" or "holy shine" – and is common when you look at rough, sandy surfaces. Basically, the sand and dust preferentially reflect sunlight back in the direction it came, so the surface looks brighter around the shadow of your head (or in this case, the mast). Also, due to the viewing angle, you don’t see shadows around rocks and such on the surface in that direction, so it makes the ground appear brighter.
+
+One thing I want to show in detail though is the patch of Martian surface to the upper right:
+
+This is pretty interesting! The ground may have been disturbed by the rocket exhaust from the skycrane as it hovered over the surface and lowered the rover to the ground. What’s revealed here is pure Mars, though! The red color of the planet comes from iron oxide – rust! – in the form of very fine grain dust, like talcum powder. The rocks tend to be basaltic, a grayer color, but they can appear red if they are coated in a layer of the finer dust. If the dust gets blown off, you can see the blue-gray basalt underneath. That happens when dust devils whirl across the landscape, for example, leaving gray curlicues on the reddish-ochre fields.
+
+Under these rocks and dust appears to be bedrock, the floor of Gale crater. Some long-ago impact craved out this 150-km-wide pit, overturning gigatons of rock and basically laying out a geographic history of Mars. That’s one big reason this site was chosen; we get all that for free just for going there. And there appears to be lots of evidence of water flow here eons ago; the way the rocks are distributed indicates flowing liquid, for example.
+
+Mind you, as amazing as this image is, it’s still low res! We’ll be getting more and better pictures as time goes on. And never forget: this was sent by a one-ton nuclear-powered (soon to be) roving laser-eyed chemistry lab set down on another world 250 million kilometers (150 million miles) away!
+
+Oh, the things we do.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Roger Weeks Says:
+August 9th, 2012 at 1:11 pm
+
+Fixed image, thanks!
+2.   Aleksandar Says:
+August 9th, 2012 at 1:26 pm
+
+I have a question to ask. Is this a real color camera and if it is, how come the sky is not pink as we are used to see in prior missions? At best it looks grey to me, if not blue. Ish. Could someone explain this to me?
+3.   thetentman Says:
+August 9th, 2012 at 1:26 pm
+
+very cool, thank you Phil
+4.   Dan_Veteran Says:
+August 9th, 2012 at 1:31 pm
+
+What is NASA hiding in the blacked out sections? Maybe the studio camera or the director’s chair. : )
+
+Seriously, why are there large black sections? Is it caused by the panorama effect or blind spots in the camera?
+
+Great pic.
+5.   Steve (treelobsters) Says:
+August 9th, 2012 at 1:52 pm
+
+On previous missions, I’ve seen separate R G and B images in JPL’s raw image archive. Not seeing that this time; some of the raw images are in color. Are they transmitting them from Mars as full-color images now? And does that mean they’re also using a full-color detector in the cameras instead of taking three sequential images and swapping filters?
+6.   Kullat Nunu Says:
+August 9th, 2012 at 1:59 pm
+
+Yes, unlike all previous missions, the MastCam camera snaps true color pictures.
+7.   Wzrd1 Says:
+August 9th, 2012 at 2:00 pm
+
+According to the MSL homepage, it is exposed bedrock that was cleared of dust by the sky crane rockets.
+The site also has a nice shot of before and after images of where the tungsten ballast weights impacted (no idea WHY they used tungsten).
+8.   The Bobs Says:
+August 9th, 2012 at 2:04 pm
+
+@7 (no idea WHY they used tungsten)
+
+I presume it was density.
+9.   Chip Says:
+August 9th, 2012 at 2:05 pm
+
+Great views! A couple of questions:
+If the red dust were hypothetically removed from all the basaltic rocks on Mars, the planet would likely appear a kind of grey-green from space?
+
+Even though Mars has been bathed in higher radiation levels for millions of years due to the absence of a magnetic field, this does not necessarily mean that Martian soil itself is highly radioactive?
+10.   Georg Says:
+August 9th, 2012 at 2:08 pm
+
+(no idea WHY they used tungsten).
+@Wzrd1 :
+because tungsten is much cheaper than gold,
+both would have done the job almost identical:
+density about 19.5 g/cm³
+Georg
+11.   AndresMinas Says:
+August 9th, 2012 at 2:08 pm
+
+@ Kullat Nunu #6
+
+If it does, why the robot’s tire (below right of the picture) not black in color?
+12.   FMCH Says:
+August 9th, 2012 at 2:22 pm
+
+Maybe it’s just me, but I’m thinking a nice golf resort would look really good on that land in the upper right corner.
+13.   David Says:
+August 9th, 2012 at 2:24 pm
+
+Sadly, the ash piles are where Mars’ last four Martians stood to welcome Curiosity.
+14.   Muz Says:
+August 9th, 2012 at 2:32 pm
+
+Awesome!. I wonder if they’ll bother visiting the landing debris sites?
+

@@ -1,0 +1,46 @@
+October 24, 2012
+Emotional experience through a gameplay world
+
+The nature of our terms affects the nature of our observations.
+                                                                                    --Kenneth Burke
+
+We need a better way to write about games. I don’t mean a new form of journalism. I’m not seeking the Lester Bangs or Pauline Kael of video games. My point is much simpler.
+
+We need more words.
+
+For a long time we’ve tried to make games align with our critical sensibilities. We’ve focused a dramaturgical lens on narrative games; we’ve applied film theory to cinematic games; we’ve examined games as rhetorical systems; and we’ve tried to understand the systemic principles that define games. These are worthy efforts, not a waste of time. We each shine the light we own.
+
+But as we’ve waited for games to “grow up” and claim their cultural place in the sun, the medium has broadened and deepened beyond our ability to discern it. In other words, as we’ve struggled to affix labels like “art game” and “experiential game” to a broad stylistic spectrum, game makers - mostly, but not exclusively, in the indie space - continue to push ahead, challenging us to keep up and find new ways to critically engage.
+
+I'm talking about designers like Jonathan Mak, Mark Essen, Christine Love, Jonathon Blow, and Jenova Chen, among others. I'm talking about studios like Molleindustria, Capybara, and Tale of Tales.
+
+I'm talking about an indie movement bigger than games, driven by what Paolo Pedercini (Molleindustria) calls a "soft-rebellion" of artists with "an excess of creativity…a creativity that exceeds the ability of capital to commodify it."
+
+We’re no longer waiting for designers to produce games worthy of critical scrutiny. The situation has reversed. Creative designers are building games, inviting us to find a language or critical approach to convey their essential meaning...or if not meaning, then what they are. What they do. New tools (or refined tools) for new games.
+
+We can go about this in several ways, but maybe the best place to start is to think about our critical lexicon. We need new words. Or better words. Or simply different words. We’ve worn out the old ones. I'll show you what I mean.
+
+Focusing on three “artsy” games released this year - Journey, Papo & Yo, and The Unfinished Swan - I collated review and analysis texts from a range of outlets (Edge Magazine, Joystiq, Eurogamer, PopMatters, Wired, plus ten others). I chose these games because they were widely reviewed, but more importantly because each invites critical assessment on its own terms, outside traditional genre boundaries. If any games can provoke a fresh supply of words, these are the ones, I thought.
+
+Next, I generated a word cloud for each game, filtering out game titles, articles (a, an, the, etc.), and terms like “game,” “Playstation,” and “review.” Here are the results. (Click to enlarge any cloud.)
+
+JOURNEY
+
+PAPO & YO
+
+THE UNFINISHED SWAN
+
+What emerges is a stark and narrow collection of terms, none of which goes very far describing the essence or, dare I say, soul of these games. There’s nothing wrong with words like "emotional" or "experience" per se. Most games do convey a "world" and deliver "gameplay," but too often these terms function as generic placeholders. They communicate a vague sense of something richer, more vivid and complex. In a mush of overused terminology, they’re essentially meaningless.
+
+Some critics excel at structural analysis, digging for words to characterize hard-to-convey elements of games like dynamics and variation. Richard Terrell has been plowing this row since 2007, nobly wrestling with the limits of language. On the academic front Juul, Zimmerman, Bogost and others have built theoretical frames that help us understand how games communicate meaning. Frank Lantz and his gang at the NYU Game Center are contributing mightily, exploring game design as creative practice.
+
+But we continue to see a disconnect between scholarship about games and the critical community charged with writing about games for a broader non-academic audience. Worse, we struggle to capture the more elusive, expressive dimension of games. Their poetic and sensory qualities are too often wrapped up in the kinds of generalities the word clouds above illustrate.
+So, what to do? I believe Susan Sontag's charge to critics in her seminal "Against Interpretation" has relevance today:
+
+    Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. This cannot be taken for granted, now. Think of the sheer multiplication of works of art available to every one of us... Ours is a culture based on excess, on overproduction; the result is a steady loss of sharpness in our sensory experience. All the conditions of modern life - its material plenitude, its sheer crowdedness - conjoin to dull our sensory faculties. And it is in the light of the condition of our senses, our capacities (rather than those of another age), that the task of the critic must be assessed.
+
+    What is important now is to recover our senses. We must learn to see more, to hear more, to feel more. The aim of all commentary on art now should be to make works of art - and, by analogy, our own experience - more, rather than less, real to us. The function of criticism should be to show how it is what it is, even that it is what it is, rather than to show what it means.
+
+I disagree with Sontag's belief in the futility of "meaning." A good critic can "read" a work of art without prescribing a definitive point of view or ignoring "what it is." I've enjoyed reading various responses to the ending of The Unfinished Swan, for example, but not even its author's explanation can determine my own sense of its meaning.
+
+But her main assertion sticks. If we are to see games clearly, we must show how they are what they are. Part of that work is structural and systemic, and part of it sensual and aesthetic. We've made inroads to the first, but little progress with the second. We need more words. Different words. Better words. Finding them won't get us all the way there, but it's a good start. In my next post, I'll give it a shot. You can let me know what you think.

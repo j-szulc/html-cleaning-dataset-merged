@@ -1,0 +1,24 @@
+Screenshots of what running apps on a taller iPhone screen may look like
+Mark Gurman 
+
+August 9, 2012 at 12:36 pm
+
+Earlier this week, we broke the news that Apple’s upcoming iOS 6 software for the iPhone is fully aware and capable of running on taller iPhone displays. It just so happens that the latest iOS 6 builds are optimized to express a tweaked, properly displayed new interface when running at a resolution of 640 x 1136. This happens to be the exact resolution that our sources reported Apple is testing for upcoming iOS devices.
+
+iOS specialist Sonny Dickson decided to create some screenshots of what running native applications may be like on the next-generation iPhone – if Apple chooses to roll with the taller, 640 x 1136 screen. Dickson installed some applications into the tweaked iPhone simulator, and the results are interesting. Apps that are already included and optimized for the iOS 6 simulator appear to have tweaked interfaces that fit the taller display. Several more screenshots and all the details are after the break:
+
+For example, the home screen (as we already demonstrated), lock screen, Spotlight, Share Sheet, Maps, and list and table-view based, Game Center, and more, all appear to be optimized for the taller display. Notice how the UI automatically scales to include 16 apps within a home screen application folder, up from the 12 on a current iPhone.
+
+Interestingly, apps that Sonny installed over from the iOS 5 simulator into the iOS 6 simulator run pillar-boxed with black bars on the top and bottom of the app. We’re not sure if this is the result of the simulator tweaking or if this is actually the route Apple will take to run apps that are not optimized for the purported taller iPhone display.
+
+Also interesting is how applications built with Apple-built user-interface elements, like TableViews (like a contact list or contact card) automatically scale. It is yet to be seen if third-party apps built with these Apple provided UI elements run perfectly on the new iPhone without developer input, but it seems possible.
+
+
+
+
+
+
+
+
+
+

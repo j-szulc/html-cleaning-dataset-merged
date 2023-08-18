@@ -1,0 +1,28 @@
+Save up to 30% by Selecting Better Performing Amazon Instances
+Thursday, October 18, 2012 at 9:15AM 
+
+If you like the idea of exploiting market inconsistencies to lower your costs then you will love this paper and video from the Hot Cloud '12 conference: Exploiting Hardware Heterogeneity within the Same Instance Type of Amazon EC2.
+
+The conclusion is interesting and is a source of good guidance:
+
+    Amazon EC2 uses diversified hardware to host the same type of instance.  
+    The hardware diversity results in performance variation.
+    In general, the variation between the fast instances and slow  instances can reach 40%. In some applications, the variation can even approach up to 60%.  
+    By selecting fast instances within the same instance type,  Amazon EC2 users can acquire up to 30% of cost saving, if the fast instances have a relatively low probability.
+
+The abstract:
+
+    Cloud computing providers might start with near-homogeneous hardware environment. Over time, the homogeneous environment will most likely evolve into heterogeneous one because of possible upgrades and replacement of outdated hardware. In turn, the hardware heterogeneity will result into performance variation. In this paper, we look into the hardware heterogeneity and the corresponding performance variation within the same instance type of Amazon Elastic Compute Cloud (Amazon EC2). Standard large instance is selected as the example. We find out that there exist three different sub-types of hardware configuration in the standard large instance. Through a set of detailed micro-benchmark and application-level benchmark measurements, we observe that the performance variation within the same sub-type of instance is relatively small, whilst the variation between different sub-types can be up to 60%. By selecting better-performing instances to complete the same task, end-users of Amazon EC2 platform can achieve up to 30% cost saving. 
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+For disk I/O, the difference in performance between 1.8GHz and 2.66GHz m1.large instance is 3x, and reliability is much better as well. Sometimes it takes creating over 20 instances to find a decent one. Unfortunately this is a zero-sum game with Gresham's law at work: people hoard the good instances, whereas runts are released back to the pool where your next mystery meat instance is likely to come from.
+October 19, 2012 Fazal Majid
+

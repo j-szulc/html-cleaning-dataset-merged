@@ -1,0 +1,15 @@
+DirectX 11.1 Exclusive To Windows 8 Reveals Microsoft
+
+By Julian Horsey on Monday 12th November 2012 3:10 pm in Technology News	
+
+Microsoft has confirmed this week that the new DirectX 11.1 is exclusive to Microsoft’s Windows 8 operating system, with Microsoft’s Daniel Moth writing a reply on the Microsoft Answers forum.
+
+Microsoft’s DirectX 11.1 brings with it a wealth of new features and enhancements  including parts of the XNA framework, enhanced cooperation between Direct3D, Direct2D and DirectCompute GPU acceleration models, an a new software rasteriser dubbed WARP.
+
+Answering a developer’s question about the WARP Microsoft’s Daniel Moth explained:
+
+“DirectX 11.1 is part of Windows 8, just like DirectX 11 was part of Windows 7. DirectX 11 was made available for Vista, but at this point there is no plan for DirectX 11.1 to be made available on Windows 7. (Aside: REF has also been enhanced with DirectX 11.1 to be a debugging target of Visual Studio 2012).”
+
+To find out what the new DirectX 11.1 brings to Windows 8 visit the Microsoft website for more information.
+
+Source: Eurogamer

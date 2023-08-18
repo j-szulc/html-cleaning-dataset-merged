@@ -1,0 +1,17 @@
+
+Incredible: Disney just figured out how to make any plant into a multi-touch sensor
+
+9th August 2012 by Matthew Panzarino
+
+Disneyland is going to get a touch more awesome if new research coming out of Disney’s Pittsburgh research lab gets its day. The project, called Botanicus Interacticus, turns plants into multi-touch sensors.
+
+Just check out this promotional video for its SIGGRAPH 2012 exhibition and tell me it’s not rad:
+
+The plants will be paired with visual displays that allow the input to be projected back to the user in the form of visual responses.
+
+The process is accomplished through embedding an electronic sensor into the soil of any plant and recording the interruption of the electronic signals that occurs when people touch the plants. Then, by studying the sensor readings, the team recreates them as artificial plants with the exact same conductive properties as the real versions.
+
+Can you imagine a Disney park where every plant could play music to you based on your touch, or could trigger light and sound displays? The implications are pretty freaking awesome.
+
+If you’re not familiar with Disney Research Pittsburgh, check out the site here for tons of interesting projects, like this one on creating better character animation using motion capture.
+

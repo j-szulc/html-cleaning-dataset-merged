@@ -1,0 +1,23 @@
+
+November 12, 2012, 8:54 am
+A Lie That’s Good for Password Security
+By ROY FURCHGOTT
+
+The other day, for some inexplicable reason, a Web site that uses responses to personal questions as password protection stopped accepting one of my answers. “It just doesn’t seem to like this word anymore,” the tech assist told me.
+
+But how many different ways can you answer a question like, “What was the first car you owned?” Obviously, I couldn’t change the first car I owned (unless my current car is a time-traveling DeLorean).
+
+But she made a brilliant point. Since the Web site doesn’t know if my answer is correct, I could put in anything. In fact, she pointed out, a good security tip is to answer incorrectly.
+
+Her reasoning was this: With so much information out there online, people can pretty easily find things like your mother’s maiden name, your pet’s name, your high school mascot and so forth — all of which are common security questions.
+
+But wait — wouldn’t it be hard to recall the correct passwords if they had nothing to do with the prompts?
+
+Not necessarily, she said. She gave an example of one gentleman who answered every question with his favorite flavor. So if a site asked him for his mother’s maiden name, he would enter something like “Butterscotch.”  Favorite pet? Butterscotch. Elementary school he attended? Butterscotch.
+
+It makes passwords easy to remember and hard to break. Of course, there is one glaring defect. If someone does get your password, that person has access to every Web site you use.
+
+I know this is no substitute for a really strong password like one you would get from a random password generator, but realistically, how many of those jumbles can you remember? And as we know, writing them down is a bad practice.
+
+So while a non sequitur as an answer may not be the ultimate defense, for many it would improve on what they have.
+

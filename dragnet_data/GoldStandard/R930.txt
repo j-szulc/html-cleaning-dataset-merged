@@ -1,0 +1,212 @@
+Why You’re Lazy (and How to Fix It)
+
+After spending a year working through MIT’s computer science curriculum independently, I’ve gotten quite a few comments from people claiming I must have extraordinary self-discipline. I let that vanity sink in a bit, but then remember I procrastinated for a week to pack for my last trip, ending up doing it all last minute.
+
+The truth is, for someone with supposedly exceptional willpower, I do a lot of very lazy things. I haven’t transferred my driver’s license, even after moving over a year ago. I had a growing pile of junk because I didn’t take 15 minutes to buy a new filing organizer. Even this website uses a sloppy redirect after more than 6 years.
+
+Maybe those are just minor things, and thus I’m justifiably lazy with them. But in any case, if I am disciplined and proactive it’s definitely not universal.
+
+After having done my latest challenge, I feel sticking through a 4-year degree program requires more discipline. After all, I only had to dedicate one year of my life, not four (or more).
+
+Discipline is in the Context
+
+There’s a common psychological bias known as fundamental attribution error. It’s the false belief that explains behaviors in terms of personality traits, instead of the context of those behaviors.
+
+When a person slacks off, we say they’re a lazy person. But that might not be the case. It might be that, in their context, almost anyone would have acted similarly. The error is to attribute this behavior to something fundamental about the person, instead of the context.
+
+My ability to stick to a one-year self-education project, but inability to get my license transferred seems contradictory. After all, either I’m a fundamentally disciplined or lazy person. Perhaps, instead, the context matters a lot more than we realize.
+
+How You Can Change the Context to Change Your Willpower
+
+The key is to make small decisions that drastically reduce the future willpower required for all future decisions. Odysseus wasn’t supernaturally willed to resist the sirens, he just had the foresight to chain himself beforehand.
+
+Next time you embark on a goal or project, use these tricks to get more from your limited supply of willpower:
+
+1. Give it a Name
+
+One of the best things I did to help me finish my MIT Challenge was to call it “The MIT Challenge”. There’s nothing unique or creative about it, but by taking a vague and ambiguous desire to learn more about computer science, and turning it into a concrete mission, I dramatically boosted my ability to stick with it.
+
+Many personal goals fail because they lack formal structure. They feel flimsy, so people treat them that way. By building up a mission around your goal, you can turn it into something solid enough for you to latch onto.
+
+2. Stop Doing So Much
+
+The discipline to finish a project is generally the discipline to not do other things. Many goals fail, not because they’re too difficult, but because they’re too difficult to do simultaneously with other goals.
+
+While working on my challenge, I didn’t take on any other goal. No new business projects. No resolutions to eat better or exercise more. No binding commitments to try new hobbies or sports. Those things weren’t disallowed, but I wasn’t allowed to commit to anything else.
+
+3. Automate the First 5%
+
+Want to start flossing? Stanford researcher, B.J. Fogg found the best way is to commit only to flossing one tooth.
+
+At first, this might sound ridiculous. After all, what good is flossing one tooth? But the idea is that flossing one tooth is really easy, and almost nobody will stop flossing after only finishing the first tooth.
+
+It turns out many behaviors are like this, which have a trigger which is relatively easy to perform, but cascades effort to the rest of the behavior. If you can establish the trigger as a habit, the rest will follow:
+
+    Exercising – Commit to going to the gym.
+    Learning – Read at least one page.
+    Socializing – Say hello to one person.
+    Writing – Write a paragraph on any topic
+
+4. Leverage Social Pressure
+
+Social pressure can be an ally or an enemy in achieving a goal. Since social environments will vary, I don’t believe there’s a universal answer of how to use it. But it can also be one of the most powerful motivators, if used properly.
+
+My challenge differed in an important way from most self-education efforts. I did mine under a lot of public scrutiny. This was stressful at times, but it definitely made me more committed to finishing. I’ve done private self-education projects before and I wasn’t as dedicated to any of them as I was to this project.
+
+Informal goals, the kind that don’t leverage existing social support structures, can often benefit from making such design tweaks. Internet communities can also enable you to use the right networks, instead of relying on friends or family who may not understand or want to help you.
+
+5. Make it Routine
+
+Routine is a major force in our lives. Doing something the first time is hard, doing it the thousandth is mindless. By focusing on the process of building habits, you can shift your focus to designing the behaviors in a way that they will stick instead of merely trying to slog through them each time.
+
+The key switch that allowed me to build exercise as a lifelong habit was to focus on exercising daily. I don’t go every day now, but it was invaluable for making the behavior automatic in my life.
+
+Discipline is Design
+
+Clever planning matters more than inexhaustible endurance. Invest your energy, not just in trying to stick to your goals, but in designing goals which are easier to stick with.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Adam Isom says:	
+October 8, 2012 at 8:24 am	
+
+typo-remove the second word in the article, “I” in ‘After I spending’
+Keri Peardon says:	
+October 8, 2012 at 10:35 am	
+
+I do this same thing. While I’m caught up in a project–be that writing or making something–everything else goes by the wayside: the housekeeping, the errands, exercise… you name it.
+
+But, even though I know this, I still find myself making a long list of things I want to accomplish–even though I really can’t focus on more than one at a time. Of course, not doing what I want (even need) to do makes me feel like a failure. So it’s one habit I need to break.
+Sandy says:	
+October 9, 2012 at 12:58 am	
+
+Nice point there about not doing too much. We should stay focused on our core genius and delegate the not so important things.
+Thanks for another nice post. Many congratulations for completing your MIT challenge! Waiting for you to say “Next!” :-)
+Scott Young says:	
+October 9, 2012 at 1:32 am	
+
+Whoops! Can’t believe I made such an obvious mistake. Thanks for pointing it out.
+drhaswell says:	
+October 9, 2012 at 7:08 am	
+
+Applying the ‘fundamental attribution error’ in this context is a great call.
+
+I recently read Crucial Conversations, a book about effective leaders’ ability to skillfully address emotionally and politically risky issues. One of its key principles is (essentially) learning to break the ‘fundamental attribution error’ when dealing with others.
+
+The remedy they suggest involves telling yourself constructive, open-minded stories about others’ behavior (instead of attributing it to sweeping personality statements or flawed judgement).
+
+Doing the same with yourself – understanding the context under which you make “flawed” decisions, and setting yourself up for a higher likelihood of success – is important to building trust in yourself to honor your commitments (thus making it easier to create more change). I like it!
+
+The only thing I’d add to this list, particularly when it comes to beating bad habits (like “laziness”), would be to ‘Become More Aware’ of the change you’re trying to make (hat tip to Leo Babauta). E.g. If you’re trying to stop procrastinating, build an awareness of when you have the urge to procrastinate.
+
+Triggers help with this, but I’ve found that taking it a step farther and really being proactive about becoming more aware of the thing I’d like to change makes a world of difference (and is usually the way I spend the first week developing a new habit).
+Harry @ GoalsOnTrack says:	
+October 9, 2012 at 10:07 am	
+
+Great post, Scott.
+
+Lack of discipline is one of the most common factors that we fail to reach goals. We only have so much time, energy, both physical and mental, and willpower in a day, so how we spend it largely determines what results we get in life.
+
+I think it’d be better to use discipline to build habits, habits that are important to our projects, goals in life, because once a habit is formed, it requires very little discipline to keep it going and benefit from it. Then we can focus discipline on more challenging tasks.
+Keri Peardon says:	
+October 9, 2012 at 11:01 am	
+
+@Harry. I’ve heard a number of people say the same thing. I wonder if I made a commitment to, say, exercise every morning for one month if it would then become habit so I don’t even have to think about organizing my day around it or put mental effort towards it?
+
+The problem I run up against is that I have three things I want to do in the mornings: write, exercise, clean up. I have no energy or willpower left by the end of the day, so cleaning and exercising go out the window 95% of the time. I can (and do) write in the evenings, but I like writing first thing in the morning because my husband is still in the bed and it’s quiet; I get my best work done when I’m completely alone. However, writing in the morning is often not a good idea because I have a hard time walking away from the computer, which makes me late for work!
+
+I would like to be able to both exercise a little and clean a little in the mornings, but I am not an early morning person. My natural sleep schedule is second shift. If I didn’t have to be to work until noon, I could get up at 10 and set fire to those weights and dirty dishes, then get out of the house on time. But, instead, I have to be at work at 8:15 and I absolutely drag out of the bed every morning at 6:15, and it takes me a half hour to get my eyes open and my brain functioning. (This is even worse in the winter, when it’s still dark out when I get up.) By the time I’m firing on all cylinders, it’s time to get dressed and leave for work.
+
+I just don’t think I could handle waking up any earlier in order to have time for exercise and cleaning.
+Tom says:	
+October 9, 2012 at 12:34 pm	
+
+Scott, I actually have a post coming up next week about a very similar topic.
+
+It’s extremely dangerous to label yourself as lazy when it comes to completing task. This is a huge problem for chronic procrastinators. They think they procrastinate because they’re lazy.
+
+People are not intrinsically lazy. Most of us have something that we enjoy doing and we’re not lazy when it comes to whatever it is.
+
+Putting the laziness label on just disempowers you and is a big reason why chronic procrastination is an epidemic in society. Instead of searching for the cause of their behavior, procrastinators just give up assuming they’re lazy and can’t change.
+
+This isn’t true, you’re not lazy and neither is anyone else.
+Harry @ GoalsOnTrack says:	
+October 9, 2012 at 4:47 pm	
+
+@Keri, I like to write a little in the morning too, but not exercising, least of all cleaning. ;-( I think a possible solution to your problem, might be to decide how much time you have in the morning, and how much you can fit these three things into that time period. If you can’t fit them all, just pick ones that you value the most.
+Ernie Dempsey says:	
+October 9, 2012 at 5:53 pm	
+
+First off, congrats on finishing such a rigorous mission.
+
+Second, thanks for the article. Great commentary on how humans are creatures of habit and those habits start with a small task.
+
+Glad to see someone else hasn’t transferred their license over either. What’s bad is I live one mile from the DMV!
+
+But there are lots of little contextual lazinesses I experience too.
+
+At thanks again for sharing. Loved it
+Arjan says:	
+October 10, 2012 at 12:46 am	
+
+You’ve got a very good point here, Scott. Discipline and willpower are way overrated. Of course they do matter, but not to the extent that’s commonly believed.
+
+Recently, I’ve learned about the “six sources of influence”. The key tenet is that besides personal motivation and ability, social and physical factors also play a role of significance. Transformation is only possible if all these factors are taken into account.
+
+Here’s a link to an introductory article I’ve found:
+
+http://sourcesofinsight.com/six-sources-of-influence/
+rjsavill says:	
+October 12, 2012 at 4:47 pm	
+
+All makes sense. I recall naming my plan of 10 k in 40 minutes ” 40 by 40″….wish you were on 14 years ago! Like the 5% plan! Thanks! Now its 60 by 60!
+Discipline is Design | IDEAS for CHURCHES says:	
+October 13, 2012 at 7:09 am	
+
+[...] Discipline is Design Discipline is design. Clever planning matters more than inexhaustible endurance. Invest your energy, not just in trying to stick to your goals, but in designing goals which are easier to stick with. – Scott H. Young [...]
+Peterandrewfaber says:	
+October 14, 2012 at 5:30 pm	
+
+The automate 5% is interesting. Resistance to performing various tasks seems to be more about eliciting small changes in mental organisation, but it masquerades as the percieved time and effort it takes to complete something. Awareness of this fact is important I feel.
+Business blogging as easy as falling off a horse in a steeplechase - Uncover the missing formula in your web design and marketing says:	
+October 15, 2012 at 4:00 am	
+
+[...] who recently hacked a four-year MIT Computer Science degree in one year through self-study, cited Stanford researcher B.J. Fogg’s work on making tiny changes to your routine to effect larger, [...]
+zoominsab says:	
+October 15, 2012 at 10:50 am	
+
+I have always been interested and aware of the fact that one needs goals in one’s life to succeed and not fall into the trap of procrastination. I’ve always worked hard on implementing it in my life until one day after many struggles not even having a goal in front of me could save me. After falling on my nose completely I turned to only having intentions, not goals. This idea actually took a lot of pressure off my back. Now I only carry one goal and that is to live and I put all my energy in that and everything else is an intention. An intention to heal, to complete my studies, to have a social life and so on.
+
+That is why I find your article very helpful, it gives a better insight in what it actually means having a goal and sticking to it. You cannot have too many goals, you will just burn out. Of course there are many more aspects to it, but as long as one point sticks to your readers mind, you’ve already made a change, isn’t it right?
+Andrea says:	
+October 16, 2012 at 4:13 pm	
+
+Very good article!
+I work a 3 week rotating schedule, which resently has been slightly changed to a bit later on some nights. My husbands work schedule was changed a few months ago and I have not found a safisfactory balance yet. Some things take me about a week or 2 weeks to get done. Right now I only get the bare nesseccesties done. His schedule will change again in the next 2 weeks, which means even less time at home.
+Right now i’m still getting used to the idea. I have to have some time each night to relax or else I will get emotionlly and mentally burned out. I have been there.
+I’d like to rearrange my cleaning schedule, which I have tried before with little success. We see what happens there….
+Most projects I save for my days off and vacations. I have made some good progess there, even though it’s slowly. I rate my success at the end of the year.
+But I still feel my weekly progess could be much better.
+School sucks: Why I quit my studies | Kristian's Music Production Blog says:	
+October 17, 2012 at 5:56 am	
+
+[...] minimum, but I always perceived it as the maximum, and pretty much never went beyond what I had to (we’re lazy by nature). No need to learn how to look up things and ask people in your community, when it can all be found [...]
+Alice says:	
+October 18, 2012 at 7:49 pm	
+
+I understood that “lazy” was not “lazy” as soon as I quit school. From the school perspective I was extremely lazy: I didn’t show up in class, I didn’t do my homework, I didn’t study. However, at the same time I was writing articles for my blog, learning about building a business and writing songs. I was never lazy with the projects that I really wanted to do. So for me the key to becoming more disciplined was to fill my life with things I loved to do – I wouldn’t be lazy with them.
+
+Sure, there’s still stuff and I procrastinate on. For example paying bills, doing adminstrational stuff or making calls. But at least I don’t procrastinate on my big projects anymore. In fact, I have to be careful not to work too much.
+Yigwoo says:	
+October 27, 2012 at 7:20 am	
+
+Can’t say how much enlightened by this essay.
+So many time, I procrastinate because I don’t really have a clear or even vague target in a target list to remind me that I should spare my time on that goal.
+And, in certain period, I just found myself committed with multiple goals which at last I could not accomplish any of them.
+Also, put yourself under the scrutiny of the public is absolutely a great idea to keep yourself discipline, since few people wanna be humiliated by not finishing that he has promised before.
+So, really insightful passage, thanks a lot!

@@ -1,0 +1,50 @@
+Sponsored Feature: Democracy of Domination - Intel GPA Helps Unity Empower the Masses
+by Intel [Sponsored Feature]
+
+November 12, 2012 		
+ 
+
+Disrupting the market by dominating an underserved niche is the stuff CEO dreams are made of. For Unity Technologies that dream is a reality and its name is Unity, a hefty game engine with a lean price point that equally empowers the novice and the pro to create amazing, multi-platform games.
+
+Unity calls it democratizing the game industry: leveling the playing field with a one-size-fits-all game engine that is powerful, intuitive to use, easy on the wallet, runs in all key browsers, supports Windows and Mac OSX (with Linux on the near horizon), powers games for PCs and mobile devices and consoles, and can be used by any game developer from beginner to expert, independent hobbyist to industry titan.
+
+Not too shabby.
+
+Since launching its first commercial engine in 2005, Unity has powered thousands of multi-platform games including TRON: Legacy Disc Battle, Red Crucible, and Drift Mania Championship. In the past seven years, its popularity has spread across the globe, grassroots style, to a growing legion of loyal game developers -- 1.2 million of whom have downloaded and registered the free version. And though the company doesn't divulge who uses its paid version, Unity Pro, a proprietary peek at its customer list reads like a who's who of global giants.
+
+Unity's unique business model and strategic savvy have served it well in a relatively short amount of time. And its most prevalent differentiator has been the ability to "hit 'em where they ain't" ... to identify and capitalize on underserved areas of the market. Notably, Unity hasn't tried to compete in the high-end game engine space, nor has it set its sights solely on triple-A game developers. It has let the big fish take care of themselves and, instead, amassed dominant market share among developers of web and mobile games. Case in point, Unity 3 is the leading engine for iOS and Android games, and Unity web player plugin is the primary alternative to Flash.
+
+To maintain and expand its competitive edge, Unity must tenaciously focus on its improvement strategy, ensuring the game engine continues to "make it possible for more people to be more successful with the wonderful games they build," as stated by CEO, David Helgason, in a recent YouTube video. To meet that need, Unity chose the Intel Graphics Performance Analyzers (Intel GPA), going so far as to integrate Intel GPA into Unity 3, as well as the highly anticipated and soon-to-be-released Unity 4.
+
+Why Intel GPA? Benefit, Benefit, Benefit.
+
+In the early days when console was king, Unity primarily used its own internal tools to optimize the engine, coupled with external console-development tools to round out the mix. But with the heyday of PC gaming, followed by the increasing popularity of web and mobile gaming—the development for which is also primarily done on PCs, console tools were no longer making the grade. Unity needed a new analysis and optimization solution, and it didn't take long to adopt Intel GPA.
+
+"Performance analysis tools on the PC were quite sad until Intel GPA came out," says Unity graphics architect, Aras Pranckevicius. "For graphics performance, Intel GPA has a nice visualization timeline that lets me quickly drill down to the problematic part of a particular frame. That's very important."
+
+Interestingly, part of Intel GPA's appeal was that its user interface is similar to console performance tools which, according to Pranckevicius, "is a good thing, as many game developers are already very familiar with those."
+
+Another benefit to using Intel GPA was support for the Windows OS. Coupling that with its support for DirectX 11 and Intel Atom processor-based smartphones using the Android OS -- plus Unity 4's support for Windows 8, and Intel GPA integration was a slam dunk that would help Unity hone its engine and help developers successfully target even more gaming platform.
+
+Click for larger version
+Complementary Integration. Ultimate Optimization.
+
+Optimizing for graphics performance was the key focus for Unity 3 (as it is for all Unity products). To do this, Unity used Intel GPA's Frame Analyzer tool, which allows developers to capture and analyze frames at the draw-call level, including shaders, textures, D3D states, and pixel history. More recently, Frame Analyzer was used to optimize Butterfly Effect, a real-time rendering demo that showcases the power of Unity 4, including its DirectX 11 support. Butterfly Effect was run on an Intel Core i7 processor.
+
+The process for optimizing the engine was -- and is -- tricky because Unity does not produce games, and it's very challenging to develop and improve an engine without making a game for it. To get around this issue, Unity has developed a "test case" process whereby it creates small game demos (test cases) and uses Intel GPA on those demos. The findings are then used to optimize the game engine. On the occasion when Unity receives a complete game project to work with, it uses Intel GPA to analyze the entire game and optimize the slowest parts, and then translates the findings into engine optimizations.
+
+The integration of Intel GPA with Unity 3 (and Unity 4) has proven to be a complementary combination, beneficial to both Unity and the developers who use its game engine. Most notably, it's made the game engine faster and it's allowed developers to see all of the Unity-related profiling markups and meta data inside the Intel GPA frame captures. The result: improved productivity for everyone and faster time-to-market for game developers.
+
+"Intel GPA is a simple and straight-to-the-point tool for investigating and optimizing application performance in real time. It just works." Succinctly put, Mister Pranckevicius.
+
+Is the Niche Sustainable? Signs Point to Yes.
+
+The future of gaming is a fickle mistress and a lot can change in a very short amount of time. (Consider that five years ago Nintendo was #1 in the console space and mobile gaming was scarcely the twinkle in a developer's eye.) But trends and trajectories being what they are, it's a safe bet that "connected everywhere" is here to stay, including the technologies and platforms that support our everywhereness: desktop, laptop and Ultrabook devices, tablets, and smartphones.
+
+The world's love for the game and love for mobility will surely be to the benefit of web and mobile gaming. For Unity Technologies, the future looks bright.
+
+One thing is certain: Epic Games will continue to focus on innovating its products, optimizing its pipelines to laser-point perfection, and ultimately delivering smooth and visually impressive gaming experiences for all gamers.
+
+To learn more about Unity 3 and soon-to-be-released Unity 4, visit unity3d.com and unity3d.com/unity/4/.
+
+To learn more about how Intel Graphics Performance Analyzers can help you optimize your game or to download a FREE copy, visit www.intel.com/software/gpa.

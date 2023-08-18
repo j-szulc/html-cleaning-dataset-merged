@@ -1,0 +1,11 @@
+Incredible Robot Locates Electronic Components on Demand
+
+This device is surely the answer to every DIYer’s prayers. As a do-it-yourselfer, you probably have piles of miscellaneous components and parts left over from various projects. Keeping them organized can be nearly impossible – Until now.  StorageBot is a voice-activated system which finds components on demand and delivers them to you:
+
+The StorageBot uses an X and Y storage matrix to easily find parts.  When you request a part, the corresponding drawer is pushed open.  Stepper motors and gears provide the mechanics while Arduino and Visual Basic power its brain.  Check out the complete project instructions to build your own.
+Popular Robotic Servant Projects:
+
+    DIY Voice Activated Home Automation
+    Robotic Butler + Robotic Fridge = Awesome!
+    Life Size Android Robot running Android OS
+

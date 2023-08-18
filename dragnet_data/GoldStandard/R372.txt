@@ -1,0 +1,37 @@
+November 06, 2012
+HP simplifies automated software testing suite
+HP's updated Unified Functional Testing provides a way to test all layers of an application from a single screen
+
+Hewlett-Packard is incorporating three different components, previously available separately, into its HP UFT (Unified Functional Testing) automated testing application so developers can test all aspects of a multi-tiered application from a single interface.
+
+The company will also offer a cloud service that will allow developers to test mobile applications.
+
+[ Discover what's new in business applications with InfoWorld's Technology: Applications newsletter. | Get the latest insight on the tech news that matters from InfoWorld's Tech Watch blog. ]
+
+"In past three years, we've been seeing huge shifts in how our customer base deliver applications," said Roi Carmel, HP senior director of product management for application lifecycle management. "Applications used to be delivered every year, or every year and a half. Now they are delivered on an iterative basis, sometimes every month."
+
+UFT 11.5, due to be released early next month, has been updated to better accommodate this more rapid pace of development, Carmel said. "We want to provide results earlier in the lifecycle, and not [have the customer] wait a year to know if the application is ready or not," he said.
+
+UFT provides automated functional and regression testing services for development teams that build enterprise applications. The software generates documentation of the testing run-throughs and keeps a library of how individual applications work.
+
+UFT 11.5 simplifies the testing process by combining a number of different tests into one screen, Carmel said.
+
+In prior versions of UFT, developers could test an application's interface and then invoke triggers to set off other HP tools -- namely HP Functional Testing (QTP) and HP Service Test -- to test the program's operations at the database and service layers. Now, developers can test, from a single console, all three layers: the interface, the service layer and the database layer.
+
+This unified testing brings a number of benefits, Carmel explained. It cuts down on possible errors because multiple scripts no longer have to be coordinated for effective testing. It also allows developers to test the whole software stack, not just a single layer, giving them deeper insight into possible issues and potential improvements that can be made.
+
+The consolidation of features also better supports continuous integration, a practice of frequently testing the software being developed, through the use of tools such as Jenkins, to which UFT can be connected.
+
+UFT 11.5 also includes a new patented recognition technology that can scan applications and document how they operate. While HP maintains a library of how many application frameworks and connective technologies operate, the new insight object recognition feature can document obscure programs not already covered by HP.
+
+The new feature is a set of algorithms that "automatically recognizes user interfaces just like a human does," Carmel said. "It can look at a user interface and really understand what it does -- what a text box is, what a button does."
+
+The updated software will also work in conjunction with a new cloud service HP will offer to allow developers to test mobile devices. HP will maintain emulations of the Google Android, Apple iOS, Microsoft Windows Phone and other mobile OSes, against which developers can test their code directly from within UFT 11.5 itself.
+
+HP has also updated Sprinter, a tool designed to aid manual software testing. Sprinter 11.5 will allow users to export their test macros to UFT, in cases where large portions of a test could be automated. The software also can highlight spelling errors and check for localization and compliance issues.
+
+UFT works with HP's Application Lifecycle Management software for managing software projects. It is a part of the company's HP IT Performance Suite, which can be used to help manager enterprise software.
+
+HP will explain more about the new features of UFT 11.5 during an online seminar to be held Nov. 28. The company did not disclose pricing information for these new products
+
+Joab Jackson covers enterprise software and general technology breaking news for The IDG News Service. Follow Joab on Twitter at @Joab_Jackson. Joab's e-mail address is Joab_Jackson@idg.com

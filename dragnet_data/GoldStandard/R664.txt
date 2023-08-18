@@ -1,0 +1,90 @@
+October 26, 2012
+Metrics to Show How a Content Marketing Editorial Calendar Drives New Business
+
+This is the third in a three part series on how professional services firm Sales Benchmark Index has made the transition from traditional outbound marketing like cold calls to a content-driven marketing approach using blogs, twitter, ebooks, and videos. I conduced several lengthy interviews with I love the approach Greg Alexander, CEO of the company to learn the inside scoop. If you haven’t done so, read the first installment Professional Services Firm Grows 50% through Switch from Outbound to Inbound Marketing and the second How to Target Buyer Personas with the Right Content Created Especially for Them.
+
+Content based on the buyers' business
+
+Greg knows from his buyer persona research that 75 percent of his US potential clients are on a calendar-based planning cycle. "July through October is when they go through their annual operating plan," he says. This is the time that buyers are most receptive to Sales Benchmark Index services and when the majority of sales tales place. "They are trying to figure out things like how many sales people do I need? How should I place the territories? What should the quotas be? How should I pay them? A lot of the research is centered around those issues."
+
+Because Greg's sales happen July through October, he has a calendar-based approach to content creation.
+
+"From November through June the approach is to give away lots and lots of intellectual property to built up the subscriber base," Greg says. "We believe that permission to have a conversation with buyers is a valuable asset. Within the blog we will write about a problem. We'll offer up a tool that we used with one of our clients to solve that specific problem. All we ask is that they click on the link. We put it behind a form, and then they get the tool for free. During the November through June time period, we don’t bombard them with follow up marketing activity."
+
+As the subscriber roles grow, Greg's team shifts focus during the selling season when buyers have a greater need for information because they are planning next year's budgets from July through October. "During that time period, we shift the focus of the blog to having subscribers participate in our annual research tour, which we call Make the Number: How Your Peers Plan on Allocating People, Money and Time for the Upcoming Year."
+
+Make the Number allows potential clients to have a personal review of benchmarking data and research. "This is an onsite seminar," Greg says. "If you want access to all these tools, and you've been a subscriber of ours for months and sometimes years, one of our experts will come on site and give you a presentation for 90 minutes to the executive team on kind of a set of best practices heading into the new year. So it allows somebody to compare and contrast the sales strategy before the New Year begins."
+
+Greg has had tremendous success with the calendar approach to content creation. "Just to give you some stats here on the power of content marketing, in prior years we might do between 50 and 100 visits during the July to October period," he says. "But this year, we'll have done over 220 of them. We know that about half of them eventually, inside of six quarters, become clients of ours. When people buy a professional service like ours, it's intangible. So we use the Make the Number meetings to turn what we do into a tangible by actually introducing people face to face. It makes it easier for the buyer to buy."
+
+Measuring success
+I love how Greg's team measures every aspect of his content efforts. After all, this is a company that helps sales and marketing executives be more effective, so you can imagine how they focus on measuring the effectiveness of their own inbound marketing.
+
+In fact, they measure down to the blog post level (something that they learned from HubSpot, whose marketing software Sales Benchmark Index uses). "We grade posts based on things like how closely each are related to the problems of our buyer personas," he says. "We count the number of words in sentences, targeting six and 14 words per sentence. And we grade the effectiveness of the title. Then there are the hard metrics like the number of comments and social shares and links generated, and view counts."
+
+Greg also analyzes what he calls "branded versus non-branded keywords" looking at how many people come to the blog on a monthly basis for each. A branded keyword is when somebody hits the blog for a term like "sales benchmark index" (they entered the company name into Google). A non-branded word would be if somebody searched on "sales territory design".
+
+"Important phrases for us include 'territory design,' 'lead management', and 'sales incentive compensation'," Greg says. Note how these terms are fairly specific, but not so long tail as to be obscure. They specifically target 'lead generation' as a term because the phrase is so competitive. "We go after 'lead management', and we’re doing better as a result of that. We're looking at the number of incoming links and we use the HubSpot Link Grader Search Engine Optimization Tool. This year we've generated 579 new domains linking to us with 27,780 individual links that came from those domains. The thing that I'm probably the happiest about is the quality of the links has gone up. HubSpot graded the links earlier in the year at 47 on a scale of zero to 100. Now the average link rate is 82."
+
+I wanted to know about the ultimate success measure, so I asked Greg how revenue was tracking. "We're up over a little over 50 percent this year," he told me. "That's our revenue number and our head count, which in professional services is a key metric. In consulting, utilization numbers are really important, too and we're running at 80 percent utilized right now, which is great. I can directly attribute much of that gain to inbound marketing and content marketing."
+
+Advice to other organizations on how to implement inbound marketing
+
+With his measurable success, I wanted to know what advice Greg would offer to other CEOs interested in adopting a inbound marketing content strategy.
+
+"This is a mental shift to realize that you're really in the publishing business," Greg says. "If you embrace publishing, then the transformation that we talked about here will happen. If you're a CEO and you still believe that you're in another business, I don't believe you're going to make that transition. Unless you grew up in the publishing world, there’s much to learn. It's a steep learning curve. I've spent my time studying how successful publishing companies build their business. I understood things like audience acquisition and things I never knew about before. It helped quite a bit. You've got to learn how to be an effective publisher."
+
+Disclosures: Greg and I serve together on the Eloqua board of advisors, which is where we met. In addition, I am on HubSpot advisory board and serve as Marketer in Residence at HubSpot.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+That calendar-based content generation technique is excellent, but I wonder how to transition that to an industry where prospects buy seasonally based on a limited and exigent need. For example, a Christmas tree seller wants to load the pipeline in November and December. Prospects, however, don't think about Christmas trees in July - so bringing them into the pipeline during that time is all but impossible. Sure, the seller can create content on lawn care in May but that's going to be an inexact match at best. What's the solution?
+
+Posted by: Jay S. Fleischman | October 26, 2012 at 02:28 PM
+Dragan Mestrovic
+
+@Jay S. Fleischman
+
+The solution is to be there when they are looking to buy Christmas trees.
+
+The procedure is the same: Create remarkable content (Blog, Pictures, Video, Press releases, Infographic, How-to’s, etc.) and share it in social media, so you become more visible in social media search engines.
+
+This increases your chances that when your future clients are looking for Christmas trees they find your content which leads them to your lead capture pages, more information like an EBook, pictures, video or your newsletter subscription form to register them as leads.
+
+There are indeed a lot of ways to make a Christmas tree business remarkable and findable through inbound marketing to grow their business the smart way.
+
+Posted by: Dragan Mestrovic | October 29, 2012 at 12:46 PM
+David Meerman Scott
+
+Jay, Dragan is right. Build content year round so when they are ready, Google has already rewarded you with high rankings.
+
+Posted by: David Meerman Scott | October 29, 2012 at 01:14 PM
+Campaign Monitoring
+
+I like keeping track of good ideas that just need a better time to be published. You want to capitalize on the seasonality of your business and the buying cycle of your customers. Don't waste your best content when no one is listening!
+
+Posted by: Campaign Monitoring | October 30, 2012 at 01:35 AM
+David Spark
+
+Love this quote: "We believe that permission to have a conversation with buyers is a valuable asset."
+
+You get that conversation by initiating a discussion about something they want to talk about which is NEVER your marketing copy.
+
+I've based my brand journalism business on this model and I can say for my business (http://sparkmediasolutions.com) and my clients, it's been huge.
+
+The aspect I've been working on, and I'm interested to know if you David, or your interviewees, have insight, is creating content for specific audiences within a company. I'll often have clients where sales cycles can take 6 months to 2 years and they'll be six figure sales. Those situations you have many decision makers and each one wants a different conversation. I like the editorial timing discussion in this article, but what about the different audiences within the organization?
+
+Posted by: David Spark | October 30, 2012 at 02:56 PM
+David Meerman Scott
+
+Thanks for jumping in, David. As a simple rule, when people think of themselves as different, they need different web content. A parent buying a tricycle is different than a grandparent buying one. But they have to be real distinctions, not made up ones by the marketer. The old "small business / midsize business / large business" thing makes no sense because that is not how buyers think f themselves in most markets.
+
+Posted by: David Meerman Scott | October 30, 2012 at 03:03 PM
+
+
+

@@ -1,0 +1,11 @@
+
+Amazon releases Send to Kindle for Firefox
+
+The folks from Amazon have continued to give users access to content on their Kindle devices in a quick and seamless manor, and today have announced one more additional to their “Send to” offering. It’s called Send to Kindle for Firefox and enables a one-click method to easily send your favorite pages and more right to your Kindle of choice. 
+
+Amazon already offers multiple Send to Kindle options, and today they’ve announced and released the official version for the Mozilla Firefox browser. This allows users to easily and quickly send content from the web right to their Kindle Fire tablets and more.
+
+Everything from news blogs, details on Android right from Android Community, videos, and other web content to your Kindle to read anytime, everywhere on Kindle devices and reading apps. Not only that but you’ll be able to send the content to more than one Kindle branded device, and even archive it to re-download later if you’re on the go.
+
+This is nothing new and is offered for multiple other options and as a Chrome extension and more, but for all the Firefox users this is the official first step. To get started yourself you’ll want to click here. Amazon also mentions support for Safari is coming soon, and Chrome is already available. This certainly isn’t a major feature or anything of that sort, but for those not using Chrome sync, this is the quickest way to share content and websites with your Kindle Fire tablet.
+Story Timeline

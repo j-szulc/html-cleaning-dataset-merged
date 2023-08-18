@@ -1,0 +1,19 @@
+Asterisk 11 - What's New! [VIDEO]
+
+October 26, 2012
+
+At AstriCon we finally heard about the new features in Asterisk 11. One of the most exciting features is WebRTC, which I wrote about earlier, including videos. On the last day of AstriCon, four members of the Asterisk team got on stage in front of hundreds of AstriCon attendees and unveiled what's new in Asterisk 11, including insights as to how and why they added these particular features. One new feature is a unique Call IDs record associated to each and every call to enable powerful Call ID logging. Call IDs are not necessarily tied to the lifetime of a channel – they're tied to the lifetime of a call, which may involved multiple channels. In the past, the Asterisk log file contained messages from all calls currently occurring making it very difficult to figure out what messages apply to which call. Now, with a unique Call ID identifier using simple Linux 'grep' commands you can see precisely what happened during that call. Makes me wonder why this feature wasn't in like the 2nd version of Asterisk, not the 11th. i-dont-know2
+
+I took video of the speaking session for all the goodies to share with Asterisk fans who couldn't make it to AstriCon. It was a great session with some humor, thunderous applause and even kisses from Allison "The Voice of Asterisk". Sorry, you'll have to watch the videos to find out - I don't kiss and tell! love-hearts But I will tell you that David Duffett was the instigator.
+
+Now I wanted these videos taken on my iPhone 4S to be HD quality since there was some code up on the screen that I wanted to be readable. My muscles were aching holding my iPhone 4S and trying to minimize hand shake, but I did it for my fellow Asterisk fans! The "official" AstriCon videos (professionally produced) won't be available for another month since the plan is to edit and splice the slides into the videos. Special thanks to Digium's Joshua Colp for mentioning my blog during the Asterisk 11 Project Update session so they can access the WebRTC video I captured - and now him discussing Asterisk 11 with the three other speakers.
+
+Alas, uploading over the hotel Wi-Fi failed on my 4 times, so I had to wait till I got home late last night. Kicked off the uploads and it said it was going to take 15 hours over my poky home DSL connection (don't ask) and it too failed with 15 minutes to go. angry-fast-talking-tirade
+
+There is some mild hand shake - it's hard holding your arm out for for very long. One more reason I need to get a Nokia Lumia 920 due to it's superb image stabilization technology. Yep, I'm abandoning the Apple ship for Windows Phone. I do like Android and would buy a Lumia 920 based on Android, but the video stabilization is a feature too good to pass up - but I digress...
+
+Finally resorted to "borrowing" a neighbor's unsecured Wi-Fi to get 2Mbps upstream and got my videos uploaded around 11pm tonight. I planned on transcribing some useful insights from the video, and I may still, but it's getting late, so want to post these videos ASAP. Keep your eye on this post for any possible updates, since I know some of you will refuse to watch these videos and want the instant Cliff Notes. You should watch them though - did I mention the kissing? kiss
+
+Note: Video broken into 3 parts in chronological order:
+
+

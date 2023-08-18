@@ -1,0 +1,18 @@
+Wednesday, October 17, 2012
+The October HIT Standards Committee meeting
+
+The October HIT Standards Committee reviewed the FDA Universal Device Identifer NPRM, the transition of the NwHIN to a public/private partnership, and an update from ONC on S&I Framework/related programs.
+
+Jamie Ferguson presented a very thoughtful list of recommendations to the FDA, including the notion that all healthcare devices, including consumer devices, should have a universal device identifier that can be used as metadata when exchanging information.  A UDI will help us understand the nature of the data, the accuracy of the data, and the range of possible data from each healthcare device.
+
+Mariann Yeager, Interim Executive Director of Healtheway, presented an overview of the public/private partnership successor to the NwHIN program.  As ARRA/HITECH funds diminish, it is important to move ongoing ONC operational components such as NwHIN to self- sustaining partnerships.   Healtheway will ensure continuity of the NwHIN Exchange efforts, regardless of the outcome of the election or fluctuations in Federal budgets.
+
+Continuing the theme of public/private partnership, Doug Frisdma presented an overview of ONC project transitions to a combination of public, public/private, and private efforts.
+
+I look forward to the next meeting in which we'll likely begin discussion of the testing and certification scripts as we move forward to the implementation of Stage 2 programs.
+Posted by John Halamka at 9:50 AM
+
+
+
+
+

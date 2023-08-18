@@ -1,0 +1,23 @@
+Microsoft pimps Windows 8 accounts to developers for just $8
+
+October 30, 2012 3:05 PM
+Jolie O'Dell 
+
+Microsoft is giving developers the hard sell on Windows 8, complete with a rock-bottom price of $8 for developer accounts for the new platform.
+
+After all, a technology platform for consumers is nothing these days without lots of hard work and applications from third-party developers. And while Microsoft has definitely caught devs’ attention with Metro design and one-kernel-for-all-devices technology, it’s got a long way to go before developers are fully onboard and invested in building Windows 8 apps.
+
+Microsoft began its courtship in earnest over the summer with an early spate of announcements and previews. But even then, developers were as hesitant as they were intrigued.
+
+To woo devs over to the multicolored-tiled side, Microsoft said at today’s BUILD conference that it wants to give developers everything they need to fall in love with Windows 8:
+
+    You told us you wanted native code, in-app-purchase, and more ways to reuse and port code — done, done, and done. More than 90 percent of the things you asked for, we added. These capabilities combined with new phone features like better Live Tiles, Lenses, NFC support, and custom app notifications and wallpaper on the lock screen mean that apps do more — and do it in more markets — on Windows Phone. …
+
+    As an added incentive, for the next 8 days individual developers can register for a Dev Center account for just $8 (a 92 percent savings).
+
+If that sounds a bit desperate, the desperation is not exactly uncalled-for. Microsoft has a lot to prove and a lot of catching up to do, particularly on the phone and tablet fronts. The company is making big demands of consumers with its forward-reaching interface, and it’s making big demands of developers with its as-yet unproven multi-device strategy. And domination or even parity will only come with lots of work from third-party devs.
+
+As VentureBeat reporter Ricardo Bilton noted earlier today, “Gathering new apps is important for Microsoft, because it’s clear that all of the Windows software we’ve grown used to won’t be around for much longer. … The big problem now is that there simply aren’t many of them.”
+
+We’ll see if devs respond to today’s call to action. The $8 developer accounts will be available for the next eight days (do you sense a theme here?); devs will be charged $99 at checkout and will be reimbursed for the balance within the next 30 to 45 days.
+

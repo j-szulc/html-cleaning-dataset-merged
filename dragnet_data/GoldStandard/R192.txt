@@ -1,0 +1,88 @@
+Voice search shoot-out: Google’s new voice search vs Apple’s Siri, hands-on
+
+October 30, 2012 3:15 PM
+John Koetsier 
+
+Google just released its newest voice search functionality in what VentureBeat’s Ricardo Bilton called a direct assault on Siri, updating both its Android and iOS apps. I wanted to test both of them hands-on.
+
+Siri is an idiot savante, sometimes more savante, and sometimes more idiot: she didn’t know where Washington DC is. Google, on the other hand, seems to have a bigger brain.
+
+Siri does have two advantages. First, she has deep knowledge in a few select areas. And second, she remembers history, so she evaluates current questions in context. (That can be a good thing and a bad thing, as I found when I asked about traffic conditions to Vancouver, BC. I had previously asked about things to do in Vancouver, and to this traffic question Siri told me that the Canucks-Red Wings game had been cancelled.)
+
+Google seems to be smarter, to know more.
+
+Part of that might be because when Google doesn’t have the answer and it defaults to a web search, that seems very normal, versus when Siri defaults to web search (errr … Wolfram Alpha search) it seems like an option of last resort. But part of that is that Google just knows more — its massive knowledge graph is a cumulative result of 15 years of data gained from countless trillions of search queries in an effort to essentially emulate a Star Trek artificial intelligence experience.
+
+Both fared well on some standard factual questions, in a sense. But oddly, Siri picked out the British version of The Office, while Google selected the U.S. version:
+
+Source: John Koetsier
+
+Siri vs Google: the cast of The Office
+
+Another simple one: the time in a different time zone. Both answer correctly, with Siri adding a little more personality, and possibly, the start of a contextual conversation:
+
+Source: John Koetsier
+
+Siri vs Google: the time somewhere else
+
+Google, with the wealth of data riding on its shoulders, is fairly confident when it gives you results. The results may sometimes not be extremely helpful, though they usually are, but they are always delivered definitively.
+
+Siri, on the other hand, is sort of like an unsure teenager, who ends every sentence trailing up in tone, transmuting statements into questions. When Siri isn’t sure, she checks Wolfram Alpha and gives you an answer with a conditional: this “might” answer your question:
+
+Source: John Koetsier
+
+What is a curveball? Both have the answer, though Siri’s not too sure …
+
+In other cases, Siri is more idiot than savante, it must be said. For instance, any app purporting to help users search and navigate the world of information should know what Washington DC is, and how to find it.
+
+Google does, and provides a map with directions. Siri, unfortunately, is painfully clueless:
+
+Source: John Koetsier
+
+How could you not know where Washington, DC is, Siri?
+
+Siri’s lack of real, deep knowledge about the world is evident in other typically search-engine-style questions about companies and people.
+
+In this case, Siri does not know who the CEO of Apple is, and rather schoolmarmishly tells me that everything I need to know about Apple is at Apple’s website. (As a journalist who focuses on Apple coverage, I just might beg to differ a little.)
+
+Source: John Koetsier
+
+Siri, you should really know the CEO of the company you work for …
+
+But in areas where Siri has been directly connected to a deep source of specific data on a certain set of questions, she shines, giving detailed, information-rich, even visual answers.
+
+Such as stock quotes:
+
+Source: John Koetsier
+
+A little insider tip, please …
+
+That includes Yelp-assisted categories such as local search, where Siri has access to rich and detailed information on local restaurants, events, and entertainment. Google, on the other hand, is unhelpfully responding to a search by giving me more search options to continue search in. Sorry, I’m searching to find, not searching to search.
+
+(Note the vestiges of skeuomorphic design in Siri’s answer.)
+
+Source: John Koetsier
+
+Thanks for giving me search engines in response to a search, Google
+
+One key difference where Siri has the potential to shine: context. Siri knows what you’ve just asked, and so you can build a chain of searches and steps to accomplish a task.
+
+For example, you can ask Siri to send an email, and she’ll ask for the name of the recipient, and, in a subsequent step, the message itself, meaning that you can accomplish a complex series of actions without feeling like you need to do it all at once. Google can’t help you at all with those sorts of tasks at the moment, although apps like Edwin, Vlingo, Speaktoit, and Samsung’s S Voice can accomplish various parts of what Siri does.
+
+In search, context helps too (even if Siri doesn’t always do the right thing with it):
+
+Source: John Koetsier
+
+Context helps … but that’s not the Four Seasons I was thinking of
+
+This is of course not an exhaustive list … but it does highlight some of the differences.
+
+Based on the results, and my preconceptions and prejudices, if I had to pick a personal assistant to help me do things on my phone, I’d pick Siri, of course. But if I had to pick one app for web search and information retrieval, I’d have to go with Google.
+
+And frankly, given the data that Google has at its disposal, it’s hard to see how Apple can win this one.
+
+I think if Apple was completely cold-blooded and logical about this, they’d partner with Google for search results in Siri, not Wofram Alpha, and they’d focus Apple-specific Siri enhancements on strong vertical partnerships with services like Yelp and OpenTable and airline reservations, as well as specifically phone control tasks.
+
+That would, of course, be a seriously naive strategy. Which doesn’t mean it would be wrong.
+
+photo credit: Funky64 (www.lucarossato.com) via photopin cc

@@ -1,0 +1,26 @@
+A High Yield Savings Option (With Some Strings Attached)
+Written by Nickel
+
+
+
+Earlier today I ran across a rather attractive option for bumping up you savings account interest rate. It requires jumping through a few hoops, but if you’re willing to do the work, you can snag a 6% interest rate.
+
+Here’s how it works:
+
+The “Mango Prepaid Card” (basically a prepaid MasterCard debit card; link) comes with an attached savings account that’s paying 6% APY. Both the card and the savings account are FDIC insured, so this is offer is coming from a legit bank.
+
+You start by transferring money onto the card (via ACH transfer from your bank). From there, you can immediately transfer the money off your card and into the linked savings account. The first $5k in your account earns 6% APY, but… To keep that rate, you need to do a “direct deposit” of at least $50/month. I put that in quotes because ACH transfers count as direct deposits.
+
+The downside is a $5 monthly fee, though there is a workaround for all but the first month. In short, once the $50 monthly transfer hits your card, simply transfer it to the linked savings account. They only charge the fee if you have a balance on your card on the 1st of the month, so you can avoid the fee by doing this.
+
+Afraid you won’t remember? Automate the ACH transfer from your bank and then set up an automated, recurring reminder to prompt you to move the money off the card. Or don’t worry about, let the fees hit, and settle for an effective 4.8% APY (after factoring in the fees). Your choice.
+
+To get your money out of your account you can either transfer it to the card and spend it (watch out for those fees) or you can close the account and request a check (for a $10 fee). Another option would be to use an ATM, but there are fees associated with ATM withdrawals ($2 + any surcharges from the ATM owner).
+
+To me, the biggest limitation is the $5k limit — you get a lowly 0.10% beyond that. But guess what? Your spouse or partner can open an account, resulting a combined limit of $10k. Thus, you can pocket a risk free $600 for minimal hassle.
+
+Of course, there’s always the fear that the high rate won’t last. While that’s definitely a possibility, it’s worth noting that they’ve actually increased their rate from 5.1% to 6% in recent months while other banks have been cutting rates.
+
+If they do slash rates, you can just close your account. The first month’s interest on a $5k deposit is more than enough to cover any fees you’ll incur.
+Hat tip: Bogleheads via The Finance Buff
+

@@ -1,0 +1,28 @@
+Not All Regions are Created Equal - South America Es Bueno
+Thursday, October 25, 2012 at 9:15AM 
+
+Rodrigo Campos shared some interesting benchmark results for AWS instances in the South America Region (São Paulo) and US East Region (North Virginia). He summarized the results in this thread on the Guerrilla Capacity Planning list:
+
+    The same instance type shows a different behavior depending on the region that it is running, this is particularly critical if you depend on multiple regions for disaster recovery or geographical load balancing
+    Generally speaking performance is better and more consistent in the South America region when compared to Virginia, this is probably due to the fact that SA region was the latest to be deployed. Maybe the SA datacenter uses new server models or it is just underutilized, but this is a wild guess
+    Write performance for the medium instance type in Virginia abruptly decays, dropping from almost 400 call/s to something around 300 calls/s, this is not very clear in the scatter plot but if you draw a time-based chart you can clearly see this pattern. This is the main reason you see two spikes in the density chart. Read performance in the SA small instance show a similar behavior.
+    Small instances definitely should not be used for disk IO bound applications since its behavior is rather erratic even for read operations, this is particularly true in the Virginia region
+    The same tests run on several VPS providers in Brazil found some disturbing results. In one case the read and write performance simply plummets at 3:00 AM, probably due to backup or maintenance procedures.
+
+
+
+!@#$%^&*() COMMENTS
+
+
+
+
+Well, interesting enough, in Brazil people speak Portuguese, not Spanish. I'm pretty sure "Es bueno" doesn't fit in the dictionary over there ;D
+October 26, 2012 José
+
+
+es buena in spanish
+October 26, 2012 paco
+
+much less lightning hitting cloud in south america more likely to be drowned or eaten by capybaras. btw SA is new region not us-east which is historically (see also: this weekend) being dropped on its head repeatedly by wookies.
+October 26, 2012 guilhermo
+

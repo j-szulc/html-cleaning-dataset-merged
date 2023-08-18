@@ -1,0 +1,776 @@
+Your Complete Guide To The Coming Fiscal Cliff
+Submitted by Tyler Durden on 08/09/2012 14:30 -0400
+
+All you need to know about the fiscal cliff which will savage the US economy in under 5 months, unless Congress finds a way to compromise at a time when animosity and polarization in congress is the worst it has ever been in history.
+
+ 
+
+Key dates:
+
+ 
+
+The cliff in graphics:
+
+ 
+
+The cliff in numbers:
+
+ 
+
+The players:
+
+And a Q&A from Goldman with its DC political economist Alec Phillips:
+
+What is the “fiscal cliff”?
+
+Alec: It’s the unhappy coincidence of about $600bn in tax increases and spending cuts that come about on January 1, 2013. Last year, we started calling this the “fiscal cliff.” On the tax side, the most significant policies are the income tax cuts enacted in 2001 and 2003, and the payroll tax cut that has been in place for the last two years. The spending cut comes mainly from the “sequester,” with a smaller effect from the expiration of expanded unemployment benefits.
+
+What do you mean by the “sequester”?
+
+Alec: When Congress raised the debt limit last year, the bill it passed included over $2 trillion over ten years in projected spending cuts, from capping annual spending bills and a flat $109bn per year cut in spending known as the “sequester” that would take effect if a deficit reduction “super committee” failed to agree on $1.2trn in savings. The super committee failed, so now the sequester is scheduled to cut spending at the start of 2013, applied equally to defense and domestic spending.
+
+How does the debt limit fit in?
+
+Alec: It’s indirectly related to the fiscal cliff, since Congress will need to address it either at the end of this year or early next year. The debt limit is a legal cap on the amount of debt the Treasury can issue—it currently stands at $16.4 trillion—and covers publicly held debt as well as debt in the Medicare and Social Security trust funds. We think the limit will become binding on the Treasury by February 2013, though hopefully Congress will raise it when they deal with the fiscal cliff at year end.
+
+What happens if the debt limit isn’t raised?
+
+Alec: The Treasury brings in about $200bn each month, but pays out about $300bn, so it would be able to pay most but not all  of its bills, with missed payments going into arrears. For some areas a sort of “first in first out” system might make sense, but it  seems likely that the Treasury would prioritize interest payments.
+
+What would be vulnerable to cuts in this situation?
+
+Alec: Payments to federal employees, contractors, and health providers under Medicare would probably see effects right away. States, which receive hundreds of billions per year in federal grants, could also see a reduction in revenues. Social Security and other types of payments would probably also be delayed.
+
+What are the key dates ahead for these issues?
+
+Alec: The House recently voted to extend the 2001/2003 tax cuts in their entirety, and the Senate voted to extend the tax cuts on income under $250,000. Spending authority will need to be extended for the coming fiscal year before the current one ends on Sep. 30, but that looks fairly likely to happen without too much controversy. The election on November 6 will be the next key  date, after which Congress is expected to come back and deal with the fiscal cliff, but any resolution most likely won’t occur until the end of December. If there is no resolution by then, Congress may come back early in 2013 and address it retroactively. We expect to hit the debt limit in February, which is around the same time that the semiannual interest payment on Treasury debt is due (see Page 3).
+
+Will the election influence how this gets resolved?
+
+Alec: Yes. Overall, the Republican position is to extend all of the income tax cuts and to avoid the defense cuts. Most Democrats prefer avoiding defense and non-defense cuts, and would like tax revenues to replace some of the lost savings from doing so.  They also oppose extending the income tax cuts on upper incomes.
+
+Will the election influence when this gets resolved?
+
+Alec: Probably, but it’s not clear in which way. A clear-cut election victory by either party could hasten an agreement, while a close election could lead to a more protracted debate. On the other hand, if one party—the Republicans, for example—were to gain control of Congress and the White House, they might opt to delay action until they gain control 2013 if they can’t win concessions in 2012. A status-quo election outcome—i.e., the President wins reelection and the Democrats hold the Senate—might make an agreement in the lame duck session of Congress more likely. Of course, there is no clear-cut answer in any of these scenarios.
+
+Will the fiscal cliff happen?
+
+Alec: It’s not our central expectation. We assume that Congress will act in the lame-duck session after the election to  extend most of the current policies until sometime in 2013. A three-to-six-months extension would allow them to address the debt limit and provide some time to come up with a longer-term fiscal plan that may involve tax reform and/or entitlement (Social Security/ Medicare) reform. The only part of the fiscal cliff that we expect to take effect at year end is the expiration of the payroll tax cut (because there seems to be broad agreement that this will eventually need to expire), along with continued phase down of emergency unemployment benefits.
+
+What are other scenarios and their probabilities?
+
+Alec: You have two general scenarios, one is that they extend the policies past the end of the year and the other is that they  don’t. We think the odds that the fiscal cliff is allowed to take effect at the end of the year are probably about one in three. If that happened, Congress would probably step back in 2013 and reverse some of it, though even a temporary lapse could be disruptive for markets and the real economy. A long-term agreement before year end (i.e., longer than a full year) seems to be the least likely outcome.
+
+Will the debate be cleaner or messier than last year?
+
+Alec: Messier. First, the issue is just bigger. Last year, we just had the debt limit, whereas this year we have that same threat plus the fiscal cliff. Also, in order to resolve the issue last year Congress was able to agree to lower overall spending levels withoutspecifying where those cuts would come from. Now that those “easy” savings have been used, the options left are more specific spending cuts or tax increases that are more politically painful. Also, some politicians may find it advantageous to let the tax cuts expire, which would enable them to come back next year and enact tax relief on a smaller scale than exists currently. Even though it would lead to an overall increase in revenues, this would allow them to cast a vote to cut taxes next year (once rates have increased) rather than a vote to raise them this year.
+
+What is the economic impact of your base case?
+
+Alec: We assume a drag on GDP growth from fiscal policy of about 1.5% in 2013, due to the expiration of the payroll tax cut along with some smaller factors. Even if Congress extended everything, we think that federal fiscal policy would still weigh slightly on growth, particularly since federal spending is slowing.
+
+What would the impact be of falling off the cliff?
+
+Alec: If Congress took no action, we estimate around a 4% hit to GDP growth in 2013. If you assume an underlying trend of around 2.5%, that is likely to put the economy into recession. There might be some mitigating factors: Consumers might initially tap savings or borrow and not all of the federal spending cuts would kick in on day one. It is also possible that some business investment or hiring has already been delayed and could restart once the uncertainty has passed. But overall, letting these policies lapse all at once would be a very negative outcome. Of course, a short lapse that the new Congress quickly addresses in January would do less damage to the economy, though damage to policy credibility and markets might still be significant.
+
+What is the Fed’s role here, if any?
+
+Alec: In our base case we already assume that the Fed is going to ease policy in September, with renewed balance sheet  expansion late this year or early in 2013. If we fall off the cliff in a more significant way, then the likelihood of easing and the  magnitude of this easing would go up. But the Fed can’t offset a fiscal contraction of the size we’re talking about.
+
+What sectors would be most impacted?
+
+Alec: Defense and healthcare are the most obvious sectors, because they have relatively large shares of revenue from the Federal government, and they are also two places that the sequester is scheduled to hit hard at the end of the year if Congress doesn’t act. The cut to defense spending in particular would be almost certainly greater than 10% and may be closer to 20%. The fiscal cliff would also hit consumers’ disposable income, which is an important distinction with last year’s debt debate, in which most of the policy discussions were confined to a narrow set of industries and had little direct impact on consumers.
+
+How concerned is the market about these issues?
+
+Alec: To assess this, you can look at a basket of stocks that our colleagues in equity research have put together, which tracks
+companies with large shares of government-related revenue. This index dropped very significantly on a relative basis to the S&Pabout a month ahead of the debt limit last year and it never fully recovered. We are starting to see some of that again this year, but the magnitude is obviously not the same so far. The other area where you would expect to see it is in consumer  onfidence and we have seen some weaker confidence numbers recently, though, again, nothing like we saw around the debt limit last year.
+
+Allison: Will the market react sooner this time?
+
+Alec: Potentially, but it’s unclear. Last year we saw a clear reaction to the debt limit debate only about a month before the deadline. One would imagine the reaction this year would come further in advance of the event, since it’s a bigger issue and also because there are plenty of people who were caught off guard by last year’s developments and might be more proactive this time. That said, my sense is that many in the market are withholding judgment until the election happens, because it’s just so hard to predict before then how all of this will be resolved. That could mean a sharper reaction post-election, depending on the situation.
+
+Will the US be downgraded again this year?
+
+Alec: Probably not. It wouldn’t make much sense for the rating agencies to take a strong view on fiscal sustainability just ahead of the election and resolution of the fiscal cliff. They have implied as much in their recent commentary. That said, I believe the risk of a downgrade reemerges again next year, depending on how these fiscal issues are resolved. If a longer-term fiscal agreement either doesn’t happen next year and Congress continues with a sort of muddle-through approach, or if the agreement is just not as substantial as some would expect it to be—i.e., they aren’t able to stabilize the projected debt/GDP ratio by later in the decade—then a downgrade seems possible.
+
+Will this series of events ultimately serve as a positive catalyst for longer-term fiscal reform?
+
+Alec: Hopefully. The good news is that both parties seem optimistic that tax reform will be enacted next year. If it happens, it could also allow for entitlement reform. The bad news is that they need to bridge fundamental disagreements to get there. They are also working from a smaller segment of the budget—neither party appears comfortable with significant cuts to Social Security or Medicare in the next decade, and they disagree on how to handle taxes and some other areas of the budget. That doesn’t  leave a lot of areas of the budget to work with to achieve savings.
+
+Source: GS
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Thu, 08/09/2012 - 14:32 | 2691789 ReallySparky   
+
+Alec, I'll take Gold for 1650.
+
+     
+
+Thu, 08/09/2012 - 14:41 | 2691813 Cognitive Dissonance
+Cognitive Dissonance   
+
+And the answer is............To the Moon Alice.
+
+http://en.wikipedia.org/wiki/The_Honeymooners
+
+http://seekingalpha.com/article/781751-why-gold-is-going-to-10-000-q-a-with-nick-barisheff
+
+     
+
+Thu, 08/09/2012 - 14:45 | 2691823 Beam Me Up Scotty
+Beam Me Up Scotty   
+
+Don't forget the silver at $28 too.
+
+     
+
+Thu, 08/09/2012 - 14:48 | 2691834 Pladizow
+Pladizow   
+
+Where  the Willey Coyote?
+
+     
+
+Thu, 08/09/2012 - 14:59 | 2691859 Comay Mierda
+Comay Mierda   
+
+he  getting ready to drop bombs on Iran to distract the sheeple
+
+     
+
+Thu, 08/09/2012 - 15:05 | 2691872 economics9698
+economics9698   
+
+Obama would suck a Jew cock to get re-elected. 
+
+     
+
+Thu, 08/09/2012 - 15:16 | 2691904 sickofthepunx
+sickofthepunx   
+
+if that  the case, i ahudder to think what romney would do.....
+
+     
+
+Thu, 08/09/2012 - 15:19 | 2691911 economics9698
+economics9698   
+
+Snort a line of coke?
+
+     
+
+Thu, 08/09/2012 - 15:45 | 2692008 fuu
+fuu   
+
+"Source: GS"
+
+Which part am I supposed to fade?!?
+
+     
+
+Thu, 08/09/2012 - 15:38 | 2691977 LFMayor
+LFMayor   
+
+Oh, something wild and over the top.  Like flog his dog to the women  bra and undwear section of JC Penny  catalogue.  That guy seems so straight laced and his ass squinched so tight i bet he shits copper wire when he accidentally swallows pennies.
+
+freak out!
+
+     
+
+Thu, 08/09/2012 - 15:50 | 2692030 azzhatter
+azzhatter   
+
+Next we'll see a report he discovered his long lost Uncle Moshe is from Tel Aviv
+
+     
+
+Thu, 08/09/2012 - 15:19 | 2691909 ParkAveFlasher
+ParkAveFlasher   
+
+ACME BUNKER BUSTER - DO NOT DROP!!!
+
+     
+
+Thu, 08/09/2012 - 14:52 | 2691844 hannah
+hannah   
+
+hope you filled out that 1099k form so the governmant can track your gold......
+
+     
+
+Thu, 08/09/2012 - 14:34 | 2691798 mrktwtch2
+mrktwtch2   
+
+yes..god forbid we should live within our means..lol we will just let the next generation pay for it..
+
+     
+
+Thu, 08/09/2012 - 14:43 | 2691819 A Lunatic
+A Lunatic   
+
+Charge it to my SNAP card.........
+
+     
+
+Thu, 08/09/2012 - 15:13 | 2691894 economics9698
+economics9698   
+
+When the feds borrow money and the new money is created you do pay for it as soon as the new money hits the street in the form of inflation. 
+
+     
+
+Thu, 08/09/2012 - 14:46 | 2691827 Beam Me Up Scotty
+Beam Me Up Scotty   
+
+Why stop at the next generation.  We can suck from every generation until the sun goes nova.  Then who cares?
+
+     
+
+Thu, 08/09/2012 - 14:54 | 2691849 FreedomGuy
+FreedomGuy   
+
+You mean the next- next generation, right? I think we've caged three or four generations with debt already. So what  a fifth generation matter?
+
+     
+
+Thu, 08/09/2012 - 15:58 | 2692057 blunderdog
+blunderdog   
+
+The only part that really requires attention was at the very end:
+
+neither party appears comfortable with significant cuts to Social Security or Medicare in the next decade
+
+     
+
+Thu, 08/09/2012 - 14:37 | 2691799 Clint Liquor
+Clint Liquor   
+
+This a non-issue. They will come together to pretend and extend at the very last minute, like always.
+
+The 'Players'! A list of people that can kiss my ass.
+
+     
+
+Thu, 08/09/2012 - 14:46 | 2691830 Winston Churchill
+Winston Churchill   
+
+Pretend and pray the bond traders do not notice.
+
+Its too late anyway unless drastic real cuts are made at once.
+
+Not going to happen.
+
+The SHTF moment  is coming,as late as 2014 or any time in between.
+
+Keep preparing.
+
+     
+
+Thu, 08/09/2012 - 15:08 | 2691879 Gunga
+Gunga   
+
+Bond traders have noticed. That is why the Federal Reserve buys 60+% of the US Treasury bonds that are auctioned.
+
+     
+
+Thu, 08/09/2012 - 16:14 | 2692099 Winston Churchill
+Winston Churchill   
+
+Let me rephrase that;
+
+Short end bond traders.
+
+NOBODY is buying long dated UST  except the Fed.
+
+They are junk and will never be repaid.
+
+     
+
+Thu, 08/09/2012 - 15:25 | 2691925 NotApplicable
+NotApplicable   
+
+Exactly. They just have to wait for enough pain to create a "mandate."
+
+This shit ain't rocket science.
+
+     
+
+Thu, 08/09/2012 - 14:37 | 2691801 Hype Alert
+Hype Alert   
+
+That  ridiculous!  The Super Committee fixed that last year!
+
+     
+
+Thu, 08/09/2012 - 15:09 | 2691869 CrashisOptimistic
+CrashisOptimistic   
+
+I believe this guy has some errors in what he laid out.
+
+First and foremost, the Sequester is not 2 Trillion, it is a bit over 1 Trillion. The other Trillion he refers to IS ALREADY CAST INTO LAW AND OUTYEAR SPENDING PROJECTIONS.
+
+The 1 Trillion Sequester divides between Defense and non Defense, but the other Trillion was already embedded in the spending profiles for upcoming years.  These were DEFINITELY not lumped as the same thing.  The Sequester was argued as a partial tax revenue possibility, but the other Trillion has no such thing -- it is to be purely spending cut.  
+
+That non Sequester trillion is backloaded so that FY 2012 only saw $4B of cuts, but they do sharply kick in starting next year and I think this guy has that wrong.  His number for magnitude of cut next year is only the Sequester portion, not the other Trillion.
+
+This means GS  projection of GDP impact is understated.  Perhaps most important of all is the response by the credit rating agencies, who held off following S&P  lead last year and left AAA in place because this debt ceiling deal did indeed take 2 Trillion off planned spending.
+
+If ANYTHING is done to lessen that, AAA will be lost across the board.
+
+     
+
+Thu, 08/09/2012 - 15:13 | 2691899 Hype Alert
+Hype Alert   
+
+IMO, the credit rating agencies have dug their own grave, again.  To the point that a downgrade will be ignored or the rating will be eliminated as a requirement.  Just the threat of another QE should have had them rattling their sabres, but there is nothing but silence that I see.
+
+     
+
+Thu, 08/09/2012 - 15:29 | 2691918 CrashisOptimistic
+CrashisOptimistic   
+
+A valid point, but the more compelling one is GS  error above is on the order of 0.5% GDP.  The contraction will be well north of 4%.  
+
+And so tax revs dry up and the whole deficit computation goes to hell.
+
+Or if they undo all the contraction, then we have another year of 1.2 to 1.3T deficit and we expect the agencies to say nothing to that?
+
+I think they have to act.  Especially in the wake of what they have done in Europe.
+
+Overall, this agency constraint needs to get more MSM time so it stops being a matter of politics where all they want to write about is Congress can't agree on stopping the cliff.  There  a LOT more involved in Congress not agreeing.  If they DO agree, it may be worse because as you alluded, a lot of pension funds and state holdings will have to divest, given they have proportion requirements of AAA and above for their portfolios.
+
+Not many noticed last year the weekend S&P acted, Geithner spent that weekend drafting documents for all the pension funds and various holders of US Ts, giving them cover for not executing sales per their bylaws, stating that the S&P move was not universal and thus the paper remained AAA.  He can't do that if all the agencies cut.
+
+     
+
+Thu, 08/09/2012 - 15:27 | 2691926 sessinpo
+sessinpo   
+
+The MSM misinformed everyone again. It was really a supper committee. Apparently they all just sat around eating food.
+
+ 
+
+I imagine if they form a committee to tackle the drought conditions that will turn the mid west into a desert, it will really be a bunch of fat bastards eating cake and ice cream.
+
+     
+
+Thu, 08/09/2012 - 14:39 | 2691806 Cognitive Dissonance
+Cognitive Dissonance   
+
+Problem, reaction, solution.
+
+Looks like a ready shovel made problem to me.
+
+http://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic
+
+     
+
+Thu, 08/09/2012 - 15:08 | 2691881 Simplifiedfrisbee
+Simplifiedfrisbee   
+
+The pot don't feel any hotter than it did last year.
+
+     
+
+Thu, 08/09/2012 - 14:41 | 2691814 Debtonation
+Debtonation   
+
+Doesn't everyone remember the Section 4 of the 14th amendment thing: "The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned"
+
+No doubt that the markets will question it though.
+
+It will be QE to infinity!
+
+     
+
+Thu, 08/09/2012 - 15:27 | 2691932 NotApplicable
+NotApplicable   
+
+Well then, the markets will be thrashed for doing so.
+
+     
+
+Thu, 08/09/2012 - 15:40 | 2691989 Thisson
+Thisson   
+
+We are not questioning it  validity, rather, we are questioning its payability.
+
+     
+
+Thu, 08/09/2012 - 14:43 | 2691818 Beam Me Up Scotty
+Beam Me Up Scotty   
+
+GERRONNNIIIMMMMOOOOOOOOOOOOOOO!!!!!
+
+     
+
+Thu, 08/09/2012 - 14:44 | 2691820 kito
+kito   
+
+what coming fiscal cliff??????...........dont look down wile e.coyote!!!!!!!..........................you passed the last piece of terra firma a lonnnnngggg time ago..................
+
+     
+
+Thu, 08/09/2012 - 14:47 | 2691832 Beam Me Up Scotty
+Beam Me Up Scotty   
+
+There will be alot of fat asses that will hit the ground before I do.  Hopefully they will cushion the fall for me.
+
+     
+
+Thu, 08/09/2012 - 14:49 | 2691838 optimator
+optimator   
+
+That  like the idiot that fell off the observation deck on the Empire State Building.
+
+As he passed the 40th floor he yelled out, "I'm O.K. so far."
+
+     
+
+Thu, 08/09/2012 - 14:44 | 2691822 Buzzworthy
+Buzzworthy   
+
+Correction, this is the second most polarized Congress ever.  I'd say that Congress on the Wednesday after Abe Lincoln was elected in 1860 was a tad more polarized.
+
+     
+
+Thu, 08/09/2012 - 14:53 | 2691846 LawsofPhysics
+LawsofPhysics   
+
+Oh the irony. made it from Abe to Barack...
+
+     
+
+Thu, 08/09/2012 - 15:05 | 2691870 kito
+kito   
+
+i call bullshit on the polarization of congress...if anything congress needs the country more divided now than ever to distract from their desperate tactics....they know the end is near and they need to galvanize their respective herds like never before...you think congress is polarized??????......perhaps you should look at some very telling bills that were passed happily by both parties:
+
+ 
+
+h.r. 1540--permitting the indefinite detainment of american citizens without due process http://news.firedoglake.com/2012/05/18/ndaa-amendment-to-eliminate-indefinite-detention-for-us-citizens-fails-in-house/
+h.r. 658 --allowing for the use of 30,000 drones in domestic airspace, yes as in domestic espionage  http://digitaljournal.com/article/319564/ h.r. 347  -- "anti protest" bill that is so purposely so vague as to ensure a citizen can be arrested merely for gathering in a space near an area where a government official is visiting. http://www.inquisitr.com/206017/president-obama-signs-anti-protest-bill-h-r-347/ senate bill 1813 allowing for the government to strip you of your passport if they allege you owe more than $50,000 to the irs. this is done without due process. all that is needed is that their notice of lien. the same bill (strangely enough) mandates that starting in 2015, all new vehicles must be equipped with black box recorders. isnt that great?!? http://articles.businessinsider.com/2012-04-19/home/31365245_1_issue-passports-foreign-banks-citizen there is also h.r. 3523 the "cyber intelligence sharing and protection act" , which is pending, with both parties itching to pass, that will trample on your on line privacy. again, another bill that has no transparency  http://www.theverge.com/2012/4/26/2978395/us-house-passes-cispa
+
+     
+
+Thu, 08/09/2012 - 16:21 | 2692119 tenpanhandle
+tenpanhandle   
+
+This information is so disturbing that my first instinct was to junk you for bringing it to my attention. On another note, production of 30,000 drones ought to lift the economy out of depression.  We have a good start on that number already as there are 5 or 6 hundred drones sitting in congress/senate.
+
+     
+
+Thu, 08/09/2012 - 14:45 | 2691826 azzhatter
+azzhatter   
+
+Fiscal Cliff?? Bring it
+
+     
+
+Thu, 08/09/2012 - 14:49 | 2691836 A Lunatic
+A Lunatic   
+
+Alls we gots to dooo is declare War on fiscal cliffs......
+
+     
+
+Thu, 08/09/2012 - 14:50 | 2691839 LawsofPhysics
+LawsofPhysics   
+
+More spending (defense or otherwise) ?!?!?  What part of broke do these fuckers not understand?
+
+     
+
+Thu, 08/09/2012 - 14:55 | 2691852 SemperFord
+SemperFord   
+
+Their paychecks depend on them no understanding so they will keep this rolling for a while unfortunately.
+
+     
+
+Thu, 08/09/2012 - 14:57 | 2691854 Clint Liquor
+Clint Liquor   
+
+What part of broke do these fuckers not understand?
+
+The part where you have to quit spending.
+
+     
+
+Thu, 08/09/2012 - 14:57 | 2691856 TideFighter
+TideFighter   
+
+Ben Davies over at KWN said gold is poised for a big move, up or down.
+
+Wouldn't I be better off to fade Goldman Sux than a coin toss?
+
+At least I get odds better than 50/50.
+
+     
+
+Thu, 08/09/2012 - 14:58 | 2691858 Blue Dog
+Blue Dog   
+
+The only reason there  polarization is that the Democrats refuse to cut spending. They always lie about any possible spending cut. Obama wants the coming economic collapse and martial law that will go with it.
+
+     
+
+Thu, 08/09/2012 - 15:27 | 2691931 sdmjake
+sdmjake   
+
+Blaming one of the sides of the same coin.... Wake up! Ya been had. Ya been bamboozeled
+
+     
+
+Thu, 08/09/2012 - 15:00 | 2691860 EmmittFitzhume
+EmmittFitzhume   
+
+My short position insurance policy matures in 5 months
+
+     
+
+Thu, 08/09/2012 - 15:02 | 2691865 haskelslocal
+haskelslocal   
+
+How does a Patriot Act when Citizens United fall off a Fiscal Cliff?
+
+Fucking names. 
+
+ 
+
+ 
+
+     
+
+Thu, 08/09/2012 - 15:06 | 2691875 magpie
+magpie   
+
+The USA needs a non-auditable ESM to solve its fiscal problems.
+
+     
+
+Thu, 08/09/2012 - 16:26 | 2692136 tenpanhandle
+tenpanhandle   
+
+The USA needs a non-traceable EMP to solve its fiscal problems.
+
+     
+
+Thu, 08/09/2012 - 16:33 | 2692155 magpie
+magpie   
+
+So no fake military coup or stuxnetting the Bernank  console ?
+
+'Just haarp the place from orbit'
+
+     
+
+Thu, 08/09/2012 - 15:13 | 2691895 chancee
+chancee   
+
+Yes, it  true.  The stock market is not going to be allowed to fall during the Olympics.  Phony, phony, phony, phony ES futures action.  Comedy.
+
+     
+
+Thu, 08/09/2012 - 15:16 | 2691906 DeadOnArrival
+DeadOnArrival   
+
+Will the US be downgraded again this year?
+
+Alec: Probably not.
+
+Downgrade once, shame on you...downgrade twice, shame on me.  Maybe after the second downgrade the Government and Wall Street will start taking this seriously.  They need to call it the "Fiscal End of The World - 2012".  End of times prognostications always seems to chatch the public  attention.
+
+ 
+
+     
+
+Thu, 08/09/2012 - 15:32 | 2691953 NotApplicable
+NotApplicable   
+
+Thing is, it looks like we'll make it to 1/1/2013.
+
+In your face, Mayans! (in my best Homer Simpson impersonation)
+
+     
+
+Thu, 08/09/2012 - 15:44 | 2692007 CrashisOptimistic
+CrashisOptimistic   
+
+He  right.
+
+It won't be this year.  
+
+It will be January or February 2013 when the deal is cut to continue another year of 1T+ deficit.  Then the agencies cut across the board and trigger the required bylaw sales by pension funds who must hold XX% of holdings AAA.
+
+     
+
+Thu, 08/09/2012 - 15:21 | 2691916 Neethgie
+Neethgie   
+
+ok zero hedger  i think its time we combined our resources to build a spaceship and get the fuck off this planet.
+
+ 
+
+     
+
+Thu, 08/09/2012 - 15:50 | 2692032 shovelhead
+shovelhead   
+
+I keep looking for the mothership to arrive.
+
+I won't even bitch about the anal probe as long as it  free.
+
+I'm paying for the one I'm getting now and I don't even get a window seat.
+
+     
+
+Thu, 08/09/2012 - 15:55 | 2692044 exi1ed0ne
+exi1ed0ne   
+
+http://mars-one.com/en/
+
+     
+
+Thu, 08/09/2012 - 15:24 | 2691923 rsnoble
+rsnoble   
+
+Oh boy, more threats about the US "might" go into recession when there  millions of people sitting around with their fucking thumbs up their asses right now. Of course that doesn't count. Neither do high food prices, gas prices exploding rents etc etc etc all hail the GDP and corporate bullshit profits and all our insolvent banks. I guess everything is better than I think, look at the DOW.
+
+     
+
+Thu, 08/09/2012 - 15:35 | 2691966 NotApplicable
+NotApplicable   
+
+Just wait until they figure out those thumbs are good for looting. I figure the 200+ people flashmobs at  WalMart are just starting.
+
+While there are benefits to selling everything one needs all under one roof, there are also drawbacks.
+
+     
+
+Thu, 08/09/2012 - 15:24 | 2691924 youngman
+youngman   
+
+What I am confused about is all the talking heads are saying buy dividend stocks...and dividends are going to be hit hard with the new tax rules....I forsee a lot of capital gains selling starting soon.....I would not wait until December 31st....they are missing Obamacare also....it will "save" nothing....and cost trillions...so here we go....our GDP is going to drop ....our revenues will drop....but our expenses unless we cut them are going to go up...and I don´t think even a congress full of Tea partiers and a Republican President can cut expenses enough...we need to cut 30% of the budget....all from Social Security , Medicare, Medicaid, state and local government pensions.......among a 100 stupid "programs".....sorry old folks...but you had the cake already...
+
+ 
+
+BUT...................it won´t happen
+
+     
+
+Thu, 08/09/2012 - 15:37 | 2691971 NotApplicable
+NotApplicable   
+
+Why on Earth would you bother listening to those people?
+
+Talking heads have to talk about something. Dividends are the last carrot they've got left to tie to the stick.
+
+Well, at least until the next false-flag...
+
+     
+
+Thu, 08/09/2012 - 15:27 | 2691934 rsnoble
+rsnoble   
+
+"wind down emergency unemployment compensation". Makes perfect sense at peak disaster time. LOL. Save me the debt speech im just saying.
+
+     
+
+Thu, 08/09/2012 - 15:31 | 2691949 govttrader
+govttrader   
+
+Here  what you need to know about the fiscal cliff...over the next 20 days, the Fed is about to buy 10bln 30yr bonds of the 16bln that the treasury just sold.  Time to buy dips in treasuries.
+
+http://govttrader.blogspot.com/
+
+     
+
+Thu, 08/09/2012 - 15:35 | 2691964 ebworthen
+ebworthen   
+
+Cliff?
+
+They'll just build a bridge to nowhere and put a sign up that says "Road to Xanadu".
+
+     
+
+Thu, 08/09/2012 - 15:38 | 2691969 CheapBastard
+CheapBastard   
+
+How about all those $300 psf boxes finances with near zero down?
+
+"Some think just because the government is backing every loan that somehow things are all rosy.  FHA insured loans are seeing a growing rate of defaults.  Keep in mind this is a due diligence loan with a very low down payment.  That is, lenders are examining the total income and debt profile and yet people are still facing problems.  Let us not even discuss the 11 million nationwide home owners that are underwater."
+
+ 
+
+Are they supported by the Cali unemployment  ?
+
+http://www.doctorhousingbubble.com/wp-content/uploads/2012/08/finance-an...
+
+ 
+
+And how about the massive public debt?
+
+http://www.usdebtclock.org/
+
+But remember, I'm a cheap bastard, especially in this Downward Deflationary Debt Death nosedive. I wouldn't pay more then the cost to build----$75 psf.
+
+ 
+
+Via con Dios!
+
+
+     
+
+Thu, 08/09/2012 - 15:42 | 2691996 NEOSERF
+NEOSERF   
+
+As much as I appreciate ZH and it  point of view, given everything we have learned in the last 3 years about governments perpetuating their own jobs, and not addressing the issue at hand is there really any chance that this won't get put off 1 year so that neither candidate  party is seen as hurting their candidate this election year.  Both parties will declare victory and claim it was their side that avoided catastrophe...Both sides will be HAPPY to fight tooth and nail a year from now when it is clear they have something to win.
+
+     
+
+Thu, 08/09/2012 - 15:44 | 2692005 JamesBond
+JamesBond   
+
+I think we can agree that September 30th is the line in the sand.
+
+ 
+
+jb
+
+     
+
+Thu, 08/09/2012 - 16:05 | 2692078 vertexa
+vertexa   
+
+OBAMA: LET’S REPEAT AUTO BAILOUT WITH EVERY INDUSTRY
+
+No more recession if hes re-elected? 
+
+     
+
+Thu, 08/09/2012 - 16:26 | 2692135 CABill
+CABill   
+
+America is doomed if Obama is reelected.
+
+Obama  intentional goal is his continued destruction of America.
+
+One and done, damage in his first term will take decades to fix.
+
+     
+
+Thu, 08/09/2012 - 16:27 | 2692142 denny69
+denny69   
+
+Guess one could say, "Down with capitalism!"; but it  not capitalism happening out there.
+

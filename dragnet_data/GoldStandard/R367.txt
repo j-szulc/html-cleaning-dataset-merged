@@ -1,0 +1,35 @@
+November 4, 2012, 9:23 pm
+State and National Polls Come Into Better Alignment
+By NATE SILVER
+
+It appears that President Obama is likely to go into Election Day with a very modest lead in the average of national polls.
+
+As of this writing, on Sunday evening, Mr. Obama led by an average of 1.3 percentage points across 12 national polls that had been published over the course of the prior 24 hours. The range was quite tight, running from a tied race in the polls issued by Rasmussen Reports, CNN and Politico, to a three-point lead in three other surveys.
+
+This happens to be a reasonably friendly group of polls for Mr. Obama, and it’s more likely than not that at least some national polls published late Sunday or on Monday will still show Mitt Romney ahead.
+
+Nevertheless, there is enough data to conclude that Mr. Obama probably has a slight edge from national surveys, which until recently had pointed toward a tie — or perhaps a modest advantage for Mr. Romney in the immediate aftermath of the Denver debate.
+
+A number of these polls had very large sample sizes, meaning that the results are less likely than usual to have resulted from statistical variance.
+
+But the modest gains that Mr. Obama has made in the high-profile national surveys should not be that much of a surprise. We’ve observed the race shifting toward him over the past two to three weeks in polls of swing states, where overwhelming majorities of polls have had Mr. Obama ahead over the past few days.
+
+Where has Mr. Obama shown a bit of weakness in his numbers? His polls in noncompetitive states have been mediocre lately. In polls published by the online firm YouGov on Sunday, for example, there were declines in Mr. Obama’s numbers in California and Texas. Since these states have large populations, they could lower Mr. Obama’s popular vote even though they will play no role in his Electoral College tally.
+
+The forecast model still does perceive some differences between the state polls and national polls, but it is within a reasonable range.
+
+Perhaps more important, the fact that the national polls now suggest a slight lead for Mr. Obama removes one of the better reasons to think that our forecast might have been underrating Mr. Romney’s chances.
+
+Based on the simulations that we ran on early Sunday evening, for example, Mr. Obama would have an 85 percent chance of winning the Electoral College if the popular vote were exactly tied nationally. This is where Mr. Obama’s Electoral College advantages, particularly in Nevada, Ohio and Wisconsin, would be of their maximum benefit. Given a tied national popular vote, we would expect Mr. Obama to underperform his polls slightly in these states — but since he leads by a minimum of about three points in the polling average in each one, he could underperform those numbers and still win them.
+
+Mr. Obama would be almost certain to win the Electoral College if he won the popular vote by a percentage point or so.
+
+Instead, the model estimates that Mr. Romney would need to win the national popular vote by about one percentage point to avert a tossup, or a loss, in the Electoral College. A tied popular vote, as Mr. Romney’s better national surveys now indicate, would likely yield an unhappy outcome for him.
+
+Mr. Romney would not be in much danger of losing the Electoral College if he won the popular vote by more than about 1.5 percentage points. For example, he would be about a 95 percent favorite in the Electoral College if he won the popular vote by two percentage points, according to the forecast model.
+
+But with national polls now showing a slight edge for Mr. Obama, these outcomes have become less likely. If Mr. Romney wins the popular vote, it may be only barely, and that might not be enough for him to win the Electoral College.
+
+The consolidation between the national polls and state polls is also important outside the context of the FiveThirtyEight forecast model itself, since it removes a source of structural uncertainty — the chance that the model was not a good representation of the real world. While I think the model handles the relationship between state polls and national polls in a careful way, there are a lot of alternative assumptions that one might make, and so it had been a source of some inherent ambiguity.
+
+On Saturday, we wrote that state polls would have to be statistically biased against Mr. Romney for him to win the Electoral College. Now, it may be the case that the national polls would have to be biased against him as well.

@@ -1,0 +1,67 @@
+September 24, 2012
+How to make your site mobile friendly
+
+Apple reported more than five million iPhone 5 units were sold in the first three days that it was offered for sale. And it's not just Apple products. Mobile is now the preferred way many people get online.
+
+With the huge popularity of smartphones and around the world, it is now essential that all organizations have a mobile-friendly site to make it easy for people to find you.
+
+Check out your own site
+
+For a long time I did not have a mobile strategy. It was always "on my list" but never got to the top until one day I realized I was delivering a horrible mobile experience for my buyers when I went to my own site on my iPhone. That got me to act. (Have you seen your site on a mobile device?)
+
+So early this year, I worked with both Jim Stewart at Melbourne, Australia–based StewArt Media and Doug Eymer of Eymer Design to help me. Doug did the design work and Jim's team worked on the technology and all-important Search Engine Optimization components. Check out Jim's SEO blog and Doug’s Marketing and Design blog.
+
+Why a mobile strategy is important
+
+Fun (and important) fact: The Google Mobile search engine indexes differently than the main Google search engine. You need to optimize for both.
+
+If you actually sell a product, a mobile can be a great way to generate new revenue.
+
+"For many businesses mobile is now a new channel and not merely an extension of the web experience," Jim told me. "In Australia over 25% of PayPal users have made a purchase using a smartphone. If you use Google AdWords you can now target mobile users directly and place a clickable phone number in the ad so they simply call through to your business, bypassing your website entirely. We had a Car Dealership client that used this method and had an amazing result."
+
+Read Jim's 4 Crucial Questions to Get Your Business Mobile-Ready.
+
+A few things you can do right now
+
+1. Make sure your site is mobile compliant. You need the pages to load properly in mobile devices.
+
+2. Create a mobile sitemap so the search engines can index your pages for mobile browsers.
+
+3. Use few words and small graphics. People don't read much on mobiles and they want the data to come quickly.
+
+The challenge is to understand this new landscape so you can get your business into the mix at that precise moment of decision. I chose to work with experts and it was the right decision for me.
+
+Don't miss out on opportunities to sell to the many people now accessing their sites from wireless devices.
+
+Disclosure: I have worked with both Doug and Jim on many projects and I pay them when they help me. I mention them in this post because I want to recognize their good work. I am not compensated in any way for doing so.
+
+
+
+!@#$%^&*()  COMMENTS	
+
+
+
+
+
+Good article on a very timely subject. You must make sure that any Flash animation/graphics are removed and substituted with HTML5 graphics. You can also write a section in your CSS that converts pages to mobile devices - both phones and tablets. Mobile is going to dominate in a very short time so be ready!
+http://www.cross-check.com/blog/?Tag=mobile+technology
+
+Posted by: Kevin Walli | September 25, 2012 at 07:14 PM
+David Meerman Scott
+
+Hey Kevin, I'm glad you jumped in with this additional information. Many thanks.
+
+Posted by: David Meerman Scott | September 26, 2012 at 05:17 AM
+Improvement on Social Media
+
+Mobile Responsive Design is booming in popularity for good reason: it future proofs your website. Today people want iphones, tablets and kindles: what about tomorrow? Wrist watches or Google Goggles. Device specific solutions like m.domain websites and native apps have high development costs and short product lifetimes.
+
+Posted by: Improvement on Social Media | September 26, 2012 at 05:31 AM
+Anton Koekemoer
+
+Hi David,
+
+Yes – I agree. With mobile being (and still becoming) a big part of traffic and social media engagement for brands and businesses you need to be sure that your mobile site is compliant (with browsers and with Google [actually more an SEO] Terms and conditions, with as you’ve mentioned mobile sitemap etc.)
+
+Posted by: Anton Koekemoer | September 26, 2012 at 08:34 AM
+

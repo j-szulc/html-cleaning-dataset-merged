@@ -1,0 +1,33 @@
+Announcing the winners of 2012 Google Earth Outreach Developer Grants
+Wednesday, October 31, 2012 at 9:42 AM
+(Cross posted from Geo Developer Blog) 
+
+In 2011, Google Earth Outreach launched a new program to fund nonprofits that want to create cutting-edge maps for public good. Today, we’re excited to announce the winners of the 2012 Google Earth Outreach Developer Grants program. We’ve selected eight nonprofit organizations, listed below, that have presented a compelling ideas for a new map or mapping technology that will make a positive impact on the world. Each winner received a grant to support the technical development of their map. The winners include:
+
+    The Royal Canadian Geographical Society - A Developing World: a Maps API application containing UN Human Development Index data
+
+    Clinton Health Access Initiative - Getting to Zero in Southern Africa: A Temporal and Spatial Map of Malaria Progress
+
+    SamSamWater Foundation - Rainwater Harvesting Tool: Calculate Your Drinking Water using Google Maps
+
+    Wild South - Cherokee Trails: Google Earth tours, a map, and an Android app documenting Cherokee Indian geography and the struggle of the Cherokee to remain in their homeland.
+
+    Internews -Change of States Map: a Maps API application documenting local impacts and adaptations to climate change in the US.
+
+    Vanishing Worlds Foundation / World Oral Literature Project / Language Landscape - Language Landscape: an Extensible Model for Mapping Language Dynamics
+
+    the Jane Goodall Institute - Community-based Forest & Wildlife Monitoring: Scaling Up and Sharing Dynamically Generated Maps
+
+    Atlantic Public Media - Monarch Migration: a Google Earth Tour
+
+
+Work is already in progress on each of the projects, so check back on our Developer Grants page in the coming months to see these maps come to life, and to explore maps created by last year’s grantees.
+
+Watch this video to see an example of a Google Earth Tour made possible by the 2011 Developer Grants program is the Arctic Tern Migration, created by the Atlantic Public Media.
+
+We’re very excited about the organizations that were funded this year, and we wish to thank these hardworking organizations who are improving conditions for people and the planet.
+
+Posted by Tanya Birch, Google Earth Outreach
+
+
+*These organizations were funded through the Google Inc. Charitable Giving Fund at the Tides Foundation. 

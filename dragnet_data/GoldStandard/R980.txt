@@ -1,0 +1,1055 @@
+
+Your Thesis 2.0 Questions Answered (plus a new web design)
+
+by Derek Halpern · 167 comments
+
+Late last night, the brand-new DIYthemes web design (and pricing structure) went live.
+
+And I may be biased, but I think it looks AMAZING.
+
+You can now see all of the benefits of Thesis 2.0 (and how they help you).
+
+Before I walk you through all of the changes, and answer your questions, take a look at this quick screenshot:
+
+Introducing the Brand-New DIYthemes.com Web Design
+
+(this is only part of the DIYthemes home page. I suggest you load up http://diythemes.com in your browser and see everything)
+
+How cool is this new design?
+
+You’ll see why skins, boxes, and packages are the FUTURE of designing WordPress themes.
+
+You’ll also see all the “behind the scenes” stuff that Chris Pearson implemented to make Thesis 2.0 as SEO friendly as possible.
+Now Your Questions About Thesis 2.0 Answered
+
+As with all big changes, people have questions. And today I’d like to answer some of them.
+
+So let’s dig in.
+“You changed your pricing. How does this affect people who already bought the Personal Option or the Developer’s option?”
+
+If you’re a new Thesis 2.0 customer, you have nothing to worry about. You’re all set.
+
+If you’re an older Thesis customer, we’ve got good news. Everything we promised people who owned the Personal Option and Developer’s option will remain in effect. This new pricing structure is for new customers only.
+
+Behind the scenes…
+
+Personal option account holders: Your account level still exists. We just no longer offer it for sale. That means you’ll get everything we originally promised you when you invested in Thesis 1.8x. So no worries.
+
+Developer’s option account holders: You will be automatically grandfathered into the new Professional option. You’ll also get to take advantage of the new bonuses when they’re ready.
+“How can I upgrade my existing Thesis design to take advantage of Thesis 2.0?”
+
+Right now, if you have advanced customizations, we recommend that you don’t upgrade to Thesis 2.0… yet.
+
+Thesis 2.0 is a brand-new operating system, and things don’t work as you’re accustomed to. Chris rebuilt the interface, and while it’s different, you’ll find that when you play around with it you’ll have a BLAST.
+
+That’s why we recommend you play around with Thesis 2.0 on a test site that way you can see how the interface works in a low-stress environment.
+
+And then, all of a sudden, you can have little “AHA!” moments just like this:
+
+Will it take some getting used to? Yep, but once you do, that’s when the magic happens as you can see :-D .
+“Will you create Thesis 2.0 documentation? How do we use the new software?”
+
+As you’ll notice we have limited documentation on the new software.
+
+Why?
+
+We committed to releasing Thesis on October 1st, 2012, and we wanted to keep that promise.
+
+That left us on a time crunch to create documentation, but rest assured we’re working on creating that around the clock.
+
+And we hope to have much more live by the end of the week.
+
+So keep your eyes peeled!
+
+Additionally, if you’re looking for “specific” tutorials on how to use Thesis 2, feel free to leave a comment to let us know what you’d like to learn how to do. We’ll use your comments as a way to prioritize what tutorials get written first.
+
+And of course, if you have any questions about your Thesis 2 install, feel free to contact our support team by popping into our DIYthemes customer forums.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Hesham Zebida
+
+    The most tuts I would like to see is :
+
+    - How to create a Box
+    - How to create a Package
+    - How to create a skin
+
+    I am liking Thesis 2.0 , just gate that I will have to go back to school again :)
+
+    Jason Manheim
+
+        Ditto on the above.
+
+        I’d also like to see a writeup on the basic structure/file system Thesis 2 uses (where it stores things, whether or not the info in the DB table is removed at any point, etc.).
+
+        Johan
+
+            Yeah, I’m hoping/assuming the basics (as listed above) will be covered.
+
+            Additionally:
+            - How to make a responsive skin
+            - Templates 101 (covering all there is to them, how they work, making them, etc).
+
+            Another question I have is: I know that Thesis has SEO built-in, but I prefer to use a plugin for that (Wordpress SEO by Yoast) for a number of reasons. Can I still do this without any interference?
+
+            Hesham Zebida
+
+                Johan, skin custom templates are very easy to create, I struggled with it for a couple of hours though!
+
+                I’ve published a quick tut on how to create them in the write order!
+
+                I hope this helps.
+
+    Gawain Lynch
+
+        Hesham, start with the classic skin include with the theme, it will give you a lot of hints!
+
+        Basically (and you’ll love this), you need a directory under wp-content/thesis/{boxes|packages|skins}/ named after your new item, a php file in there and a header inside that file pointing to the class you create. It’s pretty damn cool.
+
+        Hesham Zebida
+
+            Thanks Gawain for the tips, I spent the whole night playing with 2.0, I realized that there is something missing in the theme, it’s missing a very important button!
+
+            So, I am waiting for the complete version ;)
+
+            Gawain Lynch
+
+                If we’re talking about the same button, apparently it is a filter… But I’ve spent too much time reading the rest of the code base to find the right one ;-)
+
+                Hesham Zebida
+
+                    You are correct, it’s a filter, and it’s freaking awesome :)
+
+Aubrey
+
+    I just purchased a theme for $197 & I cannot get into my membership page. I keep getting the “no access” prompt. Help!
+
+    Chris
+
+        and you think the blog is the best place to solve that?
+
+        zte
+
+            Rather than leave a DA response like that, why not offer a solution like – go here http://diythemes.com/forums/index.php or contact the support team here diythemes@gmail.com
+
+            Hope this helps, Aubrey.
+
+        Aubrey
+
+            When I cannot access the regular members forum or call a helpline. Yes. Do you have any bright ideas? Or just more sarcasm?
+
+    Derek Halpern
+
+        Hey Aubrey, please email diythemes AT gmail.com
+
+        Aubrey
+
+            Thank you Sir. I did that an hour ago.
+
+    Teo Seifer
+
+        “You should be jumping on one foot”, celebrating, as we say in Argentina. Be happy man. You’ve just purchased the best WP Theme ever and just released version… and many happy moments to come. Now its the time when theres a lot of confusion and transition. Be patient that the next week it will normalize….
+
+        Tell you what…
+
+        For this great 2.0 change, theres dozens of thousands clients (REAL), designers and most worried -programmers- expecting what is to come, what changes should they do and what adaptations they should encode to their loved skins… So you are in a very fortunate position.
+
+Thomas Frank
+
+    I saw the new design go up a few hours ago and I absolutely love it. To be honest, I thought the old design was way too sparse, and it was one of the reasons I never bought Thesis until now.
+
+    Can’t wait until documentation is up so I can transfer my main site to Thesis without any worries. Until then I’ll just be playing around in a local WAMP stack :)
+
+    Derek Halpern
+
+        Awesome!
+
+Ryan
+
+    Can existing customers still sign up for the discounted Pro pricing?
+
+    Thanks,
+
+    @RyanShell
+
+    Derek Halpern
+
+        That was ended last night. We sent several emails about it…
+
+        BossHogg
+
+            When was last night? I must’ve missed the emails.
+
+Steve Goerger
+
+    What I’m wondering is if there is any plan to start a Thesis marketplace, where Thesis developers like myself can create and sell our Skins (or Boxes or Packages)? Such a marketplace would be awesome!
+
+    Jason Manheim
+
+        This is also something I’m interested in. I’ve been holding off on creating my own marketplace at thesiswp.com in hopes that an official marketplace comes to fruition.
+
+    Derek Halpern
+
+        :-D
+
+    Chris Pearson
+
+        I’ll second Derek here:
+
+        :D
+
+        Justin Caron
+
+            Thesis skin repository? :D
+
+Photoshop Training Channel
+
+    I would like to see how we can take our old custom_functions.php file and implement it to Thesis 2.0
+
+    James
+
+        Second this. I’d like to know how to get our existing site options into Thesis 2.0 without having to start over from scratch. Is there a seamless approach to transitioning from the old to the new?
+
+        Steve Goerger
+
+            Ditto here, that’d be helpful…for me and for my clients.
+
+        Campbell
+
+            Doubt that my friend.
+
+    Chris Pearson
+
+        Here’s the scoop: You can transfer your old custom functions, but not all of them will work exactly the same way.
+
+        Thesis 2 features many new hooks, and some of the old ones have been removed in favor of the new naming convention.
+
+        But that’s not even close to the most important point here:
+
+        With Thesis 2, it’s highly possible that you won’t need ANYTHING that’s currently in your custom functions file. The new drag and drop interface makes it possible to do nearly everything that you used custom functions for in the past.
+
+        Only now, you won’t have to mess with any code to get the same results.
+
+        I *completely* understand that this catches some folks off guard, but needing less code to generate the same (or better) results is…progress!
+
+        Attempting to rebuild your old design inside Thesis 2 using the same methods you used in Thesis 1 would be like trying to build Model T with Ferrari parts.
+
+        Personally, I’ll go with the Ferrari :D
+
+        Happy Hotelier
+
+            Ah talking about hooks. Tried them to no avail, but am I correct I’ve to put them in a box?
+
+            Chris Pearson
+
+                You probably won’t need hooks at all anymore.
+
+                If you DO want to use hooks, you can use the custom.php file in your active Skin directory to add them:
+
+                /wp-content/thesis/skins/active-skin/custom.php
+
+                Where active-skin corresponds to the folder name of your currently-active Skin.
+
+                Chris Aitken
+
+                    Chris — assuming that means custom.php is specific to (i.e., tied to) each particular skin installation? So while we are learning/modifying skins, do we need to create duplicate custom.php file in each separate /wp-content/thesis/skins/active-skin folder we’re playing with?
+
+Vivek Parmar
+
+    Hello Sir,
+
+    Bought Personal License earlier. Do I get Thesis 2.x updates for free or not?
+
+    One more thing..would be kind enough of you if you release a documentation so that we learn how to customize thesis 2.0
+
+    Derek Halpern
+
+        Interesting. You just bought it earlier, but you’ve been using THesis for quite some time.
+
+        If you signed up for Basic or Basic Plus, you still get Thesis 2.0. But updates expire in 12 months
+
+        Vivek Parmar
+
+            Hello Derek Sir,
+
+            Earlier means (Thesis 1.5). So do I get free updates for lifetime or for 12 months?
+
+    Campbell
+
+        Earlier as in when? 3hrs ago? if so you will get FREE Updates for the course of 12 Months from date of purchase.
+
+        If you are an existing Thesis Owner then yes you get the Thesis 2.0 Update for free.
+
+        Vivek Parmar
+
+            @Campbell: thanks for letting me know about it..not 3 hours..using Thesis from last 1.5 years..
+
+David Alexander
+
+    Would love to hear how Thesis works with Custom Post types etc, also was really hoping there would be a way to add special fields to edit post screens for standard post types and custom post type so thesis could please the people who want it for more than just a blog. I feel custom fields is a dated approach and while the types plugin allows you to create custom post types and custom meta fields I am yet to test this out. Hopefully later I will get a chance to try the two together.
+
+    Chris Pearson
+
+        David, you can do all these things with Thesis 2, and I absolutely *guarantee* that Thesis makes it easier than any other software does.
+
+        First, regarding custom post types, Thesis will automatically detect if you’ve registered any custom post types, and it will give you options to create templates for each of them.
+
+        Thesis 2 makes it ridiculously easy to create custom templates for as many or as few of your custom post types as you please.
+
+        Now, regarding custom post meta (these are the custom fields on post editing pages), Thesis offers an innovative solution in this area as well.
+
+        Thesis Boxes contain an API that allows you to integrate custom post meta, term options (categories, tags, and taxonomies), template options, and standard Box options with next to no hassle.
+
+        You simply provide Thesis with an array, and it creates your options, saves them, and lets you retrieve them precisely when you need them.
+
+        It’s truly the ultimate form of valet web development.
+
+        We’ll be publishing more information on the Thesis Options API and Thesis Boxes in the days to come. For now, our team is focused on creating Skins and getting our first round of Boxes out there.
+
+Chris
+
+    Love the new site design. Would love an in depth tutorial of how it was done.
+
+Kimberly
+
+    Do “client site options” still exist with the release of Thesis 2.0? If so, what’s included…just 2.0…no skins, boxes or packages? Is the pricing for “client site options” going to be increased? THANKS!
+
+    Chris Pearson
+
+        Kimberly, client site options still exist with Thesis 2, and the price of them isn’t going to change for the foreseeable future.
+
+        Customers who bought the Thesis Personal Option will receive Thesis 2.0, but no additional Skins or Boxes.
+
+        Customers who bought the Developer’s Option will get Thesis 2.0, the SocialTriggers Skin, the Pearsonified Skin, and some social media Boxes as we finish them.
+
+        Neither the Personal nor the Developer’s Option is available any longer; the new options are:
+
+            Thesis Basic — Just Thesis 2 with 12 months of upgrades (no additional Skins)
+            Thesis Basic Plus — Thesis 2 with 12 months of upgrades, the SocialTriggers Skin, and the Pearsonified Skin
+            Thesis Professional — Thesis 2 with lifetime upgrades, the SocialTriggers Skin, the Pearsonified Skin, and some social media Boxes
+
+Kevin D. Jones
+
+    Would love to see a quick start video similar to the video you created for thesis 1.6. Something for newbies and gurus alike. Love the new system and the excitement generated but I am eager to start building. I have 10 sites waiting on me and products o sell!
+
+Campbell
+
+    Hey Derek,
+
+    What has become of the Free Responsive Skin that was originally listed as one of the bonuses on App Sumo?
+
+    I posted something about this on the forum hoping that it would be relayed to you guys to correct the typo on the “Thesis Professional Package” on your Sales Page.
+
+    Derek Halpern
+
+        It’s coming :-) .
+
+        Things were a bit hectic, but things are coming together, and the two skins, both the responsive, st, pearsonified, will be available asap!
+
+        Campbell
+
+            Thank you very much Derek.
+
+            Have someone fix the Typo on the sales page on the Thesis Professional Box the (Responsive Skin) is NOT LISTED and you know that somehow, someone who wants to be drama queen will pick that apart and start god knows what.
+
+Louis
+
+    Will Thesis support responsive design? (resizing for mobile). I am thinking about the exploding mobile traffic and would like to know how Thesis will handle this?
+
+    Thanks,
+
+    Tim
+
+        Yes I often think about mobile traffic exploding in an ephemeral blaze of fairy dust.
+
+        ;p
+
+        Louis
+
+            yeah i have a sense for the dramatic :P
+
+    Chris Pearson
+
+        Soon, we’ll be putting “Phase 2″ of the Thesis 2 launch sequence into action. This includes releasing lots of new Skins, many of which will be responsive.
+
+HeelShields
+
+    Will I be able to create a site with circles like the new DIY site?
+
+    HeelShields
+
+        Okay, forget I asked this question. I am going back to the BIG RED BUTTON and will read all the information and if I have a question after that, then I will ask.
+
+Dale Oswald
+
+    Hi guys. Congrats on V2.
+    I bought developers edition in July and have been away in China for an extended work project and not able to start with Thesis.
+    Should I just start with the version 2 files and load that on top of my virgin Wordpress set-up. ?
+    DO I ignore the “175″ version?
+    A newbie starting at 2.0
+    Does online help now all refer to version 2?
+    There may be more questions-
+    Thx
+    Dale
+
+    Marc
+
+        I am in a similar situation – just bought the regular edition recently and upgraded to developer last night after the email went out. My understanding is if you haven’t built anything yet with the previous version(s), then the proper course would be to start with 2.0 and do a fresh install. This is what I have done. Until the official documentation is ready, there is a good walkthrough over at kristarella.com: http://www.kristarella.com/2012/10/installing-thesis-2-0/
+
+        Jon
+
+            if you have not used thesis 1.x just install 2.0 and start from there it is so different that 1.x will only confuse you. Rick at byobwebsite.com had an early version of 2.0 and has a series of videos here; http://www.byobwebsite.com/10/video-tutorials/how-to-build-a-website/using-thesis-theme/thesis-2-0-launch-party-video-replay/ that are very helpful on getting you started.
+
+George Kosovic
+
+    It’s not clear whether boxes, skins and packages are free accessories or accessories one pays for. Since two skins are included with the Professional package, I assume they are all paid accessories. Still, a clear statement on the matter would be appreciated as would a price list or description of the pricing scheme (Bronze, Silver, Gold or whatever other scheme you have in mind).
+
+    Last week’s buy-it-by-midnight-tonight promotion to all of us established Thesis customers came off as manic, precipitous and borderline inconsiderate. Even people who are accustomed to the Kool-Aid normally take time to mix it thoroughly, ice it down and savor with anticipation. You didn’t even give us time to see if we had ice cubes. Would you care to post at least one demo site built with Thesis 2.0 and then re-extend the offer to the loyal customer base?
+
+    Mark
+
+        Hey George, I hear what you’re saying… the mad “wild west” rush.
+        Thesis customers have known about Thesis 2.0 for quite a while now, so I think it’s unfair of you to accuse diythemes of abusing their customers. It’s always risky buying at the 12th hour… I think everyone has been succumbed by scarcity-persuasion at some point – been a ma
+
+        I own the developer version and have had for quite a while, so I can’t comment on other packages. Boxes, skins and packages are free accessories… that’s what I’ve read.
+
+        The tutorials will be coming soon… let the dust settle… give Thesis customers a chance to experiment with the new framework. It wont be long before new videos by the whole community are out. There are many Thesis-skin businesses, so I imagine the wild-west rush will be on again to be the 1st cab off the block to submit new Thesis 2.0 skins with training included.
+
+        I am waiting for a responsive skin with thorough video tutorials.
+
+    Doug
+
+        I also would like to see a fully-fleshed demo built on 2.0. Virtually any WP theme includes a muscular demo of the product. Thus far the ‘sites’ I’ve seen listed on the Forum built with 2.0 (i.e. people who are working with it) are very rudimentary.
+
+Jon
+
+    One issue that I was really hoping to be addressed with 2.0 and I have seen nothing mentioned is, is it responsive? if not will it be? I loved and use a bunch 1.85 so will be interested to really dig into 2.0 and figure it all out.
+
+    Radek
+
+        Many of the skins that Chris and other Thesis skin developers will be publishing will be responsive.
+
+Danny Cruz
+
+    I do have one question… But it might not be suited for this comment box. How does Thesis 2 deal with custom taxonomies? I’ve had problems in the past with custom taxonomies not inheriting certain framework functionality, and I’m hoping I can safely create them now, as I need 4 taxonomies…
+
+    Chris Pearson
+
+        Thesis crushes this. If you find anything weird about integration, please let me know.
+
+Robb
+
+    I’m fairly new to Thesis but am definitely interested in learning to create my own widgets in 2.0. Also I would love to know how to get an opt-in form built into my logo so it’s immediately visible and I can use the side bars for other things.
+
+Radek
+
+    I would love to know how to work with:
+
+    1. Schema + wish there were more schema types (ie. places, events, etc…)
+
+    2. I liked individual page’s ability to add a custom box for that particular page in the sidebar by scrolling down in the WP page’s WYSIWYG editor (where all the Thesis SEO and other options are below in 1.8.5) and inserting HTML in it. Hit publish or update and done! How do we do that in thesis 2 without creating several templates?
+
+    3. Explain to non-coders the importance of different elements like the importance of container and what is the query box, etc…
+
+    4. Explain how to tie HTML elements with CSS to get that sweet look.
+
+Bilal Ahmad
+
+    At least give me a clue how to implement CSS on a test blog. I am finding it difficult.
+
+Simon Maxwell
+
+    I am a complete neophyte.
+
+    But I have to say that I have successfully:
+
+    1. Loaded the software after my MAC unzipped it. I compressed it and then uploaded it to my WP programme on the server. It was pretty easy after watching a video on YouTube.
+
+    2. I have activated Thesis 2.0 and am using the Classic Skin.
+
+    3. I have added a few Widgets … DRAG AND DROP. Seriously easy … so easy.
+
+    But I am confused.
+
+    I thought there would be a Skin that would have more structure to work with. This is pretty much a blank page … am I missing something?
+
+    I realize this is a journey. Just need some help and focus.
+
+    Thanks, the help has been stellar so far.
+
+    Simon
+
+Simplebutcreative Media
+
+    I was a bit confused at first…But I’m starting to get the hang of it, and how easy it is customize each page.
+
+    The only thing I need to learn is how to implement some PHP snippets? For example I wanted to add these to my website: IMAGE SLIDERS, SOCIAL MEDIA SHARE buttons, etc.
+
+    Overall, I love the new setup! After playing with the template system for a couple hours…I really feel confident that I can offer this to my customers.
+
+    This makes a beginner like me look GOOD!
+
+Usman Latif
+
+    As the focus of Thesis 2.0 is towards codeless design & development, it provides a great opportunity to non-developers to customize the templates within Thesis. I would love to see the tutorials (How To-s) for non-developers in everything Thesis 2 provides but starting with the main things like;
+
+    - Templates
+    - CSS
+    - Customziations
+
+Dean Phillips
+
+    Derek my man
+
+    Do you know when we roughly might be getting the social triggers and Pearson skin at all?
+
+    Loving the future of thesis man
+
+Andrew
+
+    I would love to see a video tutorial of the DIY Themes process of creating the NEW Front page. I’ve poked and played. I’ve run into areas that don’t seem to take my settings, and I’ve become a bit frustrated. Any tutorial on how to take the Theme from default to something that looks customized would be a great help to me.
+
+    I look forward to having other skins that I can use a reference, as well.
+
+    I understand that Chris was trying to rush and meet a hard deadline, but this is so different than the previous Thesis that I am having very real trouble unlearning and figuring anything out.
+
+Dave
+
+    I would love to know how it works :)
+
+    No, seriously, I would.
+
+    I was sold on the idea of a framework which is so game changingly easy to use, that even a complete novice like me could produce something wonderful. But the interface is dominated with references to Classes, CSS, Variables, Selectors, HTML and whatnot.
+
+    I don’t mind learning, but I have nothing to teach me. Releasing this thing and telling people to explore and play whilst they wait for the documentation is a bit like flogging me a car, not giving me the keys and telling me to sniff and enjoy the upholstery in the meantime.
+
+    The documentation has to be a number one priority – above all else.
+
+    Campbell
+
+        EASY ENOUGH!! …Watch the Video Training that Rick has done here>>>http://www.byobwebsite.com/10/video-tutorials/how-to-build-a-website/using-thesis-theme/thesis-2-0-launch-party-video-replay/
+
+        Dave
+
+            I have, and Rick has done a great job, as are the people helping out on the forum. And as I pointed out in a post elsewhere, if it wasn’t for the help these people were giving, Chris would have had a deluge of refund requests by now.
+
+            Many beers are going to be owed by Chris in weeks/months ahead :)
+
+            Godhammer
+
+                You’re absolutely correct, Dave. The Thesis community has stepped-up and swung for the fences — and I can’t say I am surprised one tiny bit.
+
+                After all, the Thesis community is the best I’ve had the honor to count myself a part of, and every last person contributing deserves an enormous thank you — and here’s mine!
+
+                Thanks everyone! You rock! :)
+
+Gerald Lopez
+
+    Congrats on releasing Thesis 2.0! When I first looked in I thought Yikes! It looks damned complicated! I now need to learn about structures! At first sight, not as easy as 1.8, where you just go e.g. into Fonts and change colors etc. I headed down to Rick Andersons video and I must say they really helped, but I think it would be good to create a tutorial explaining the structures, boxes, packages etc.
+
+    So, against creating a website from purchasing 1.8 in about 30 minutes, it looks like I will need to take 2 weeks (multitasking with other work) to learn 2.0. But it also looks like this animal will really deliver power, so I’m sure its worth it.
+
+    I think it would be good to keep 1.8 for those people, esp coding noobs, who want to dive in quickly and make a decent site; and then they can get into 2.0 once they have understood how it works.
+
+    Check out Rick’s intro videos here: http://tiny.cc/launch-party
+
+Ethan
+
+    the live preview plugin doesn’t appear to work on my site – I just get a blank page. I’d love to start working with this, but have tons of custom code so wanted to see how things work first…
+
+Robert Loeder
+
+    Would you please discuss how to use Thesis 2 as a Responsive design?
+
+    Chris Pearson
+
+        1. Wait for us to release responsive Skins.
+        2. Get these Skins.
+        3. Enjoy your responsive site!
+
+        We’re working hard to finish the first round of Skins. We’ll let everyone know the second they’re ready, because I want to squash these responsive questions once and for all :D
+
+        Bryan
+
+            Looking forward to the new awesome skins.
+            Is there an anticipated date for those to be available?
+
+            (btw, while I know you are going for the evergreen content look, it’s extremely annoying to not see the date stamp on comments and posts.)
+
+Bill
+
+    I’m feeling like this could be really great, but starting from scratch and adding a box and then css, which is a bit cumbersome entering numbers into the different padding and margin boxes, will take a long time. Seems like it would be easier if there was a way to type it in like the old custom css box.
+
+    Chris Pearson
+
+        Bill, you can type directly into the CSS box—it works just like a normal stylesheet, and you don’t have to use Packages or Variables at all.
+
+Cathie Heart
+
+    I’d love to know how to
+    * create and upload a new child theme
+    * design a responsive theme.
+    * use the query boxes to work with the custom taxonomies.
+    * make a 1 column full width header / footer for fixed width or responsive designs
+    * assign different archive templates to different custom post types and taxonomies. So for example: posts, vendor listings, Q&As etc of post types present different key information.
+    Would love to know answers for these first! Then ill ask more later :D
+    Thanks, Cathie.
+
+Lauren
+
+    I’d like to know if Thesis 2.0 has any version control. If I change something but want to go back to a previous revision, does it save my past versions?
+
+    Also, I wish there was a way to see all my customizations in one place without having to search through the various packages. With 1.8.5, I loved being able to see all the changes I’d made in the custom css file.
+
+    Finally, I don’t really get what Boxes and Packages are. I don’t know how/why I would upload them (or what I would be uploading). Perhaps I am just missing something simple. I have been able to build one of my clients’ sites using 2.0, so it’s starting to click…but I just need some more clarification on these things.
+
+    Overall though, I am impressed! It’s a new paradigm that will take some getting used to.
+
+Jorn Trommelen
+
+    I watched BYOB webinar, which was great.
+
+    What’s still quite confusing for me, is how to name stuff. For example you have tp know that after creating a box, you have to go to your CSS editor and name your CSS selector like your boxes. That kinda makes sense, but it’s not something I would ever figure out on my own. But you also have to know that you you need to put a dash in front of it?
+
+    I think you absolutely have to see stuff like that before you kinda get it.
+
+    Chris Pearson
+
+        This is how CSS is written.
+
+        If you want to target an HTML id, you have to write #html_id in your CSS. If you want to target an HTML class, you have to write .html_class.
+
+        Basically, you need a way to tell CSS which HTML element to target, and this is how you do that.
+
+        Gerald Lopez
+
+            Thanks Chris, can anyone recommend a tutorial to quickly take a CSS noob up to speed? Although the sales blurb says you don’t need to WRITE CSS, it looks like you still need to KNOW CSS.
+
+            Godhammer
+
+                Gerald – W3C Schools (CSS section) is helpful for quick refreshers on CSS topics.
+
+Dickon
+
+    Hi
+    As a developer I’ve upgraded to Thesis 2….. where are the “Site Options” and “Design Options” ie number of columns font colour multimedia box etc etc?
+    Thanks
+
+    Derek Halpern
+
+        This new version of Thesis doesn’t work the same as the old version of Thesis. But while it’s different, we believe it’s better. Once you get the hang of it. That’s why we encourage people to play around with it, and you’ll notice your little AHA! moments.
+
+Mitchel
+
+    I am realy interested in a responsive theme or skin. A free skin or tutorial how to do that. When will that be available? For me it’s important to build a webside for multiple devices including mobile phones…
+
+Milan
+
+    Hi guys, I would like to know how to customize home page to display one featured post and other posts as teasers. Thanks.
+
+    Derek Halpern
+
+        Great idea Milan!
+
+Juuso Palander
+
+    Wow, the new interface is very confusing. I guess it takes some time to get a hang of it.
+
+    I’m quite worried about how long will it take to replicate even a simple site with this new interface. The other option is to stick with the old version but it means bypassing all the new features and improvements new Thesis has to offer.
+
+    So, I’d like to see a tutorial about the following topics:
+    -How to replicate old design to new Thesis (including custom_functions.php, custom.css, javascripts etc.)
+    -How to make a responsive skin
+    -How to use HTML5 tags (article, section, aside etc.)
+
+    Derek Halpern
+
+        Good points Juuso.
+
+        Once we start delivering skins, you’ll notice how things will get MUCH simpler.
+
+        Rick
+
+            Do you have any idea when some pretty skins will arrive? I’ve spent 2 days trying to get something that looks vaguely attractive, but it’s not really.
+
+Chukwuka Okwukwe Chukwuka
+
+    What if I already have a Thesis package 1.85 and 2.0?
+
+    Do I need to buy the Thesis professional version in the new pricing structure or do I need to just upgrade?
+
+    Chris Pearson
+
+        Because you bought Thesis 1.8.5 from us, you get Thesis 2 for free. Simply log into this site, visit the Thesis downloads page (accessible from the menu bar after you log in), and boom!
+
+Jim Quinlivan
+
+    I bought an original Thesis Developer Option in July 2009. Since then I used Thesis for one website that has since been taken down. When I go to my account at DIY Themes, I only get an upgrade screen that gives me three options to buy.
+    My question: is this the Thesis 20. upgrade and if I purchase one of the upgrade options will I have Thesis 2.0 Developer?
+
+    Derek Halpern
+
+        If you owned a Thesis Developer option, you should be all set. Are you still seeing this error?
+
+Jennae
+
+    If we own the personal option, can we still upgrade to the developers option? I have several clients who want to do this, but can’t see the place to do that. Under “My Account”, the upgrade section is blank.
+
+    Thanks!
+
+    Derek Halpern
+
+        This is something we have to revisit, and talk about. Right now upgrades are disabled, but I’m in the process of talking with Chris about this now.
+
+Gouri
+
+    The new DIYThemes homepage looks rocking. Looking forward to a video tut. soon.
+
+    Derek Halpern
+
+        Glad you’re digging it Gouri.
+
+Geoffrey Allan Plauché
+
+    The classic skin that comes with Thesis 2.0 was touted as being just like the original Thesis 1.8.x theme, but I don’t see any way to create a double-column of teaser posts below a few regular posts on the home and archive pages. Am I missing something? Is there an easy way to do this in Thesis 2.0? Or will this be made available with a new box?
+
+DesignSkew
+
+    I am loving it for now. Just waiting for 2.0.1 to be out, I just want to save my current Thesis Skin and export it as soon as possible.
+
+    Derek Halpern
+
+        We’re tirelessly working on updates, that’s for sure.
+
+        DesignSkew
+
+            I forgot to say Thanks, Thanks Chris, Derek and everyone in your Team.
+
+Laura
+
+    Thank you Chris and everyone else at Thesis.
+
+Rick
+
+    I’ve had a play with it and sorted of created a custom template, but it’s not very exciting.
+    I’m missing the ability to be able to just jump in and change the font, number of columns, column width, nav bar colours all that stuff. I know it’s in there somewhere, but I can see a small incline ahead which looks like the start of a hyperbolic learning curve :)
+    Thesis is my favourite WP Theme, but ironically the one I recommend least to anyone else because it’s not pretty ‘out of the box’ and to get away from the minimal appearance takes some effort.
+    A default super sexy skin would be lovely :)
+    Thanks for the update, I’m looking forward to getting to grips with it, but really, I have sites to get published and I don’t have a spare week in which to learn the new Thesis. Not totally sure if I’m happy, sad, disappointed, elated or what to be honest.
+
+    Derek Halpern
+
+        New skins are on the agenda :-)
+
+Radek
+
+    Hey Chris,
+
+    Just turned some of my designs into works of art. Thanks for the platform to do so.
+
+    Feature request: ability to “copy from” other packages when creating a new package. It would save a lot of time going back and forth. Thanks
+
+    Derek Halpern
+
+        Great idea.
+
+Kevin Velasco
+
+    Ugh, Thesis 2.0 looks like it’s going to have a learning curve that I don’t have the time to deal with.
+
+    I’m thinking of switching to Headway now…
+
+    Derek Halpern
+
+        Hey Kevin, once we start showing people exactly how everything works, you’ll see that it’s not as hard as you think. Plus when we start releasing skins, you’ll notice things get even easier :-)
+
+        Gerhi Feuren
+
+            Hi Derek,
+
+            I hope that once is soon. At this moment I think it is very hard. As in I am clueless on where to start. You need to give us a basic orientation of what goes where asap.
+
+Julius
+
+    Finally got the hang of it all day and to my surprise it’s very easy to make and create a new site the way you want it. At first it was confusing but once you understand all the elements, it’s super easy. And oh, while im playing T2, I created a cloned site of smashingmagazine. :)
+
+    Derek Halpern
+
+        That’s AWESOME Julius.
+
+        It gets even easier, too.
+
+Laura
+
+    I’ve got 2 loaded up but I can’t even get my header image back up right now. On the bright side, plugins all work and there aren’t any glitches on my site. I will wait for user guides to figure out where I go from here. Thesis 2 has a lot here but it’s not user friendly yet. I can understand the idea behind it but I need a road map.
+
+    Derek Halpern
+
+        Yep, once that road map is available, things will get much easier.
+
+Danielle Parsons
+
+    Have tried for over an hour to remove the second widget column on the right. I like to have a wider content area then just one sidebar. In the skin editor, instructions are to shift and drag column 3 over to right and then hit save. I do this and my site still has 2 sidebars. Please help. Also, where do you set pixel dimensions on your content area and sidebar?
+
+    Geoff
+
+        Just upgraded a site to Thesis 2.0 and I’m pretty impressed with the overall functionality! It puts me on a new level with css and skins and so-on.
+
+        Only a couple of issues at this point.
+        1. How do I get my favicons back?
+        2. I need some documentation on inserting captioned pictures into posts. The captions seem to just go where-ever they want now and I need to know how to put them back into the frames.
+
+        Other than that it’s an awesome upgrade. I realize that with something this big it will take time and I already have some ideas about skins that recreate capabilities of other specialized themes. Any help would be appreciated.
+
+    Geoff
+
+        Hi Danielle,
+        I think I just found the answer to my own question and this link may help you too. I think I was sent the link as part of the 2.o launch, I don’t remember, but the video tutorials helped me get as far as I have. Part 4 covers making a two column layout.
+        http://www.byobwebsite.com/10/video-tutorials/how-to-build-a-website/using-thesis-theme/thesis-2-0-launch-party-video-replay/
+        Hope it helps.
+        :-)
+
+Paul
+
+    I am able to login and get to the download page, but none of the links work. Am I missing something? I have had a developers license for a long time.
+
+HuyNQ
+
+    Hi Derek Halpern,
+    I want to know how to backup Thesis’s styles and options ? Thesis version 1 has backup function but I couldn’t find it in Thesis 2.
+
+    2 months ago, I purchased Developer plan. Do I have to upgrade to Professional plan to get ultimited upgrades ?
+
+Chao
+
+    Hey Chris i absolutely love your thesis theme…..and it is good to see that thesis 2.0 is now launched….but i am more comfortable with thesis 1.8.5…So can i get the thesis 1.8.5 package along with thesis 2.0 if i buy it now…..i am ready to buy it…but this little question worries me…i need thesis 1.8.5
+
+Jeff
+
+    I found that the favicon filter did not allow me to add the favicon to the site.
+
+    I found that when I copied over the template to create a new custom template, any changes I made in the new template seemed to affect the original one called front page. I was on a new custom template I created called Two Columns when I was making the changes and it affected the front page. Need this worked out.
+
+Minesh
+
+    does it includes any shortcodes or not? like for buttons and sign up box and alert box so on…
+
+Alan Kirk
+
+    I would love to have access to a PDF with all the options to use 2.0 in one place.
+
+    Rick
+
+        me too. Initially I need to recreate the design of http://www.mixedfeelings.com I spent quite a while fiddling around with an ThesisThemes Easythesis skin to achieve this -I’d love it if I could somehow import the whole thing into Thesis 2
+
+Suz
+
+    So frustrating, just installed 2.0 on new site. All I want to do it show the pages I’ve created in the nav menu. This was so easy in the previous version (Thesis> Site Options> Nav Menu> Pages). I’m sure 2.0 can do amazing things but if I can’t show my pages it’s pretty useless!
+
+Amy
+
+    I’d love a video or demo site to be able to see the back end of things and how some things work before I invest in the developer option.
+
+Alan
+
+    Guys, I was sceptical at first, I really was, but after looking more into it and playing around with the theme, I am getting really excited about the possibilities in front of me. I just want to say thank you!
+
+Rodrigo Menezes
+
+    Hello, I’m from Brazil. I am using thesis 2.0, and was wondering how to insert the logo on my blog, superseded by written title.
+
+    thank you
+
+Monty
+
+    Are their any tutorials or documentation for thesis 2.0 to create new boxes and skins?
+
+MJ
+
+    Can we get a comprehensive guide on using the basics of this specific version please? (Also, why the heck should I have to ask for such a thing? Even a microwave comes with a model specific user’s manual.)
+
+    I really want to like this product, but I am really annoyed about the complete lack of information offered on how to use a DIY program marketed as a website design solution for people who do not have a comprehensive background in computer science.
+
+    Seriously, this takes the “do it” right out of DIY.
+
+    Gerhi Feuren
+
+        I see there are a number of comments in this vein. I added a rambling one myself but I think MJ said it better here. I like do it yourself but I don’t want a PhD in Wordpress to manage that.
+
+Barbara
+
+    I must be missing something very basic. I can’t even find the Thesis Site Options for choosing the Thesis nav menu, for example. I can’t see where I can set colors etc as shown in the video for the previous version of Thesis. I’m a computer geek with some web design experience, but right now I am flummoxed. Can someone point me to this basic info I am looking for? The Skin Editor seems to let me create containers but where do I specify settings for what the site actually looks like? Thanks.
+
+Teresa
+
+    I was trying to edit the Page features in the Skin Editor and got this message:
+
+    Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 82130233 bytes) in /home/content/81/9105981/html/wp-content/themes/thesis/lib/core/api/box_form.php on line 73
+
+    All the other page types work fine. Can you tell me how I can repair this issue?
+
+    Thanks for your help.
+
+    Teresa
+
+        Just FYI- If anyone else runs into the same problem, it turned out to be a WordPress error, not a memory error with my host.
+
+        Crystal
+
+            Can you give me some tips in how to solve this?
+
+        Jeremy
+
+            Anyone else figure out how to fix this? It’s not fixed by the normal wordpress methods of making the memory cache size larger in php.ini or wp-config.php.
+
+            I can’t modify the skins on my site at all.
+
+Rick
+
+    Sorry but I’m having a hard time with this. Without understanding the anatomy of the Thesis 1, I just haven’t a clue what I am doing with Thesis 2.
+    Is there a way how I can some how import my custom folder from my old theme to the new one? At least that way I could start off where I left off.
+
+    I really do appreciate that tons of work has gone into this, but I’m really not in the web designing game, I just need to get stuff out and looking good.
+
+Gene Garrett
+
+    I gotta tell ya, I am with MJ above. I had my credit card out and was ready to buy, but fortunately I came across this list. I have read it from top to bottom a few times now and I see a clear pattern. I realize that [hopefully] this is temporary, but this release has been out for 10 days now, and still no documentation. Making promised deadlines is great, but every single one of these people are the ones that have propelled DIYThemes to the top, and alot of them sound pretty frustrated to me. I think that I will put my credit card away for awhile and just watch, what a non-member can see anyway, to see how the rest of this launch goes.
+
+Brad
+
+    Can’t find a way to globally add/remove things from all templates. For instance if I want to remove the admin link from the footer container, I have to do so on 10 different templates as dragging it off and saving only removes it from the current template. The only thing you can globally destroy are blue and white boxes.
+
+    Conversely if I want to globally add something to say the header or footer container that I have on every template, I have to add it on 10 templates. To accomplish this do I have to continue to use hooks in the custom.php file as I did with Thesis 1.8x?
+
+Rick
+
+    I’ve spent too many hours on this http://www.motorhomesalesuk.co.uk and it still looks like it was made by my 8 year old. I could be happier. If I had a clue how to add a header image, background image and make the navigation a bit prettier, I’d be half way there, but I’m not. It’s a bit frustrating to be honest.
+
+Arafin Shaon
+
+    Expecting some video tutorials on it. It will be easier for us to understand it batter :) I hope coming days diythemes will publish some documentation on it. Passing heard time :(
+
+Kunal
+
+    I guess DIYthemes team needs to make some quick tutorials on how to use Thesis 2.0. As I uploaded it to my Test site and found that I am lost somewhere. Everything seems to be totally new. I guess I will take a lot of time to get used to it and know how it actually works.
+    For now I guess I should continue with 1.8.5 version and tweak my blogs. Though expected a lot from Thesis 2.0 and wanted to employ it to my old blogs running on 1.8.5 version, which I think will be very difficult right now.
+    Seriously make some tutorials guys.
+
+    Bart
+
+        To get started, you can check out these first video tutorials here:
+
+        http://www.byobwebsite.com/10/video-tutorials/how-to-build-a-website/using-thesis-theme/thesis-2-0-launch-party-video-replay/
+
+        But I would also love to have some good written tutorials about how to get stuff done quickly and efficiently in Thesis 2.0.
+
+J. Mike Smith
+
+    Have upgraded to 2.0 but as a newbie could not figure for the life of me how to specify column width and replicate current look (lead post with 4 teaser posts) of my site.
+
+    I ended up degrading back to 1.8 until I figure out how to recreate. So how do you adjust column widths?
+
+Bart
+
+    I messed up the included classic skin. Is there an easy way to reset or reload it in its original state?
+
+Chris Aitken
+
+    For the many people asking for tutorials, Rick Anderson has put together a helpful “starter” set of videos: http://www.byobwebsite.com/10/video-tutorials/how-to-build-a-website/using-thesis-theme/thesis-2-0-launch-party-video-replay/
+
+    This link is also available on the Thesis Download page. Good luck!
+
+    Rick
+
+        Hi Chris, I have been looking at those and they help a lot. However I’m not sure I’ll ever be able to bring my 1.8.5 designs over to 2.0. The truth is I just haven’t got the time to spend getting my sites to look the same as they did before.
+
+Sunny
+
+    If I buy “Thesis Basic” for $87, will you let your customers upgrade to “Thesis Professional” for $110, at any time, even after it expires? Just the fact that the plan has a “time limit” of 12-months for upgrades (aka “Your product will be outdated in 12 months”) doesn’t make me feel confident about the product. I don’t want to pay $197 for Thesis Professional right now (I have other bills to pay), and it would greatly ease my purchase if you let your customers try Thesis Basic for $87, with the confidence knowing that you let them upgrade to Thesis Professional for $110 at any time in the future.
+
+Bill Avery
+
+    I’m looking for a way to make the home page only show an excerpt of the latest blog post. I’ve played with the setting in WP bout it doesn’t seem to translate into the new Thesis 2.0.
+
+    A section on troubleshooting would also be a good start. I have an odd glitch in my formatting that I can’t seem to get out
+
+    Loving it so far.
+
+Bryan Scott
+
+    I have a developer license, which is grandfathered to a professional package, which says it comes with “SocialTriggers.com Skin” & “Pearsonified Skin”, however when I download Thesis 2.0 I do not see these skins. Is there a separate download page that I need to grab them at? Can you please point me in the right direction.
+
+    Regarding the actual theme, I hated it at first, but after about 3 hours or playing around with it I can see it’s potential, especially once people start developing for it. I am good at “hacking” code but not at actually producing it from scratch so I’m very excited about the future of Thesis 2.0.
+
+    Thanks!
+
+mitz
+
+    Hi Guys
+    I have installed Thesis 2.0 and I am loving it..
+
+    I am using the Legend Skin from Hesham at Famousbloggers.net… Cool
+    I have edited this considerably and have not finished yet. Also been playing with the classic skin too! I thought I needed a tutorial for this but I am getting there slowly and loving it!!!!
+
+    I am no coding genius as I stick to blogging but WOW…I am starting to understand the genius behind this!
+
+Crystal
+
+    I got an error “Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 34817663 bytes) in /…/wp-content/themes/thesis/lib/core/api/box_form.php on line 82″
+
+    I am not sure how to fix it as I already allocate memory in wp-config.php.
+
+Bruce Simmons
+
+    Do you guys have some sort of estimate of when some written tutorials will be coming out? I’ve test deployed to one site, but would love some words (not video) on how to tackle some things and actually start playing with it.
+
+    Konrad
+
+        I agree, an estimate on an actual tutorial would be nice.
+
+        Waiting patiently… but only for so long.
+
+Sean
+
+    Chris,
+
+    Any thoughts about building a front-end to the responsive break points and other bits? Possible? (I’m a 1.85 user so I’m not even sure if this is already a feature)
+
+Jessica
+
+    ** NEWBIE ALERT **
+
+    Hey! I don’t know much about your theme, but I was told it’s the best for business because it’s real easy to customize… I’m coming in late in the game, I know!!
+    My question is this : I want to run 1 site, link my MailChimp account, and link with social networks (FB, Pinterest, Twitter, etc). Can the basic package answer my needs? I also want to use a color theme (add colors as accent on white background), which package would be best suited to do that?
+
+    Thanks!
+
+Jim Marshall
+
+    Hello load 2.0 went throught the videos to set it up and then came back to the design after being almost down and every thing is all messed up. Trying to reset every thing but when I delete it from my Word Press folder it seems to be remembering a very bad configuration on its own. Also where is the support stage .. I just bought this so not very excited about spending hours trying to get set up and seeing it all go to waste .. I have many sites I need to get up and running at this is not helping.
+
+Shadiah
+
+    Would love to see a step-by-step tutorial on installing a forum, like BuddyPress.
+
+Kaleed
+
+    I played with thesis 2.0 for hours, I found it to be awesome in many ways, but I ended up reverting back to thesis 1.5 due to lack of documentation. I still couldn’t figure out how to use UberMenu plugin via wordpress menus on thesis 2.0!
+
+    Any idea when Documentation will be out?
+
+Gerhi Feuren
+
+    I found Thesis quite intuitive before. Now I am just bloody lost. I never needed to use hooks and I could not figure out how they work. Now I have packages and skins and boxes and no idea how that relate. Yes, I get that that is the future of Wordpress but in the present I am floundering. I can’t even figure out how wide my columns are, or how to change the width – or how to change anything for that matter.
+    Now, I know html and css and can hard code from scratch. Now I need a lot of very basic information just to get myself orientated. Like hell am I going to implement Thesis 2 on my wife’s site. She could manage Thesis 1.8 without much explaining but Thesis 2 will have her lost completely. I’m lost.
+    I know you will be creating documentation but you need to un-geek yourself and really get to very basics. What is a box? What is a package? An what does those funny squiggles and stuff mean? Where is my css and my page width and stuff? Where is my big ass save button?
+    I see this can be powerful stuff but I don’t have days to fiddle around in the dark. I need to know how to do stuff here. Please!
+
+Ariel
+
+    Hi there, I have no idea how this happened, but whatever skin I use(classic or empty), it looks empty. When I go to html editor, there is only the body, and no the rest of the stuff that should be by default. How can I reinstall the theme or just the skin? thanks

@@ -1,0 +1,21 @@
+Startups, chickens, and eggs
+
+Nick Brewer wrote in last week asking for suggestions dealing with a very common challenge he’s having with his startup: Tradeomics:
+
+    How do we encourage users to add items even though they may not find what they want right now?
+
+    Our biggest challenge is the chicken before the egg problem. We have been trying to get coverage on various blogs, to little luck. We’ve gained almost 400 members and only about 200 items (60% of our items are from friends or ourselves).
+
+    Though everyone tells us it’s such an awesome idea and service. Our biggest feedback on the item issue is that they are not seeing what they want so are apathetic about adding their own.
+
+Nick, I think there’s (at least) three ways to beat this problem:
+
+Get stuff out where people will see it. Right now you’re like a small store where people walk by, glance through your window and keep going. You need to get the stuff your selling out and visible. I’d replace the content below the very first graphics of how Tradeomics works on the home page with your Items page, and move the social badges into the footer. Let people shop without a cover fee of figuring out where on your site they need to go to see the goods. No one in their right mind keeps a mental list of everything they might want to buy (or in your site’s case, trade) – seeing is triggering.
+
+Focus down. What are you trading? Creating several landing pages with just one kind of item (video games would be a good start) and then promoting each landing page to the people who care about that item is a proven strategy – just visit any mall.
+
+Reach out to people who will care. You mentioned you’re trying to get various blogs to cover you, with little luck. Are you answering the question, “Your readers will get…” for them? Forget about the tech blogs for the moment – you want customers, not adoration. For example, I’ve got a nephew who’s very much into ATVs, and there’s stuff he’d like to trade off and stuff he’d like to get for less than retail. Find out what blogs he reads. Talk to those bloggers, give them credits to give away, give them a dedicated landing page for just the ATV market. Rinse, lather, repeat.
+
+One other point – I read through your pricing – don’t understand it. It needs to be simplified – maybe a credit to post an item, one to buy an item. Three subpoints. Usually in a market one kind of participant pays – not both. If you’re going to make value for both buyers and sellers, add more punch to the buyer side with easy to customize alerts. And third, think about where in the shopping hierarchy your site fits (somewhere above Craigslist and below Amazon) and whose already at that level and how you can offer something people want that existing solutions don’t.
+
+Thanks for the question Nick – readers, any suggestions for Nick?

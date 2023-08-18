@@ -1,0 +1,106 @@
+Our Commitment to the Facebook Community
+by Mark Zuckerberg on Tuesday, November 29, 2011 at 9:39am
+
+I founded Facebook on the idea that people want to share and connect with people in their lives, but to do this everyone needs complete control over who they share with at all times.
+
+ 
+
+This idea has been the core of Facebook since day one. When I built the first version of Facebook, almost nobody I knew wanted a public page on the internet. That seemed scary. But as long as they could make their page private, they felt safe sharing with their friends online. Control was key. With Facebook, for the first time, people had the tools they needed to do this. That's how Facebook became the world's biggest community online.  We made it easy for people to feel comfortable sharing things about their real lives.
+
+ 
+
+We've added many new tools since then: sharing photos, creating groups, commenting on and liking your friends' posts and recently even listening to music or watching videos together. With each new tool, we've added new privacy controls to ensure that you continue to have complete control over who sees everything you share. Because of these tools and controls, most people share many more things today than they did a few years ago.
+
+ 
+
+Overall, I think we have a good history of providing transparency and control over who can see your information.
+
+ 
+
+That said, I'm the first to admit that we've made a bunch of mistakes. In particular, I think that a small number of high profile mistakes, like Beacon four years ago and poor execution as we transitioned our privacy model two years ago, have often overshadowed much of the good work we've done.
+
+ 
+
+I also understand that many people are just naturally skeptical of what it means for hundreds of millions of people to share so much personal information online, especially using any one service.  Even if our record on privacy were perfect, I think many people would still rightfully question how their information was protected. It's important for people to think about this, and not one day goes by when I don't think about what it means for us to be the stewards of this community and their trust.
+
+ 
+
+Facebook has always been committed to being transparent about the information you have stored with us – and we have led the internet in building tools to give people the ability to see and control what they share.  
+
+ 
+
+But we can also always do better. I'm committed to making Facebook the leader in transparency and control around privacy.
+
+ 
+
+As we have grown, we have tried our best to listen closely to the people who use Facebook. We also work with regulators, advocates and experts to inform our privacy practices and policies. Recently, the US Federal Trade Commission established agreements with Google and Twitter that are helping to shape new privacy standards for our industry. Today, the FTC announced a similar agreement with Facebook. These agreements create a framework for how companies should approach privacy in the United States and around the world.
+
+ 
+
+For Facebook, this means we're making a clear and formal long-term commitment to do the things we've always tried to do and planned to keep doing -- giving you tools to control who can see your information and then making sure only those people you intend can see it.
+
+ 
+
+In the last 18 months alone, we've announced more than 20 new tools and resources designed to give you more control over your Facebook experience. Some of the things these include are:
+
+ 
+
+• An easier way to select your audience when making a new post
+
+• Inline privacy controls on all your existing posts
+
+• The ability to review tags made by others before they appear on your profile
+
+• Friend lists that are easier to create and that maintain themselves automatically
+
+• A new groups product for sharing with smaller sets of people
+
+• A tool to view your profile as someone else would see it
+
+• Tools to ensure your information stays secure like double login approval
+
+• Mobile versions of your privacy controls
+
+• An easy way to download all your Facebook data
+
+• A new apps dashboard to control what your apps can access
+
+• A new app permission dialog that gives you clear control over what an app can do anytime you add one
+
+• Many more privacy education resources
+
+ 
+
+As a matter of fact, privacy is so deeply embedded in all of the development we do that every day tens of thousands of servers worth of computational resources are consumed checking to make sure that on any webpage we serve, that you have access to see each of the sometimes hundreds or even thousands of individual pieces of information that come together to form a Facebook page. This includes everything from every post on a page to every tag in those posts to every mutual friend shown when you hover over a person's name. We do privacy access checks literally tens of billions of times each day to ensure we're enforcing that only the people you want see your content. These privacy principles are written very deeply into our code.
+
+ 
+
+Even before the agreement announced by the FTC today, Facebook had already proactively addressed many of the concerns the FTC raised. For example, their complaint to us mentioned our Verified Apps Program, which we canceled almost two years ago in December 2009. The same complaint also mentions cases where advertisers inadvertently received the ID numbers of some users in referrer URLs. We fixed that problem over a year ago in May 2010.
+
+ 
+
+In addition to these product changes, the FTC also recommended improvements to our internal processes. We've embraced these ideas, too, by agreeing to improve and formalize the way we do privacy review as part of our ongoing product development process. As part of this, we will establish a biennial independent audit of our privacy practices to ensure we're living up to the commitments we make.
+
+ 
+
+Even further, effective today I am creating two new corporate officer roles to make sure our commitments will be reflected in what we do internally -- in the development of our products and the security of our systems -- and externally -- in the way we work collaboratively with regulators, government agencies and privacy groups from around the world:
+
+ 
+
+- Erin Egan will become Chief Privacy Officer, Policy. Erin recently joined Facebook after serving as a partner and co-chair of the global privacy and data security practice of Covington & Burling, the respected international law firm. Throughout her career, Erin has been deeply involved in legislative and regulatory efforts to address privacy, data security, spam, spyware and other consumer protection issues. Erin will lead our engagement in the global public discourse and debate about online privacy and ensure that feedback from regulators, legislators, experts and academics from around the world is incorporated into Facebook's practices and policies.
+
+ 
+
+- Michael Richter will become Chief Privacy Officer, Products. Michael is currently Facebook's Chief Privacy Counsel on our legal team. In his new role, Michael will join our product organization to expand, improve and formalize our existing program of internal privacy review. He and his team will work to ensure that our principles of user control, privacy by design and transparency are integrated consistently into both Facebook's product development process and our products themselves.
+
+ 
+
+These two positions will further strengthen the processes that ensure that privacy control is built into our products and policies. I'm proud to have two such strong individuals with so much privacy expertise serving in these roles.
+
+ 
+
+Today's announcement formalizes our commitment to providing you with control over your privacy and sharing -- and it also provides protection to ensure that your information is only shared in the way you intend. As the founder and CEO of Facebook, I look forward to working with the Commission as we implement this agreement. It is my hope that this agreement makes it clear that Facebook is the leader when it comes to offering people control over the information they share online.
+
+ 
+
+Finally, I also want to reaffirm the commitment I made when I first launched Facebook. We will serve you as best we can and work every day to provide you with the best tools for you to share with each other and the world. We will continue to improve the service, build new ways for you to share and offer new ways to protect you and your information better than any other company in the world.

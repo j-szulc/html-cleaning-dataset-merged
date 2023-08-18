@@ -1,0 +1,89 @@
+
+The new Editor for Mozilla Hacks
+Published on Wednesday, September 19, 2012
+
+I’ve always loved blogging, writing about things I’m interested in and then sharing and discussing it with like-minded people! Sometimes passionately agreeing, sometimes not so much. :-) But I believe the discussion has always been good, and as long as it’s respectful, it’s quite constructive and an excellent base for building relations and bonds with people.
+
+The latest year
+
+I joined Mozilla almost 14 months ago, and since then I’ve put a lot of time into travel, giving presentations and meeting web developers in different places. Parallel to that, I’ve blogged a good amount for the Mozilla Hacks blog about web development and the Open Web in general.
+
+Writing and working with that blog is probably one of the reasons I haven’t been that active in my own blog here, but I hope to be able to improve that as well. At times the channels overlap, but mostly they’re complementing each other.
+Becoming the Editor of Mozilla Hacks
+
+The Mozilla Hacks blog has been around for a few years now, as part of Mozilla’s Developer Engagement initiative. While we in the team have been writing for it on occasion and based on general availability, it hasn’t gotten the attention it deserves from us. We have come to the conclusion that it is an amazing opportunity for outreach and it is now one of our dedicated priorities!
+
+I have just taken over as the Editor of Mozilla Hacks, and this means that I will put even more of my time into improving the blog and how we work with it. I believe it’s vital for Mozilla to engage with our community, and developers everywhere, by producing both quality content and taking part in the discussion with them.
+
+Developers, their knowledge and their choices are very important assets in keeping the web open, and we want to ensure we make that as optimal as possible; by teaching, sharing knowledge and respect with them.
+
+Also, and I can’t stress this enough: Mozilla Hacks is, just like MDN (Mozilla Developer Network), a web browser agnostic resource, focused on the Open Web and sharing knowledge with all web developers out there.
+Visions & goals
+
+With Mozilla we strive to keep as much information as possible open, for the good of everyone. In line with that, if you are interested, the goals, responsibilities and guidelines for Mozilla Hacks are publicly available.
+
+I’m a big fan of being very clear and consistent, and I believe Mozilla Hacks will succeed even more with a proper structure.
+
+Things that have changed so far:
+
+    Currently we have 93 authors, which is a good challenge when it comes to privileges and workflow
+    Guidelines and responsibilities are described in public
+    We have created a GitHub repository for developers to easily see, fork and use the code we have in blog posts
+    We’re looking into localization, to make the content available to as many as possible
+    We’re working on how to get the best metrics for Mozilla Hacks, and will share data on that as we progress
+
+Write for Mozilla Hacks
+
+I would love to bring a good amount of guest authors to Mozilla Hacks, for us to get more diverse content and for you to potentially reach a new audience! I hope that the credibility, goodwill and size of the Mozilla Hacks audience together with the help I and Developer Engagement will give you are important factors for doing that!
+
+From a personal branding perspective: We highlight the post author for each blog post, with links to your personal web site, Twitter and more. Generally, we don’t want to reblog existing articles in Mozilla Hacks, but if there’s a topic you love and know more about, please consider having an alternate version for Mozilla Hacks.
+
+If you want to write about something, but is unsure about the writing itself, comment handling or similar, talk to me! I’m here, and I will help you all the way!
+
+Questions, thoughts or you just can’t hold back your interest anymore? Let me know! Contact me at robnyman [at] mozilla [dot] com
+Conclusion
+
+I’ll continue to blog here in my personal blog, but I will also cover a lot of topics in the Mozilla Hacks blog. Please consider reading, sharing or contributing to Mozilla Hacks!
+
+Naturally I’m still a Technical Evangelist for Mozilla, doing talks and more, but Mozilla Hacks will be were the majority of my time will go.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Quinn
+September 19th, 2012 at 16:14
+
+Okay, that’s how’s going on. Congratulations!
+Sander Aarts
+September 19th, 2012 at 19:33
+
+Congratulations man. Awesome!
+Bram Van Damme | Bramus!
+September 19th, 2012 at 20:04
+
+Congratulations, Robert!
+Robert Nyman - author
+September 19th, 2012 at 20:19
+
+Quinn, Sander, Bram,
+
+Thank you very much!
+Jeff
+October 26th, 2012 at 17:32
+
+When do you expect a WebRTC “Hello World” conversation example to be available? Like two tin-cans with string – two PCs with headphones/mics where each party can say “hello world” (or “Watson come here” might be more appropriate).
+
+I would love to have the Javascript code right now even if it is not yet fully operational.
+Robert Nyman - author
+October 29th, 2012 at 0:29
+
+Jeff,
+
+Oh, hard to say when it will be shipped, exactly. Goal is within a few months. Please stay tuned to the Mozilla Hacks blog for updates!
+

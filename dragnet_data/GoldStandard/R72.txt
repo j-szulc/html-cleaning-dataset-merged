@@ -1,0 +1,61 @@
+How to Add a Twitter Widget
+Modified on September 24, 2012 by Sue Waters	
+
+One of the most common questions we’re asked is how to add a Twitter widget to a blog sidebar.
+
+Once you know how embed the Twitter widget it is really simple but, it has become more complicated to explain due to recent changes to Twitter so we’ve decided to show you how it’s done.
+But first here’s what you need to know.
+
+The new Twitter widget from Twitter.com allows you to embed the full Twitter.com experience on any website.  It creates a timeline similar to what you see on Twitter.com where any one who sees it can reply to you, reply to a specific tweet, retweet or favorite any tweet directly from the Twitter widget without leaving your blog.
+
+Below’s what the new Twitter widget looks like:
+
+And here’s how simple it is to reply from the widget:
+
+Now here’s how you embed a Twitter widget:
+
+1.  Log into your Twitter account on Twitter.com
+
+2.  Go to your Twitter Settings page.
+
+3.  Click on Widgets.
+
+4.  Click on Create New.
+
+5.  Choose which type of widget you want to create.
+
+6.  Add your domain, customise the widget and click Create Widget.
+
+7.  Copy the embed code.
+
+8.  Log into your blog.
+
+9.  Go to Appearance > Widgets.
+
+10.  Drag a text widget into your sidebar.
+
+11.  Paste the embed code from Twitter.com into the text widget in your sidebar.
+
+12.  Presto!  You should now have a Twitter widget in your sidebar.
+
+Want more information?
+
+Check out:
+
+    Working with Widgets – What you need to know.
+    The Twitteraholic’s Ultimate Guide to Tweets, Hashtags and all things Twitter.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+jean jett on October 7, 2012 at 7:21 pm said:
+
+Sue – Thanks for the Twitter how-to!
+
+Question: I added my Twitter widget; however, the code text, not the widget image, is displayed on the blog. How can I correct my error?
+

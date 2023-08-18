@@ -1,0 +1,12 @@
+
+Nokia Sells Qt to Digia, Remaining Staff to Transition
+
+By Humberto Saabedra on August 9, 2012
+
+Not long after being rumored in a series of mailing list emails, Nokia has sold off the entirety of its Qt Project assets to IT services provider Digia, also based in Finland. Both Nokia and Digia refused to reveal value and purchase price respectively, while Digia confirmed that it planned to make Qt available for use on iOS, Windows Phone 8 and Android, but declined to elaborate on further specific plans.
+
+Digia already handled the commercial licensing aspects of Qt, having been sold the Qt Commercial side of the business by Nokia last year shortly after the manufacturer committed to Windows Phone and the latest sale now allows Digia to effectively control both the development and licensing aspects of the software framework from now on, with 125 staff members to transfer to the company while finalizing the release of Qt 5.0.
+
+What this means in the short-term is that Qt now has a new foundation for future development and the renewed focus on overall framework development and commercial licensing will convince both business and developers that Qt will still be viable after Nokia’s own internal strife in the wake of the Windows Phone transition left Qt vulnerable to being abandoned without anything tangible to show for the $150 million purchase of the framework, as Nokia abandoned both MeeGo and Meltemi within the past 18 months to focus on Windows Phone for both entry-level and high-end smartphones.
+
+Currently, both Nokia and Digia are preparing for the next major milestone release of Qt in 5.0, which is expected to be released later this month, while Digia will release more specific details on Qt’s direction going forward in the future.

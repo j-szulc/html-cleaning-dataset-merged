@@ -1,0 +1,22 @@
+Get a better view of natural geography with Google Maps
+Friday, October 26, 2012 at 6:00 AM
+
+When you look at Google Maps, we want you to see the most comprehensive, accurate and easy-to-understand representation of the entire world. Today, we’re unveiling some visual improvements to the basemap that will help enable that goal.
+
+Google Maps now clearly shows terrain, color gradations to depict vegetation, and labels for natural land formations. This enriched visual data allows you to quickly and easily see where the great forests, deserts, and mountain ranges around the world begin and end. It also conveys how natural land formations can impact where, how and why man-made developments like urban cities, dams and bridges are made.
+
+For example, here’s how Southern Asia appeared before terrain and vegetation information was added:
+
+And on the improved map below, you can now clearly see the dry deserts of Pakistan, the rocky Himalayas, and the rich jungles of Laos.
+
+Another great example is the area north of Vancouver, Canada. Here’s how it appeared before:
+
+And here’s the same area that now accurately shows the mountainous and rocky terrain in that area, immediately providing insight into why cities and settlements have been developed further south, rather than in the hilly landscape.
+
+In addition to terrain and vegetation information, labels for large natural features are also now available when searching on Google Maps. Ever wonder where the Amazon Basin is? A previous search on Google Maps provided the below result:
+
+But now, helpful labels provide more clarity:
+
+So when you search Google Maps for dozens of natural land formations like the Gobi Desert, Melville Peninsula, or Nullarbor Plain, you’ll see improved, well-labeled results.
+
+We hope this new visual information literally provides you with a more comprehensive and accurate lay of the land, and comes in handy whether you’re planning a trip or just browsing the map. From lush rolling hills to expansive deserts, just click and explore! Posted by Karl Johann Schmidt, Software Engineer, Google Maps

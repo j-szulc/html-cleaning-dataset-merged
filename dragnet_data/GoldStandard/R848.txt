@@ -1,0 +1,32 @@
+App Smart
+Cartoon Tools for Tapping Your Inner Disney
+By KIT EATON
+Published: November 7, 2012
+
+It’s said that when making the animated masterpiece “Snow White and the Seven Dwarfs,” Disney’s animators shot over a third of a million frames of film by hand. Before computer graphics came along, animated cartoons like this involved shooting a frame of a painting or a model, then adjusting the scene minutely, then shooting another frame. And repeating. The technology, time and effort were considerable.
+
+But now smartphone and tablet apps can, with some ingenuity and far less time, help you and your children shoot your own cartoons.
+
+Aardman Animations, behind animated movies like “Chicken Run,” has made an iOS app, Animate It ($3 on iTunes). It is one of the simplest and neatest stop-motion animation apps.
+
+You merely have to set up your iPhone somewhere stable; a tripod mount is a good idea. Then you fire up the app and your imagination. The interface is simple and to the point. The main screen is the view through your iPhone’s camera, below this is a film-striplike list of the frames you’ve shot so far. The button to shoot a new frame of animation stands out from the other controls because it’s red and the others are blue. Those buttons let you undo mistakes, play your movie in its current state or save it to the phone’s memory.
+
+When you’ve shot one frame, the app keeps a faint image of it superimposed on the camera view. This helps you work out what parts of the scene you’ve changed for the next frame of the animation. It’s that simple.
+
+The app makes intuitive use of touch controls. For example, to rearrange a frame you’ve already shot, you touch and drag it to a new position in the list of frames. More complex controls are available, including the ability to adjust the playback speed of the final movie or the camera exposure settings. But you don’t need to use them or understand them to shoot a simple cartoon.
+
+Lego’s animation app, LEGO Super Heroes Movie Maker (free on iTunes) is similar. It also has a clean user interface and sophisticated controls to show the previous frame superimposed over the camera view and to adjust playing speed. It has the advantage of offering a built-in system for generating movie-style credits at the beginning of the clip that can add extra cuteness to the final movie. You also can add a soundtrack and special video effects like color filters and even a comic-book image effect. But the credits are Lego-themed, and while that may be nice if you’re animating a cartoon with Lego figures, it might not meet all your needs.
+
+These apps are simple and may be suitable for older children to use alone. But if you’re interested in making stop-motion animations with a little more control, you may prefer Interactive Universe’s Lapse It app (free on iOS or $1 for more features in Pro version, or a free Android Lite or $1 Pro version). While this app is intended to let you make time-lapse movies on your smartphone by shooting camera images at regular intervals, it also has a great stop-motion mode.
+
+Despite its simplicity, Lapse It’s strengths are in its settings, which let you control exposure, focus and white balance — even letting you lock them down for consistent image quality. In edit mode you can trim or cut a movie, add visual effects like monochrome imagery or a tilt-shift effect. You can add a soundtrack and adjust complex settings for the final movie, like the type of file encoding you use.
+
+On the iPhone there’s a trick that lets you clap to activate the camera. This is handy so you don’t move your phone and make the movie jerky. The Android version’s interface is a little different, and you’re offered the chance to see video effects as you shoot. If your Android device has 3-D cameras, then this app also supports shooting 3-D animation.
+
+Once you’ve played with these apps and caught the bug, then you may graduate to iStopMotion — a $10 iPad app from Boinx Software. As well as having a slick user interface, iStopMotion will let you shoot frames using the camera of an iPhone or iPod Touch that’s connected to the same Wi-Fi network. This gives you the ability to shoot the same scene from two different animation cameras at once. So you could, in theory, produce some films with clever cuts just like the ones you see in the movies. The app also offers sharing of your movie by e-mail, Dropbox or YouTube.
+
+That’s all, folks!
+
+Quick Calls
+
+If you’re tired of searching for a parking spot in Chicago, check out SpotHero. It’s free on iTunes and lets you reserve a parking spot in the city. You can also see information about parking lots and garages across the city or near an address, and you can buy a special space ahead of time. ... Amazon just released a new Amazon Cloud Drive Photos app for Android, which lets you store precious images snapped with your mobile device to Amazon’s cloud for safety. Free access is limited to 5GB of storage; to get more you have to pay $10 a year. 

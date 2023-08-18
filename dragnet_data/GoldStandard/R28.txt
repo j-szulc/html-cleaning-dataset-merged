@@ -1,0 +1,38 @@
+Add a “Dial Extension” Button to Contacts on iPhone
+Oct 28, 2012 - 2 Comments
+
+Though you’ve long been able to add automatically dialed extensions to contacts on the iPhone, the newest versions of iOS handle extensions much more intelligently, allowing you to create a “Dial Extension” button to any specific contact. That extension dialer can be activated manually, making the navigation of telephony menus infinitely easier, here’s how to quickly add this to a contact:
+
+    Open Contacts and tap the contact name to add the extension to, then tap the “Edit” button
+    Tap the phone number entry, place the cursor at the end, then tap the “+*#” button to access additional options
+    Choose “wait” then enter the extension afterwards, it will add a semicolon and the extension afterwards to the address appearing like so: 1-888-555-5555;123
+    Tap “Done” and exit out of contacts
+    Now dial the contact to discover a “Dial 123″ button has appeared, tap that whenever you want to dial the extension
+
+The extensions can also be added from a Mac in Contacts (Address Book) by adding a semicolon to numbers followed by an extension, just be sure to sync it through the same iCloud account or it won’t go over to the iPhone.
+
+Anyone who frequently uses extensions to reach specific people at an office, or anyone who has battled an automated phone system knows how useful this can be. You can even set a string of numbers, though the Dial button remains the same.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+Hungry says:	
+October 28, 2012 at 1:41 pm	
+
+Snow phone! Though with that example the auto-dial “1″ would be better I think.
+
+Nice trick though as usual, thanks.
+
+Haruhiko says:	
+October 28, 2012 at 5:41 pm	
+
+Thank you so much! I didn’t know this!
+

@@ -1,0 +1,71 @@
+
+80-20 software II
+
+by John on July 23, 2012
+
+My previous post addressed an objection to apply the 80-20 rule to software. Namely, that even if every user uses only a small portion of the features, they use different portions, and so you can’t remove any of it.
+
+In this post I’ll address a couple more objections. One objection is that if the 80-20 principle holds, you can apply it over and over until you’re left with nothing. That is, if 80% of your users are content with 20% of your features, then 80% of those users (64% of the original user base) will be content with only 20% of the most-used features (4% of the original features). Keep repeating until you’re down to one feature everybody loves.
+
+First of all, it may indeed be true that you could apply the 80-20 rule more than once. Maybe 64% of users really are content with 4% of the features. Just because the rule doesn’t apply an infinite number of times doesn’t mean that you can’t apply it once or twice before it breaks down.
+
+More fundamentally, there’s nothing magical about “80″ and “20.” The more general and more realistic principle is simply that often return on effort is very unevenly distributed. Maybe 92% of customers use only 17% of features. Maybe 70% of customers use only 3% of features. The numbers vary.
+
+If you do apply the rule repeatedly, you may get a different distribution each time. Suppose you first limit your attention to the most popular features, whatever percentage cut-off that turns out to be. Then within those functions, some will still be more popular than others. The proportions might not be the same as your first cut, but popularity will still be uneven until you get down to a small core of features that most people use.
+
+But as I explained in the previous post, the time to talk about cutting features is before they are developed and deployed. Once a feature has shipped, it is extremely hard to remove.
+
+Another objection is that it is impossible to predict what features users will want. You can’t know until you ship it. Certainly it’s easier to tell in hindsight what people want, but it’s going too far to say you cannot predict anything. If you really could not predict anything, then all software would be bloated. A great deal of software is bloated, but not all of it. Small, successful programs do exist.
+
+Even if you could literally apply the 80-20 rule several times, big companies might not be content with the resulting market share. Suppose you could apply the 80-20 rule to Microsoft Word four times. Then 41% of customers would be content with 0.16% of the features. (I don’t think this is realistic, but let’s assume it is for the sake of argument.) Microsoft might not be happy with writing off 59% of their potential market up front. But a start-up might be thrilled to give up half their potential market in exchange for only having to develop a tiny fraction of the features.
+
+
+
+!@#$%^&*()  CORRECTED
+
+
+
+
+Brendan Dowling 07.23.12 at 14:56
+
+    You’ve talked before about the idea that “anything worth doing is worth doing poorly” (i.e., better than not at all). There’s a useful corollary to this: “Anything not worth doing isn’t worth doing well.”
+
+    “Return on effort is unevenly distributed” sums up this principle nicely.
+
+
+Paul A. Rubin 07.23.12 at 15:27
+
+    Regarding your penultimate paragraph, one might also argue that the more features you initially ship, the more likely that a missing feature your users subsequently demand conflicts with or breaks an existing feature.
+
+
+Dipto Sarkar 07.23.12 at 23:59
+
+    A very well written article. I loved the way you completely gave the 80-20 rule a new outlook by applying it repeatedly. I had never thought of it like that. It completely highlighted how “efforts are unevenly distributed”.
+
+
+Mike 07.27.12 at 10:22
+
+    For internal business apps at least what I find works is start out with one thing. Sure a boss said “I want a reporting system that can handle finances, scheduling, HR, tell me how someone likes their coffee etc”. Great. Pick a technology you’re comfortable with and fairly confident can do the job (eg. SQL Server and C# wpf on the front) and ask for the most important thing (and if they won’t commit to one than pick one yourself).
+
+    Make it work till it is useful and then “throw it over the fence”. See if it is actually used. If no one uses it there is a good chance you might be able to cancel the whole bloody project and move on to something that is actually useful rather than spend weeks/months making prototypes of the “one portable to rule them all”.
+
+    My experience just like in industry about 80% of internal “products” fall flat on their face. People thought they were interested in the data until they get it and realize it has no predictive power (or at least no predictive power with the level of effort they are willing to put into analyzing it) and off it goes to fill up space in the source repository for the next 100 years.
+
+
+John 07.27.12 at 10:29
+
+    It’s harder to kill internal projects. If only one person uses the software, and that person has power, the project will live. Even that person only wants the software to exist but doesn’t use it personally, it will live on. External projects live or die on economics rather than politics.
+
+
+Mike 07.27.12 at 11:01
+
+    John: I’ve been lucky that I’m often the guy with the idea. I ask people if they think it will be useful. They give me feedback: “well that would be good, but it should have this too”, or “don’t worry about that part but the rest is fine”. Once I throw out the first feature or two I ask for feedback. If I don’t hear anything back I push the project off my queue until people start asking about it (which presumably means they are actually using it or planning on using the remaining features.
+
+    I agree power can be an issue though. As an example: I have a large project that a manager wants but isn’t very active in giving feedback. This elephant sitting on my to-do list but not actually active so I never know whether or not I have time to work on something else because once in a while he will give feedback and dump a couple more weeks of work on the queue. So it makes it hard to commit to other things because other projects aren’t coming from my boss. I’d guess about 80% done but 0 years and about 1000 hours used developing it. But I follow the same principle here too: tell my what you want and I’ll build it, don’t tell me and it will sit on a shelf until you do. At some point things are only as important as the project sponsor’s willingness to invest time managing the project.
+
+
+MickB 07.31.12 at 06:39
+
+    “Once a feature has shipped, it is extremely hard to remove. ”
+    Perhaps somebody should tell this to Apple – their latest OS ‘upgrade’ removes RSS handling from both browser AND mail applications without warning or sympathy.
+

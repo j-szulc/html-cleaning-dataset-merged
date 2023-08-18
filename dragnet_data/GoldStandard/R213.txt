@@ -1,0 +1,26 @@
+GWT 2.5 Final is here!
+Posted by Bhaskar Janakiraman - Friday, October 26, 2012 at 5:15:00 PM
+
+Thanks to all developers who helped us test GWT 2.5 release candidates and reported issues to us. We have fixed several of these and are happy to announce availability of GWT 2.5 Final.
+
+You can download this release from our main GWT download page.  Release notes are here.
+
+- GWT Team
+Permalink
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Carl Rahmström said...
+
+    Thank you GWT-team!
+
+    When will 2.5 be available thru Eclipse Updates?
+
+    Keep up the great work.
+    6:46 AM 

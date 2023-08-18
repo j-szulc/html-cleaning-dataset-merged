@@ -1,0 +1,53 @@
+October 15, 2012
+Crafting wonder
+
+Players and critics are hardwired to classify. We obsessively index and categorize the games we play, relying on their mechanical properties (platformer, RTS, FPS, etc.) to communicate their essential characteristics. Not content to classify the games, we even classify the gamers, building taxonomies to describe who plays games and why. We’re human. We file things. We can’t help it.
+
+Publishers follow suit, describing their games in familiar terms. When I saw Dishonored a few months ago at E3, the booth rep made sure I knew the game would appeal to FPS and stealth and RPG fans alike. The Arkane/Bethesda folks wanted us to know Dishonored would blend and refine familiar elements from other successful titles, and those expectations frame how we see the game. It's hard to find a review of the game that doesn't focus on Dishonored's mechanical debts to Thief, Bioshock, Deus Ex, etc.
+
+Unclassified
+But what about games that downplay or discard traditional game architecture? How do we classify them...or should we? We can discuss games like Journey, and Dear Esther in the same breath with Eric Loyer’s games (Ruben & Lullaby, Strange Rain) or the work produced by Tale of Tales (The Path, The Graveyard), but these games share little in common, aside from their status as “art games” or “experiential games.” There I go classifying again.
+
+It’s possible to ask more interesting questions. At IndieCade last week, I attended an illuminating panel discussion among three designers from different places on the design spectrum: Jenova Chen, Creative Director of Journey and Flower, Amy Hennig, Creative Director of the Uncharted series, and Ian Dallas, Creative Director of The Unfinished Swan.
+
+Moderator Dan Pinchbeck (Dear Esther) began by asking what developers can learn from adopting an unorthodox approach to game design.
+
+Jenova Chen observed “there is a big difference between being a designer and a director,” noting an important distinction between mechanics design and 'experience design.' “I really see my brain functioning differently when I'm trying to create an emotional arc and meaning. I'm thinking as a director, not a level designer or a mechanics designer.” He emphasized the importance of crafting the player’s experience, enabling the player to behave freely in a game world, but within purposeful constraints that impart meaning.
+
+Amy Hennig concurred, stressing her belief in authored experiences. “All my favorite games have a definite authorial voice. It is a crafted experience.” For the developer, this requires a “giant act of faith” in your team. It is unrealistic to expect one person to drive a singular vision. A team must build “creative trust and humility” to determine that vision and collectively pursue it.
+
+The Fun Imperative
+“In experiential games, we're not necessarily optimizing for fun,” noted Ian Dallas. "The Unfinished Swan is about provoking wonder and curiosity... All factors coalesce to provoke a feel.” This isn't easy to communicate, let alone build. The people building a game can lose track of the big picture over time, he cautioned. "It’s easy to get completely absorbed in day-to-day fixing.” If you're not careful, you can get lost.
+
+Pinchbeck asked how designers should respond to “the pressure within traditional game design to make everything fun.” No other media, he opined, feels the pressure to be entertaining all the time.
+
+Hennig responded that it all comes down to pacing. “Games that try to operate at 11 all the time rely on bombast and spectacle. We need lulls and valleys.” She described the occasionally awkward position she finds herself at Naughty Dog. “We're trying to navigate these issues in a AAA space,” with a lot of money to spend. “Golden shackles,” she said with a smile, admitting that she sometimes envies indie developers’ freedom to experiment. “Audiences react so very differently to what we produce,” she remarked. “We want to craft an experience without letting the player see the strings of the puppeteer too much.” It’s a terribly difficult balancing act.
+
+Peaks and valleys
+Chen observed that we remember games with huge peaks and valleys. Designers create acceleration. “Up and down. If I'm a dancer and I'm always going flat, it's boring. But when I go up and down, it's more interesting.” What is fun? We needlessly limit our definition, according to Chen. Good interactive fun can occur in a valley, but “it needs to be beautiful, not broken. Even at the bottom of the arc, it needs to be very well designed.”
+
+“Our games are more meditative” than mainstream games, Dallas said. “We must communicate our values to the player early on, even from the marketing.” But even a quiet game like The Unfinished Swan must take players’ patience into account. Studying players and their behaviors, Dallas believes most will walk in a single direction for 3 seconds before becoming bored. Players need frequent stimulation, so designers must respond creatively. “We put turns in staircases, for example, to address this issue... It sounds stupid and pacifying, but it's a fact of design.”
+
+Chen emphasized the point. “Discovery is a reward for doing something boring, like pushing a stick forward.” (Audience laughter) Something needs to happen that feels interesting. A real desert is mostly flat. Chen and his team created dunes for players to climb and discover something in the process. Each dune must be interesting to climb, not just scenery. It keeps the player engaged.
+
+"Grameplay"
+Pinchbeck remarked “We talk about pace, but we throw everything we have at presentation. People talk about mechanics, but we spend far more time thinking about presentation." The Unfinished Swan and Journey seem to have similar priorities: a sense of place, of wonder, of discovery. Do these trump mechanics in experiential games?
+
+“We called it ‘grameplay’: graphics as gameplay,” Chen said with a laugh. “If Flower doesn't have grass on the ground, it's super boring. Same with sand in Journey." These design elements communicate environment, as well as provide a tactile experience players like. “Discovery is seeing output from your input,” Chen observed. Hennig chimed in, “Like getting your pants wet in Uncharted, which Jenova loved.” “Yes!" Chen replied, "Simple things like that can be better than level design!” (Laughter).
+
+Please interpret
+“Interpretation is also interactivity,” noted Hennig. “I’m drawn to the simplicity of Journey and Dear Esther. “This is a world I can discover and interpret. It's like a poem.” She lamented the role of exposition in narrative games. “At Naughty Dog we struggle with exposition and the expectation of exposition.” Players seem to want “every damned thing explained.” Navigating these expectations is her biggest challenge. Drake can deliver a monologue, but it's an inelegant solution. Nevertheless, many players want it, perceiving purposeful ambiguity as a mistake. “People say it's a plot hole, and we're like ‘no, it's not! Interpret it!’”(Laughter) With a game like Uncharted, “you have to play to the people in the front and the people in the balcony.”
+
+Regarding ambiguity, Chen stated that he never tried to make Journey mysterious. “We were trying to connect players on an emotional level.” In real life, people are busy and have many things to do. We rarely connect. Online players assume other players will behave like jerks, so we don’t connect there either. “But in the woods on a trail, you feel very small. Alone. Vulnerable. If you meet another person there, you say hi. We wanted to make the player feel very small and powerless.”
+
+Chen believes this feeling was an essential part of Journey. Players reported the game reminded them of the original Legend of Zelda, a game with no handholding. “We didn't tell the player anything,” noted Chen. Modern games too often rely on checklists and completion to engage the player. Such games are seen as more “game-ish,” than Journey, but they don’t provoke the kind of engagement Chen seeks.
+
+Emergent as experiential?
+Pinchbeck wondered about the emergent narratives that multiplayer or open-world games offer. Aren’t these also experiential games? Chen responded that he enjoys playing Call of Duty games and believes they are well designed. In CoD “you get rewards for mechanics.” You just killed three people in one shot, so you get a reward for demonstrating skill. But the narrative campaign modes do not feel experiential. “When I feel a sense of wonder in an FPS, it's always emergent from mechanics. A grenade bounced an unexpected way and did something crazy. That's great, but we don't work in that space. We're trying to craft surprising moments.”
+
+Hennig questioned emergent gameplay as narrative. “Emergent experiences are fun, but I don't see them as story,” she stated. Storytelling in games is tricky business. Players don't have the patience for being stuck. “We walk a razor-thin line between authorial control and player agency. The more you do the second, the more you risk ludonarrative dissonance. Too much of the first, and you feel like you're on rails.”
+
+The pretty imperative
+All three panelists agreed the pressure to produce stunning visuals is ever-present in contemporary game design. Indie developers typically target a smaller audience more tolerant of abstraction, and Hennig sees this as a very good thing. “Photorealism is antithetical to game design, she observed. “We bury problem solving in production values. People won't buy our games if they don't think they look awesome. The games that have affected me the most are the most austere. They are like poems... Why can't we affect people emotionally on the level that a Hallmark commercial can do in 30 seconds?"
+
+Pinchbeck wondered if we simply haven't done it well enough. Do poor writing and acting continue to undermine games? Chen sees it differently, returning to simplicity. “In Journey I wake up in the desert and make my way to the mountain. That's the story of Journey. Everything else we added through architecture and discovery.” We must leave a wide space for player interpretation. We need to leave room for the player to dig so the story under the surface will emerge.

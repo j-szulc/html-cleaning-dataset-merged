@@ -1,0 +1,31 @@
+Friday, October 26, 2012
+On the Road in China 
+
+Last week I spent 5 days in Shanghai and Hangzhou as part of an American delegation advising Chinese government and private sector leaders about healthcare reform.
+
+We met with the Mayor of Shanghai, the Health Minister of Shanghai, many hospital presidents, and several public health officials.
+
+The themes we highlighted included:
+
+*Quality must be measured, not assumed, and this should be enabled by the universal adoption of electronic health records
+
+*Data should be shared among caregivers with a focus on longitudinal coordination of wellness rather than episodic treatment of illness
+
+*A primary care model coordinating patient treatment via a team that knows patient care plans and preferences will be more efficient than the current model in China in which the patient can go anywhere without a referral.   A simple headache might be first evaluated by a neurosurgeon at a tertiary care facility.
+
+*The measures of success should be healthcare value (quality/cost), safety, and patient satisfaction
+
+My role was to spread the gospel of Meaningful Use.   I highlighted the multi-phased journey in the US and our focus on policy outcomes rather than hardware/software implementation.
+
+I toured several facilities and had the opportunity to study the IT infrastructure and applications used in different settings.
+
+A few observations:
+
+*Shanghai community hospitals have deployed a standardized EHR that is good enough - it enables enough clinical documentation to provide continuity of care.
+
+*Tertiary facilities have not widely adopted advanced clinical IT systems.  They have focused on  administrative transactions (registration/scheduling) and ancillary automation (lab/rad/pharmacy) but not provider order entry, decision support, or clinical documentation.   The systems are optimized for episodic and not continuous care.
+
+*This is my third visit to Shanghai and I've advised their health information exchange efforts by suggesting content, vocabulary and transport standards.    Shanghai is piloting health information exchange that involves transport of XML-based summary records over VPN.  The Chinese have a national identifier they use for healthcare and have privacy policy that makes data sharing a public good in society.    Culturally, there seem to be few expectations of healthcare data privacy.    Limited regulatory/compliance oversight enables the Chinese to move quickly but also providers fewer controls.   There is very little assertion of malpractice.
+
+My conclusion from these Chinese visits is that healthcare IT challenges are similar worldwide.   I enjoy sharing our US experiences with other countries and look forward to the day when continuous lifetime coordinated care based on interoperability of data is a worldwide possibility.
+Posted by John Halamka at 3:00 AM 

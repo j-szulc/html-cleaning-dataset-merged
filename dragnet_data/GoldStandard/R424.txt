@@ -1,0 +1,8 @@
+
+Theme: Responsive Magazine Theme for WordPress
+
+Posted on September 4, 2012 at 10:33 pm as Theme 
+
+Oxygen is a premium-quality, responsive magazine theme for WordPress. Oxygen is a highly extensible parent theme, built on the industry-recognized Hybrid Core framework – a great base for creating your own child themes.
+
+It supports fluid, responsive layout. Custom front page template. Featured content slider. Theme Settings. Breadcrumbs. Theme-matching styles for contact form plugins – Gravity Forms and Contact Form 7. And best of all, it is free for download.

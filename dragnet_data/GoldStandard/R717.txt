@@ -1,0 +1,70 @@
+Q&A with author David Wolf on Huawei, ZTE and China’s telecoms industry
+by Barry van Wyk on November 9, 2012 
+
+Beijing-based business strategist David Wolf is the author of a new book on China’s telecoms industry: Making the Connection: The Peaceful Rise of China’s Telecommunications Giants.
+
+The book tells the story of how previously unknown companies have emerged from one of China’s most dynamic industries to the forefront of the high tech business of global telecommunications infrastructure. Yet the likes of Huawei and ZTE have recently got some resistance in the US. We asked the author what he made of these developments and of the state of the industry.
+
+Making the Connection is available in Kindle format on Amazon.
+
+In recent weeks, China’s telecom industry and its leading companies Huawei and ZTE have controversially been subjects of a US congressional report as well as a White House-ordered review that cleared the Chinese companies of spying but still concluded that their equipment contained security vulnerabilities. What in your view is really happening here?
+
+Whether or not there is a security threat is up the engineers to decide rather than the politicians. It comes down to whether it’s technically possible for there to be an intentional bug in the hardware or in the software that would open the door to espionage or that would defeat encryption. If this is possible, then the US government does have a legitimate concern. The challenge of course is that such a legitimate concern probably wouldn’t just be limited to Huawei, ZTE, or to any Chinese manufacturer. It would affect gear made by any manufacturer that is not based in the US and/or develops its products and software in China. So if there is a legitimate security threat and the government is not just being paranoid, we need a blanket means to address this. But by essentially red-lining two companies, one of whom is commercially more successful than its US rivals, then Congress’ actions do just look like protectionism.
+
+ 
+
+These latest developments regarding Huawei and ZTE are part of ongoing image problems that many Chinese companies face in the West. However, is the broader issue here not about the search for a smoking gun in Huawei’s routers but rather about a political system in China that could allow the Chinese government or military to demand Huawei hand over sensitive information about US customers?
+
+It might be a significant part of the problem in the eyes of Congress, but if the Chinese government can compel any home company to do whatever they want, are they unique? Couldn’t the US Department of Defense make similar demands of any US-based technology company?
+
+I think the paranoia is about the government system in China, but any government can compel such cooperation from its companies. If you have this with Huawei in China why wouldn’t you have it with Alcatel in France or with Nokia-Siemens in Germany? Why wouldn’t you have this in Israel? Why wouldn’t you be concerned about any gear made by any company in China? So if this is an issue, everybody needs to be worried about every piece of equipment coming into a telecoms network.
+
+ 
+
+Your book describes this as a problem of perception that Chinese companies face in the US. Do you expect that this problem will gradually fade away or will it persist as long as China’s political system remains largely opaque to outsiders?
+
+I think the issue is going to be around for a very long time regardless of the political system in China. Even if China woke up tomorrow and found itself a monarchy or a democracy, the issue would still exist because it isn’t a matter of competing companies or systems but of competing countries and interests. The only way to get beyond this challenge is for a company and its products to rise above national origin in the eyes of its audience. Microsoft has achieved this to a degree in China, having built credibility as a firm and quietly shedding its American mantle. This is the challenge for Chinese companies: they really have to see their Chineseness as a liability, not an asset.
+
+This process will take time. Credibility doesn’t come from spending money; it comes from behavior, from actions, from a long familiarity and from a track record that supports mutual trust. One of the reasons that US companies are willing to buy Huawei equipment is that they trust them and have had a long association with them. They can see what Huawei has done elsewhere. The challenge for Huawei and ZTE is that they have to do more than just PR. They are held to a higher standard, and while perhaps unfair this is just the nature of the game. Given that Huawei and ZTE are sort of the lead companies of what will be a batch of Chinese companies working their way into strategic industries, they are taking the brunt of this sort of cognitive dissonance. So it will take a while for the West to adjust.
+
+ 
+
+Your book describes Huawei as a Chinese company that was able to prosper because it was a purely private company – it had very little government control placed on it and was thus able to get on with the job. Yet is Huawei a private company in the same way that the concept would be understood in the West?
+
+The extent to which Huawei is private is that the company is not controlled either by the central or local government. As far as we know the company is 100% owned by itself or its employees. So the government apparently has no direct ownership stake in the company. But as to whether it’s a partnership or sole proprietorship or joint stock company – it is probably none of the above. The challenge apparently is that China’s laws on share ownership make it very difficult for the company to grant shares to its employees. Also they want to keep the shares in the hands of the employees; they don’t want somebody to show up and take a big clump of the company’s shares and then run away with them. They want to keep them close and they are still figuring out how they can work these things out.
+
+Huawei and ZTE can certainly do with greater transparency in terms of their ownership. But as we all know, transparency and Chinese companies are very rarely mentioned in a positive way in the same sentence. We think we know that Huawei is owned by its employees, that those shares are held in trust for them by the company. This ownership structure doesn’t look like an ownership structure that’s familiar to people used to doing business in the West, and that’s what makes it murky. To a certain extent Huawei is still trying to work it out themselves.
+
+ 
+
+Huawei’s CEO apparently does not do interviews and gives no statements. How important and/or detrimental is this to Huawei’s image in the West and what other simple PR options are available to Huawei?
+
+As someone who has some experience with PR and who has worked with both foreign and Chinese chief executives, I can say in all honesty that there are some chief executives that I’ve worked with that I would never, ever want to put in front of the media because they are loose cannons. They either have a really hard time to say anything with any degree of comfort or they will say too much. I’m not saying that this is the issue with Ren Zhengfei, Huawei’s CEO, but regardless of the issues both Huawei and ZTE need to be more out there and more open with their CEOs because its simply a part of the cost of entry in Western markets. You have to put a human face on your company and the higher up you can put that face the better.
+
+Another PR option open to the them is just to be more open; in fact, bend over backwards to show you are open. One example was last week in Australia when Huawei agreed to show its code and be open about it. They said that if anyone finds holes in their programming they should say so. It’s great to call the bluff of the Australian government, but what they cannot do is launch a counter-offensive and say people are being unreasonable or unfair. They have to stand up and say ‘we understand why you don’t trust us, but let’s work together to build trust.’
+
+ 
+
+China’s home-grown 3G standard TD-SCDMA seems not to have achieved wide adoption. It is also unclear if it avoided existing wireless standard patents. You describe its development as successful. What do you think was successful about it for China?
+
+If China Mobile had had its own choice it would probably have chosen a different standard. The success of TD-SCDMA was perhaps less commercial than it was political. For the first time in an emerging global technology set of standards China was able to put its version on the table and have it accepted alongside other international standards. In the end the adoption by China Mobile was only the icing on the cake. What was really important was that in getting TD-SCDMA officially accepted, it provided China with a seat on the table for the discussion on 4G.
+
+If you look at the way 4G is rolling out, and if you talk to engineers who ten years ago would have laughed at TD-SCDMA (saying that it actually stands for ‘Tang Dynasty System Can’t Do Much of Anything), they are now looking at TD-SCDMA’s 4G successor, TD-LTE, and saying that this is a real contender. So for China the success of TD-SCDMA was buying them a seat at the 4G table, not the 3G table.
+
+ 
+
+Under the administration of Hu Jintao and Wen Jiabao, China’s largest SOEs or so-called national champions have become very prominent and central to government policy. Yet your book on China’s telecom industry suggests that State Capitalism and large SOE national champions is not the right way to go. Does China’s telecoms industry point to the future path of reform for other industries in China?
+
+What the telecoms equipment industry points out is that at the very least, China does not need to follow the state capitalism model, and it can allow companies to flourish in a range of enterprises. By simply sitting back and allowing the market to do it’s worst, China probably has a better chance of creating global champions than it does by simply choosing champions and hooking them to the government teat.
+
+It is also entirely possible that the telecoms industry is the first case study that suggests that the state capitalism model is of limited use in building global champions. You cannot raise a child on parents that spoil it and then send it into the world where everyone is adversarial and expect it to survive. So at the very least both Huawei and ZTE suggest that China needs to hedge its bets: it can choose state champions all it wishes but it must also leave the door open (particularly in the so-called non-priority industries) for market forces to take over and to see if they can develop global winners in those industries. We are going to see more of these types of companies venturing abroad along with the state-owned enterprises. But the ones that I think are going to make the best plays are the ones that are ostensibly private and that have been allowed to grow despite government benign neglect rather than those who have grown because of government favor.
+
+ 
+
+Your book ends with the observation that rising stars like Huawei in China really do innovate, but they do so incrementally. This could be said to form part of a new type of Chinese competitive advantage, i.e. the ability to manufacture products comparable in quality to the world’s best but at a still cheaper price. Do you see this model (and by extension a company like Huawei) as the future of China’s competitive advantage?
+
+I think that Huawei is indeed a harbinger of this kind of model. It’s a move from being an independent imitator to innovation that is customer-driven and incremental. A company will then use this kind of innovation to gradually ladder itself up to the kind of innovation that comes out of laboratories and from genuine technological breakthroughs. But you can’t instantly make the leap from being an incremental to a laboratory innovator, you have to do it gradually and this is a lesson that we are learning from Huawei and one that the rest of China has to learn. I expect that in those sectors that begin innovating, this is how it will begin. It will be breakthroughs that are driven initially by a sales process, and will then over time eventually be driven by R&D and the kind of laboratory innovation that we are used to seeing in the high-tech industries.
+
+David Wolf is President and CEO of Wolf Group Asia (WGA), a Beijing-based strategic corporate communications advisory firm, and also serves as Senior China Strategist for global public relations firm Burson-Marsteller. He is also an Editorial Advisor for the China Economic Quarterly, and serves on the advisory board of the Research Center for Chinese Politics and Business at Indiana University in the US. Making the Connection is his first book.
+
+Featured image is of Huawei headquarters in Shenzhen, China (百度贴吧).

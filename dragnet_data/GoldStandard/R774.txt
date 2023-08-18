@@ -1,0 +1,16 @@
+Backend-As-A-Service Provider Kinvey Adds Facebook Open Graph Integration For Mobile Apps
+Sarah Perez 
+
+TechStars Boston alum Kinvey, a backend-as-a-service provider for web and mobile applications, is today announcing support for Facebook’s Open Graph in the iOS and Android applications built on its platform. The additional feature will allow development shops of all sizes to take advantage of the real-time sharing mechanism on Facebook, often proven to have direct impact on a mobile app’s virality and subsequent success.
+
+Kinvey, faces a number of backend-as-a-service (BaaS) providers, including Parse,  Stackmob, FatFractal and Applicasa, to name a few. However, of that group, only it and Parse have significant amounts of outside funding at this point. Parse is backed by $5.5 million in Series A funding from Ignition Partners, which also invested in Heroku’s Series B before the Salesforce acquisition. Kinvey, meanwhile is backed by Atlas, SK and Avalon.
+
+If there’s a battle among these BaaS providers, Kinvey’s Open Graph support is an interesting addition, in terms of competitive advantage. However, it’s not the only one with this feature. Applicasa also offers Open Graph integration, but the company is more targeted towards game developers. Neither StackMob, Parse, nor FatFractal offer full Open Graph support today, though.
+
+Kinvey co-founder and CEO Sravish Sridhar explains that, right now, Open Graph essentially only applies to web apps. “Native mobile apps – unless they have a web backend (like Spotify, Instagram, RunKeeper) – cannot integrate with Open Graph, because Facebook needs to read data in a web database to then publish to members’ timelines,” he says. “Since most app developers lack the time and resources to build and operate a web backend, they are effectively blocked from Open Graph.”
+
+Open Graph integrations currently require that apps serve their data into Facebook’s Open Graph web endpoints, Sridhar says. “This backend dependency breaks down with native iOS and Android apps where the primary form of access and experience is solely on a mobile device with no web accessible backend, thus creating a significant crack in Facebook’s Open Graph strategy when it comes to mobile.”
+
+With the new support in Kinvey, iOS and Android apps built on its platform can now publish to Open Graph because Kinvey is now storing the data for the apps in question, and then auto-generating the web end points that Open Graph needs in order to connect with apps, and get the information being fed. Kinvey apps can send images, videos, or other content type to Open Graph, and they can make API calls to publish, retrieve, or update that content, as well. Once published, Facebook users can also interact with the content through Open Graph action links.
+
+The new feature isn’t available for an extra charge, but is rather built into Kinvey’s current pricing model. The company doesn’t charge baded on features, but rather on active users of an app. Sridhar says that the company chose this business model, because the company didn’t want developers worrying with how often they used a particular feature in their applications. He says there are “thousands” of developers on Kinvey today, but declined to provide specific numbers, only noting that the size of its install base helped the company gain the Open Graph support.

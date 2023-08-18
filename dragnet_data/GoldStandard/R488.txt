@@ -1,0 +1,35 @@
+The difference between ‘health’ and ‘heart’
+Written By: Jason Shafrin - Oct• 29•12
+
+The answer is 2.
+
+How do I know know this?  Simple, I applied the generalized edit distance algorithm.  This algorithm measures the similarity between two words or phrases (i.e., strings).
+
+Measuring the distance between two words is useful for search engines, handwriting recognition, and speller checkers.
+
+To understand how the generalized edit distance works, read on.
+
+Reina Käärik succinctly explains how the generalized edit distance works.
+
+Edit distance, also known as Levenshtein distance, is used to measure the minimal number of edit steps that has to be
+made to transform one string to another.  Allowed transformations (or edit steps) are:
+
+    Deletion
+    Insertion
+    Replacement
+    Transposition
+
+For instance, the edit distance between health and heart is 2.
+
+    Step 0: health
+    Step 1 (Replace l with r): hearth
+    Step 2 (Delete h): heart
+
+For another example, the edit distance between heart and horror is 4.
+
+    Step 0: heart
+    Step 1 (Replace e with r): hoart
+    Step 2 (Replace a with r): horrt
+    Step 3 (Replace t with o): horro
+    Step 4 (Add r): horror
+

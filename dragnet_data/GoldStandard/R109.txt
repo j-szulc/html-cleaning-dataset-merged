@@ -1,0 +1,65 @@
+
+Reader Q&A: volatile (again)
+
+2012-10-16 by Herb Sutter
+
+Sarmad Asgher asked a variant of a perennial question:
+
+    I am implementing multi producer single consumer problem. I have shared variables like m_currentRecordsetSize which tells the current size of the buffer. I am using m_currentRecordsetSize in a critical section do i need to declare it as volatile.
+
+If you’re in C or C++, and the variable is not already being protected by a mutex or similar, then you need to declare it atomic (e.g., if it’s an int, then atomic_int in C or atomic<int> in C++. Not volatile.
+
+    Also is there any article by you on this topic. Please do reply.
+
+There is! See my article “volatile vs. volatile” for the difference and why C/C++ volatile has nothing to do with inter-thread communication.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Ivan
+
+speaking of atomic… herb can we get some cool concurrency stuff like conc hash map(it should be patent free), lock free ring buffer(same) etc in C++17?
+Also speaking of a core language side is there any chance we might get for_each_class_variable and/or for_each_class_function? Its not that I miss it that much, but Stepanov would like to have it in language. :P
+“Sadly enough, C and C++ not only lack facilities for defining type functions but do not provide most useful type functions for extracting different type attributes that are trivially known to the compiler. It is impossible to find out how many members a type has; it is impossible to find the types of the members of a structure type; it is impossible to find out how many arguments a function takes or their types; it is impossible to know if a function is defined for a type; the list goes on and on. The language does its best to hide the things that the compiler discovers while processing a program. That is why it is impossible to express the most self-evident things such as the default definition of equality: if equality is not defined for a type, provide it with member-by-member equality.”
+Alexander Stepanov Notes on Programming 10/31/2007
+
+on 2012-10-16 at 8:11 am Rolf Kristensen
+
+If using the Microsoft C++ compiler, then volatile means something extra than just unusual memory access:
+
+http://msdn.microsoft.com/en-us/library/12a04hfd(v=vs.100).aspx
+
+With the latest version of the compiler (VS2012), then you change it so volatile actually does what you expect from the standard (/volatile:iso – Default for ARM)
+
+http://msdn.microsoft.com/en-us/library/12a04hfd.aspx
+
+on 2012-10-16 at 8:35 am jj (@all2one)
+
+What if one is using an old compiler without atomic? In this case, using volatile is recommended or doesn’t do any good, still?
+
+on 2012-10-16 at 7:09 pm nosenseetal
+
+@jj
+nhf but just read the damn link.
+
+on 2012-10-17 at 9:40 am Martin
+
+What definitely adds to all the confusion is that the Win32 API Interlocked* sync primitive functions all operate on volatile variables. Given the docs for VS2012 wrt. /volatile:iso I’m wondering whether this is actually still necessary …
+
+on 2012-10-20 at 2:16 am Lukasz
+
+@Ivan
+
+I guess this has to do with static reflection which is not that easy to design. The work is in progress AFAIK, but there is not much information on this.
+
+on 2012-10-20 at 2:00 pm Jesse Good
+
+Note for readers:
+
+/volatile:ms *is* ISO Compliant.
+See http://stackoverflow.com/questions/12899830/does-c11-allow-not-require-release-acquire-semantics-for-volatile-keyword.

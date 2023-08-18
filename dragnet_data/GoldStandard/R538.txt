@@ -1,0 +1,23 @@
+Google News turns 10
+Saturday, September 22, 2012 11:21 AM
+Posted by Krishna Bharat, Distinguished Scientist and Founder, Google News
+
+Google News launched on September 22, 2002—exactly a decade ago.
+
+Inspired by the widespread interest in news after the September 11 attacks, we invested in technology to help people search and browse news relevant to them. Google News broke new ground in news aggregation by gathering links in real time, grouping articles by story and ranking stories based on the editorial opinions of publishers worldwide. Linking to a diverse set of sources for any given story enabled readers to easily access different perspectives and genres of content. By featuring opposing viewpoints in the same display block, people were encouraged to hear arguments on both sides of an issue and gain a more balanced perspective.
+
+In the last ten years, Google News has grown to 72 editions in 30 languages, and now draws from more than 50,000 news sources. The technology also powers Google’s news search. Together, they connect 1 billion unique users a week to news content. 
+
+Google News today
+
+As we have scaled the service internationally, we have added new features (Local News, Personalization, Editors’ Picks, Spotlight, Authorship, Social Discussions), evolved our design, embraced mobile and run ancillary experiments (Fast Flip, Living Stories, Timeline). In parallel, we have monitored our quality and challenged our engineers to improve the technology under the hood—increase freshness, group news better, rank stories more accurately, personalize with more insight and streamline the infrastructure.
+
+Take a look back at the past decade in Google News through the top stories from each year and a few notable features that have launched in the interim:
+
+It’s undeniable that the online news landscape has changed immensely. Smartphones and social networks have transformed how news is accessed and sourced, and shifted the relationship between readers and authors. Open journalism is the norm, and aggregation by humans and machines is an integral part of the ecosystem. New technologies such as Hangouts on Air have the potential to connect users, journalists and opinion makers and transform how stories are discussed.
+
+Opportunities abound, and we are excited for where we can take this product in the next decade. While change is inevitable, one thing remains the same: our mission is to bring you the news you want, when you need it, from a diverse set of sources.
+
+(Cross-posted on the Official Google blog)
+
+

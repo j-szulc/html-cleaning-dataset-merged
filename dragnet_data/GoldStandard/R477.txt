@@ -1,0 +1,12 @@
+Google’s own site confirms Google Wallet Cards coming soon
+
+In an interesting bit of news last week we learned that the awesome developers from Google were working on a completely different element to their Google Wallet NFC mobile payment solution. As you know, Google Wallet hasn’t quite taken off as expected. Google’s now getting ready to introduce a physical Google Wallet Card for NFC payments and more. 
+
+A leaked APK last week first revealed the news, and now today the folks from Google have accidentally spilled the beans themselves right on the Google Wallet help website. The link just posted has since been edited, and Google’s removed all mentioned of the “card” and simply states Google Wallet. The image below, provided by Droid-Life is how it was before being deleted. 
+
+So what do we see? Clear evidence that Google is working on physical Google Wallet NFC payment cards. So close that they’ve already prepared help guides and all the details. It looks like these could actually be launching here fairly soon based on what we’re seeing. Now the initial thought with Google Wallet was to replace physical cards, but Google’s been having a bit of a push-back regarding safety, carriers, privacy and many other things. This new physcial card should help alleviate that.
+
+You’ll still have to carry a card, but the Google Wallet Card with NFC will potentially be every card in one. All your credit, debit, rewards cards and more in one. Lose it and you’ll just need to cancel and replace it, instead of the entire wallet. I’m assuming this is also Google’s way of getting the idea and technology into more consumers hands moving forward, hoping they’ll eventually just opt for the mobile app instead. Another important step here is this bypasses the few phones capable of Google Wallet support now. Google states all Android 2.3.3 Gingerbread and above devices can use the Google Wallet app along with the Card. We’re expecting Transit card options, payment withdrawals, transferring between accounts and cards on the fly, and even transfers between friends should you choose.
+
+Pretty exciting stuff Google is doing here with payments and NFC, no thanks to all the US carriers that went against their hopes and dreams. We’re actually pretty excited for Google to announce more details on this so stay tuned.
+Story Timeline

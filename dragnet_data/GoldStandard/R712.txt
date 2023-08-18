@@ -1,0 +1,14 @@
+
+Google Desktop now supports 64 bit Windows
+Wednesday, July 08, 2009 4:48 PM
+Last September we released Google Desktop version 5.8, which was lighter, faster and free of trans-fats. We also asked for any feedback, and users responded with "how about 64 bit support?" Well, as of today Google Desktop supports 64 bit Windows - go ahead, give it a try.
+
+In addition to supporting 64 bit Windows systems, Google Desktop now supports the latest browsers as well (Google Chrome, Firefox 3, & Internet Explorer 8). Most browsers now integrate safe browsing solutions to protect users from malware and phishing. This is similar to what the Google Desktop Safebrowsing feature accomplishes.
+
+To ensure that Google Desktop offers an efficient, optimal experience we will be removing the Safebrowsing feature on July 31. We encourage everyone to make sure they are upgrading to a browser that protects them from malware and phishing.
+
+We hope you enjoy using Google Desktop on 64 bit Windows systems!
+
+Posted by Jason Arbon, Google Desktop Team
+
+

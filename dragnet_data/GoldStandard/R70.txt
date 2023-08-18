@@ -1,0 +1,15 @@
+More storage, more photos, more fun
+Friday, March 4, 2011 2:16 PM
+Posted by Matt Steiner, Engineering Lead-Photos Team
+
+With Picasa Web Albums, you automatically get one gigabyte of free storage. As some of you may have noticed, we recently changed the way storage works so you can continue to share and store images even after you fill up that free gig.
+
+In the past, each image and video you uploaded counted toward your free 1GB. Now, uploaded images that are 800 pixels or smaller and videos that are 15 minutes or less in length no longer count against your free storage limit. This means you can upload and store unlimited photos and videos at the above sizes -- for free!
+
+800-pixels is a good size for sharing pictures on the web, but if you prefer uploading your images at a larger size for better quality (archival or print), and you are nearing the 1GB limit, you can always purchase additional storage for as little as $5/year. To check your available storage amount scroll to the bottom of your home page or view your settings.
+
+For those of you who’ve already purchased additional storage, any existing 800-pixel images or videos shorter than 15 minutes will no longer count toward your storage limit, so enjoy the extra space and post away!
+
+We hope you enjoy the change, and we’d love to hear what you think.
+
+Permalink

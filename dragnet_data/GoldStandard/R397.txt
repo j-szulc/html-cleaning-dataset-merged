@@ -1,0 +1,102 @@
+October 09, 2012
+VMworld 2012 - Psst… Want to see the future of storage with VMware and EMC?
+
+At VMworld 2012, covers started to come off the idea of Virtual Volumes or “vVols”.   This is something that has been in the works since before this same time last year – but is getting closer to real.
+
+To be very clear – this is still a technology preview – no dates, period.   You can draw your own conclusions based on the stuff we’re showing.
+
+At VMworld 2012 in San Francisco – I talked about this more, and did a post, which I would encourage you to see here.
+
+A little behind the scenes… in the run-up to VMworld 2012 in SF, there still weren’t key drops from VMware to the technology partners, and also it wasn’t clear how much we could talk about (and how much VMware was going to talk about it).   We worked together (thank you VMware!) and got some stuff done in time for San Francisco – but the BIG engineering drop came shortly afterwards.     So… between the VMworlds, we’ve been feverishly working with the drop and updating the EMC prototypes…
+
+… and now that it’s VMworld 2012 Barcelona – bring on the vVol awesomesauce :-)
+
+CHECK THIS OUT (read on!)
+
+First some – important ideas at the core of what vVols are all about:
+
+    vVols is an idea which makes the "VM” the unit of storage mangement and policy – not the datastore – this is big.
+    Protocol Endpoints are “IO Demultiplexers” – they can be block or NAS, but they aren’t a datastore  BTW – in the current demos, the concept of “storage pools” (which are “bound” to a Protocol Endpoint) follow the “datastore workflows” – this is intended to make vVols very easy to integrate into current operational paradigms and processes – but they are NOT at datastore.   Protocol Endpoints are how you get block or file IO into and out of the storage device.    Putting aside what they are – what they mean (or at least are intended to mean) is that there’s no more scaling datastores with VMs, and also no “placement” of VMs.  There aren’t LUN-based datastores or NFS-based datastores.   Everything that has “VM awareness” right now (think EMC Unisphere in VNX – particular on NFS where you can do VM-level operations or Tintri as examples) all are “managing around” the datastore.  vVols gets rid of the idea.
+    VASA, SDRS, VAAI are all leading us to vVols in a step-wise fashion.  If you think about it:
+        VASA currently advertises the LUN/Filesystem characteristics that can be presented to vSphere.  In the future, VASA advertises the characteristics that can be selected for vVols – and the storage admin configures those at the storage pool level.
+        SDRS currently manages policy by selecting datastores and then moving them around to balance IO and capacity.   In the future, SDRS can be the policy manager – but doesn’t need to be svmotioning stuff around all the time (or selecting datastores based on the VASA properties advertised).   Each vVol has its own policy.
+        VAAI currently uses block (SCSI) and NAS offloads to do certain operations (like cloning a VM – leveraging the arrays capabilities to copy/snapshot blocks and files).   But – for the arrays (including ones that are pure software – when I say “array” – don’t get hung up on thinking of them as by definition something “external” to the vSphere environment – they are software after all), they never really could manage policy on the VM, because there was no fundmental API around the VM itself.   In the future, VAAI operations (all sorts of assists) could be at the VM-unit itself.
+    It will work with both external devices (think EMC arrays) but also with VMware’s own native IO stacks (think vSAN).  One thing that is neat (if you are an engineer type), vVols were conceived to offer a path for customers existing investments (should the storage vendor support them), as well as enable new disruptive storage approaches.
+    The “what storage admins do” is going to be materially affected.   They will manage a small number of protocol endpoints, and a relatively small number of storage containers/pools that are “bound” to those protocol endpoints.   They will see vVols, and will control what policies are advertised on each container/pool.
+
+Ok – let’s go to some demo examples to further “solidify” the core ideas here.   It’s a cool story – we got the engineering drop right after VMworld 2012 in SF, and have been working on these since.   My hats off to the EMC engineering teams, who have been feverishly working on this…
+
+VPLEX demo
+
+This demo is, IMO, the coolest, because it highlights how vVols will enable things that are totally not possible otherwise.
+
+Ok – we have hundreds of customers using EMC VPLEX and vSphere for stretched clusters over metro (~5ms RTT latency) class distances, supported under the VMware vSphere vMSC.   VPLEX is cool in the sense that since it’s an active active storage model, you can vmotion a single VM from one site to the other – so in a sense it has been “VM level granular” (unlike models that present the whole datastore via a stretched network and “fail it over”).   BUT at the same time, it wasn’t VM-level granular – because the device (LUN) would need to be configured for active-active, and every write IO would be synchronously replicated for every VM on the datastore.   Everyone reading this blog knows about that :-)    
+
+Ok, next point in the demo “setup”… I’ve often been asked: “VPLEX Geo (async) exists – why not use that over longer latencies?”.   We’ve actually demoed this before – but waved customers off from it.   Why?   Well – it works fine so long as you don’t have a VPLEX cluster partition in certain moments – like during a vmotion.    Think about it.  In a VPLEX Geo plex (a streched device) – the data isn’t guaranteed to be in both places all the time, only guaranteed that you can GET it at both places (if the part of the VMDK being requested isn’t local, it gets it from the other side, and from then on, it’s local).   If there was a partition before all the data was there – the VM would be “splinched” – or less eloquently, you could have a corrupted VMFS volume, and would need to revert the whole volume to a checkpoint, which could affect VMs which are otherwise fine.   That’s why we don’t support VPLEX Geo with stretched VMFS use cases.
+
+This demo shows how vVol could change everything. 
+
+    In the first part – there is no preconfigured virtual volume (stretched device/datastore), only a storage container/pool.   No data is being synchronized.  As soon as a VM is created who’s storage policy is to be active/active – a vVol is created on VPLEX automatically, and that data is now a synchronous vVol plex in both datacenters.    That means that only VMs who need to be active-active are active-active.  It also means much simpler provisioning.   Cool, eh?  Well… there’s more.
+    In the second part – we are using a VPLEX Geo configuration (could be thousands of kilometers).   To get past the problem of “splinching”, the vVol automatically switches from async to sync behavior during the vMotion.    Pause and think about that.   It’s an example of VM-level storage policy getting passed down to the infrastructure, and the infrastructure just does it.   It’s also an example of the impact of “VM Granularity”.   During steady state, the VM’s being accessed by hosts all on one side, so all the data is guaranteed to be there.   Running in sync mode in CASE you might vmotion would incur a write latency penalty all the time.   But, when you vmotion it, it’s worth the momentary increase in write latency to ensure you get all the data to the other side.  It’s very much like how VMware implemented SDPS (stun during page send) in vSphere 5 for high-latency vmotion at the memory and CPU stack.
+
+You can download the demo in high-rez MP4 format and WMV format
+
+VMAX demo
+
+This demo is a little more utilitarian than the VPLEX demo, but it’s useful because it dives deep into each of the vVol constructs, and how they look (at least at the current engineering builds).   It also shows both the programmable API model and the UI model in VMAX.   It also shows how while the underlying storage model is radically different, the end-user use cases, and even navigating across vVols looks very consistent with what people know.
+
+For our large customers who love their VMAXes (often with tens of thousands of VMs)?   Imagine SRDF, or Federated Live Migration at large scale – at VM levels of granularity :-)
+
+You can download the demo in high-rez MP4 format and WMV format
+
+VNX/VNXe and Avamar demo
+
+This demonstration was one we had ready to go at VMworld 2012 in SF, but we weren’t sure whether VMware would let us (there was back and forth about how much/little to show about this).   It’s a good demonstration about how vVols will help with things other than just primary storage.  In this example, we are using an NFS protocol endpoint on a VNXe (same on VNX), and when we do a VADP-based backup, it requires an interim VM snapshots.   While today this can be hardware assisted at a VM-level (on block via the XCOPY hardware assist and on NAS using the new vSphere 5.1 NFS Fast Copy VAAI API) – it’s clunky – the array doesn’t really know what it’s doing.
+
+With vVols you can see that what occurs is that another vVol is spawned for the snapshot itself.  In fact, this shows something – vVols are actually SUB VM-level of granularity.  There is a vVol for each of the core elements that make up the persistent storage of a VM – config, metadata, VDMKs – both base and snapshot.   The creation of this snapshot is hardware accelerated.   But think about what becomes possible.  Perhaps we’ll be able to have snapshots leverage different storage services – not necessarily even “different spindles” (the “classic” isolated snapshot model), but rather – leverage the improved pointer-based snapshots, but since it’s all on a big storage pool that is simply advertising data services – we could use a different set for the snapshots.
+
+So many ideas!!
+
+You can download the demo in high-rez MP4 format and WMV format
+
+Look – before people get too excited – remember, it’s just a technology preview!   But, I think it’s a cool idea.   So… What do YOU think?  Cool?  Crazy?  Questions?
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+vvol + vplex geo = nice!
+vvol + vmax / vnx = can't come soon enough IMHO (for all storage platforms). managing at the datastore / lun / device level however you think about it is clunky and in-flexible. on a selfish note i'm just waiting for the replication support from SRDF, Recoverpoint etc etc. bring it on. not too distant future we are going to have a whole heap of new "options" for customers that will allow them to provision and protect the apps and vm's like never before.
+
+Posted by: Lee Dilworth  October 09, 2012 at 05:32 AM
+Chuck Hollis
+
+Chad -- you're right -- crazy cool!
+Thanks for writing this up and sharing with everyone
+
+-- Chuck
+
+Posted by: Chuck Hollis  October 09, 2012 at 08:49 AM
+Nick Giudice
+
+Some very impressive changes and demos. Will be interesting to see how storage systems balance the advantages of vVols while supporting the requirements of physical and legacy environments.
+
+Posted by: Nick Giudice  October 09, 2012 at 01:54 PM
+Denserov.wordpress.com
+
+Chad! I was demoing this thing on VMworld today! It is so AWESOME!!!! :))) I love it!
+Everyone was excited. Even HP tech guy :))))
+
+Posted by: Denserov.wordpress.com  October 09, 2012 at 08:43 PM
+Dcmartinpc
+
+Excellent write up Chad! I am in full agreement with Lee! vvols with VMAX is a home run! We also use recoverpoint, so once all that integration is in place, it may just be the utopia I have been waiting for!!!
+
+Posted by: Dcmartinpc  October 10, 2012 at 09:24 AM
+

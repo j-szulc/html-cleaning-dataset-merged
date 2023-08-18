@@ -1,0 +1,51 @@
+Applying markup to complexity
+The blurry line between markup and programming.
+by Simon St. Laurent August 9, 2012
+
+When XML exploded onto the scene, it ignited visions of magical communications, simplified document storage, and a whole new wave of application capabilities. Reality has proved calmer, with competition from JSON and other formats tackling a wide variety of problems, while the biggest of the big data problems have such volume that adding markup seems likely to create new problems.
+
+However, at the in-progress Balisage conference, it’s clear that markup remains really good at solving a middle category of problems, where its richer structures can shine without creating headaches of volume or complication. In the past, Balisage often focused on hard problems most people didn’t yet have, but this year’s program tackles challenges that more developers are encountering as their projects grow in complexity.
+
+XML and JSON
+
+JSON gave programmers much of what they wanted: a simple format for shuttling (and sometimes storing) loosely structured data. Its simpler toolset, freed of a heritage of document formats and schemas, let programmers think less about information formats and more about the content of what they were sending.
+
+Developers using XML, however, have found themselves cut off from that data flow, spending a lot of time creating ad hoc toolsets for consuming and creating JSON in otherwise XML-centric toolchains. That experience is leading toward experiments with more formal JSON integration in XQuery and XSLT — and raising some difficult questions about XML itself.
+
+XML and JSON look at data through different lenses. XML is a tree structure of elements, attributes, and content, while JSON is arrays, objects, and values. Element order matters by default in XML, while JSON is far less ordered and contains many more anonymous structures. A paper by Mary Holstege focused primarily on possibilities type introspection in XQuery, but her talk also ventured into how that might help address the challenges presented by the different types in JSON.
+
+Eric van der Vlist, while recognizing that XSLT 3.0 is taking some steps to integrate JSON, reported on broader visions of an XML/JSON “chimera”, though he hoped to come up with something more elegant than the legendary but impractical creature. After his talk, he also posted some broader reflections on a data model better able to accomodate both XML and JSON expectations.
+
+Jonathan Robie reflected on the growing importance of JSON (and his own initial reluctance to take it seriously) as semi-structured data takes over the many tasks it can solve easily. He described XML as shining at handling complex documents and the XML toolset as excellent support for a “hub format,” but also thought that the XML toolchain needs something like JSON. He compared the proposed XSLT 3.0 features for handling maps with JSONiq, and agreed with Holstege and van der Vlist that different expectations about the importance of order created the largest mismatches.
+
+Hans-Jurgen Rennau had probably the most optimistic take, describing a Unified Document Language – not a markup syntax, but a model that could accomodate varied approaches to representing data. His proposal did include concrete syntax for representing this model in XML documents, as well as a description of alternate markup styles that help represent the model beyond XML.
+
+I don’t expect that any of these proposals, even when and if they are widely implemented, will immediately grab the attention of people happily using JSON. In the short term they will serve primarily as bridges for data, helping XML and JSON systems co-exist. In the longer term, however, they may serve as bridges between the cultures of the two formats. Both approaches have their limitations. XML is cumbersome in many cases, while JSON is less pleasantly capable of representing ordered document structures.
+
+JSON freed web developers to create much more complex applications with data formats that feel less complicated. As developers grow more and more ambitious, however, they may find themselves moving back into complex situations where the XML toolkit looks more capable of handling information without the overhead of vast quantities of custom code. If that toolkit supports their existing formats, mixing and matching should be easier.
+
+Metadata, content and design
+
+Markup and data types are themselves metadata, providing information about the data they encapsulate, but Balisage and its predecessor conferences have often focused on metadata structures at higher levels — the Semantic Web, RDF, Topic Maps, and OWL. So far, this year’s talks have been cautious about making big metadata promises.
+
+Kurt Cagle gave the only talk on a subject that once seemed to dominate the conference, ontologies and tools for managing them. His metadata stack was large, and changing near the end of the work to include SPARQL over HTTP. If Semantic Web technologies can settle into the small and focused groove Cagle described, it seems like they might find a comfortable niche in web infrastructure rather than attempting to conquer it.
+
+Diane Kennedy discussed the PRISM Source Vocabulary, an effort similar in its focus on applying technology to solve a set of problems for a particularly difficult context. The technology in the talk was unsurprising, but the social context was difficult, describing a missionary effort, to bring metadata ideas from a very “content first” crowd to magazines, a very “design first” crowd. Multiple delivery platforms, notably the iPad, have made design first communities more willing to consider at least a subset of metadata and markup technology.
+
+Markup and programming language boundaries
+
+While designers are historically a difficult crowd to sell semantic markup, programmers have been a skeptical audience about the value of markup — especially when “you got your markup in my programming language.” There are, of course, many programmers attending and speaking at Balisage, but the boundaries between people who care primarily about the data and those who care primarily about the processing are a unique and ever-changing combination of blurry and (cutting) sharp.
+
+A number of speakers described themselves as “not programmers” and their work as “not programming” despite the data processing work they were clearly doing. Ari Nordstrom opened his talk on moving as much coding as possible to XML by discussing his differences with the C# culture he works with. In another talk, Yves Marcous said “I am not a programmer” only to be told by the audience immediately “Yes, you are!”
+
+XML’s document-centric approach to the world seems to drive people toward declarative and functional programming styles. That is partly a side-effect of looking at so many documents that it becomes convenient to turn programs into documents, an angle that is very hard to explain to those outside the document circle. However, the strong tendencies toward functional programming emerge, I suspect, from the headaches of processing markup in “traditional” object-oriented or imperative programming. The Document Object Model, long the most-criticized aspect of JavaScript, exemplifies this mismatch (compounded by a mismatch between Java and JavaScript object models, of course). As jQuery and many other developers know, navigating a document tree through declarative CSS selectors is much easier.
+
+Steven Pemberton’s talk on serialization and abstraction examined these kinds of questions in the context of form development. Managing user interactions with forms has long been labor-intensive, with developers creating ever-more complex (and often ever-more fragile) tools for forms-based validation and interactivity. Pemberton described how decisions made early in the development of a programming discipline can leave lingering and growing costs as approaches that seemed to work for simple cases grow under the pressure of increasing requirements. The XForms work attempts to leave the growing JavaScript snarl for a more-manageable declarative approach, but has not succeeded in changing web forms culture so far.
+
+Jorge Luis Williams and David Cramer, both of Rackspace, found a different target for a declarative approach, mixing documentation into their code for validating RESTful services. The divide between REST and other web service approaches isn’t quite the same as the declarative / imperative divide, but I still felt a natural complement between the validation approach they were using and the underlying services they were testing.
+
+A series of talks Tuesday afternoon poked and prodded at how markup could provide services to programming languages, exploring the boundaries between them. Economist Matthew McCormick discussed a system that provided documentation and structure to libraries of mathematical functions written in a variety of programming languages. Markup served as glue between the libraries, describing common functionality. David Lee wanted a toolset that would let him extract documentation from code — not just the classic JavaDoc extraction, but compilers reporting much of their internal information about variables in a processable markup format.
+
+Norm Walsh started in different territory, discussing the challenges of creating compact non-markup formats for XML vocabularies, but wound up in a similar place. Attempting to shift a vocabulary from an XML format to a C-like syntax introduces dissonance even as it reduces verbosity. After noting the unusual success of the RELAX NG compact syntax and the simplicity that made it possible, he showed some of his own work on creating a compact syntax for XProc, declared it flawed, and showed a shift toward more programming-like approaches that eased some of the mismatch.
+
+If you’re a programmer reading this, you may be wondering why these boundaries should matter to you. These frontiers tend to get explored from the markup side, and it’s possible that this work doesn’t solve a problem for you now. As conference chair Tommie Usdin put it in her welcome, however, Balisage is a place to “be exposed to some things that matter to other people but not to you — or at least not to you right now.”

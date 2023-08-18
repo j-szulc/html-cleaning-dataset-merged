@@ -1,0 +1,30 @@
+29 oct 2012
+Battle of the Windows 8 Start Buttons
+
+If the absence of a Start Menu button is keeping you from upgrading to Windows 8, you are in luck. There are tools available that will put the Start Menu into your Windows 8 desktop and these buttons don’t just have a familiar look-and-feel but they also mimic the functionality of the original Windows Start Menu.
+
+I tried about half a dozen Start buttons for Windows 8 from various developers and here are some recommendations on which ones you may use and which ones you should avoid.
+
+Win8StartButton brings the best of both worlds. It adds a Start Menu button to your Windows 8 desktop but the layout is more like a compressed version of the Start Screen of Windows 8. When you open the Start Menu, the search box stays in focus so you can even type a few characters to quickly open any software program.
+
+I really liked this program (it makes you familiar with the start screen) but the only issue is that some of the options are written in German.
+
+Start8 by Stardock is “the” best Start Menu alternative for Windows 8. It offers a polished and beautiful layout with support for search and one-click access to your My Documents, Pictures and other common folders.
+
+Also, if you aren’t a huge fan of the new tiles based Start Screen of Windows 8, you can configure Start8 such that it will boot your computer directly into the Desktop mode. A single user license is $5 though a 30-day trial is available.
+
+Start Is Back is a still-in-development Start Menu button that looks very promising. You can customize the layout of the Start Button (including the Windows orb), there’s an option to boot directly into the desktop mode and you can even choose to completely disable the menus that appear when you hover your mouse in the corners of your Windows 8 desktop.
+
+Start Is Back is free at this time but that will change once it is out of beta.
+
+I also tested the Vi Orb Start Button and while it is an impressive clone of the Windows 7 menu, the software will add useless Registry Cleaner programs to your computer and may therefore be avoided.
+
+Classic Shell was originally created to bring the Windows XP style classic menu to users who were confused with the new Start Menu designs of Windows Vista and Windows 7 (isn’t that a familiar story). The menu has since then been updated to support Windows 8.
+
+In addition to the regular desktop-based programs, you can also use the Classic Shell to directly access the modern (Metro) apps from the Start Menu itself. The programs is free and much reliable as it has been around for a very long time.
+
+To conclude, the $5 Start8 button from Stardock is your best bet or go with Classic Shell Menu if you are looking for a free alternative. That said, if you are new to Windows 8, play around with the system for about a week and you won’t really feel the need to have a Start Button as long as you have a dedicated Windows button on your keyboard.
+
+Also see: Add a Shutdown Button to Windows 8
+
+

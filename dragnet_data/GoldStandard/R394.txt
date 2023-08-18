@@ -1,0 +1,12 @@
+October 19, 2012
+Chad’s World 15–Flash, Flash, FLASH!
+
+Post VMworld Barcelona episode – all about flash, flash, flashity flash flash!   This episode has us showing both the physical and the UI of VFcache 1.5 and demonstrating XtremIO.   An interesting “behind the scenes” – the XtremIO hardware I have here is the pre-GA, non EMC manufactured hardware.  I’ve seen the hardware that will be part of the GA, and it’s even cooler, and has maintained some of the cool “X” factor look :-)
+
+Another “behind the scenes…” - I think I blew a few blood vessels in the opening clip :-)
+
+Great to have Dominick Delfino from Cisco (heads up the Datacenter field engineering folks at Cisco) join (hey, check out the Cisco UCS VFCache card in the episode!), and Brad Maltz CTO ICI (who has been a great partner, and a fun good sport to join Chad’s World as a repeat guest :-)
+
+Check it out by clicking on the below!
+
+

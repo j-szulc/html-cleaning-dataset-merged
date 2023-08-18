@@ -1,0 +1,39 @@
+24 July 2012 Last updated at 12:01
+
+
+Stuxnet thwarted by control code update
+Iranian nuclear plant workers Iran's nuclear enrichment efforts have been targeted by sophisticated cyber attacks
+	
+
+German engineering giant Siemens has issued a fix for the software loopholes used by the notorious Stuxnet worm.
+
+Stuxnet was discovered in 2010 after investigations into malfunctions at many industrial plants and factories.
+
+Iran's nuclear enrichment efforts were hit hard by Stuxnet which targeted the devices that control delicate industrial processes.
+
+The fix comes as reports circulate of a fresh cyber attack on Iranian nuclear enrichment project.
+Burn out
+
+Stuxnet exploited loopholes in the software Siemens wrote to oversee the running of its programmable logic controllers - devices used in many industrial facilities to automate a production process.
+
+When a controller was infected with Stuxnet it made the motors it was typically connected to run out of control and burn out. This is believed to have been behind Iran's need to replace many of the centrifuges it was using in its Natanz uranium enrichment plant.
+
+Siemens has issued advisories saying it has updated the Simatic code in the controllers to remove the loopholes.
+
+It is not yet clear who created Stuxnet, but security researchers say it is so complex and tightly targeted that only a nation would be able to marshal the resources to put it together.
+
+Stuxnet is just one of several similar malicious programs created to attack industrial control systems.
+
+Experts speculate that many were made to slow down and disrupt Iran's nuclear production processes.
+
+Iran has regularly denied that the viruses have hit its nuclear programme.
+
+The Siemens update comes as security firm F-Secure received an email believed to have been sent by a scientist working at Iran's Atomic Energy Organization.
+
+In the message, the scientist said its plants at Natanz and Qom have been hit again by a worm.
+
+Top F Secure security researcher Mikko Hypponen said it had not been able to confirm any of the details in the message. However, digital detective work did reveal that the message had come from within the Atomic Energy agency.
+
+On 23 July, Iran issued a statement saying it had successfully "confronted" sophisticated malware and thwarted all the cyber attacks against the nation's infrastructure.
+
+Reza Taqipur, Iran's minister of communication and information technology, said it was sometimes hit by as many as two million cyber attacks a day, but its ability to deal with them was growing daily.

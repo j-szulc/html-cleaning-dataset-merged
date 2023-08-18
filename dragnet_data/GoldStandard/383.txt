@@ -1,0 +1,42 @@
+
+Thunderstruck! A tale of malware, AC/DC, and Iran's nukes
+
+A report suggests that the Atomic Energy Organization of Iran urgently e-mailed a security expert saying that it was under a musical cyber assault.
+Chris Matyszczyk
+by Chris Matyszczyk
+July 24, 2012 6:41 AM PDT
+
+The next big war will apparently be bug-based.
+
+Perhaps some people are putting a lot of practice in.
+
+For this morning reports are emerging that the Atomic Energy Organization of Iran has been subjected to a particularly malicious form of malware. Yes, the kind of malware that plays AC/DC.
+
+And worse, not merely any old AC/DC, but specifically "Thunderstruck."
+
+I am grateful to Venture Beat for warning me of this possibility.
+
+Conjecture began when an Iranian scientist was said to have e-mailed F-Secure's chief research officer, Mikko Hypponen, with a cry for help. Or, who knows, political asylum.
+
+The malware was, allegedly, similar to the great and destructive Stuxnet, which, together with Flame, has already been used to greet Iran's nuclear program.
+
+Some will be fascinated that such attacks may be being employed with increasing frequency. Some will marvel at the way the malware can spy on all sorts of activity once it has been, as they say, unpacked.
+
+I am more moved by the choice of music that allegedly blared in the middle of the night. In this case, the e-mail allegedly sent by the Iranians specifically mentioned "Thunderstruck," which might lead some to be skeptical about the veracity of the report.
+
+Naturally, one can understand the amusement that is inherent in lyrics such as: "Sound of the drums / Beatin' in my heart / The thunder of guns / Tore me apart / You've been -- thunderstruck."
+
+I can't help thinking, though, that there might have been better choices that might have been just as loud.
+
+Sabbath's "War Pigs" comes to mind.
+
+Should you not remember this classic, it begins: "Generals gathered in their masses / Just like witches at black masses / Evil minds that plot destruction / Sorcerers of death's construction."
+
+Or perhaps the attackers might have attached something from Candlemass' "Epicus Doomicus Metallicus."
+
+Perhaps a little "Demon's Gate." Sample lyrics: "From the dark age the passage hail / Created by witchcraft and hate / Where every sinner will meet his fate. / The place is cursed by the hands of doom / Unholy powers in reign / The devil's paradise of pain."
+
+There is no confirmation that this e-mail is real and not some amusement tossed out by a fiend into the cyberworld.
+
+However, one shouldn't underestimate the potential for music to pierce the emotional defenses of those who are not necessarily on the side of good.
+

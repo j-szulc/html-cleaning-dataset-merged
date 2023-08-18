@@ -1,0 +1,42 @@
+Thursday, July 05, 2012
+How to change maximum number of posts in Blogger label page
+Blogger has set a default maximum 20 blog posts in its label page (category page). This may or may not suit your preference or your purpose in setting up the label page. You may want to decrease it to increase download time. Alternatively, you may want to increase the maximum number of posts to show all posts with the same label (category).
+
+If you want to change this default maximum number of post, you will have to edit the template. First, backup your blog template (Dashboard > Template > Backup (at the top right corner) > Download full template > All files)
+
+Now you got to open the template editor (Dashboard > Template > Edit HTML). Tick [ ] Expand Widget Templates
+
+Now use ctrl+F to help you find the following codes:
+
+expr:href='data:label.url'
+
+Replace the above with the following (I used the number 150 because I want all posts to be displayed in the label page. You may use other numbers in place of 150):
+
+expr:href='data:label.url + "?max-results=150"'
+
+Repeat this for all instances of expr:href='data:label.url' that you can find. I think for the Simple template, there will be 3 instances, so the above will have to be repeated 3 times.
+
+When done, save template and exit. 
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Dan Renae7/10/2012
+
+I've recently started a site, and the information you offer on this site has helped me greatly. Also it has excellent and very informative. After going through this great content i came to know lots of things which will help me to enrich my knowledge.
+
+internetricks4u8/12/2012
+
+It really works thanx friend your are genius
+
+enterprisemobilehub8/21/2012
+
+Informative post! I like this post..Thanks for sharing!
+
+Christian Marathoner9/20/2012
+
+This isn't working for me. I have one strange post (http://runningwithcertainty.blogspot.fr/2012/07/easy-10k-getting-slightly-lost-as-usual.html) which never lets me see anything beyond it. Even if I click just on the month which contains only 11 posts. Any ideas?
+

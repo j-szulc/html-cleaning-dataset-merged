@@ -1,0 +1,11 @@
+DIY Doorbell Video Security System
+
+Ever wonder who comes to your door during the day while you’re gone?  Here’s a simple DIY project to answer that question.  Every time someone rings your doorbell, you’ll receive a text message containing a photo of the person.  The system can also be setup to automatically take photos based upon motion detection instead of a doorbell press.
+
+When someone rings the doorbell, the Arduino instructs a camera to take a picture. It then also sends an email to your smart phone notifying you that someone is at the door.  If you’re nterested in building your own, check out the detailed instructions.
+Similar DIY Security Projects:
+
+    Laser Tripwire takes a Photo, Uploads it to Twitter
+    DIY Rotating Bookshelves, Staircases and Trap Doors
+    How to: Add a Secret Compartment to any Book
+

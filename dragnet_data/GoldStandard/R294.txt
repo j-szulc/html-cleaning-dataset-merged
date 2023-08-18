@@ -1,0 +1,14 @@
+A Text-only Browser Powered by Google Scripts
+
+Text Browser is a Lynx-inspired browser that lets you browse the web in text and ignores all images and other rich content that is embedded inside a web page. Unlike Lynx and other text-only browser that require installation, Text Browser runs in the Google cloud and is internally powered by Google Apps Script.
+
+The script will require access to your Google Docs the first you run it. This is required though the script will neither track your browsing activity nor will it access any of your documents (view the source code on ctrlq.org). Also, the script will send you an email with uninstallation instructions so you can remove the association with a click.
+
+Once a page loads inside the Text Browser, all embedded links will also open inside the same browser automatically.
+Text Browser as a Proxy Server
+
+Why would anyone want a text browser when there’s broadband? Well, you can also use the Text Browser as a proxy server to access news articles and other websites that are inaccessible at your workplace.
+
+When you request a web page, the script will first download the page on Google’s servers and then renders the content on your screen using Google Apps Script. Thus, even if a site is restricted, you should be able to indirectly access it through Google.
+
+The CSS styles and layout is done through Twitter’s BootStrap framework.

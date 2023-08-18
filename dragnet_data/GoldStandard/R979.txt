@@ -1,0 +1,993 @@
+
+How Thesis 2.0.1 Slays the 3 Dragons of Web Design
+
+by Chris Pearson
+
+Let’s talk about pain.
+
+Specifically, let’s talk about the pain that we’ve all felt while working with our web designs. If you’ve run a website for any length of time, I’m betting you’ve felt…
+
+    Insecure about giving FTP and WordPress login details to a designer
+    Worried about making new design changes or implementing new design elements
+    Frustrated by how time-consuming and difficult it is to create a design on a development server and then move it over to a live server
+    Devastated when you lost design work and were unable to recover it
+
+Thanks to the new Skin Manager and a clever little feature called Preview Mode, Thesis 2.0.1 is turning these pain points into areas of unprecedented control and stability.
+
+Those negative emotions I listed above? They’re all tied to 3 specific problems—the 3 dragons of web design.
+
+Let’s take a closer look at these dragons and see how Thesis turns web design weaknesses into strengths.
+Dragon 1: Access to Your Design
+
+Whether you’re working with a designer or receiving help from a support expert, giving people access to your design is an ongoing problem for a couple of reasons.
+
+First, it’s not only discomforting, but it’s also insecure to give FTP and WordPress login details to anyone.
+
+Second—and I know I’m not alone here—it seems like overkill to give up secure information about your site when all you really want is some help with your design.
+
+With Thesis’ new Skin Manager, these problems simply disappear.
+
+For example, let’s say you’re working with a designer, and you’d like to install a design they’ve built for you.
+
+In the past, you would have had to either install the design yourself or give that designer FTP access so she could install it for you. After that, you’d have to activate the new design within WordPress and then hope that nothing on your site broke during the transition.
+
+With the Thesis Skin Manager, you can maintain total control over your site in situations like this. Instead of giving FTP access to a designer (or even needing FTP at all!), you can simply import the designer’s work directly into your Thesis installation.
+
+In this situation, if you encounter a problem or if the results aren’t what you expected, you can simply revert back to a previously-saved state for your active Thesis Skin. Then, you can go tell your designer that there’s still work to be done.
+
+The cost of making and testing design changes has never been so low, and switching back and forth between different design states has never been easier.
+
+Thesis 1, dragons 0.
+Dragon 2: Consequence-free Design Changes
+
+There’s no escaping the facts—sooner or later, you’re going to need to tweak something on your design.
+
+You might need to incorporate a new element like an email signup form, or you may just want to change some fonts and colors. In the past, this was a risky venture for a couple of reasons:
+
+First, if you wanted to have the peace of mind that comes with making risk-free changes, you’d have to back up not only your CSS files, but also the HTML (and possibly PHP) that was required to make your changes. This way, if you didn’t like your changes, you could “restore” the old version from these backup files.
+
+Unfortunately, that’s a terrible system for managing the evolution of your design—dealing with a bunch of files can get messy and confusing in a hurry.
+
+Second, if you change files containing the CSS, HTML, and/or PHP associated with your design, you’re playing with fire because you always run the risk of:
+
+    changing/deleting something that you can never get back
+    breaking your site altogether
+
+The bottom line here is that you need a risk-free, easy way to experiment with your design and to track changes.
+
+As you might have guessed, this is another area where the Thesis Skin Manager is absolutely indispensable.
+
+With its magical backup/restore functionality, the Manager lets you save and annotate your design at any point in time, so you’ll never lose a customization again.
+
+Worries? Gone.
+
+Thesis 2, dragons 0.
+Dragon 3: Test Site vs. Live Site
+
+Back in the prehistoric era (that would be all of history up until right now), if you wanted a new design for your website, you probably did one of the following:
+
+    Used a development (or “mirror”) server to build out your new design before transferring it to your live site
+    Hired a designer to build your new design and then transfer it to your live site when complete
+
+The biggest problem associated with both of these methods is the fact that it’s a technical nightmare to mimic your live site properly.
+
+When I did freelance work for large web companies, we rolled out new designs on test servers, and no matter how hard we tried, there were always inconsistencies between the test site and the live site.
+
+As a result, whenever we would “flip the switch” on the new design, we’d spend the next few hours (or days, ugh) scrambling to tie up the loose ends and ensure that everything was working properly.
+
+(And that doesn’t even mention what a clunky, time-consuming process it is to move files from one server to another.)
+
+Having done this more times than I can remember, I can confidently say: This method sucks.
+
+It would be far better if you could simply create and test the design on your live site…without messing up your site for visitors.
+
+But how the heck are you gonna do that? You can’t show one design to your visitors while working on a different one…can you?
+
+Thanks to Thesis 2’s new Preview Mode, you can. It’s simple; it’s revolutionary; and here’s how it works:
+
+As the site administrator, you can designate a Preview Skin in addition to your Current Skin. If you do this, visitors to your site will continue to see the Current Skin, but you’ll see the Preview Skin.
+
+In Preview Mode, you’ll be able to work with the Thesis Skin Editor to build out your new design on your live site, and your visitors will never know the difference.
+
+And just like that, the technical nightmare associated with designing on a test server is over.
+
+No more costly test servers. No more file transfers. No more scrambling to clean up the details after “flipping the switch.”
+
+From now on, it’s just you, your site, and Thesis.
+
+Thesis 3, dragons 0.
+Download Thesis 2.0.1 Now
+
+It’s a knockout, folks. A clean sweep. No more dragons.
+
+If you’re already rocking Thesis 2.0, you can automatically update to 2.0.1 from inside your WordPress dashboard. This will be the easiest Thesis update you’ve ever done—in fact, I’m shedding a tear over how happy I am about this.
+
+Note: Your WordPress site only fishes for Thesis updates once every 24 hours. Therefore, it could take up to 24 hours for this update to appear in your WordPress dashboard.
+
+If you don’t have Thesis 2 yet, I have two pieces of advice for you:
+
+    WATCH OUT FOR DRAGONS!
+    Upgrade your existence to Thesis 2.0.1 as fast as you can.
+Already a DIYthemes customer? Download Thesis 2.0.1 here. Need to purchase Thesis? I recommend Thesis Professional for lifetime upgrades: See Thesis plans and pricing.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Gibbo
+
+    Brilliant! I only had a few reservations about Thesis 2.0 and you’ve managed to smash them all here. Thanks Chris.
+
+Robert
+
+    Not seeing the update path appear in 2.0 installed site. Neither in main dashboard or Thesis dashboard… Coming later?
+
+    Chris Pearson
+
+        It’ll show up within the next 24 hours. It’s available now, but your site only fishes for updates once every 24 hours.
+
+Thomas Frank
+
+    These updates are awesome. I only wish I could keep my current non-Thesis theme as the Current Theme while working on a Thesis-based design. Oh well, at least this’ll be the last time I have to use a dev version :)
+
+    Michael
+
+        You can install WP locally and work on your sites there before going live with them. Here’s how to get started.
+
+Mars Dorian
+
+    I’m currently using the new Thesis 2 on my second site (and the “old” Thesis on my current ) and although I have to admit that it’s quite a learning curve for me (and probably for a lot of others) the features it offers are insane.
+    Once I get the hang of it, I will create the exact layout I always had in my mind, without having to use PHP (ugh).
+
+    The idea of being able to customize every single page separately is BRILLIANT.
+
+    I give you major kudos and credit for building a game-changing software that truly redefines the website-building experience, I just wish there was more documentation and how-to help for the new version.
+
+Jace Daniel
+
+    Question for clarity’s sake:
+
+    When it’s time to update, we don’t need to back anything up before clicking the yellow nag? (I will anyway, of course. But still.)
+
+    Chris Pearson
+
+        Technically, you should always back up your entire database before updating anything, but I don’t know too many people who *actually* do this.
+
+        Other than that, this upgrade should be a breeze—click the update nag, and you’re done :D
+
+Campbell
+
+    Hey Chris
+
+    Nice man : ) Seems a lot more responsive and fluent when tinkering around in the Skin editor now.
+
+    I see that Matt & Lola has made their debut in the admin panel as well.
+
+Bill Eisenhauer
+
+    I don’t want to be a troll here, but there is value in version controlling your changes and working locally versus on your production server. Tools like Capistrano and Chef enable consistent deployment to web servers without the inconsistencies.
+
+    But I get it, you are aiming this article and perhaps the product itself at folks who aren’t technical or just don’t want to introduce that kind of rigor into their process.
+
+    I haven’t played with this new version, but are the versions basically stored in the database? I’m thinking they have to be. Hopefully, everyone out there is rededicating themselves to proper backup practices.
+
+    Dave Doolin
+
+        Bill, I bypass even Chef and Capistrano complexity by setting up a remote git bare repo with a post-receive hook. Deploying is a git push.
+
+    Chris Pearson
+
+        Obviously, version control is the right way to build software, but I’d argue that the stakes are different when you’re only talking about 1 or 2 files.
+
+        In such a case, the number of files is so small that it makes almost no sense to deal with them in a version control environment.
+
+        As I said, dealing with files at all flat out sucks. If you can avoid it, you can save time and deal with fewer resources (like FTP and version control software).
+
+        Design only calls for 1 or 2 files, so Thesis 2 is truly tailor-made for this task.
+
+    Mark Rowatt Anderson
+
+        I look forward to trying out Thesis’s preview feature, but wonder how bulletproof it is. When I have tried this approach in the past, I always ended up finding that there were some sets of changes I wanted to make which would affect both the live site and the preview. Or worse, that a change would cause an error or bring down the live site.
+
+        That experience led me to take an approach that’s simpler than all out Capistrano et al deployment, but pretty robust for single server environments. I recently released that code as a plugin called SitePush – maybe it will be useful for some folks who need more than preview, but still want to keep the process inside WordPress.
+
+        Chris Pearson
+
+            Mark, before passing judgment, I’d encourage you to use the feature.
+
+            We tested the heck out of it and found the problems you alluded to (primarily associated with nav menus and widgets).
+
+Paul H. Byerly
+
+    I could not find install information for a clean 2.1 install. Used the ones for 2.0, but when I activated it there was no “Click to get starte!” link, and custom folder not created.
+
+    Help, please!
+
+    Chris Pearson
+
+        Hi Paul, have you posted about this in our forums yet? Our experts are standing by over there, and we’ll get you fixed up as quickly as possible.
+
+        Paul H. Byerly
+
+            Chris – Yes, I’ve posted.
+
+            The lack of easy to find and current install information is, IMHO, a huge problem. There is no link (that I could find) provided when downloading, and searching the site did not get me a anything.
+
+            Chris Pearson
+
+                I’m not sure what you’re referring to when you say “current install information.”
+
+                The only information relevant to a current install is the version number, and you can see the Thesis version number in the More dropdown menu (in your Thesis admin area).
+
+                As far as the forums are concerned, there is a special area for Thesis 2, and most of the action is in the General Thesis 2 forum.
+
+                Paul H. Byerly
+
+                    Chris – I mean information on how to install the current version. The information for 2.0 is not easy to find, and there is nothing for 2.0.1. Either the 2.0 information is wrong for 2.0.1 or something is wrong with my install and that of several others. Is “Click to get started” gone with 2.0.1, or is my install broken?
+
+                Chris Pearson
+
+                    Paul, I specifically removed the text about “Click to Get Started” from the Thesis 2.0.1 download page, simply because it will only display for < 30% of users from now on. Its display is dependent upon your server allowing “direct file access” vs. forcing you to go through FTP.
+
+                    Almost every shared server on the planet allows direct file access, and no button will show for people on these servers. Instead, Thesis will just set itself up automatically, and you won’t have to do *anything* to get started.
+
+                    So, in your case, it seems likely that Thesis will set itself up automatically without requiring you to do anything. If your server only allows for file access via FTP, then you’ll see the Click to Get Started button, and you’ll have to click on that.
+
+Eddie Gear
+
+    Hi Chris,
+
+    I was waiting for this upgrade. This makes it easy for me to reset, back up and export all my designs. I’m yet to download and test it out. Do you plan on having a built in framework upgrade system?
+
+    Chris Pearson
+
+        Thesis and all of its components now have automatic upgrades, but I don’t think that’s what you’re asking.
+
+        What do you mean when you say “framework upgrade system?”
+
+        Eddie Gear
+
+            Sorry Chris, my bad, I had a web tool bar installed that was pushing the site content and I did not notice the link that said thesis update available. I actually upgraded one of my sites manually. Probably a update thesis button should be very convenient.
+
+            Chris Pearson
+
+                It shows up in the exact same place as your WordPress updates. I don’t see how it can get any more convenient than that.
+
+Eddie Gear
+
+    Another awesome feature would be to create packages, and boxes and export them out as individual components. That can be used later on to merge to create a new design.
+
+    Chris Pearson
+
+        You can do all of these things right now (though there is no “easy button” for exporting Boxes or Packages at this time).
+
+        Eddie Gear
+
+            yes, I was hoping for an easy button like how we upload skins and export skins. Do you think that is something that you will incorporate in future release of the framework?
+
+            Chris Pearson
+
+                Almost certainly.
+
+Julius
+
+    Thanks for clarifying this out… I just asked this in forum on what’s new with t2.0.1. Glad I read this post.
+
+Geoffrey Allan Plauché
+
+    Excellent update, Chris. Now that I’ve seen what’s included in Thesis 2.0.1, it occurs to me that another great feature to have would be the ability to duplicate an existing skin.
+
+    Say, for example, I have Prometheus Unbound Skin 1.0 and I want to start working on 2.0 while leaving 1.0 active. It’s a longterm project, not just a few minor changes, so I can’t just use preview mode in 1.0 while I work on it. If I could clone 1.0 and rename it 2.0, then I could work on it at my leisure without having to muck around with ftp and the code.
+
+    Or is there a way to do this already and I’m just missing it?
+
+    Another feature request, and this is one that I’ve mentioned on Twitter before, is the ability to filter posts in the Query Box by more than just the author. I’d like to be able to filter by categories and tags as well. This way, I could set the Query Box to display recent posts and filter the results down to a particular category or tag. To use an example from my own site, which I currently use the List Category Posts plugin for: I’d like to be able to set the Query Box to display the Reviews category, but filter the results down to only reviews with the science fiction tag or the Hugo Award Winners tag, so that I can make very specific automatically updated lists of posts and ditch another plugin.
+
+    Chris Pearson
+
+        Geoffrey, for now, there’s no good way to clone a Skin. Data is only portable between Skins of the same class—for example, Thesis Classic data can only be imported on the Thesis Classic Skin.
+
+        This means that, for now, your hands are tied on trying to duplicate a Skin.
+
+        For 2.0.2, we’re considering giving Thesis Blank some functionality that will allow it to be “exported” into any Skin name you want.
+
+        Under this system, you’d create a design on Thesis Blank and then export as something like Prometheus Unbound 1.0. You could then continue to dev on Thesis Blank and then later export an updated version as Prometheus Unbound 2.0.
+
+        Next, regarding the Query Box, you can already do what you’ve asked for. Instead of showing recent posts and then filtering by category, you just need to pick the category from the onset.
+
+        At that point, you could filter the results by another value (number of posts, author, etc).
+
+        Finally, we may add the ability to filter by taxonomy (while already running a different taxonomy query), but I have to admit, I think this encourages poor and improper use of tags, etc.
+
+        Can you provide an explicit example of a case where you want to show results from a certain category and then filter those results by tag? I’m betting the same information could be organized differently to achieve the same result.
+
+        Geoffrey Allan Plauché
+
+            Chris,
+
+            That 2.0.2 Thesis Blank functionality sounds like it could fit the bill. I just would like to have an easy way to “create a copy” of an existing skin for development without having to fiddle with ftp and code in the files. I would import my Prometheus Unbound 1.0 skin data into Thesis Blank to begin designing the new version of my skin, then when I’m done I could “export” it as Prometheus Unbound 2.0 and restore the Thesis Blank default state, right? That sounds good.
+
+            Regarding the Query Box, yeah, I can already set it to display posts by category. I want to be able to filter by tag within a given category as well though, not just by author or number of posts.
+
+            I tried to post another comment last night with links to some pages where I’m doing this with the List Category Posts plugin last night but I guess it didn’t make it through moderation. I’ll try again:
+
+            http://prometheus-unbound.org/archives/science-fiction-reviews/
+            (Here I’ve got a big list of posts in alphabetical order with hyperlinked titles, author, and publication date. Reviews category filtered by the science fiction tag, so that only reviews of science fiction books and movies are displayed.)
+
+            http://prometheus-unbound.org/archives/prometheus-award-reviews/
+            (Here I’ve got several lists with the same format as above. All from the Reviews category, but each list is filtered using a different tag: Prometheus Award Winners, Prometheus Hall of Fame Award Winners, etc.)
+
+            I think I’m using categories and tags the “correct” way. I use categories for site organization/structure (broad/general topics, site features); tags kind of as keywords and a site/book index (narrower, more specific topics). I don’t want to have a crapload of similar categories like Science Fiction Reviews, Prometheus Award Reviews, Science Fiction News, etc.
+
+            Chris Pearson
+
+                I actually object to this use of categories and tags. You’re using tags as a substitute for sub-categories that would define “genres” within your main categories.
+
+                Your method actually requires more complex database queries because of the way WordPress sets up taxonomies.
+
+                For what it’s worth, I favor a system that contains only one “grouping” construct. Everything should be organized according to groups; you, the admin, choose how these groups are deployed and used.
+
+                Under such an arrangement, it would be easy to mimic any of the pseudo-structures that people achieve with separated categories, tags, and taxonomies.
+
+                In other words, why describe things with 3 different terms when you truly only need 1? The latter will result in a more efficient program every single time.
+
+                Lisa Firke
+
+                    Chris, I’m coming in the middle of this discussion, but I’m interested in hearing more about your ideas of grouping and organizing content, as I don’t think I’m grasping what you think is the optimal way to do this in WordPress. Just categories? Just tags? Neither? I think there’s a natural human tendency to over-categorize (and then fail to remember later where to look for something). I for one would like to have some sort of principle to hang on to to avoid doing this.
+
+                    This would make a great topic for a new article, hmm?
+
+                Chris Pearson
+
+                    Lisa, I’m basically recommending just using categories, but I used the term “grouping” to encourage anyone who reads this to think outside of the current WordPress paradigm.
+
+                    I tried to illuminate my thoughts on categories back in 2008, but as you suggested, it may be time to revisit this topic.
+
+                Geoffrey Allan Plauché
+
+                    So I take it I’ll have to stick with the List Category Posts plugin then? You won’t add tags as an additional filter for the Query Box? :(
+
+                    I’m not sure it makes sense to use categories the way you suggest, at least not on my site. It would be a confusing, bloated, navigational disaster to have:
+
+                    Reviews: science fiction reviews, fantasy fiction reviews, cyberpunk reviews, Prometheus Award Winner reviews, Hugo Award Winner reviews, movie reviews, book reviews, science fiction film reviews, and on and on.
+
+                    News: science fiction news, technology news, fantasy fiction news, cyberpunk news, publishing news, Prometheus Award news, Hugo Award news, movie news, science fiction film news, and on and on.
+
+                    Science Fiction: science fiction news, science fiction reviews, cyberpunk news, cyberpunk reviews,…
+
+                    Prometheus Award: Prometheus Award news, Prometheus Award Winner reviews, Prometheus Award Hall of Fame Winner reviews, and so on.
+
+                    Using only categories in this way may be more efficient in terms of program processes, but it’s not as user-friendly for human beings. Better, in my opinion, to have News and Reviews and other general categories to which I can apply more specific tags.
+
+                    On the other hand, using only categories might be workable if you improved the Query Box to be able to filter results by multiple categories at once. So, say I had these categories applied to a post — Book Reviews (subcat of Reviews) and Hugo Award Winners (subcat of Hugo Awards) — if I could get the Query Box to display only posts with both of these categories applied to them then I would be able to display only reviews of books that are Hugo Award winners (excluding reviews of movies, non-Hugo Award winners, and short fiction). I could then avoid that complicated mess of categories and subcategories described above. I could envision needing to filter results by three or more categories as well though, so two would be an improvement but still too limiting. Is this doable?
+
+                    Basically, I want to have really fine control to display automatically updated lists of posts in whatever narrow topic I want so that I can create pages of my content that cater to niche interests, without creating an overly complicated, bloated, confusing, duplicative set of categories.
+
+                Chris Pearson
+
+                    Geoffrey, we already have 8 zillion options in that Box. Adding a tag filter necessitates adding ALL OTHER filters that make sense.
+
+                    I don’t add “features;” I add patterns.
+
+                    Also, there’s no such thing as a navigational disaster. You should be choosing every link that you display; relying on automatic hierarchies for output (and yes, I know everyone does this) is NOT the best way to run a website.
+
+                Geoffrey Allan Plauché
+
+                    “Geoffrey, we already have 8 zillion options in that Box. Adding a tag filter necessitates adding ALL OTHER filters that make sense.”
+
+                    Okay, I get that you don’t want to do that and that you favor using only categories, which is why I asked if you could enable the Query Box to filter by multiple categories at once instead of just one.
+
+                    “You should be choosing every link that you display; relying on automatic hierarchies for output (and yes, I know everyone does this) is NOT the best way to run a website.”
+
+                    Then what’s the point of having subcategories at all? Anyway, I don’t have an army of employees, or even one, to update link lists manually for me. It seems to me, at least for now, to be worth it to use a plugin (or a Thesis box) to automatically generate auto-update lists of hyperlinked posts for me based on rules I set (so I am choosing, just not choosing on an individual basis and handcoding the links in the post/page box myself). You’ve already enabled filtering by author and number of posts in the Query Box, so you’ve given in to this behavior to some extent already. Forget tags. Why not add the ability to filter output by multiple categories at once, so that only posts with X and Y (and Z, etc.) categories applied to them are outputted?
+
+Dawson
+
+    Happy to see the backup and restore options in Thesis 2.0. Will try my hands on it and get back here with some feedback.
+
+Puneet Sahalot
+
+    Hey Chris!
+    Nice work here. These were some of the most awaited features.
+    How about doing a “forced” upgrade check when I visit “updates” page in WP admin? Better than waiting 24 hours? ;-)
+    Or is there any drawback of using this “forced” check method?
+
+    Chris Pearson
+
+        We’ll figure something out there. I’m thinking it’ll be a “check for updates” button in 2.0.2.
+
+Gerhi Feuren
+
+    Um, no. These may be three dragons of web design but they are not my problems when I web design. Using Thesis mostly just for myself I already have the FTP info. I break it I know I did, I revert – no problem.
+
+    Though I see that it can be a good thing to build a preview site, having a working version life. Because I like to fiddle this can be a good thing. Now, how do I do that?
+
+    “As the site administrator, you can designate a Preview Skin in addition to your Current Skin. If you do this, visitors to your site will continue to see the Current Skin, but you’ll see the Preview Skin.”
+
+    I can go play around with Thesis and I may figure this out eventually, but for now. Step by step, how do I designate a preview skin?
+
+    Chris Pearson
+
+        Gerhi, visit the Thesis home screen in your WordPress dashboard. From there, notice the Skins dropdown in the Thesis menu (at the top of the page). Click on “Select Skin.”
+
+        On this page, notice that you have a Current Skin selected (probably Thesis Classic in your case). If you scroll down, you’ll see a list of your other installed Skins, and you’ll notice a “Preview in Development Mode” button next to each one.
+
+        Simply click this button, and you’ll be running that Skin in Preview Mode, but your visitors will still see the Current Skin (Classic).
+
+        Gerhi Feuren
+
+            Chris, thanks.
+
+            Now the follow-up question. If I only have classic and I want to work on that, where is the button to see that in preview mode.
+
+            Or, seeing as I don’t have any other skins installed. Where do I get them? Or how do I start a skin from scratch?
+
+            Chris Pearson
+
+                At this time, you cannot put your Current Skin into Preview Mode.
+
+                We will be offering more Skins beginning either tomorrow or Monday. First up will be the Social Triggers Skin, and that will be followed by the Pearsonified Skin.
+
+                This will be the primary growth area for us over the next 6 months, and now that 2.0.1 is completely up to speed, expect to see tons of Skins.
+
+                In the meantime, you should at least have Thesis Blank installed on your site…is that not the case?
+
+                Gerhi Feuren
+
+                    Okay I get what you say above but what just happened?
+
+                    I updated to 2.0.1 and I updated the Classic skin. Now I lost my sidebars. I still see them in the canvas when I go to edit skin but live on my site I have no sidebars.
+
+                    What happened? How do I fix it?
+
+                Chris Pearson
+
+                    You may just need to hit refresh on the front end of your site.
+
+                    Before attempting to hit Save inside the Thesis Skin Editor, please post about this in our forums. We’ll be able to make sure that everything goes smoothly this way.
+
+                Gerhi Feuren
+
+                    Sorry, did not see the last line. No, no Thesis blank visible, even after the update to 2.0.1 (which made my sidebars dissappear even though I should still be rocking classic?)
+
+                Geoffrey Allan Plauché
+
+                    Gerhi,
+
+                    I lost all of my layout/styling on the frontend after updating too, but on the backend everything was still there. All I had to do to restore it was save the template and save the css again. That reapplied my layout and css.
+
+                Gerhi Feuren
+
+                    Thanks Geoffrey,
+
+                    Yes, saving the template and the css fixed for me too. But why did I have to do that? And why would I even begin to think that would solve it? I would have been afraid of mucking it up further.
+
+Christian
+
+    …and I’m sure a lot of good news will come like a Christmas gift.
+
+    There are more advantages to work with thesis 2.o I just play with some sites on subdomains and become addicted to everything.
+
+    I mean first time I look around and still find new things and come in my mind new ideas about how I can make a unique and original design.
+
+    Thank you for all your amazing works.
+
+    Christian, WMJ CEO
+
+Craig Addyman
+
+    Updated. That was bloody easy! :)
+
+    Chris Pearson
+
+        Suh-weet!
+
+Tom Nunamaker
+
+    The upgrade was dead simple. Like a plugin.
+
+    So.. is there any documentation of what’s in this upgrade? :)
+
+    Chris Pearson
+
+        You know how to hit me in the gut, dontcha? :D
+
+Fred
+
+    yea yea yea this is all good but where are thesis 2.0 tutorials? I don’t know how to change a 3 column design to a 2 column design. Before it was easy.
+    Today i need to have a degree in programming to do that.
+    Frustrated.
+
+    Chris Pearson
+
+        Fred, tomorrow, we’re going to release 6 mods for the Classic Skin—these mods will enable you to switch between 1, 2, and 3-column layouts.
+
+        Jesse
+
+            Where will we find these mods?
+
+            Chris Pearson
+
+                We’ll add them the downloads page, but we’re also going to do a blog post to introduce them.
+
+                Gerhi Feuren
+
+                    Chris, where are these mods. I know you are a bunch of perfectionists but this is getting to be a bit crazy (what is a mod anyway?)
+
+                    I’d like to develop on my site building something beyond Thesis classic but I’m just totally at a loss. Nothing seems to work intuitively and even help such as DIYWPBlog assumes a hell of a lot of pre-knowledge.
+
+                    I don’t have time to play around and explore if I don’t at least have a map or a torch, or a compass, or a white stick, or a canary…
+
+Jacqui
+
+    Sorry but I’ve tried to use Thesis 2 and find it totally inexplicable! I’ve added content, didn’t show, I’ve tried all sorts of things to no avail. For me, compared to Thesis 1.85 it’s a disaster.
+    When will we see basic videos and user guides for 2? That would surely help.
+
+    Chris Pearson
+
+        Jacqui, we’ll have the first round of Skins and Boxes done by Sunday evening, and that will free up our staff to focus on documentation and short videos.
+
+        Expect to see the first wave of these things early next week.
+
+Mike Goad
+
+    The PAIN that I’m having is lack of official references.
+
+    The forum is GREAT as are the unofficial tutorials and videos.
+
+    However, I have WASTED way too much time exploring those when I needed to be doing other things. Updating my blogs to Thesis 2.0.(whatever) is going to be on hold until there are better resources.
+
+    Unfortunately, as much as I LOVE Thesis, I can NOT and will NOT recommend it to anyone else without explaining the current deficiencies — and I’m not going to WASTE my time doing that.
+
+    Chris Pearson
+
+        THANKS for your insightful RESPONSE.
+
+        brennan
+
+            Thanks for the SARCASM…
+
+            Chris Pearson
+
+                It’s on the house!
+
+        Sean Davis
+
+            Haha how did I know that was coming? :P
+
+Don Donadio
+
+    I’m one who does read manuals and tutorials. Having to do everything trial and error with Thesis 2 is truly a waste of my time and I’m sure many others. The web meetings are helping with this, of course, but they can take an hour or two and only cover a few subjects. We still need a detailed reference manual to expedite the learning curve on our own.
+
+    Chris Pearson
+
+        Don, I feel your pain. Here’s the exact scenario we’re facing:
+
+        We promised out a bunch of Thesis add-ons—Social Triggers Skin, Pearsonified Skin, responsive Skin, social media Boxes, and email signup Boxes.
+
+        We also scrambled like heck to launch on October 1 (coordinating a launch date involves a lot of moving parts, and once you’re committed, there’s not much else you can do).
+
+        Because of this, we’re left to get everything else—promised components + documentation—together as quickly as we can.
+
+        I understand your frustration; I completely agree with how you feel right now; and I’m committed to “making it right” for all parties involved.
+
+        Christian
+
+            I cannot stay and say nothing.
+
+            Maybe your best achievements is exactly what Don ask for….
+
+            Maybe is time to not expect and with this amazing theme to let free our imagination.
+
+            Yes, is hard, I know very well what Don say but with detailed steps and little things for everybody will lose the most interesting part of your work…. to struggle a little and find out ourselves our own way….
+
+            Thanks again for the best wordpress script I ever seen.
+
+            Christian.
+
+        Tim
+
+            Hey Chris,
+            appreciate the work that goes into this commercial enterprise.
+
+            Can’t agree on moving dates. You could have pretty much pushed this back.
+
+            I’m a mid power user and T2 is pretty bewildering out of the box, compared to 1.8.x (and 1.5 and 1.6 and 1.7, all of which I’ve used).
+
+            For me at least, I’d have loved a responsive skin and some doco at launch.
+
+            I’m finding it completely bewildering even changing basic things, compared to 1.8.5, at least.
+
+            I suppose if at least you’d have made the timeline clear from the start, a lot of loyal user anguish could have been avoided. I’m not telling you how to launch, by the way. I’m sure you made a bit of cash on it.
+
+            Anyhoo, patiently waiting for a stable release with skins (responsive especially).
+
+            Tim
+
+Peter
+
+    Thesis is my favorite theme – I’ve used it for a long time but I have a problem with Thesis 2.
+    With all the themes I have tried I can see my web pages in a browser. With Thesis 2 I cannot see the web page content. It does not appear to pick it up from the WordPress admin but it gets everything else – all the stuff I have done in the skin editor appear in the page source but not the article I have written.
+
+    Can you advise please?
+
+    Best regards,
+
+    Peter.
+
+    Chris Pearson
+
+        Peter, after looking at your site, I’m wondering whether or not you’ve included the WP Loop Box in your template. Without that Box, Thesis won’t know how to show the WordPress content (your post) on that page.
+
+Yael K. Miller
+
+    With Preview Mode, can we have the site display Thesis 1.8.5 while working on 2.0.1 in the back end?
+
+    Chris Pearson
+
+        No, but we have a plugin for that. We offered this with the original Thesis 2.0 download, but some people experienced problems, so I decided to pull the plugin.
+
+        I definitely recommend that you try it out—if you find out that it’s not working precisely like you want, you can simply disable it and return to Thesis 1.8.5.
+
+        On a separate note, I know you’re an experienced webmaster, so why not try Thesis 2.0.1 out on a separate domain first?
+
+        Yael K. Miller
+
+            I was just curious. But yes, I’ll be taking 2.0.1 for a spin on my demo site.
+
+DanGarion
+
+    So what is the upgrade path for those of us running Multisite? Since a “user” from their site technically shouldn’t have the authority to upgrade an installed Theme how should I go about doing this?
+
+    (FYI I admin my own Multisite that is just my own sites)…
+
+    Matt G
+
+        Only a super admin will be able to see/run the upgrade. So if you’re logged in as a super, you’ll see the update. Otherwise, you won’t.
+
+Helene
+
+    Hello, I did not upgrade yet my website with thesis 2.01. I still use the old one. Is it the right time to ask my informaticians to upgrade ( they do the backs up and updates of my site ) ?
+    I am a little bit afraid of all your technical langage (I speak french and my english is fluent but not for technical stuff) . Will it be easy to use thesis 2.01 ? Can you assure me that my website will look the same after the updates ?
+    Do you have an advice to be sure that everything go well during this upgrade ?
+    Thanks for your answer
+
+    Chris Pearson
+
+        Helene, if you want your site to look identical after the switch to Thesis 2, you’ll have to port your design over to the new structure.
+
+        Because of this, I’d advise against updating your site right now. In fact, I’d wait to install Thesis 2 on this site until you’re ready to implement a new design.
+
+        With Thesis 2’s Skins, this will be extremely easy.
+
+Jason Mathes
+
+    I’m still trying to get the hang of 2.0. But the update was a breeze and the new backup manager is a godsend! This will save me a ton of pain and effort!
+
+Michael
+
+    Is there a change log available for this version? I’d like to see what it addresses, and if it hit on any of the existing issues that were impacting me.
+
+    Chris Pearson
+
+        There’s no specific changelog, simply because it would read like a Bible.
+
+        As far as I know, we addressed every actual bug—can you specify the issues that were impacting you? I’ll be able to advise as to whether or not they were addressed.
+
+        Michael
+
+            What I was hoping for was to be able to designate the contents as a span or p class in a text box, rather than always a div class.
+
+            Also when I want to “view site” from the CSS page (which is a tiny purple, nearly unreadable link in the right side of the header; I’m thinking that isn’t appearing correctly for me for some reason) the CSS is stripped from my design, but appears when I inspect it with Firebug or whatever dev tool I have nearby. The screen is white with all elements lined up along the left, with yellow bands across the screen at the top of each “break” in each of my sections on that page. This is for a front page made with the blank skin, and I’ve tested it in several browsers.
+
+            Michael
+
+                I just checked the text boxes in my HTML and realized that we can now remove the wrappers, so I’m happy to be able to check that roadblock off. Whew! Thanks!
+
+                Chris Pearson
+
+                    Hit shift + refresh while in the Thesis Skin Editor, and your styles and everything will update accordingly. If the button in the upper right still looks messed up, please post about the issue in our forums.
+
+                    Based on your description, you may have other problems as well that we could assist with. Be sure to mention precisely what you mentioned here in your forum post.
+
+                Michael
+
+                    Although now I unfortunately can’t save those changes. The ‘Save Template’ button is non-responsive, other than when hovered. I guess I’ll take this over to the forums now…
+
+Richard Bohn
+
+    Can you point us to any nice sites already using T2?
+
+    Chris Pearson
+
+        Richard, here are a few that I’ve enjoyed recently:
+
+            One Girl Circus
+            Daniel Hoang
+            The Squadron
+            Julie’s Kitchenette
+            Thesis Video Tutorials
+
+        And last but not least, the DIYthemes homepage runs on Thesis 2 (naturally).
+
+Leonardo Wood
+
+    OK – I wasn’t actually timing it, but I think it took approx 1.5 seconds to upgrade to Thesis 2.0.1
+
+    Where I come from that’s Thesis 4, dragons 0.
+
+Ron Devito
+
+    Chris,
+
+    Good afternoon. Probably not the best place to ask this, but do 2.01 and the skins coming out restore the features/teaser functionality that exists in 1.xx? If you check my site – which is a Thesis 1.8.4 site, I load three full stories, then seven teasers. It’s in a three-column format with a feature box in the main column.
+
+    If you go to my wife’s website – http://www.elsydance.com – I’m running 2.0 in a two-column form, using the classic skin. Under 2.0, it appears I can only run all full posts or all excerpts and it’s left to WordPress settings for me to decide how many posts to run. I like the granular control that 1.x has. I have not updated the Palin site, because it’s a busy production site and also because of this feature/teaser issue. I cannot move the Palin site to 2.xx until this is squared away. I want to run three full posts and seven teasers with thumbnails on the dance site – same drill as what I do on the Palin site.
+
+    Chris Pearson
+
+        Ron, usability testing and eye tracking studies indicate that the teaser format severs the user’s attention and causes them to “break” from the typical top-down flow of a webpage.
+
+        Generally, this results in a drop in conversions, time spent on site, and overall engagement.
+
+        Because of this, I no longer recommend the use of teasers (in the way that Thesis 1.x displayed them).
+
+        Regarding Thesis 2 and its Skins, you can absolutely re-institute teasers, but some custom PHP is required to do so. We’ll have a tutorial up on this within the next couple of weeks.
+
+        Update: Ron, we might have this sooner than I anticipated. Godhammer is already working on this documentation, so I expect to have it much sooner than “the next couple of weeks.”
+
+        Also, you can emulate teaser functionality right now, without the need for custom PHP. The trick is that you’d set your WP Loop to show however many features you want, and then you implement a Query Box to show the remaining posts.
+
+        Ron Devito
+
+            Chris,
+
+            Thank you for getting back to me. As a designer, what is your recommendation for a home page layout on a news-oriented/political site – and on an artistic site that mostly releases videos and some stories (interviews)? On the Palin site, though I sell some product via affiliates (CafePress and Amazon), the site is news-oriented. Conversion in my case would be people reading stories and clicking Google ads, or buying whatever it is I’m peddling in the CafePress and Amazon stores. So, if you have a home page layout in your mind that would increase this type of conversion, engagement and time spent, I would seriously consider using it.
+
+            One reason I’m using at least a partial teaser format on the Palin site relates to Google Ads. You’re limited to three on a page. So, If I run 10 full posts, seven of them are going to have a huge empty space where the ad would go. So, just running 10 posts straight down the page does not work unless something is done to tell the bottom seven posts to close that hole somehow. From a news perspective, the Palin site is designed to showcase the top three most recent stories. The seven teasers are older stories (“older” could be as little as an hour or as much as 24 – 36 hours).
+
+            On the ElsyDance site, I’m only running three stories and they’re full stories. It’s a kludge for now. Her site is more to showcase her choreography and hopefully make some money on Google ads. Occasionally she’ll teach and I would use the site to sell her teaching services, but the ElsyDance site is more artistically oriented and is more selling an idea than a product.
+
+            If you do conclude that news and arts sites are the exception to the teasers not-recommended rule, the WP loop you refer to is done in the WP settings itself, yes? And how would one implement the query?
+
+            Thanks again.
+
+            BTW, the 2.01 did come down for her site and upgrading was dirt simple. Just like a plugin. Much improved over how we do it with 1.x, so well done on the upgrade releases.
+
+            Godhammer
+
+                Noticed you posted in the forums to a similar effect recently; reminded me you’d mentioned this here earlier.
+
+                This hit the stands a couple hours ago:
+
+                http://diythemes.com/thesis/rtfm/how-to-make-teasers-query-box/
+
+                Hope it helps!
+
+Aky Joe
+
+    Updating to Thesis 2.0.1 is bread-butter and along with Thesis Skin Backup/Restore/Import/Export feature. Moreover, I could make out:
+
+    Test a skin on local Wamp server before going online.
+    Skin backup doesn’t save image files.
+    Missieur says “You Win”.
+
+warner blake
+
+    I bit the hype: downloaded 2.01 and loaded onto a fresh wp install, then imported files from existing site to play with, expecting to start with the default classic … but nothing! No click to get started button as shown in tutorials either … wtf?
+
+    http://www.warnerblake.net/thesis/
+
+    Chris Pearson
+
+        Warner, you’ve managed to switch to the Thesis Blank Skin, which is only intended for development purposes.
+
+        Visit the Thesis admin page, and then locate the Skins dropdown in the menu at the top of the page.
+
+        Click on Select Skin, and then activate Thesis Classic as your current Skin.
+
+        warner blake
+
+            Thanks! but i just reinstalled the whole thing in a new folder and still nothing! just don’t see where i activate Thesis Classic?!
+            http://www.warnerblake.net/2.01/
+
+Rick Rodriguez
+
+    How do I use this new preview mode?
+
+    Thank You for the great changes!
+    The backup and import are way easy.
+
+    Chris Pearson
+
+        Rick, this should help with Preview Mode.
+
+        Rick Rodriguez
+
+            Thank you that did the trick.
+
+Rob @ Atlanta Real Estate
+
+    so-lid bro!!
+
+    nice work.
+
+Mark the mechanic
+
+    I would like to see a skin included Down the road called the Borg Skin. So We can assimilate our own biological and technological distinctiveness into a Thesis skin. I know a Borg named Hugh that might be able to help with the coding?
+
+Bart
+
+    The update was piece of cake! However, it keeps on nagging me to update after the update:
+
+    Thesis
+    You have version 2.0.1 installed. Update to 2.0.1.
+
+    Radek
+
+        I had the same problem. It’s solved. See forum thread: http://diythemes.com/forums/showthread.php?80091-Upgraded-from-2.0-to-2.0.1-via-Update-Now-but-WP-says-Thesis-needs-to-be-updated
+
+        The solution is to go into Thesis > Select Skin AND click the “Update Skins” button.
+
+Michael
+
+    A nice update, I’m sure, but I still don’t use 2.0 yet. I’m waiting for instructions on how to use it.
+
+    Seriously. Not being a coder, I was attracted to this theme and the promises made in the marketing material. But unfortunately, for me at least, it’s not intuitively obvious how to use this product.
+
+    When will there be at least one “how-to”?
+
+Linda McGrath-Cruz
+
+    I have to say, I really like the 2.0 but I know it will take me a lot of playing around to do what I want it to do. Following the various resources that ARE available, I was able to pretty quickly create a 3 column header and a 4 column fat footer with content… That was something I had wanted to do originally but hadn’t figured it out. It came pretty easily with 2.0. Once I decided to do basically a complete overhaul of my site, turning it from blog to a more professional site I knew it was going to be a long process so I reverted back to the 1.8 I was using and decided that I needed to work on 2.0 “behind the scenes”. I’ve been really busy and haven’t had time to devote to it yet, but I’m hoping over the coming weeks I can get started. I am not a coder by any means, I started my blog as a hobby in March and had no idea it would become what it has now become. I am really excited about 2.0 (and the new .1 update) and can’t wait to get working on my new design…
+
+Bruce Simmons
+
+    Hmm… I’ve used the update to 2.01 option. Several times. And I still show that I need to update to 2.01.
+
+    I’ve tried from the dashboard, from the update window, from the themes window.
+
+    I’m getting damn good at updating!
+
+    Any thoughts?
+
+    (Not to doom myself of help, but I’m sliding down the hill of approval. I was pretty jazzed to get this package going but to find that it’s a like a foreign language with no dictionary to decipher. My anxious excited mode has turned to mud. Knee deep, hard to slug through mud. I’ve got a good basic set up going, with plugins and widgets, but I’d love to not be a prisoner to my hopes and website dreams! :P )
+
+    Bruce Simmons
+
+        ARE YOU KIDDING ME???
+
+        After leaving the above comment, I went back one more time. Went into themes and used the link in the Thesis 2.0 section. So guess what? Now I’m on Thesis 2.01. Sigh… So, I retract the first part where I ask what’s up.
+
+        Maybe just leaving a comment was like a magic trick/option you installed? LOL.
+
+        Radek
+
+            LOL – just look up two comments above yours. It’s magic. Glad you got it working.
+
+            Bruce Simmons
+
+                Hmmm…. dOh! I stopped reading the comments about 5 short of where I posted… double doh! LOL…
+
+Happy Hotelier
+
+    I’ve asked this earlier, but if it is so simple as you claim….why is this very site still on a Thesis 1.8 version and not on a 2.01 version?
+
+    Happy Hotelier
+
+        correction: The blog I mean.
+
+Vineet Saxena
+
+    Hi,
+    Is there an option to display post excerpts of the most recent posts on the homepage without using a plugin?
+
+    Chris Pearson
+
+        Vineet, absolutely. All you have to do is replace the Content Box with an Excerpt Box (these are green Boxes inside your Post Box).
+
+Patrick
+
+    What about installing Thesis for the first time? I tried it and had to revert back to my old theme because it would have taken me hours to try to set up Thesis the way I want. Plus, as a new user, most of the time would be spent figuring it out. Can I play around prior to activating Thesis so when I do, it’s ready to go?
+
+    Chris Pearson
+
+        Patrick, you’ve got a couple of options here.
+
+        First, you can always go the old-school route of setting up Thesis on a test domain or a localhost.
+
+        Second, you can try this new-school plugin that we’ve developed—it’ll let you activate Thesis while continuing to show your old theme to your site’s visitors.
+
+Alaina
+
+    If I update thesis from 2.0 to 2.0.1, am I going to lose all of the modifications that I made in 2.0?
+
+Dan
+
+    So I originally had Thesis 2.0 but recently installed Thesis 2.0.1. I have backed up what I have done, but in Manager, when I click “Restore Default,” I get a message that says “Skin Default Not Restored.” Is this because I upgraded to 2.0.1 after I made changes, or is there some way I can still save what I have done, but also have the ability of going back to the original skin settings? Thank you.
+
+Primoz Borovnik
+
+    Chris you did it again. Thesis 2.0 rocks. I just build my website and is freeking awesome. Thanks
+
+Clarence Johnson
+
+    Chris,
+
+    Thesis 2.0.1 has restored my faith in you. At the beginning of the month I went from being excited to near disappointed but I held on and played with Thesis 2 locally.
+
+    Two dot Zero dot 1 delivers! My website is running the upgrade and I’m very happy.
+
+    Keep up the good work.
+
+Angeltown
+
+    Really loving 2.0.1 so far, BUT what I REALLY NEED now is a RESPONSIVE skin. I’m happy to start with a basic one and customize it, but I’m pretty much at a place where I cannot start anymore of my current projects on Thesis until a responsive skin is available. PLEASE do not make me seek other solutions – I love Thesis and prefer to use it exclusively.
+
+    I haven’t seen any updates on these comments :
+    “We will be offering more Skins beginning either tomorrow or Monday. First up will be the Social Triggers Skin, and that will be followed by the Pearsonified Skin.”
+
+    and it’s Wednesday now… can you let us know the status please?
+
+    Other comments on this version so far :
+    • LOVE the way css is integrated into the way sites are built now. It feels much more intuitive after you get used to it.
+    • Having an issue w plugins that used to work automatically w Thesis (like Yoast Breadcrumbs). It no longer adds automatically which means I’m going to have to dig into adding it myself. I can probably figure it out but IMHO upgrades should make things easier, not simply fix some things and make others worse.
+    • The inability to generate a new skin by copying an existing one is a MAJOR oversight. Seriously. It should be pretty much a click of a button kind of thing and I cannot imagine that nearly every serious designer wouldn’t need this function.
+
+    Thanks!
+
+piaballog
+
+    How can you add page navigation? And notes and alerts? I added the css and still nothing. Any advice?
+
+Christine Moore
+
+    How do I get started. Are there 1-2-3, A-B-C steps for newbies? I’m totally lost. Help! I have no idea of where to begin. I will be using GoDaddy.com as the host.
+
+Magnus Wake
+
+    Hi Chris,
+
+    Big thank you for Thesis 2. Still a newbie but getting there. Looking forward to more custom boxes and skins in the future.
+
+    All the Best
+    Magnus
+
+Paco
+
+    Hi,
+
+    I was wondering when the first skins will be released (especially the SocialTriggers skin). I thought you mentioned somewhere last week before?
+
+wey
+
+    how to put numbered pages can not?
+
+Chris
+
+    To quote another post above “We will be offering more Skins beginning either tomorrow or Monday. First up will be the Social Triggers Skin, and that will be followed by the Pearsonified Skin.”
+
+    I’m guessing this has still not been done as i don’t see it anywhere? No way to tell on here what date a comment was made.
+
+Shaun
+
+    I uploaded and “installed” Thesis 2.o1. It apparently “took” because I got the Thesis congratulations and Wordpess telling me it was there.
+
+    Problem is, when I click on “visit site” it’s all white. Nothing.
+
+    In terror I switched to a theme I had that’s at least 5 years old. It’s up there now.
+
+    So what’s my problem? And does Theis have any support for this kind of thing?
+
+    Needing all the help I can get. Thanks. Shaun
+
+Royal
+
+    How much customization is required if I want to make the almost same design of my thesis 1.8.2 into thesis 2.0?
+
+Design Hash
+
+    Quick question: Is there a way to display readmore without using the comment?
+    What if I want to use excerpt in my homepage?

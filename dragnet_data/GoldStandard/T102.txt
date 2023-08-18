@@ -1,0 +1,269 @@
+A guide to Slackware and Arch Linux: getting your hands dirty with Linux
+By John Browning posted Aug 9th 2012 4:00PM
+
+
+Back in 1991, a computer science student named Linus Torvalds announced on a newsgroup that he was creating a "hobby OS." That hobby was Linux, and today it's much more than a tinkerer's operating system, with availability on all manner of hardware and a seemingly unlimited array of flavors, or "distributions." Maybe you're new to Linux, or maybe you're itching to graduate from Ubuntu to something with a little more geek cred. Whatever the case, we're going to take the sting out of all those command prompts, using two great distros as examples.
+
+What is Linux?
+
+If you wanna be a jerk about it, Linux technically isn't an operating system. Linux proper is actually a kernel, which is only a portion of an OS (albeit, the main portion). When most people say "Linux" however, they are talking about a Linux distribution, which is indeed a full-fledged operating system. Luckily for any beginners out there, it's not as complicated as you might think -- what makes Linux Linux is a small combination of components, that kernel included. In fact, we can break them down into four main parts, in no specific order:
+
+    A piece of software called the "bootloader"
+    The Linux Kernel we all love so much.
+    Userland (Think Firefox and Libre Office and, for those of you up on your jargon out there, the GNU part of GNU/Linux). We'll get to that later.
+    The filesystem, the place where we put our music and save all those great images from reddit.com/r/earthporn.
+
+That's the short version. Now let's take a moment to break each of these down.
+
+The bootloader
+
+For the sake of keeping things simple, the bootloader is a piece of software that helps get the Linux kernel loaded into memory so that you can use your computer. It is required. When you hit the power button, your computer does what's called a POST (Power-On Self Test) and then the BIOS (Basic Input / Output System) reads data from your disk drive, which says, "Hey, I'm a bootloader, execute me!" Your computer says, "Okay," and executes that bit of code. At that point, the bootloader tells your processor and memory to load and execute the Linux kernel that's been waiting so eagerly to run. There are three main bootloader options in the Linux World:
+
+    LILO (The Linux Loader)
+    GRUB (GNU GRand Unified Bootloader) versions 1 and 2
+    Syslinux
+
+LILO
+
+An oldie but goodie, LILO seems to be used less nowadays, especially compared to GRUB. One drawback is that it lacks support for EFI, which many newer computers support. There is, at least, a modified version of LILO called "elilo," which does support EFI.
+
+Pros:
+
+    It's been around a very long time and is very stable.
+    Works great on older hardware.
+    Supports multiple operating systems.
+
+Cons:
+
+    Again, no support for EFI and GPT, though if you do need EFI, there's always elilo.
+
+GRUB
+
+GRUB has quite a few points in its favor, including the fact that you don't need to re-install it every time you change something, as with LILO. GRUB version 1 (aka GRUB Legacy) is the most commonly used bootloader today. Just keep in mind that, like LILO, it's in maintenance mode by now, which means no new features are being added. You'll find those in GRUB v2, which is used by default in the ever-popular Ubuntu, among other distributions. GRUB v2 was officially released June 26th, 2012. That's how new it is.
+
+Pros:
+
+    GRUB is, hands down, the most commonly used bootloader, and it's very stable.
+    Development remains active and ongoing, so expect to see new features for v2 and bug fixes on v1.
+    Supports multiple operating systems (even Oracle Solaris).
+    Supports EFI.
+
+Cons:
+
+    We tried, and really couldn't think of any.
+
+Syslinux
+
+Syslinux is a slightly lesser-known bootloader that was originally designed to boot the Linux kernel from a FAT/MSDOS filesystem. Written by a bright guy named Hans Peter Anvin, it has a decently broad feature set and supports the bleeding-edge filesystem known as BTRFS. Also, pretty much any ISO image of any Linux distribution you boot utilizes Syslinux, in the form of Isolinux.
+
+Pros:
+
+    Stable.
+    Active developer community.
+    Anvin is involved (trust us, this guy is awesome).
+    Syslinux is actually a set of bootloaders, which includes a PXE bootloader (Network boot) and tons of other features.
+
+Cons:
+
+    Nope, can't think of any here either.
+
+Really, these all do the job pretty well. The beautiful thing about open source and using a Linux-based operating system is the freedom to choose exactly what you'd like to use.
+
+The Linux Kernel
+
+So, what is the Linux Kernel? Let's begin with the layman's version: the Linux Kernel is essentially the boss of your computer once the bootloader assists it into execution. The kernel controls memory, the CPU, input and output, and any peripherals you connect to your computer. It controls what application can access what memory, and what user can run what task.
+
+Now, the "I've got a degree in computer science" version:
+
+The Linux Kernel is a monolithic operating system kernel that supports loadable device drivers (kernel modules) and preemptive scheduling. It is highly portable, and runs on 90 percent of the world's top 500 super computers. It's written in the C programming language and is supported and maintained by several individuals worldwide. It's open source, meaning the code is open to anyone who would like to modify it. It's also freely available to download.
+
+Userland
+
+These are the bits of software that include your web browser, video games, your spreadsheets, your text editors. This is also the software you use to get around your computer's filesystem, copying file A to file B, moving a picture into a folder, creating a new folder, etc.
+
+The most important parts of userland are the GNU core utilities, also known as coreutils. This GNU toolset contains the base tools and commands to complete a Linux distribution on the most basic levels.
+
+Some basic commands from coreutils that you need to familiarize yourself with:
+
+    ls -- List files in your current location on the filesystem.
+    mkdir -- Create a directory.
+    cd -- Change directory
+    man -- Invoke the manual or more commonly referred to as "the manpages." This is one of the most important commands. Wanna know how best to use "ls"? Type "man ls" on the command line and you'll find out.
+    cat -- This command will spit out the contents of a text file to your terminal.
+    rm -- Remove a file from the system.
+
+The Linux filesystem
+
+The Linux filesystem can get tricky, and seems to be the item that takes the most time for people to master. To begin, every filesystem has a filesystem type, as well as a filesystem layout. The type refers to how a hard drive is formatted, which has a direct impact on how Linux reads and writes files. Luckily for you, confused newbies, there's a boatload of filesystem types out there. For now, and for the sake of this article not becoming a Frank L. Herbert novel, we'll only discuss one here. That would be ext4, a filesystem in wide-enough use that it makes sense as a go-to choice. Once you become a Linux Jedi Master feel free to take a swim in the ocean of alternative open source filesystem types.
+
+Now let's move onto the filesystem layout, the most detailed section of this article.
+
+The filesystem layout in Linux is naturally different than what you're used to if you're coming from Windows. If you're coming to Linux from Mac OS X, you're in somewhat better shape. The filesystem is where your files live (obviously), as well as where all the above components are stored when the computer is turned off. The layout of the folders is what we really need to talk about. First off, if your background is in Windows, all of the \'s become /'s.
+
+Example time:
+
+C:\myname\myfolder\myfile.txt in Windows, becomes /home/myname/myfolder/myfile.
+
+Now, here's a more general view of the layout of a Linux filesystem. It's important you get familiar with this; almost all Linux filesystem layouts look like this, regardless of the distribution.
+
+Linux In Depth
+
+Don't close your browser window out yet -- we'll walk you through these so that you know them like the back of your hand.
+
+Check it out:
+
+    / -- Root, not shown above, is the top level in the filesystem hierarchy. Not to be confused with the root user account you'll see later.
+    /bin -- System binaries, essential for system functionality.
+    /boot -- Your bootloader and Linux kernel live here.
+    /dev -- In Linux, everything is treated as a file, even your mouse. That's right, there's a /dev/mouse. So, /dev is used for device access.
+    /etc -- System configuration files go here, the equivalent of C:\Windows\System32 in Windows or /System on Mac.
+    /home -- Users' home directories are contained under /home, similar to C:\Users and Settings\MyName in Windows or /Users/myname on a Mac.
+    /lib -- System libraries, things you normally don't have to interact with directly. Equivalent to C:\Windows\System32 on Windows and /Library on Mac.
+    /lib64 -- The 64-bit version of /lib. You won't see this on 32-bit machines.
+    /media -- You won't see this on every Linux distribution, but in case you do, it's just an alternate place to mount thumb drives or network shares (more on that later).
+    /mnt -- Same as above, just a different name; more common than /media. By the way, "mnt" is short for "Mount"
+    /opt -- "Optional software." This writer always sticks third-party applications here.
+    /proc -- A special filesystem in Linux operating systems for accessing process info.
+    /root -- The root user's home directory. The root user, by the by, is the system administrator account, something we'll also discuss in more detail later.
+    /sbin -- System binaries, similar to /bin but not as essential, though still important.
+    /srv -- Server files, not on all Linux distributions.
+    /sys -- A special filesystem in Linux known as sysfs which holds information about devices and drivers.
+    /tmp -- A temporary folder for keeping scratch files (don't put anything important here).
+    /usr -- A general folder for keeping userland applications in. Think programs like Firefox.
+    /var -- A system folder that holds variable files -- essentially, files that change often. Log files are a good example.
+
+We understand that if you're new to this, this might seem overwhelming, but believe us when we say you'll get it with time. The filesystem hierarchy of Linux can be a bit of a struggle at first, but after a while it actually starts to make sense. You may even like it better than whatever it is you're used to.
+
+Also, keep in mind that not all Linux distributions use the standard filesystem hierarchy listed above. There are some distros that take a completely different approach. Open source is all about choices. As you fall further into the rabbit hole, you'll find out just how deep it goes.
+
+Now that we've armed you with a basic overview of what Linux is and how it breaks down, let's put it all together.
+
+What's the best way to choose a Linux distribution?
+
+Each of the thousands of Linux distros out there naturally has its pros and cons. Peek into forums and you'll bear witness to heated flamewars over which distribution is better than which. The answer to this question is that it's up to you. This may seem like a cop-out, but it really is true. Open source is about freedom. You have the freedom to choose what you like and go with it.
+
+With that said, we do want to suggest two Linux distributions that will not hold your hand too much, and that don't hide the underpinnings of the OS behind a fancy UI. This will help you in the long run by forcing you to actually learn the OS. You'll probably have to do some Googling to make things work, whereas installing Ubuntu and spinning up Firefox would take an easy 20 minutes. Don't get us wrong here: Ubuntu is great. If you just want a quick-and-easy distro that will help get you up and running quickly, Ubuntu is awesome. Not to mention that Steam has been officially announced for Ubuntu. If that's what you had in mind, stop reading now and head on over to ubuntu.com, download an ISO and get started. If you want more of a challenge, though (or maybe more leet hax0r cred), read on.
+
+Slackware
+
+Slackware is one of the oldest distros. Back in the early days, 1993, another smart guy named Patrick Volkerding -- aka "The Man" -- released Slackware. Volkerding is known as "The Man" because he is one of the few Benevolent Dictator's For Life (BDFL) in the open source community. He also developed the first versions of Slackware all by his lonesome. There have been some rumors circulating lately that Slackware is going the way of the Palm brand. This is not true. The root of these rumors is that the Slackware website experienced some lengthy downtime this spring, though as of this writing it's back up. If by chance it's down when you see this, you can still obtain good ol' Slack from here. You can also find torrents on a mirror.
+
+In any case, rumors be damned, development remains active, and Slackware 14 is expected to land soon.
+
+Installing Slackware
+
+Hold onto your hats, newbies: you won't find a mouse-driven, Windows-like UI to get Slackware installed. Instead, you'll see a tried-and-true, text-based setup program. Lucky for you, it's quite easy to use. Before you start the installation, though, you'll be greeted by a message stating that you'll first need to partition your disks with a / (root) partition and swap partitions. You have the option of using three utilities to carve up your drive: fdisk, gdisk and cfdisk. We recommend cfdisk.
+
+Linux In Depth
+
+Let's break down the minimum requirements:
+1. swap - A 4GB partition should be enough, and if you have lots of RAM (read: 8GB or more) that should be plenty.
+2. / - Use the rest of your disk for this partition; it's where the OS and your personal files will live.
+
+It should look something like this:
+
+Linux In Depth
+
+Partitioning is tough for newcomers, but hopefully the above helps out. Once you get past that step just type "setup", select "Add Swap" and get used to pressing Enter. Sure, you'll have to type in a few things like hostname, and root (user) password, but that's about it.
+
+Because of the manual partitioning we'll admit it can be intimidating for those new to Linux, and those new to installing operating systems in general. With that said, the installation program does a great job of telling you exactly what you need to do. If you can read the screen, you can get a full Slackware installation up and running with little to no Googling.
+
+Package management in Slackware
+
+Slackware's approach to package management -- that is, the management of software installed within a Linux distribution -- is quite simple. By design, it's a complete installation that stays up to date with any patches that might be released. As the wiki explains to newcomers, "This avoids the mess of dependencies that other Linux based GNU systems face". Read differently, this says, "What you see is what you get." Depending on which mantra you believe, this could be a really great mindset, or a terrible one.
+
+Slackware packages are files with a .txz extension. They are usually named as follows: appname-version.txz. For example, firefox-12.1.txz.
+
+Slackware provides a tool for adding/removing these txz packages and keeping them up to date, called 'slackpkg'. Using slackpkg takes a bit of configuration. You have to choose a mirror -- which is a place to download packages -- in a configuration file, /etc/slackpkg/mirrors. Not rocket science, but not necessarily easy for a true beginner either. After considering which mirror you'll use, learn three commands: slackpkg update, slackpkg upgrade-all, slackpkg install-new. These will get your default Slack setup up to date and secure.
+
+Linux In Depth
+
+Third-party packages
+
+What are third-party packages? Well, there's a good chance down the road you'll want to install a piece of software that is not included in your base Linux distribution. You'll need to get that installed outside of using the package management system.
+
+With slackpkg in particular, you're currently limited to whatever packages are available in the official distribution. That doesn't help you much if you need to install a third-party application, like Skype.
+
+There are a few options out there to help with this. One is a project/website called Slackbuilds.
+This site provides a script and source files that you can download. You basically toss all of them in a folder and execute the Slack build script. It'll make a default Slackware package in /tmp for you to install. Got all that? Good. After you do this a few times, it's a piece of cake.
+
+The next option you have is a beta project called sbopkg, which is essentially a tool that makes the manual part of using Slack builds a bit easier. Check out sbopkg.org for more info on that.
+
+Community support in Slackware
+
+There's always a good chance something is going to happen to your system, or you're going to want to do something that you can't easily find steps to do so. This is when you need to go out and get support from "The Community". That is, each Linux distribution typically has a community of users with different skill sets that are, in most cases, happy to help fellow users out. Slackware's main sources of community support come from forums like this, and from IRC. In particular, there's an expansive set of questions and answers on the LQ forums. If you encounter an issue you can't find a solution for on LinuxQuestions, the folks in the IRC Slackware channel are pretty helpful. (For you regular IRC'ers, that's #slackware on free node.) Hopefully, your issue isn't getting connected to the internet. Sometimes finding Slackware support online isn't as easy as other distributions, but if you ask intelligent questions in #slackware, and don't spam with questions like, "YouTube isn't working, how do I fix lol?!?" you should find the support you need.
+
+Arch Linux
+
+At 10 years old, Arch Linux is a relatively recent addition to the Linux fold. First launched in 2002, Arch was designed as a "rolling release" operating system. That basically means that once you install Arch using the built-in package management, you'll always have the current version installed. This is amazing in that you won't have to wipe your system and reload an OS to get the latest and greatest, or go through a nasty upgrade process. Like Slackware, Arch is built around simplicity. As we said, though, this can be a good or bad thing depending on your appetite for a challenge.
+
+To get started, pick up Arch Linux here. If you've got a fast internet connection, we recommend doing a net-install so you get the newest version off the bat. That just means the installer will grab the latest packages from the Arch Linux servers so you're automatically up to date after installation.
+
+Installation
+
+Linux In Depth
+
+Arch Linux utilizes an ncurses-based installation program that doesn't require too much pointing and clicking. All told, it's a fairly involved installation, at least compared to Slackware. It does have an automated disk configurator, but even so, we can see where selecting the packages you want installed on your system could be overwhelming to newcomers. When you're selecting package sources, we recommend "core-remote," "community-remote" and "extra-remote."
+
+Linux In Depth
+
+Once it comes time to choose a package, the process is broken down into two steps: group and individual selection.
+
+For group selection, we recommend:
+
+    base
+    base-devel
+    xfce4
+    xfce4-goodies
+    vim-plugins
+    xorg-drivers
+    xorg
+    xorg-apps
+    xorg-fonts
+
+That'll be plenty to get a nice base install going. We can always add more packages later, which we'll cover later in the package management section.
+
+After you go through the group package selection you'll be presented with a rather lengthy list of individual package options. To avoid overwhelming you, though, we recommend only installing these packages:
+
+    xorg-init
+    xorg-server
+    xorg-server-utils
+
+You'll need these to get a graphical user interface up and running out of the gates in case you need a web browser to get some help and check the wiki.
+
+Lastly, you'll be presented with the system configuration menu.
+
+Linux In Depth
+
+At the minimum, you'll want to modify rc.conf and set the root password. In rc.conf, you'll need to set your hostname at the "HOSTNAME=" section. If you leave everything as default under the "interfaces" section the system will use DHCP to automatically obtain an IP address.
+
+Then set a root password and you're done.
+
+Finally, you'll need to install your bootloader, and whether or not you choose GRUB or Syslinux you'll be prompted to modify the bootloader's configuration file. You can safely save and exit with no modifications here. Reboot and you're all done. As you can see, the installation of Arch is a bit more involved, but once you get past it, you'll have an amazing rolling-release system.
+
+Package management
+
+Package management in Arch is handled by a phenomenal tool called "pacman," which allows you to keep your system up to date and install any extra packages you want with ease. There are also thousands of third-party packages available through pacman, which we'll discuss in more detail in a moment.
+
+Updating your system:
+
+You can update the entire system with one simple command: pacman -Syu
+
+If you did a net-install, you should be completely up to date out of the box, but later on in the week, you'll want to run "pacman -Syu".
+
+Linux In Depth
+
+Adding a package to the system:
+
+To add a package to the system is pretty simple as well. Let's say you want to install Firefox. Peck out "pacman -S firefox" as the root user and a few moments later, Firefox should be ready to rock.
+
+Additionally, pacman takes care of any so-called dependencies a package may have. For example, Firefox will require some libraries, in which case pacman finds and installs them for you.
+
+Third-party packages
+
+Third party packages are also available via pacman. In the off chance you cannot find a package in the pacman repositories, you can reach out to AUR, the Arch User Repository. Similar to slackpkg, AUR provides an online method to download, build and install packages for your system. More info can be found here.
+
+Community support in Arch
+
+Arch Linux has an expansive wiki, which you can explore here. Trust us when we say it's awesome. Anything you can think of is there. There's also a great IRC channel (#archlinux) full of users ready to assist. If Arch community support was ranked on a scale of 0 to 10, it'd get a 15, thanks to the wiki alone. IRC as always, is another story: it can be hit or miss, with conversations moving off-topic and questions getting overlooked. But hey, that's how IRC goes.
+

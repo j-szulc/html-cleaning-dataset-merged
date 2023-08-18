@@ -1,0 +1,39 @@
+Bigger, Faster Photos
+
+by Justin Shaffer on Wednesday, November 16, 2011 at 9:41am
+
+UPDATE on Wednesday, November 16th, 2011: We're excited to announce an update to Photos that makes it faster and easier to share photos on Facebook. Now, when you upload photos to an album, you can see each photo as it uploads and watch the upload progress in real-time.  In addition, we've made some improvements so you don't have to wait for the album to finish uploading to start adding details and stories. Now, you can start adding captions and location details to each of your photos right away.  You can also add an album title, description, and location at the top of the uploader. Just as before, you can choose who can see your album before you post and adjust your selection later if you change your mind.  You can also continue to track how long your upload will take.
+
+ 
+
+If you don't see this version of the Photos uploader yet, you can expect to see it over the coming weeks as the rollout continues.
+
+ 
+
+ 
+
+Originally Published on Friday, August 26, 2011: With over 250 million photos uploaded each day, sharing pictures is one of the most popular activities on Facebook.  We are constantly working on making Facebook Photos better and today we're introducing some improvements to the way you experience photos.
+
+ 
+
+Bigger Photos, Faster Loading
+
+ 
+
+Now, the photos you share on Facebook are bigger (720 pixels to 960 pixels) and load twice as fast, giving you quicker access to more detailed images.  Photos you've already uploaded to your profile will also be displayed at this higher resolution.  
+
+ 
+
+ 
+
+Focus on the Photo
+
+ 
+
+After we launched the first version of the photo viewer earlier this year, we received feedback from many of you and have made changes based on it.  Today, we are rolling out a more streamlined photo viewer that features a cleaner interface that makes it even easier to enjoy your photos. The light box is now set against a simple white background that puts more of the focus on the photo, and less on the surrounding frame.
+
+ 
+
+ 
+
+These new features will be gradually rolling out to everyone over the next few days.

@@ -1,0 +1,60 @@
+Saving Cash Using Less Cache - 90% Savings in the Caching Tier
+Wednesday, October 24, 2012 at 9:15AM 
+
+In a paper delivered at HotCloud '12 by a group from CMU and Intel Labs, Saving Cash by Using Less Cache (slides,  pdf), they show it may be possible to use less DRAM under low load conditions to save on operational costs. There are some issues with this idea, but in a give me more cache era, it could be an interesting source of cost savings for your product. 
+
+Caching is used to:
+
+    Reduce load on the database.
+    Reduce latency.
+
+Problem:
+
+    RAM in the cloud is quite expensive. A third of costs can come from the caching tier.
+
+Solution: 
+
+    Shrink your cache when the load is lower. Their work shows when the load drops below a certain point you can throw away 50% of your cache while still maintaining performance.
+    A few popular items often account for most of your hits, implying can remove the cache for the long tail. 
+    Use two tiers of servers, the Retiring Group, which is the group of servers you want to get rid of. The Primary Group is the group of servers you are keeping. A cache request goes to both servers, if the data is in the transfer group but not the primary group the data is transferred to the primary group. This ensures hot data remains in the cache. This warms up the primary group without going to the database. After a while kill the retiring group.
+
+Result:
+
+    A lower hit rate can be supported at a lower load without ruining performance.
+    The more skewed your popularity distribution the greater the savings.
+    Transferring the data before shrinking the cache eliminates transient performance problems.
+    It follows that it's possible to use less DRAM under low load to save operational costs.
+
+Some potential problems:
+
+    How do you know when load is low and when it's high again? At the granularity of 1 hour billing periods making an error in judgement is costly. There are costs associated with elasticity. Terminating on-demand instances and spinning up new instances can get expensive if there's a lot of fluctuation. 
+    Cached objects are often highly normalized in the database so going to the database may be much more expensive than hitting the cache for cases when the hot data has not been correctly identified.
+    Caching is used for HTML snippets, intermediate results that are flushed to the database on some regular basis, and for many other purposes, so getting rid of the cache isn't just a database issue, it's system wide design issue.
+    Sending parallel requests could increase overall latency. For a discussion of this issue take a look at Google: Taming The Long Latency Tail - When More Machines Equals Worse Results and Google On Latency Tolerant Systems: Making A Predictable Whole Out Of Unpredictable Parts. 
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Hey,
+I just watched the talk as well as went through the slides/PDF.
+
+When you say this:
+
+"Use two tiers of servers, the Retiring Group, which is the group of servers you want to get rid of. The Primary Group is the group of servers you are keeping. A cache request goes to both servers, if the data is in the transfer group but not the primary group the data is transferred to the primary group. This ensures hot data remains in the cache. This warms up the primary group without going to the database. After a while kill the retiring group."
+
+You only use two tiers when you know you are about to retire a server group right? With typical latencies of perhaps 2ms on memcache, and it's not uncommon to have in excess of 50 hits per request, it would be unwise to request both servers.
+
+So perhaps you would only do the warming for about 30 minutes? Then kill the retiring group, and use a single tier cache.
+
+Is that what you meant? Some clarification would be great.
+October 24, 2012 Chris
+
+Hi, I've only read this summary. I think in @Chris' situation I'd thoroughly check Consistent Hashing (http://www.mikeperham.com/2009/01/14/consistent-hashing-in-memcache-client/) - although keeping redundant data, it is designed for dynamic addition/removal of nodes.
+October 25, 2012 Benjamin Schweizer
+
+2ms for mecached is too high. It should be less than 0.3-0.5 ms. As for "one page request may hit memcached 50-70 times" I have heard many times - there is a multi-get support. Use it.
+October 25, 2012 Vladimir Rodionov
+

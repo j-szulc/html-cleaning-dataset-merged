@@ -1,0 +1,9 @@
+How to: Render Eagle CAD Circuits in 3D using Google Sketchup
+
+We’ve seen a few methods of rendering Eagle CAD layouts in 3D, but the latest method is the best we’ve seen yet.  The resulting renders are clear, easy to read, and they can be viewed from any perspective.  This helps spot physical interferences with components before sending the board to manufacturing (plus, it feels awesome to see your design come to life).   The software comes with thousands of pre-modeled components in a 3D parts library and the rendering process through Google Sketchup is pretty straightforward.  Check out the full tutorial to start rendering your circuits!
+Popular PCB Posts:
+
+    Eagle Cad Tutorial: Design your own Circuit Boards
+    How to: Reflow Surface Mount (SMD) Soldering Tutorial
+    Render your Eagle Cad Circuits in 3D
+

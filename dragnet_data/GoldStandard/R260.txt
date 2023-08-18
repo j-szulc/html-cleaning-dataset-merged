@@ -1,0 +1,28 @@
+AWS Week in Review - October 29, 2012
+
+Let's take a quick look at what happened in AWS-land last week:
+Monday, October 29 	
+
+    The AWS Storage Gateway is now generally available, and it now supports gateway-cached volumes.
+
+Wednesday, October 31
+	
+
+    We made some important changes to the AWS Global Start-Up Challenge.
+    We released the Cloud TCO Cost Comparison Calculator for Web Applications.
+
+Thursday, November 1
+	
+
+    We added Ruby support and VPC integration to AWS Elastic Beanstalk.
+    We released the new Second Generation EC2 instance type and reduced the price for existing instances.
+    We raised the roof on EBS Provisioned IOPS, doubling the number of potential IOPS per volume.
+
+Friday, November 2
+	
+
+    We released version 2 of the AWS SDK for PHP.
+    We released version 1.7.0 of the AWS SDK for Ruby, with support for four additional services.
+    AWS Marketplace added Vyatta’s virtual router, firewall, and VPN and a set of network optimization applications from AppNeta.
+
+Stay tuned for next week! In the meantime, follow me on Twitter and subscribe to the RSS feed.

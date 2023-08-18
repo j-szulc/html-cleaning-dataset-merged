@@ -1,0 +1,594 @@
+NSA Chief To Address Hackers At DEF CON 136
+Posted by Unknown Lamer on Monday July 23, @09 57PM
+from the and-then-arrest-them dept.
+wiredmikey writes "Later this week, the NSA's organizational leader and head of the U.S. Cyber Command – General Keith Alexander — will address an audience of hackers at DEF CON. News of General Alexander's talk at Def Con broke on Friday. Up until that point, the 12 00 Track 1 slot was kept secret, leaving attendees to the world's largest hacker conference to speculate. The buzz was that it would be something interesting – if only because this year is Def Con's 20th anniversary. General Alexander will be giving a talk titled 'Shared Values, Shared Responsibility,' which is outlined as a presentation that will focus on the shared core values between the hacker community and the government's cyber community. Namely, the vision of the Internet as a positive force, the fact that information increases value by sharing, the respect and protection of privacy and civil liberties, and the opposition to malicious and criminal behavior."
+
+
+
+
+
+!@#$%^&*   COMMENTS
+
+
+
+
+
+
+
+Spot the Fed just got too easy. 
+by sethstorm (512897) on Monday July 23, @09 58PM (# 07  697) Homepage
+
+I presume that this guy won't count, or will this have the audience racing to be the first person to claim spotting him?
+ 
+      
+ 
+
+    Shared value ? 
+    by Taco Cowboy (5327) on Monday July 23, @10 29PM (# 07  895) Journal
+
+    What type of "value" they really think they truly share with us?
+     
+    Spying on your own neighbors?
+     
+    Frame innocent people up with trumped up charges?
+     
+    Keep track of every-single-thing on every-single-person on earth?
+     
+     
+          
+     
+           
+        by TheGratefulNet (1 3330)
+
+        and to be even more precise, please have them list the {type, length, value}.
+           
+        by ndogg (158021)
+
+        To be fair, I don't think those are the goals of the people that work there in and of themselves. They have masters to whom they must answer.
+           
+        by poity ( 65672)
+
+        You're talking about the DOJ, not the Air Force Cyber Command, I presume? Or maybe you're lumping them together because they both take orders from the President?
+                   
+                by poity ( 65672)
+
+                Thanks for the info, but that doesn't detract from the point (or maybe that wasn't your intent). No matter where in the hierarchy, the top of that decision tree is the Commander in Chief.
+                    Top Decision Maker  
+                    by Taco Cowboy (5327)
+
+                    No matter where in the hierarchy, the top of that decision tree is the Commander in Chief.
+
+                     
+                      That's what they want you to believe ....
+                     
+                           
+                        by hoggoth ( 1 195)
+
+                        "Congratulations Mr. President! As this is your first day as Commander-In-Chief we thought we'd show you some pictures to get you orientated. These are of John F. Kennedy. I particularly like this one here from the warehouse. And we even liked him. Do we understand each other?"
+               
+            by Taco Cowboy (5327)
+
+            Get it wrong, and things come out like this (just pretend the perpetrator of this "workplace violence" who was shouting "Allah akbar!" as he shot down American soldiers, and in direct contact with an Al Qaeda trainer and facilitator prior to the attack, was really involved in terrorism.) 
+
+            There will be those who will terrorize the populace - even in countries as draconian as China or Iran, they _do_ have terrorists of their own (not counting the government, that is)
+
+            On the other hand, it does not take NSA to flag out potential trouble makers such as the guy you outlined above - based on his profile we already can guess the eventual outcome - that guy had been a supporter of Islamic terrorism all the while
+                   
+                by cold fjord (826 50)
+
+                it does not take NSA to flag out potential trouble makers such as the guy you outlined above -
+
+                Practically everyone around him knew he was a growing danger, but nothing was done. The power of political correctness was his shield enabling mass murder.
+
+                The ability to identify a terrorist is going to be on a case by case basis, isn't it? In some cases, it won't take a mastermind. In others, the only indication that someone is involved with terrorism is when their communications to an Al Qaeda communications hub are intercepted. There is no right to private communications to a terrorist group at war w
+               
+            by Capt. Skinny (9695 0)
+            What American post-9/11 the-ends-justify-the-means propaganda campaign were you just released from? Ever hear the Ben Franklin quote about essential liberty and temporary safety?
+               
+            by lightknight (21316 )
+
+            Join us, and maybe we'll talk to the DA about extenuating circumstances (because we all know you use linux, and only hackers know how to use that; plus, you use 'alternative' browsers).
+               
+            by Anonymous Coward
+
+            "How about trying to prevent mass murder, even if the person planning it is someone who happens to be a neighbour"
+
+            Why would Keith Alexander's values be to get the states to stop committing mass murder? That's how he got his job in the first place.
+                   
+                by hoggoth ( 1 195)
+
+                > almost as much a threat as communism
+
+                The 50's called, aw nevermind...
+           
+        by Samantha Wright (132 923)
+        Why, knowing things, obviously. Just like we want to know how the world works in every minute detail, they want to know what the world's doing... in every minute detail.
+           
+        by matunos (1587263)
+
+        These all sound like things a black hat might enjoy, yes.
+           
+        by Atryn (5288 6)
+
+            What type of "value" they really think they truly share with us? ... Keep track of every-single-thing on every-single-person on earth?
+
+        Well, they did say "...the fact that information increases value by sharing..." -- Just think how much value they are creating by sharing all information about every single person on earth with every federal agency who needs/wants it?
+               
+            by Taco Cowboy (5327)
+
+            ... attending one of these things puts your identity front & centre
+
+             
+            So true !
+             
+            I've been in this field for decades and I've my fair share of, for lack of a better word, hacking
+             
+            But I've never ever attend any official "hacker conference"
+             
+            I treasure my privacy too much to break my anonymity (and no, I'm not part of that "anonymous" movement either)
+             
+                   
+                by Atryn (5288 6)
+
+                    I treasure my privacy too much to break my anonymity (and no, I'm not part of that "anonymous" movement either)
+
+                Nice low UID there... I would assume they identified THOSE first... ;)
+        1 reply beneath your current threshold.
+       
+    by ehintz (10572)
+
+    IIRC, spot the fed is only for ones that aren't obviously identified (being a speaker is a bit obvious).
+           
+        by RobertLTux (260313)
+
+        I think you lose points for claiming a Fed that is Openly a Fed (you can get some decent points with Spot The Journo when somebody tries to sneak in).
+       
+    by matunos (1587263)
+
+    It could all just be an elaborate social engineering attack.
+    1 reply beneath your current threshold.
+
+Throw eggs or hand in your hacker pass. 
+by Johann Lau (10 0920) on Monday July 23, @10 0 PM (# 07  729) Homepage Journal
+
+n/t.
+ 
+      
+ 
+
+        by Johann Lau (10 0920)
+
+        Whatever helps you sleep at night, clown.
+               
+            by cold fjord (826 50)
+
+            You're the one advocating tossing eggs and hurling insults, and probably a pie or two along the way. I'm tempted to go to the conference just to see if you show up in a dinky car along with a dozen of your best friends wearing giant shoes and rainbow wigs. That would be kind of fitting given the nonsense you're posting.
+                       
+                    by cold fjord (826 50)
+
+                    Apparently you'll be the bottom man of the stack in the car.
+                           
+                        by Johann Lau (10 0920)
+
+                        Thing is, you're STILL just projecting. Starting with your implication I'd wish harm on a fly, or calling me a clown ^^
+
+                        http //techpp.com/2012/07/2 /nsa-surveillance-algorithms-see-into-your-life/ [techpp.com]
+
+                        Sieg fucking heil, bootlicker.
+                               
+                            by Johann Lau (10 0920)
+
+                            Before moderating... kindly actually read his posts and spend more than a brain fart on his motivation. That guy just keeps humping my leg, why not fling the fuck? If that makes you feel uneasy, why not run your yap as well so I can give your the very same. Don't be content with second-hand smoke when you can burn burn, yes you gonna burn  P
+                   
+                by Johann Lau (10 0920)
+
+                I'd appreciate the irony, if it wans't like the fifth post with that pitiful stuff in it.
+
+                It's like Goebbels screaming in the sport palace how pacifists are the enemy.
+
+                Fuck you and the whores that rode in on you.
+    by cold fjord (826 50)
+
+    Apparently the image of hackers as vandals and social misfits, rather than clever programmers, needs reinforcement.
+           
+        by GameboyRMH (1153867)
+
+        If you're against the NSA's widespread illegal domestic wiretapping and surveillance you're a "vandal and social misfit?" And if you applaud it you're a "clever programmer?"
+
+        Hackers should not abandon all idealism for the sake of conforming and being respected by authoritarians and authority cocksuckers. At that point you're not a hacker, you're a stooge who's good at programming.
+
+        Eggs. Booed off stage. Make it happen.
+       
+    by GameboyRMH (1153867)
+
+    THIS
+
+    Eggs and booed off stage or DEFCON has officially jumped the shark.
+           
+        by Johann Lau (10 0920)
+
+        Prejudice doesn't even figure into it. Are you projecting?
+               
+            by cold fjord (826 50)
+
+            No, he is probably just observing the hostile rabblerousing nonsense you've been posting. Throw eggs, overthrow governments, walk out of the talk blah, blah, blah
+
+            .
+                   
+                by Johann Lau (10 0920)
+
+                You wish it was nonsense. But you're kinda the weakest link.
+           
+        by Johann Lau (10 0920)
+
+        It didn't occur to me initially, but the longer I think about it, the more I think walking out on him would be really cool. Or maybe just sing songs, that sort of stuff. Throwing eggs just gets you jailed, and achieves nothing. Listening to his PR would be accompliceship. So it has to be something in between. But you know what? I'm sure that either the whole thing is a joke, or someone will come up with *some* dignified response.
+    1 reply beneath your current threshold.
+
+Gotta love newspeak, by the way. 
+by Johann Lau (10 0920) on Monday July 23, @10 07PM (# 07  753) Homepage Journal
+
+"malicious and criminal behavior" = "malicious and criminal behavior of the unapproved kind"
+
+How about simply not showing up? Let that guy talk in front the plants he brought  P
+
+Surely you could use that time for something better, like chatting, or bringing down the government.
+ 
+      
+ 
+
+       
+    by c0lo (1 97653)
+
+    "malicious and criminal behavior" = "malicious and criminal behavior of the unapproved kind"
+
+    How about simply not showing up? Let that guy talk in front the plants he brought  P
+
+    Also 
+
+    the fact that information increases value by sharing
+
+    I'm not quite sure RIAA/MPAA agree... (unless the shared info comes from Faecebook)
+
+    the respect and protection of privacy and civil liberties
+
+    "respect and protection of privacy and civil liberties" - that's indeed the most refined level of newspeak NSA would be capable of delivering for the present time. Expect increased sophistication as the society "evolves".
+           
+        by Johann Lau (10 0920)
+
+        Speaking of newspeak, evolution, and conferences 
+
+        http //www.youtube.com/watch?v=TjomcImY3W0 [youtube.com]  P
+           
+        by GameboyRMH (1153867)
+
+        I wonder if the information sharing Wikileaks and the recent NSA whistleblowers did was also applauded by the NSA?
+    by Genda (5602 0)
+
+    Or everyone could read the following quote from Good Will Hunting [imdb.com].
+           
+        by cold fjord (826 50)
+
+        A funny rant, but it is pretty much all BS.
+       
+    by Antipater (205306 )
+
+    Surely you could use that time for something better, like chatting, or bringing down the government.
+
+    Hey now, let's not get too carried away. I realize you're a little annoyed with how things have been going lately. But chatting?? That's a little extreme, don't you think?
+           
+        by Johann Lau (10 0920)
+
+        Dude, that was tongue-in-cheek. So save me your strawmen, and peddle your BS elsewhere.
+               
+            by cold fjord (826 50)
+
+            Dude, that was tongue-in-cheek. So save me your strawmen, and peddle your BS elsewhere.
+
+            tongue-in-cheek.= BS
+
+            By your own admission you seem to be the one that is peddling BS, and in copious quantities. Is there any chance you'll begin making a positive contribution to the discussion instead of peddling BS, advocating tossing eggs, etc? This is getting tedious.
+                   
+                by Johann Lau (10 0920)
+
+                Cry me a river.
+           
+        by Johann Lau (10 0920)
+
+        I'll start by installing dictators in the Middle East, and maybe sponsor an Al-Quaeda or two. Then I'll have church workers in South America hunted by death squads. Any other questions?
+
+Shared values...  
+by Genda (5602 0)
+
+I mean really, show me a hacker that doesn't want to listen to every phone call on the planet... it's like meeting your Bizarro self...
+
+I wonder... 
+by SleepyHappyDoc (813919) on Monday July 23, @10 27PM (# 07  881)
+
+how long it will take someone in the audience to get into his cell phone.
+ 
+      
+ 
+
+     I wonder... 
+    by Keebler71 (520908) on Monday July 23, @10 38PM (# 07  9 7) Journal
+    Probably less long that it would take him to get into everyone in the audience's...
+     
+          
+     
+           
+        by bughunter (10093)
+
+        If you believe William Binney, he already has access to the phones of everyone in the audience's [networkworld.com].
+     I wonder...
+    by DNS-and-BIND ( 61968) on Tuesday July 2 , @0   2AM (# 07 6667) Homepage
+    Funny story - I was in Austin at HoHoCon (I forget) somewhere around '93-'95. This was when the Radio Shack PRO- 3 scanner could easily be modified to listen in on 800MHz cell phone transmissions . Well, there were a couple of guys from Motorola security there dressed up with earpieces, looking like SS agents. Later, in the rooms, we were listening to my PRO- 3 on an external speaker, drifting from conversation to conversation. Side note  I really miss listening in - it was fascinating, boring, and disturbing to see what people really said. Anyway, we lucked out and got one of the Motorola guys' conversations, talking to someone back at base. He said he had seen us around with our little scanners, and didn't trust this transmission. "Hell, they're probably listening in right now," he said. We all busted out laughing..."Yeah...we are!" Good times.
+     
+          
+     
+           
+        by laejoh (6 8921)
+
+            like SS agents
+
+        How did you recognize them? Did they speak german?
+
+Ah yes...  
+by Darkness 0  (1287218) on Monday July 23, @10 28PM (# 07  887)
+Ah yes, the US government has a stellar track record in recent years as it relates to civil liberties and basic privacies online...
+ 
+      
+ 
+
+       
+    by fustakrakich (1673220)
+
+    Make the lie big, and stick to it...
+       
+    by Teresita (982888)
+    Civil liberties are only important in countries that are ruled by dictators we don't like, such as Syria, Iran, Russia, China, etc. But in places like Bahrain, Afghanistan, Turkmenistan and other countries where the US has military bases, civil liberties are overrated.
+       
+    by davester666 (731373)
+
+    After 9/11 and the unabomber and the OKC bomber and others, citizens demanded to be protected, and politicians lapped it up.
+
+    The TSA has been sexually assaulting millions of people for how long, and there has been no groundswell of support to stop them. Now they've expanded to having uniformed thugs stop and search people using buses and trains looking for terrorists.
+
+    What makes you think they will stop there, and not expand to people in malls, office towers, or even just on a downtown street [because anyone
+           
+        by Tancred (390 )
+
+        or even just on a downtown street
+
+        That's happening already. It's called Stop and Frisk.
+        1 reply beneath your current threshold.
+    1 reply beneath your current threshold.
+
+neat  
+by macshit (157376)
+that's really pretty cool...
+
+one missing link  honesty  
+by decora (1710862)
+
+while Alexander is preaching this stuff, his crew and/or the contractors who are being payed billions of taxpayer dollars are hard at work building the next version of Stuxnet.
+
+its pure marketing.
+
+but there is absolutely almost zero common ground between the fundamental ethos of the 2600 types - namely, the search for truth, knowledge, and wisdom, and the fundamental ethos of the military - destroy the enemy. sure, the military needs some smart folks to help it do its work, and sometimes its necessary. but to
+
+Ah here comes the Patriotic Appeal...  
+by Phrogman (80 73)
+
+"We need your services in the War on Terror, why don't you come work for us?"
+Despite the fact that he represents the organization that most hackers fear the attentions of the most  P
+
+       
+    by cold fjord (826 50)
+
+    "We need your services in the War on Terror, why don't you come work for us?"
+    Despite the fact that he represents the organization that most hackers fear the attentions of the most  P
+
+    So, living in mom's basement makes you, and by extension your friends, proof against poison and bombs?
+    1 reply beneath your current threshold.
+
+Device naked  
+by MrJones ( 691)
+
+He better go device naked, just imagine a NSA phone lost at DEF CON ...  )
+
+       
+    by ganjadude (952775)
+    Thats saying he doesnt have a honeypot configured on said phone to catch the ones who think its just too easy
+       
+    by Atryn (5288 6)
+
+        just imagine a NSA phone lost at DEF CON ...  )
+
+    That sounds almost as bad as an iPhone prototype left at a bar... But I'm sure Apple will take precedence on government resources to "recover" their device...
+
+Who's he kidding? 
+by TubeSteak (669689) on Monday July 23, @10 55PM (# 07 5011) Journal
+
+The hacker community and USG cyber community share some core values  we both see the Internet as an immensely positive force; we both believe information increases in value by sharing; we both respect protection of privacy and civil liberties; we both believe in the need for oversight that fosters innovation, doesnâ(TM)t pick winners and losers, and retains freedom and flexibility; we both oppose malicious and criminal behavior. We should build on this common ground because we have a shared responsibility to secure cyberspace.
+
+Since when does the NSA respect privacy?
+From MINARET and SHAMROCK to ECHELON, Stellar Wind, and warrantless wiretapping, they've done nothing but disrespect privacy.
+
+Shit. FISA was passed into law specifically because the NSA was spying on Americans.
+And then Bush came along and did his best to piss all over the minimal protections provided by FISA [wikipedia.org]
+And Congress helped by giving retroactive immunity to the Telecoms for illegally enabling the NSA's surveillance.
+
+The Director of the NSA is in for a tough time if he's really going to claim that the NSA respects privacy.
+ 
+      
+ 
+
+       
+    by bug1 (96678)
+
+    Since when does the NSA respect privacy?
+
+    He said that the NSA respects protection of privacy, he didnt says whos privacy.
+    Obviously they dont respect the protection of other peoples privacy, that would defeat their purpose for existing. They certainly care about other people respecting the NSA's privacy.
+         Who's he kidding? 
+        by ehintz (10572) on Tuesday July 2 , @02  9AM (# 07 6219) Homepage
+
+        Half their organization is the IAD, which is specifically about protecting government systems (and yeah, the other half is the SID, who are all about compromising every communique they can). So yeah, by design, if you're not the gov, they can has your cheezburgers.
+         
+              
+         
+       
+    by matunos (1587263)
+
+    Simce when do black hats respect privacy? See? Shared values.
+           
+        by Atryn (5288 6)
+
+            Simce when do black hats respect privacy? See? Shared values.
+
+         1
+
+        Yes, I think both communities generally agree... the privacy of *my* information should be respected but *your* information wants to be free!
+    1 reply beneath your current threshold.
+
+"Civil liberties"  
+by Alex Belits ( 37) *
+
+In US officials' language "civil liberties" means "something that we claim, our enemies disrespect when we want to attack them".
+
+       
+    by cold fjord (826 50)
+
+    In US officials' language "civil liberties" means "something that we claim, our enemies disrespect when we want to attack them".
+
+    Tell it to Stalin and Kim.
+
+    Stalin's death camps [youtube.com]
+    Gulag [gulaghistory.org]
+    Inside North Korea's Gulag [wsj.com]
+           
+        by Alex Belits ( 37) *
+
+        Shoud I post everything (fictional and real, as your examples also include plenty of fiction) about US government tortuting, killing and in other ways abusing people?
+               
+            by Anonymous Coward
+
+            You should learn about these things called numbers. They will help you understand the scale of things.
+                   
+                by Alex Belits ( 37) *
+
+                The numbers you have, are written by your friendly propaganda workers, with some help from one fiction author (who was legitimately pissed off, but there the reality ends as far as he is concerned).
+                   
+                by Alex Belits ( 37) *
+
+                Of course, gulags never really existed, that is clearly fiction.
+
+                Actually "gulags" could not possibly exist in more than one instance, as "GULAG" means "Department of [Penitentiary] Camps", the organization that overseen prisons and prison camps. You don't know what the word means, why do you think, you are not similarly misinformed about details?
+
+                The truth is, the word "GULAG" entered into the English-use language through Solzhenitsyn's "GULAG Archipelago", a work of fiction.
+
+                Under Communism,
+
+                Under Communists in power. The social system is called Socialism, not Communism.
+
+                everyone was eating cotton candy all the time.
+
+                I can assure you,
+                           
+                        by Alex Belits ( 37) *
+
+                        You were probably born in to a working class family under communist regime..
+
+                        Actually I am Electrical Engineer in the third generation.
+
+                        and abandoned everything and ran into the loving arms of the USA to live a relatively comfortable and safe life the moment things got a little tough back home.
+
+                        If Capitalism is so wonderful, why would I move to the center of your colonial empire instead of waiting for it to bestow the unimaginable benefits upon me at home?
+
+                        Now after grown up and fed on some anti-us propaganda you yearn for "fixing" what you think is mistakes people made in history books. There are no such mistakes.
+
+                        I lived in USSR for 22 years and in US for 19 years. I am still surprised how accurate Communists' portrayal of Capitalism was, especially considering how inaccurate was their view of their own actions.
+
+                        The consensus has been reached on USSR history and it is accurate.
+
+                        Your "consensus" nothing but impression that US propaganda is trying to make. Your "hist
+
+Shared Values?  
+by Bob9113 (1 996)
+
+the respect and protection of privacy and civil liberties, and the opposition to malicious and criminal behavior
+
+I guess, in a sense, those are shared values. Both sides share the view that half of the above pair is a "nice to have" that can be infringed when it conflicts with the other half.
+
+But I don't think the two sides agree on which half can be justly infringed.
+
+If you look at it that way, it is such an elegant turn of phrase -- and in a context where riddles and half truths are held in such esteem -- th
+
+" malicious and criminal behavior."  
+by jcr (53032)
+
+What, like violating the fourth amendment?
+
+-jcr
+
+It's going to be an interesting con  
+by Minupla (62 55)
+
+I'm packing as I type this... Defcon XX here I come.
+
+Min
+
+       
+    by EETech1 (1179269)
+
+    your bags?
+
+    or concealed weapons?
+
+    hmmm...
+
+Here's an idea.  
+by aristotle-dude (626586)
+
+If you don't feel patriotic or disagree with your current government, consider using your leet skills for the benefit of all mankind by taking on people like Assad. He is killing his own people. Think about forming a temporary partnership/truce for the good of all people. Get him where it hurts by taking out his bank accounts, taking out his internal networks. Help out the people of Syria and the world at large by helping the NSA/CIA find and seize his offshore accounts.
+
+Assad obviously does not give a crap
+
+           
+        by aristotle-dude (626586)
+
+        Assad? Bullshit. This is a coup that the US and Saudi Arabia are funding the rebels with. Weapons, communications equipment, etc. You honestly condone the suicide bombing that took out Assad's brother in law, and his top defense ministers? Or the massacre that was plastered all over the news saying that children were slaughtered by the Assad regime, only found to be a complete fabrication? Do you really want to fuck with a country that has an arsenal of WMD's sitting on your fat, pimply ass in the US to have bragging rights? You're just asking for a bitch slap from China and Russia, both good friends with Assad and Syria. Here's an idea  don't provoke them and mind your own business.
+
+        So are you saying that Assad did not kill innocent civilians who were peacefully protesting when there were no rebels to speak of? Are you saying none of that happened? Are you allowing your politics to blind you to the atrocities? Typical liberal. Instead of discussing the real danger of harm posed to civilians before and after the protests and rebellion, you would instead shift focus onto who is supplying weapons to the rebels. People on the left often change the subject instead of examining the "big pict
+
+So...this amused me,  
+by Starfleet Command (936772)
+I can't help but think this is abit like Darth Vader addressing the Rebel forces... just saying
+
+_______________________________
+
+"it's like, whatever..."
+
+Politics aside
+by Sparticus789 (2625955) on Tuesday July 2 , @08   AM (# 07 78 3)
+
+General Alexander is actually a funny guy. I was doing an installation run at Fort Meade a few years back. Turns out the General didn't leave his house early enough and he got stuck in his driveway while the entire base ran by. Since he had to wait for a few thousand people to run by, he made the best of it and did some road-side stand-up comedy for us. Mostly the General was satirizing himself and the rest of the Generals out there, by sarcastically complaining about us doing this run and not slaving away inside our cubicles.
+ 
+      
+ 
+
+Speech leaked!  
+by aaaaaaargh! (1150173) on Tuesday July 2 , @10  3AM (# 07 9517)
+
+Apparently, a shortened version of the speech has been leaked. Here is it 
+
+Uhm. Hello guys! We do some really cool stuff at the NSA and have some really big machines. Unfortunately, I cannot go into the details here, so just trust in blind faith when I say that work at NSA is pretty cool and some of you might be interested in joining us -- provided you are "flexible", patriots up to a pathological level and willing to totally submit to superiors, of course. Because we're the good guys (again, I cannot really justify why we are the good guys, as this is all top secret, etc.). Thanks a lot and hope to see you soon at NSA!
+ 
+      
+ 
+
+Why shouldn't I work for the N.S.A.?  
+by seandiggity (992657)
+That's a tough one, but I'll take a shot. Say I'm working at N.S.A. Somebody puts a code on my desk, something nobody else can break. Maybe I take a shot at it and maybe I break it. And I'm real happy with myself, 'cause I did my job well. But maybe that code was the location of some rebel army in North Africa or the Middle East. Once they have that location, they bomb the village where the rebels were hiding and fifteen hundred people I never met, never had no problem with, get killed. Now the politicians
+
+

@@ -1,0 +1,196 @@
+Is your app an ass-kisser?
+
+If your app was an employee, what kind of employee would it be? When it's employee performance review time, how would you rate it? These are just a few of the apps I've worked with recently...
+
+What other app/product employee-types are there? Know any apps that need an employee appraisal?
+
+Posted by Kathy on March 20, 2007  
+
+
+ URL for this entry:
+http://www.typepad.com/services/trackback/6a00d83451b44369e200d8341d717053ef
+
+Listed below are links to weblogs that reference Is your app an ass-kisser?:
+
+» Employee types from Kathy Sierra from More than a living
+Okay, I know shes using employee types to describe software applications. But, I mean, cmon. Strip that away and youve still got some archetypal employee types. This is well worth the read: Creating Passionate Users: Is your app an... [Read More]
+
+Tracked on Mar 21, 2007 12:31:13 AM
+
+» Is your app an ass-kisser? from Marketing For Nerds
+Is your app an ass-kisser? By Kathy Sierra If your app was an employee, what kind of employee would it be? When it's employee performance review time, how would you rate it? These are just a few of the apps I've worked with recently... [Read More]
+
+Tracked on Mar 21, 2007 2:22:35 AM
+
+» What type are you? from afida
+I am a fond reader of her blog and this time she is drawing an analogy between employee and the kind... [Read More]
+
+Tracked on Mar 21, 2007 9:02:38 AM
+
+» Persona grata from systematic viewpoints
+Kathy Sierra creates personas for applications. Not only amusing as hell, but insightful as always. ... [Read More]
+
+Tracked on Mar 21, 2007 7:25:08 PM
+
+» Persönlichkeiten vonProgrammen from Ralphs Piratenblog
+Bei Passionate gibt es einen sehr netten Artikel, welcher die verschiedenen Persönlichkeiten von Programmen aufzeigt.Ich Muss mich beim Abrechnen mit einem Programm rumschlagen, das hauptsächlich dem Typus Anal-Retentive-Guy entspricht ... [Read More]
+
+Tracked on Mar 22, 2007 1:53:04 AM
+
+» Software personality disorders from NevilleHobson.com
+I had a big chuckle reading Is your app an ass-kisser, in which Kathy Sierra asks: If your app was an employee, what kind of employee would it be? When its employee performance review time, how would you rate it? These are just a ... [Read More]
+
+Tracked on Mar 22, 2007 6:50:51 AM
+
+» If you app was an employee... from Kate Gregory's Blog
+[Read More]
+
+Tracked on Apr 3, 2007 10:24:52 AM
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+priceless.
+
+Posted by: atmos  Mar 20, 2007 10:19:46 PM
+
+Great post.
+
+But it is unfortunate that most of the content is locked away in inaccessible image text. It also makes it hard to search. And copy n' paste. Plain old HTML text would be preferable here.
+
+Posted by: Jon  Mar 20, 2007 11:21:10 PM
+
+Great post! Very recognizable..
+
+Why is it that we try to humanize everything...
+
+Posted by: Raimo van der KLein  Mar 20, 2007 11:51:02 PM
+
+Great list. A couple more to consider:
+
+1. Never Finish Anything Guy: He starts out great but never seems to actually be able to take things to completion.
+
+2. Business Journal Guy: He knows all the right buzzwords and TLA's but doesn't have a clue what any of it actually means. He'll make decisions based on whatever the current issue of Business 2.0 says is hot.
+
+Posted by: James Snell  Mar 20, 2007 11:59:09 PM
+
+Don't forget the newsy, office gossip app
+
+Posted by: security  Mar 21, 2007 12:15:54 AM
+
+Lesson learned: No matter what type, software is a male.
+
+Posted by: Hanseric  Mar 21, 2007 12:21:13 AM
+
+Well i dont know how u term guyz who will work only from 9 a.m -5 p.m & wont move an inch prior or post the given time.For them intelligence would be doing the same thing quicker not necessarily better.He is a cog of the wheel which runs irrespective of the nature of the cog
+
+P.S: The above is an e.g of the Indian Civil servant
+
+Posted by: Satz  Mar 21, 2007 1:17:36 AM
+
+Very nice!
+
+There are a bunch of other ones you could include, like the resource hog :)
+
+Posted by: Matthew R. Miller  Mar 21, 2007 1:55:29 AM
+
+awesome
+
+Posted by: mktg4nerds  Mar 21, 2007 2:42:14 AM
+
+Whose ass are we talking about?:-)
+
+Posted by: Mario  Mar 21, 2007 2:51:31 AM
+
+Spot on :-) But Jon is right layouting the text that you put in the pictures isn't terribly hard with CSS.
+
+Posted by: Henrik  Mar 21, 2007 3:58:07 AM
+
+It's really good to know what we don't wnat them to be, but the key question is what kind of employee do you want your app to be. If we can nail that, then designing it should be easier.
+
+Posted by: John Dodds  Mar 21, 2007 4:10:52 AM
+
+Maybe all of them are ass-kissers, they just choose a different ass. The question could very well be "whose ass *is* your app kissing?"
+
+Posted by: Mario  Mar 21, 2007 5:10:30 AM
+
+It's sad really. No Ninja Assassin App that silently and efficiently does exactly what needs to be done with grace and precision thanks to hours of dedicated and exhaustive studying and training. :(
+
+The Ninja Assassin App anticipates your needs and "takes care of" anything that gets in the way of you accomplishing your mission. Plus, he's ultra stylish (in his all black ninja outfit), uses really cool weapons (the right tool for the job, not just the latest buzz tech. Centuries old shuriken anyone?), and is just plain awesome all around.
+
+Posted by: Michael  Mar 21, 2007 7:30:03 AM
+
+Great post. So are there any apps that do the job well, just like you'd expect them to?
+
+Posted by: Jeff  Mar 21, 2007 8:22:53 AM
+
+Adobe Photoshop is the Brilliant but Tempermental guy! I KNOW it can do amazing things for me, it's just figuring out how to make it do what I want it to do is still a mystery.
+
+I would fire it, but there is nothing even remotely close to being as good, much less better.
+
+Posted by: Laura Moncur  Mar 21, 2007 8:55:28 AM
+
+Mr Not My Job
+
+Every approach is swiftly deflected with a recommendation to use somebody else, some other tool or plug-in. Anything you actually want to achieve is, after all, not their job contrary to what you may have read/been told.
+
+The reality is they are a confusing extra layer between you and what you really need - which may now unfortunately not be available at all.
+
+[)amien
+
+Posted by: Damien Guard  Mar 21, 2007 9:03:46 AM
+
+Classic
+
+Posted by: sadcox  Mar 21, 2007 9:47:06 AM
+
+None of you use Windows boxes? How could you leave out Mr. Suicide Bomber? He's the one who blows himself up and takes all nearby processes with him.
+
+Posted by: Foz  Mar 21, 2007 10:13:51 AM
+
+Love this - it would be great as a poster! Tone, voice and personality of an app are such important components of the user experience.
+
+Posted by: Lisa  Mar 21, 2007 10:14:32 AM
+
+The Acheiver
+
+Okay, I'll play the part of the contrary dinner guest, i.e., on the positive side, some apps actually deliver on their promise. I'm always looking to network with that app.
+
+Posted by: Ed Illig  Mar 21, 2007 11:38:47 AM
+
+My apps? I've written all kinds.
+
+Ugly, perhaps even abrasive, and not too smart; but reliable, and gets the job done.
+
+Hard to understand (complex). Until the two of you get to know each other, life can be painful. Once you're good friends, they're nice to have around, and you don't understand why nobody else likes them.
+
+Pretty and simple. Don't do much, but can do those few things well, and look good too.
+
+Posted by: Gregg Irwin  Mar 21, 2007 12:55:58 PM
+
+How about:
+
+the old fart app - been around so long that no one knows what it does but everyone is too afraid to get rid of it.
+
+or
+
+the nagging wife app - it worked before why did you try to fix it?
+
+Posted by: Shaun  Mar 21, 2007 2:24:10 PM
+
+How about "Mr. Resource Hog"? He grabs all the memory, ties up the clipboard, flashes psychodelic messages on the computer screen, and slows everything else down to a crawl. When he comes calling, it's time for lunch ...
+
+Posted by: Mike L  Mar 21, 2007 6:20:14 PM
+
+The Zen Buddhist app (lots of programming tools are like that).
+
+It does not appear to make any sense at first. But once you learned to think its way, it is perfectly crystal clear. Unfortunately you cannot manage to share the clarity with the other initiates.
+
+Posted by: David Allouche  Mar 21, 2007 7:49:33 PM
+
+The comments to this entry are closed.

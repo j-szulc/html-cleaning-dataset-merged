@@ -1,0 +1,58 @@
+Nov 5, 2012 - 1:48PM PT
+Republicans hate to (spectrum) share: How the election affects the FCC
+
+    By Stacey Higginbotham	
+
+The presidential election will have big impacts on our nation’s tax policies and spending plans over the next four years, but who wins or loses will also play a role in telecommunications policies that will affect every individual on their cell phone and their land lines.
+
+Ahead of the Nov. 6 election, all eyes are on jobs, taxation and maybe abortion. But for those of us in the broadband policy world, the choices the electorate makes on Tuesday could have repercussions for everything from network neutrality to how much wireless spectrum is released. Let’s take a look at what folks in D.C. circles see ahead depending on who wins.
+
+As a general rule, a Romney victory would most benefit the incumbent telcos, according to a report out Friday from Stifel Nicolaus, an investment bank. From the note:
+
+    We believe the two Bells would gain the most from a Republican victory and de-regulatory telecom thrust, while some of their rivals would do better under the Democrats, including non-Bell wireless carriers, CLECs, and other upstarts. We suspect that cable will do fairly well under either party, with some risks, and that midsize telcos, DBS, edgetech giants, and broadcasters face various trade-offs.
+
+The reason for this can be summed up in a pithy quote provided by Richard Bennett, a senior research fellow at the industry-dominated think tank Information Technology and Innovation Foundation. When I asked what was at stake for the FCC and telecom policy in this year’s elections, he said, “It’s either going to get down to Chairman McDowell or Chairman Levin,” referring to current Republican FCC Commissioner Robert McDowell or a Democrat heading up the FCC in the model of Blair Levin. Bennett said that Levin, who helped write the National Broadband Plan and is now spearheading a gigabit fiber project to connect U.S. universities, might not actually take on the Chairman role, but someone who thinks like he does would be a likely candidate.
+
+Both potential commissioners see a role for markets in broadband policy, but the Levins of his comparison would be more likely to view the markets in the U.S. as needing regulatory oversight to function competitively, whereas McDowell would be more content to let the market function, Bennett said. With that in mind, let’s get to some specifics. There are three big areas that will come up after the election: spectrum, network neutrality and the retirement of the copper telephone network.
+Congress doesn’t share spectrum!
+
+On spectrum policy, there are a few big issues that fall under the bigger scope of needing more spectrum for wireless broadband. The FCC is currently proposing an incentive auction that would offer TV broadcasters the chance to sell some of their airwaves and no matter who wins on Tuesday, that should continue to go through. But as part of that auction, there’s also the plan to keep some of that spectrum for unlicensed uses as opposed to selling it all to the carriers — or other buyers. Unlicensed spectrum can also be used for broadband. Both Wi-Fi and Bluetooth operate in unlicensed bands.
+
+Harold Feld, a senior vice president with Public Knowledge, explained that in the past few years spectrum has become a partisan issue, which means even something as beneficial as more unlicensed spectrum could become controversial. “There’s a handful of Republicans who hate unlicensed spectrum in the same way that the Grinch hates Christmas. They don’t want to let people have access to it for free.”
+
+But the FCC is also looking at the issue of how much spectrum a carrier can own and still have a competitive market, as well as the idea of spectrum sharing as recommended in a recent President’s Council of Advisors on Policy and Technology report. Under a Republican FCC, spectrum screens probably won’t be a priority. And if Romney takes the White House the idea that certain federal bands of spectrum could be shared in order to provide more airwaves for broadband will likely fall by the wayside. As Levin said a few weeks back onstage at a white spaces event, “Republicans don’t want to share spectrum.”
+Network neutrality could hit the news again 
+
+The FCC formally passed rules governing how and when ISPs might discriminate against packets flowing over their pipes at the end of 2010. It took roughly a year for those rules to become a law and right now the agency is battling the legality of those regulations in court. If the U.S. Federal Court of Appeals says the FCC didn’t have the authority to impose net neutrality rules then a Republican-led FCC isn’t likely to push back with an appeal or try again with a new justification for why the FCC should ensure ISPs don’t block content on their pipes.
+
+Feld also notes that when the FCC passed the original rules it said it would revisit the issue a few years later to see how network neutrality was affecting the industry. That, plus the actual enforcement of the rules if they are deemed okay by the courts, could be affected by who wins tomorrow. In general, Republicans are more skeptical of the need for network neutrality, although Kevin Martin, a Republican appointee, took action against Comcast when it was found to block P2P traffic on its network,
+The death of copper
+
+The final big issue for this next administration is the death of the public-switched telephone network (PSTN) — which you might know better as the copper land line. This issue has been simmering for years, but as AT&T and Verizon begin to publicly back away from their copper networks as they abandon DSL, it’s an issue that will finally come to the fore. AT&T has been meeting recently with commissioners to discuss the issue according to FCC filings.
+
+The issue that the next FCC must face is what to require from companies offering LTE as a replacement for copper in rural areas and from cable companies and other ISPs providing all-IP communication in more urban settings. There are reliability and redundancy issues around how well such a system much handle a disaster (perhaps made more relevant after Sandy) as well as requirements that force current copper providers to service existing lines and circuits even if a competitor is using it to offer service.
+
+There are issues here that will cross party lines and Congress is likely to get involved since rural states and Representatives aren’t going to be thrilled that their constituents will lose their copper networks. As far as what Democrats or Republicans require from this change, my hunch is Democrats will pay greater attention to the how rule changes affecting the PSTN affect competitors who use those networks, while both parties should push for some form of reliability and resiliency regulations, especially if we keep having impressive natural disasters that take out cellular networks and power.
+
+So, head on out to the polls tomorrow, knowing that your vote not only could change the our taxation schemes and government spending, but also the future of our telecommunications networks.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Luscious Monday, November 5 2012
+
+Politics should not get in the way of technology. What’s wrong with having the market decide?
+ 
+
+smarterthanyou Monday, November 5 2012
+
+What a bunch of partisan garbage. One less site to follow on Twitter.
+ 
+
+

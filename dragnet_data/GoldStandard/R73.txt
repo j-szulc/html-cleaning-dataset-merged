@@ -1,0 +1,28 @@
+Learn, Learner, Learni.st?
+Modified on September 17, 2012 by Matt Tschoegl	
+
+What Is It?
+
+Learni.st is a new educational service provided by the good people over at Grockit.  Not content with cornering the market on test preparation, Grockit is also looking to shape how people teach and communicate the full range of interesting stuff in the world.
+
+A little bit like Scoop.it, which I took a look at the other week, Learni.st is an application that helps you to create your own page containing information that you think is worthwhile.  In their terminology, the author creates a “Board”, or permalinked webpage, on which they share “Learnings”, posts which contain the knowledge they want to share.  Those Learnings can be made up of either your own content or content that you have snipped from around the internet.
+
+Learni.st’s most interesting and promoted features are centered around making this content easy to share and collect.  In addition to the sharing buttons you would expect (Facebook, Twitter, Google+, Pinterest, and Linkedin), they have created their own Learni.st specific buttons to “follow” or “like” a Board.  Readers are also able to interact with the content by commenting on individual Learnings and Boards or even suggesting Learnings to the authors of the Board.  To make it easier to share in the creation of a Board, they have made it possible for author(s) to select “Collaborators” who can help to put the Board together.
+Getting Started
+
+If you are interested in finding interesting Boards, or just seeing the service for yourself, navigate to their site and start searching for topics that are of interest to you. If you would like to begin creating your own Board, you will have to sign in with Facebook and request an invite (it is currently in public beta, but they are giving out the invitations pretty freely).
+
+If you are curious how Learni.st came about or would like to see detailed “How To”s,  check out their own Board on how to use the Learni.st service from Farbood Nivi, the founder of Grockit.
+What Can You Do With It?
+
+Here are some ways that you, as an educator, can put Learni.st to good use:
+
+    Aggregating a useful feed.  If there is a website or author that you think regularly puts out good stuff, you can collect and curate that material in one place (like an interactive RSS feed).  This author has collected videos from the NYTimes ‘s Education section.
+
+Tips for teachers.   Share your experience and hard-won lessons with other educators, as in this Board on using Learni.st in the high school classroom.
+    Staying on the cutting edge.   Use a Board to keep you and your fellow teachers abreast of innovations in the field and what others are doing.
+    Putting together multimedia resources.   Want to have a single place where you can aggregate videos, articles, factoids, and images on a single subject?  Use a Board to put it all in one place in an easily digestible format, as with this Board on the  Origins of Basketball.
+    Collect resources for future use.  Sometimes you find something cool that you can’t use right now, but might need in the future.  With Learni.st you can collect those nuggets in one place and use them as and when you need them (and share them with others) as with this cool Board of Infographics for the Writing Classroom.
+    Create tutorials. Use your Learni.st board to create step-by-step tutorials on how to do just about anything.  Want to learn how to make delicious pour over coffee?
+
+Let us know, in the comments section below, about some interesting Learni.st boards you found…

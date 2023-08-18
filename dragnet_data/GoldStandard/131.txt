@@ -1,0 +1,888 @@
+The Nation Is Losing Its Toolbox
+
+Posted by Unknown Lamer on Tuesday July 24, @07:29AM
+from the 3d-printers-for-freedom dept.
+
+Hugh Pickens writes "Louis Uchitelle writes that in Aisle 34 of Home Depot is precut vinyl flooring, the glue already in place. In Aisle 26 are prefab windows, and if you don't want to be your own handyman, head to Aisle 23 or Aisle 35, where a help desk will arrange for an installer, as mastering tools and working with one's hands recede as American cultural values. 'At a time when the American factory seems to be a shrinking presence, and when good manufacturing jobs have vanished, perhaps never to return, there is something deeply troubling about this dilution of American craftsmanship,' writes Uchitelle. 'Craftsmanship is, if not a birthright, then a vital ingredient of the American self-image as a can-do, inventive, we-can-make-anything people.' Mass layoffs and plant closings have drawn plenty of headlines and public debate over the years, and they still occasionally do. But the damage to skill and craftsmanship — what's needed to build a complex airliner or a tractor, or for a worker to move up from assembler to machinist to supervisor — has gone largely unnoticed. 'In an earlier generation, we lost our connection to the land, and now we are losing our connection to the machinery we depend on,' says Michael Hout. 'People who work with their hands are doing things today that we call service jobs, in restaurants and laundries, or in medical technology and the like.' The damage to American craftsmanship seems to parallel the precipitous slide in manufacturing employment. And manufacturing's shrinking presence helps explain the decline in craftsmanship, if only because many of the nation's assembly line workers were skilled in craft work. 'Young people grow up without developing the skills to fix things around the house,' says Richard T. Curtin. 'They know about computers, of course, but they don't know how to build them.'"
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+by garaged (579941)
+
+I can build a computer !
+
+Of course, Im 38
+
+    by kcin (34043)
+
+    I make my own silicon wafers!
+         
+        by ballpoint (192660)
+
+        I make my own wafers, but they're mostly carbon, not silicon. Does yummy count ?
+         
+        by vlm (69642)
+
+        I make my own silicon wafers!
+
+        real CPUs use relays. The expensive part is figuring out memory. At a buck per relay and 22 relays per bitslice, a modest 8 bit ALU is pretty cheap and affordable, and per hour you spend designing and building is one of the cheapest "tech" hobbies out there. However, at a buck per relay, one mere kilobyte of memory is not quite as affordable.
+         
+        by TheGratefulNet (143330)
+
+        but THIS GIRL, does!
+
+        http://www.flickr.com/photos/jeriellsworth/2835459827 [flickr.com]
+
+        (one of my flickr contacts; I don't know her but she seems amazing by all accounts.)
+     
+    by swalve (1980968)
+    No, you can put together a puzzle. That's different from actually building something.
+    by mcgrew (92797) * on Tuesday July 24, @11:35AM (#40750343) Journal
+
+    I've been building computers since I was your age, I'm 60. But the problem is how stuff is made these days. Take cars, for example. When I was young, I'd work on my own. Now? I'd have a hard time changing the spark plugs. When my battery died, I had no clue where the damned thing was. Turns out it's inside the front passenger wheel well, it took a trained mechanic 45 minutes to change, you have to remove the wheel, fender, and wheel well to change the battery. THAT'S what the problem is.
+
+    Ever try to take a laptop apart? Pain in the ass, I won't work on laptops any more. Same thing.
+     
+          
+     
+       
+        by garyebickford (222422) <`moc.liamg' `ta' `cib73rag'> on Tuesday July 24, @08:51AM (#40747897)
+
+        My mom taught primary school back in the day. She noticed that the kids (ages 5-8, depending on which grade she was teaching each year) who came from the apartment blocks down the street had no finger dexterity at all - their hands were like clubs because they had never had any practice _doing_ anything, never got to go outside and play, make things, but just watched TV. This was back in the mid-1960s. Many of them were 'latchkey kids' whose parents both worked, so these kids went to school, came home and sat alone in the apartment until Mom and/or Dad came home. It's been a problem for a long time.
+
+        Another part of the problem is the relative cost of parts vs. assembled units. I recall wanting to fix a toaster (about 1970) that had stopped working - the nichrome wire inside had burned out. The cost of the wire was only slightly less than the cost of a new toaster. I think it's even worse today as increasingly automated manufacturing makes assembled units so cheap. I've noticed that in general it's cheaper to buy a new bookcase than to buy the wood to build your own of the same quality, _if_ you're that good - it's hard to match the precision with which even Ikea furniture is made.
+         
+              
+         
+            
+            by evil_aaronm (671521) on Tuesday July 24, @09:10AM (#40748133)
+            Must've been a different kind of "latch-key," in that neighborhood. My dad worked days; me mum, nights; we were pretty much left to our own devices all day. And there was just about nothing we didn't do. Played all kinds of games in the woods on the hill, drinking water straight from the little stream rather than trudge back to the house. Playing with Matchbox cars in the gravel. Racing bikes in the dirt parking lot down the block. Playing hide-and-seek at night. But the big thing was baseball. If we had a quorum, we played. We'd ride from neighborhood to neighborhood, gloves on our handlebars, looking for people to play.
+
+            Yeah, we watched our share of TV, too - reruns of Gilligan's Island, I Dream of Jeannie, Munsters, Get Smart, etc. - but, if the weather was good enough, we were outside, for the most part.
+             
+                  
+             
+                
+                by kidgenius (704962) on Tuesday July 24, @09:13AM (#40748195)
+                I was a latch-key kid, and sure, I watched some TV. But we also ran around, rode bikes, played with legos, etc. And I'm not some old guy, I'm a child of the 80's.
+                 
+                      
+                 
+           
+            by vlm (69642) on Tuesday July 24, @09:32AM (#40748479)
+
+            I've noticed that in general it's cheaper to buy a new bookcase than to buy the wood to build your own of the same quality
+
+            Having done some carpentry and built some bookcases both walmart and "real" you cannot even buy veneer particle board of a quality level as low as walmart flat packs. Literally unavailable to retail consumers. So I cry bogus on that claim.
+
+            The real problem is people who can't appreciate quality. I can and have built bookcases out of solid oak and hand rubbed finish, which end up costing quite a bit and look beautiful. However the average joe just wants the $19 saggy walmart bookcase. Sort of like McDonalds "food" vs real restaurant.
+             
+                  
+             
+                 
+                by garyebickford (222422)
+
+                I _did_ say 'of the same quality' - I wasn't trying to compare flat pack particle board to solid oak. :)
+                     
+                    by vlm (69642)
+
+                    I _did_ say 'of the same quality' - I wasn't trying to compare flat pack particle board to solid oak. :)
+
+                    Yeah but that was kind of my point. As an individual I can't buy any flat pack level crud at all, but if it were even possible it would be in the realm of $5 worth of "psuedowood" to make the average walmart flat pack $19 bookcase. I mean, lets be realistic, they aren't turning that "wood" into a kit for free or at a loss and local lumber yards are always so much cheaper than retail floor space for absolutely everything else....
+
+                    Or going the other way, yeah I bought my solid oak and it was expensive but ma
+
+                by ArhcAngel (247594) on Tuesday July 24, @10:19AM (#40749083)
+
+                The real problem is people who can't appreciate quality.
+
+                I'm with you here. People in general do not appreciate quality. But this has almost always been the case.
+
+                I can and have built bookcases out of solid oak and hand rubbed finish, which end up costing quite a bit and look beautiful. However the average joe just wants the $19 saggy walmart bookcase. Sort of like McDonalds "food" vs real restaurant.
+
+                If by average joe you mean people who live on a budget and can't always afford quality.
+                I don't know many people who would choose Wal Mart particle board over solid wood if the costs were the same. Most people need their furniture to perform a function. If it performs the function and looks nice that's a bonus. If it is also durable that's incredible.
+
+                It's not unreasonable to expect a premium for premium goods. What is unreasonable is to expect everyone to pay those premiums if they don't have to.
+                 
+                      
+                 
+                
+                by Americano (920576) on Tuesday July 24, @11:29AM (#40750207)
+
+                    The real problem is people who can't appreciate quality.
+
+                No, the real problem is that that solid oak furniture with hand-rubbed finish takes:
+                1) A long time to build;
+                2) A minimum level of expertise to build a passably "quality" unit - adding to the time required to build it;
+                3) A minimum set of relatively expensive tools and workspace to build that passable "quality";
+                4) A relatively expensive set of materials with which to construct this unit;
+
+                If you took any random person, and offered them a choice (totally free, no strings, no fees - whatever they prefer is given to them at no cost to them) between:
+                1) A hand-crafted, solid-maple bookshelf, that sells for $700-1200 dollars (http://www.pompy.com/configurations/?category=45&product=6319);
+                and
+                2) A mass-produced MDF-and-veneer monstrosity that sells for $20 dollars (http://www.walmart.com/ip/Mylex-4-Shelf-Bookcase-Black/20836837);
+
+                Most people are going to choose the $700 hand-crafted-by-master-crafters bookshelf. So why do people choose the cheap furniture? Because... it's cheap. $700 for a bookshelf is a LOT of money. $20 not so much. So yeah, people will buy the cheap one, because they don't have the extra $680 to spend.
+
+                As for building their own, they'd need a whole lot more than $700 to build their own bookshelf. Time, materials, tools, and expertise all cost you something to acquire or develop. Spending hundreds - maybe into the thousand  range - on tools and materials for a project that you probably will only use once or twice more in your life is a pretty expensive hobby.
+
+                Nothing to do with people "preferring" shoddy workmanship and shitty furniture. Everything to do with people making an economic decision.
+                 
+                      
+                 
+                   
+                    by GospelHead821 (466923) on Tuesday July 24, @12:55PM (#40751767)
+
+                    Thank you for making this point. For me, space is the utmost consideration. My wife and I live in a one-bedroom apartment with not even so much as a dedicated garage space to our name. If I want to do even a little bit of woodworking, like building a bird house, I'm laying down sheet plastic, cutting hardboard with a dremel, and possibly vacuuming sawdust out of the carpet. (Not to mention, all of this probably violates my lease.) Forget about working with pieces of wood large enough to build a small bookcase.
+
+                    If I had space, the question would then be whether or not I wanted to invest in tools. A power drill? Sure. A table saw? Maybe not.
+
+                    I'm crafty enough that if I have access to space and tools, I'm a reasonably handy guy. Maybe not "build my own beautiful bookcase" handy but certainly "build my own functional bookcase" handy. Now, fortunately, I have a buddy who has a garage and plenty of woodworking tools. If/when I move closer to him, borrowing becomes an option.
+
+                    Ultimately, while I sympathize with the tenor of this article, it seems to me that there are a lot of hidden costs to craftsmanship. Should everybody have a workshop in the garage or at least enough that everybody's one degree of separation from a workshop? And what other expertise would we have to give up to maintain that level of craftsmanship? The article discusses some of its advantages but it also seems to downplay other areas of expertise. What exactly is wrong with a shift toward skilled services like cooking, laundry, tailoring, etc.? Isn't a diversity of specialists supposed to be good for an industrial/post-industrial economy?
+                     
+                          
+                     
+                 
+                by cayenne8 (626475)
+                One thing that no one has really mentioned in this day in age vs the past...is the seeming lack of time to do all this stuff yourself.
+
+                On a 'normal' work week for me..I spend 8  hours a day at work, I try to hit the gym 3-4 days of the week too..that's a couple hours, so basicaly, the ONLY time I really have to myself for fun, is the weekend.
+
+                Now..lets see. I know how to wash my own clothes and can iron them. I could figure how to change the brakes on my car...I could do a LOT of shit on my own.
+
+                But, person
+        
+        by ByOhTek (1181381) on Tuesday July 24, @08:51AM (#40747899) Journal
+
+        It's not that they are clueless. I've seen some young kids (16-18 or so) able to rebuild computers, car engines, do almost any arbitrary house work, etc.
+
+        I'm 30, I'll rebuild computers, and wire a house. Aside from that, my manual skills are, admittedly, limited. The rest doesn't interest me, and I know people I can call for help to get the job done better than a handy man, and with less time than it would take me to do it myself - I'll learn a bit along the way as well, to help with doing the smaller repairs. And my friends get excellent cooking and/or money. Everyone wins. Some of them instead of taking food or money, get assistance from me in computer related stuff, tutoring their kids or themselves in a mathematical, computer or scientific subject, etc.
+
+        If you don't have the interest, and don't need to do it, there really isn't a good reason to worry about it beyond a modest familiarity. Could you live your lifestyle, having built everything you own, from the ground up? Probably not, you don't have the time. The point is to be good at at least a few things, and then know who to talk to, to get the rest done effectively, and if possible, know enough of the basics to shave off some diagnostic time.
+         
+              
+         
+           
+            by Deep Esophagus (686515) on Tuesday July 24, @09:43AM (#40748599)
+
+            I'm 30, I'll rebuild computers, and wire a house.
+
+            Wire a house? Right this way, citizen. You have the right to remain silent...
+
+            A few years back the county commissioners in our area voted to apply city building codes to construction anywhere in the county. Not only do you need permits out the wazoo if you so much as want to bang two rocks together, but the odds that you'll actually pass the inspection the first time around if you're not on the commission or screwing somebody who is on the commission are somewhere between jack and squat.
+
+            We had a basement foundation put in for a modular house and jumped through all their hoops; when the inspector came out we failed the inspection because the front porch light was loose and there was no handrail on the concrete stairs leading to the basement OUTSIDE the house. Because of that -- and that alone -- we were not permitted to occupy our own house on our own property. Apparently he felt it was safer for my handicapped wife, my dog, and me to live for six weeks in a leaky motor home in our driveway with no running water in below-zero winter than to sleep in beds in our heated house because of that porch light and handrail.
+
+            Do I sound just ever so slightly bitter? Six months later we're going through the same Kafka nightmare trying to be allowed permission to use the interior stairs we had installed. Our builder submitted plans to the commission, those plans were approved, and still the jackass tyrants wanted us to rip out the stairs and install them in a different place because the treads were 1/2" narrower than his arbitrary building code prescribes. No, I'm not saying arbitrary because I'm angry; I'm saying arbitrary because they didn't have a problem with stair tread width five years ago before adopting those building codes, and the width they decided on isn't a standard for anyone, anywhere -- building codes other places recommend different widths, so there's nothing magically safe about the width he wants.
+
+            This time around, we do have a friend-of-a-friend of one of the commissioners so we were at least able to get the stairs themselves approved. But we still can't get final acceptance of the construction until we rip out the lighting we put on the stairs ("you might bump your head on the bulb if you grow to 7 feet tall"), put up safety mesh over a window at the foot of the stairs ("if you're drunk and you trip going downstairs, you might break the glass and cut yourself"), and replace a steel beam we had to remove in the first place because it really was too low to go under without smacking into it.
+
+            So why bother learning how to use tools? I'll never be allowed to use them anyway; it's for my own good that I leave all construction to licensed professionals.
+             
+                  
+             
+                 
+                by ZorinLynx (31751)
+
+                What the fuuuu? Where is this horrible place so I can make sure I never, EVER think about living there?
+                    
+                    by Sentrion (964745) on Tuesday July 24, @12:58PM (#40751819)
+
+                    Coming to a town near you. It is with much horror that I keep reading stories just like this, and I have heard much worse. There are many people who are enthusiastic about and advocate for sustainable architecture and alternative types of human habitat. Earthships, strawbale homes, yurts, geodesic domes, monolithic domes, the small homes movement, etc. The list goes on, but the point is that in spite of the collapse in the housing market, there is still a shortage of affordable housing for many of the nation's poor and working class. Even for the middle-class and well-to-do, there are many of us who would prefer to build our own homes to our own preferences, requirements, and objectives - such as living sustainably or being more self reliant (as in not worrying that the utility bill could increase 300% in three months). By providing their own labor, there are alternative dwellings that cost less than $20k to build, using materials that are either recycled (straw bales, car tires, etc.) or made on site (cob, stone, log, rammed earth, adobe, etc.). But most often these alternative dwellings cannot be built according to standard building codes, not because they are any bit less safe or structurally sound, but because the code is written by the same industry that supplies the high-priced standardized lumber, brick, and hardware. In addition to complying with an arbitrary code that many say is feeding the depletion of the earth's natural resources, contributing to global warming, and redistributing wealth from working class families to the world richest 1%, the home builders also have to pony up arbitrary fees for permits, inspections, drawings, approvals, etc. that end up costing more than the total materials.
+
+                    Many of these alternative dwellings are designed to take advantage of passive heating and cooling techniques as well as collecting rain water into cisterns, draining greywater into gardens, sometimes even processing blackwater, and also generating power on-site, such as with wind turbines, micro-hydro-turbines (creek power), and solar. Efficient hand made ovens that burn biomass grown in the backyard provide more than enough heat for comfort, cooking, and other applications. But even when these dwellings are completely self reliant, most municipalities REQUIRE these homes to have and pay for utility connections such as gas and electricity.
+
+                    What is ridiculous is that many of the rules have silly loopholes. The codes that apply to my home no longer apply if I build my home on a chassis trailer. While I might be required to hire an electrician to wire my house, I can do my own low-voltage wiring (say 24V for indoor and outdoor lighting). I might not be allowed to install my own solar panels, but I could build a fold-out solar power plant on a trailer chassis without any questions - even add a backup generator, transformers, and a battery bank to boot without raising any eyebrows from the regulators. I can't install a new plumbing fixture in my kitchen without paying for a permit, hiring a plumber, and paying for an inspection, but I can use a pre-installed connection and use a portable dishwasher and a portable sink and relocate them in my kitchen any way I choose. But if my sink was built into the counter then I wouldn't be able to even fix a dripping faucet in some municipalities.
+
+                    With already such a division between the haves and have-nots in our country, as these regulations tighten, the ability to fall back on self reliance or subsistence farming like our forefathers only one century ago has all by already been taken away. The poor and working middle class will still be blamed for their own socio-economic lot in life, they won't get sympathy or aid from the well-to-do, but they won't be allowed the basic means to provide for their own necessities. Living homeless on the street will continue to be legal, as long as you don't erect a tent or an elaborate cardboard box for shelter. Welcome to Metropolis - workers, please proceed to the depths.
+                     
+                          
+                     
+               
+                by hawguy (1600213) on Tuesday July 24, @10:21AM (#40749127)
+
+                We had a basement foundation put in for a modular house and jumped through all their hoops; when the inspector came out we failed the inspection because the front porch light was loose and there was no handrail on the concrete stairs leading to the basement OUTSIDE the house. Because of that -- and that alone -- we were not permitted to occupy our own house on our own property. Apparently he felt it was safer for my handicapped wife, my dog, and me to live for six weeks in a leaky motor home in our driveway with no running water in below-zero winter than to sleep in beds in our heated house because of that porch light and handrail.
+
+                Is there any building department in the country that will approve stairs with no railing? Your wife is disabled, so you should understand the need for hand railings on stairs. Even if they are OUTSIDE the house, since presumably they may be used for emergency egress. If the porch light was installed as part of the permitted work, then I can understand why they rejected it -- a loose light can be a shock hazard. If it wasn't part of the permitted work, then the inspector was being petty and should have just pointed it out without writing it up. But if it was done under the permit and he gave his signoff and your wife electrocuted herself while changing the light bulb, it's his head on the line.
+
+                I don't see why it took you 6 more weeks of sleeping outside to get the handrail installed and porch light fixed? A handrail is a couple hours of work, even in concrete. Couldn't you just fix them and schedule a followup inspection?
+
+                As annoying as they are, building department regulations are supposed to insure a minimal standard of construction - any licensed contractor should be able to build to code without a problem. If you're doing the work yourself, stop by your building office and speak to an inspector -- don't assume that if you just submit plans that the inspector is going to call out every little non-compliant item.
+                 
+                      
+                 
+                     
+                    by atriusofbricia (686672)
+
+                    We had a basement foundation put in for a modular house and jumped through all their hoops; when the inspector came out we failed the inspection because the front porch light was loose and there was no handrail on the concrete stairs leading to the basement OUTSIDE the house. Because of that -- and that alone -- we were not permitted to occupy our own house on our own property. Apparently he felt it was safer for my handicapped wife, my dog, and me to live for six weeks in a leaky motor home in our driveway with no running water in below-zero winter than to sleep in beds in our heated house because of that porch light and handrail.
+
+                    Is there any building department in the country that will approve stairs with no railing? Your wife is disabled, so you should understand the need for hand railings on stairs. Even if they are OUTSIDE the house, since presumably they may be used for emergency egress. If the porch light was installed as part of the permitted work, then I can understand why they rejected it -- a loose light can be a shock hazard. If it wasn't part of the permitted work, then the inspector was being petty and should have just pointed it out without writing it up. But if it was done under the permit and he gave his signoff and your wife electrocuted herself while changing the light bulb, it's his head on the line.
+
+                    I don't see why it took you 6 more weeks of sleeping outside to get the handrail installed and porch light fixed? A handrail is a couple hours of work, even in concrete. Couldn't you just fix them and schedule a followup inspection?
+
+                    As annoying as they are, building department regulations are supposed to insure a minimal standard of construction - any licensed contractor should be able to build to code without a problem. If you're doing the work yourself, stop by your building office and speak to an inspector -- don't assume that if you just submit plans that the inspector is going to call out every little non-compliant item.
+
+                    Whether all you say is true and just, you walked right by the core point of the post. They were prevented from living in their house on their property by some government bureaucrat. Whether those issues are 'serious' or not, they should be allowed to accept that risk without worrying that some one will show up and evict them from their own home.
+
+                    I see what you're saying about building codes and I'd likely want a house I bought to be built to some good standards and certified as such by someone. That said, I
+                         
+                        by hawguy (1600213)
+
+                        Whether all you say is true and just, you walked right by the core point of the post. They were prevented from living in their house on their property by some government bureaucrat. Whether those issues are 'serious' or not, they should be allowed to accept that risk without worrying that some one will show up and evict them from their own home.
+
+                        I see what you're saying about building codes and I'd likely want a house I bought to be built to some good standards and certified as such by someone. That said, I would also not want some government wonk showing up and telling me I can't live the way I want as long as I'm not bringing harm on others.
+
+                        Ahh, well that's the problem -- your house on your property ends up being someone else's house and property some day, and once the work is done and the walls are sealed up, no one knows if the work was done to code. If you want to know that the house was built to some good standards, then you're going to check the permit history and make sure that any significant renovations or improvements were done with permits. The previous owner might have been happy with doing his own work on the house in his own wa
+                   
+                    by Deep Esophagus (686515) on Tuesday July 24, @12:13PM (#40751009)
+
+                    I don't see why it took you 6 more weeks of sleeping outside to get the handrail installed and porch light fixed? A handrail is a couple hours of work, even in concrete. Couldn't you just fix them and schedule a followup inspection?
+
+                    Now that I think about it, it was more like 3 weeks but to answer your question it was because the contractors who did the initial work had squeezed us in between larger jobs and moved on to their next job in another state as soon as they got their truck unloaded, and everybody else within a hundred miles (it's a rural area in Wyoming) was booked months in advance. Once the original contractor was able to send somebody back to do the handrail, we had to wait for the inspector to come back out for the followup inspection.
+
+                    Your wife is disabled, so you should understand the need for hand railings on stairs. Even if they are OUTSIDE the house, since presumably they may be used for emergency egress. If the porch light was installed as part of the permitted work, then I can understand why they rejected it -- a loose light can be a shock hazard. If it wasn't part of the permitted work, then the inspector was being petty and should have just pointed it out without writing it up. But if it was done under the permit and he gave his signoff and your wife electrocuted herself while changing the light bulb, it's his head on the line.
+
+                    She will also never, ever be able to use those stairs under any circumstances. But that's beside the point. I'm saying it's intrusive and counterproductive to deny occupancy of our bedroom because of an outside handrail. Yes, all the things you cite are potential hazards and it's quite conceivable that some poorly placed item or loose fixture could someday hurt me. Our choice of placement of chairs and the exercise bicycle in the living room are tripping hazards (ask me how I know). The stupid cat who parks herself right in front of my office door in the unlit hallway at night before I go back to the bedroom is a safety hazard who is, at this point, lucky to be alive and that only because she made it out of reach before I could find an axe.
+
+                    But all of that is my problem. If I get hurt, or somebody decides to sue me because they got hurt, on my own property due to decisions I made; if a future buyer refuses to make an offer until I change the layout of the stairs, I bear the consequences of my actions. I don't need every minuscule aspect of my life safety inspected, protective helmeted, or compliance regulated. I shouldn't have to stop by my building office and speak to inspector to manage my property to my specifications. If they want to offer advice as to what they think is the best way to approach things, I think that's great and I'll seek out such advice and take it into considerations; making me legally bound to adhere to every jot and tittle of that advice goes beyond helping me make my home safe and becomes an unreasonable intrusion into my private life.
+                     
+                          
+                     
+
+by eldavojohn (898314) * <my/.username@@@gmail.com> on Tuesday July 24, @07:37AM (#40747377) Journal
+Listen, DIY is great. And I'm a huge fan of building things with your hands but as someone who grew up working on farms, framing houses and bussing tables I have to say that this sort of lament is laughable from my point of view. I'm sitting now in an air conditioned room, working at my own pace and making orders of magnitude more writing software than walking up and down a field picking up rocks so they don't ruin the discer. Oh, go right ahead and laugh, farming machines are funny words to people who haven't had to fix a broken belt or jerry rig up something on the fly: discer, thresher, bailer, huller, etc.
+
+in Aisle 34 of Home Depot is precut vinyl flooring, the glue already in place. In Aisle 26 are prefab windows, and if you don't want to be your own handyman, head to Aisle 23 or Aisle 35, where a help desk will arrange for an installer, as mastering tools and working with one's hands recede as American cultural values.
+
+Yes, I've also heard software developers complain that today you can use ExtJS 4 to instantly have a windowing option in your browser and now it's sad because all the UI guys are using something like this. These "prefab architectures" are so terrible because nobody actually writes JavaScript anymore. Well, I know how to put together a window sill, a window frame and put the pane in and everything (even know how to build the headers for load bearing regulations on houses). And I'll tell you right now my implementation of a JavaScript windowing system wouldn't be as slick or universal as ExtJS 4 just like my window would be pretty shitty compared to something prefabbed up. Both would cost my employers more time and money. I would wager that if you were someone that built houses for a living, you would be okay with someone else putting together factory made windows with a low defect rate. Unsurprisingly it saves you a bunch of money just like a lot of software libraries save me time and money.
+
+Yeah, I can make a table. But I need a jointer and a planer and whole bunch of other tools. The barrier to entry is high. Or I can go down to Ikea and find some veneered particle board for comparative pennies. Welcome to capitalism.
+
+'In an earlier generation, we lost our connection to the land, and now we are losing our connection to the machinery we depend on,'
+
+Oh, right, your ancestors were the farmers. It was okay for you to move on to something more interesting like building houses and cities instead of devoting every waking moment to growing growing growing. Now we've moved on and it's time to mourn the loss of ... what exactly? Am I supposed to feel ashamed that all four of my grandparents were farmers and none of their 14 children are? Or that my dad was a carpenter and cement pourer and I'm a software developer? It's funny, none of my relatives guilt trip me like this New York Times writer that probably hasn't spent a day of his life working in a factory.
+
+From the NYTimes author's bio:
+
+Mr. Uchitelle was a visiting scholar at the Russell Sage Foundation in New York in 2002-03 and taught journalism for many years at Columbia University’s School of General Studies. Before joining The Times, he worked for The Associated Press as a reporter, an editor and a foreign correspondent in Latin America. He and his wife, Joan Uchitelle, live in Scarsdale, N.Y. They have two grown daughters.
+
+Hey, anybody know of a good factory job near Scarsdale for Mr. Uchitelle? Maybe one of those industrial revolution jobs with industrial revolution pay? Then I think I'll listen to him bitch and moan about how progress is losing our nation's toolbox. Afterwards, take him around to farms at night (you know, the ones where people are working after sundown and before sunup) and let everyone tell him their stories about how they were injured on the job. Every hard working farmer or carpenter has those stories. I still got all my digi
+Read the rest of this comment...
+ 
+      
+ 
+
+    
+    by ickleberry (864871)
+    Prefab windows might be reliable but they look bland and unoriginal. Just like all the ExtJS/jQuery/Web 2.0 effects and widgets you see these days.
+
+    If you want something out of the ordinary you'll have to make it yourself or pay through the nose for someone else to.
+        by JBMcB (73720) on Tuesday July 24, @08:58AM (#40747985)
+
+        If you want something out of the ordinary you'll have to make it yourself or pay through the nose for someone else to.
+
+        Unless you don't value your time at all - doing it yourself is the same thing as paying through the nose. You can buy all the tools you need and take the time required to learn joinery and mill-work (not an easy thing to do.) At the end, you'll know how to make windows. A not completely un-useful skill, but unless you seriously want to build those kinds of things as a hobby or a profession, it's kind of a waste, isn't it?
+         
+              
+         
+                
+                by ColdWetDog (752185)
+
+                And the group of guys with a bunch of ammo and an understanding of small squad tactics will be the new 'boss'.
+
+                Perhaps worse then the old boss.
+
+                You'll be quite honored. They might even give you something to eat now and again.
+             
+            by hawguy (1600213)
+
+            . Where I live (east coast US), windows also have to be hurricane rated by law. This basically means that they will not break when a 8ft 2x4 is shot at 150 mph directly at them. Good luck with that, if you just threw it together yourself.
+
+            I think you may be mixing up the wind load test with the missile impact test. I bet the wood siding on most houses would fail a 150mph 8ft 2x4 impact. The 150mph rating is for wind-load (which is substantial, especially for a large window).
+
+            Miami-Dade has 2 impact tests for windows, the speed of the large projectile 2x4 is only 34mph, which has much lower energy than a 150mph projectile... even the small projectile "ball bearing" test is only performed at 50mph:
+
+            http://browardimpact.com/miamidadeimpac [browardimpact.com]
+                 
+                by hackula (2596247)
+                I was not very clear. It would most certainly need to be replaced, but it has a coating that will keep it in one piece. This will keep you from being impaled by the projectile or inhaling bits of 150mpg glass fragments, both of which most people would like to avoid.
+     
+    by dywolf (2673597)
+    If only I could reach through the monitor and slap people. This is not progress. This is classic cultural decline. When you no longer have the expertise to do something, even a basic something, you are at the mercy of those who do. It's a form of competition. The experts can cost cost more, but not too much more cause you'll just do it yourself. But when you can no lnger do it, they can charge whatever they want. And give you whatever quality they want, cause you no longer possess the knowledge to know the
+         
+        by aurispector (530273)
+
+        When we started outsourcing jobs we also outsourced expertise. The US used to have a colossal pool of engineers, scientists and skilled workers. All that went overseas to china who, incidentally, understand this transfer of expertise and it's strategic importance.
+
+        We are left with a nation of unskilled workers, managers and clerks.
+         
+        by GameboyRMH (1153867)
+
+        Even the continent had been pre-tamed by the natives...
+        Re:Justification of Apathy (Score:5, Insightful)
+        by Anonymous Coward on Tuesday July 24, @08:30AM (#40747741)
+
+        What are you talking about? Division of labor is the very definition of civilization.
+
+        In pre-civilized societies, everyone did everything themselves, and so everyone was a hunter/gatherer who did absolutely nothing but struggle to survive from day to day. If you weren't catching your food, you were making the tools needed to catch your food or making the clothing to survive the elements. What a dreary, depressing, cultureless, pleasureless existence.
+
+        With division of labor--i.e., civilization--we no longer have to struggle to survive. We can create culture specifically because we don't have to do everything ourselves. The less we have to do ourselves, the more civilized we are, and the richer and more meaningful our lives become.
+
+        The fact that wecan lounge around in an air-conditioned room watching TV and drinking beer makes us superior.
+         
+              
+         
+       
+        by neyla (2455118) on Tuesday July 24, @08:52AM (#40747925)
+
+        Yeah, in principle sure. But here's the thing: increased specialization and mass-production means that it's not just you who can't build a good-quality window with your own two hands and basic tools. Indeed *nobody* can. The only way to build a modern window at a reasonable cost, is to make a *shitload* of them at the same time.
+
+        The objection that they can then charge anything is valid - if there's insufficient competition in the market. This is a good reason to be real vigilant about anti-trust.
+
+        Yeah, I know less about farming than my grandfather did. But I know a lot more about photography, about computer-programming, about electronics, about user-interfaces, about a whole lot of things that are relevant in my world, but wasn't in his.
+
+        People learn what they need to live in the world they live in. News at 11.
+         
+              
+         
+                 
+                by Cid Highwind (9258)
+
+                And after learning those new skills, your handmade windows will be every bit as good as the mass-produced ones... were at the time that secondhand book was written. Single glazing held up by putty, solid wood frame and muttens, copper weather-stripping; aspiring window-makers better include "budgeting for a doubled heating bill" as part of the learning process.
+        
+        by JBMcB (73720) on Tuesday July 24, @09:03AM (#40748053)
+
+        And yet, here you are commenting on a Slashdot article, when you could be out building your own house and furniture, designing your own car and growing your own food. Weird - it's almost like you're letting other people do those things so you have more time to do things you like to do, like comment on Slashdot articles. What a crazy system, it's almost like it's *supposed* to work that way.
+         
+              
+         
+        
+        by MikeBabcock (65886) <mtb-slashdot@mikebabcock.ca> on Tuesday July 24, @09:59AM (#40748809) Homepage Journal
+
+        OMG, I also don't know how to do neurosurgery or build my own CPU.
+
+        Guess what, expertise and relying on experts in fields is a perfectly good example of knowledge progress.
+
+        If everyone can know how to do everything, your society's knowledge and skill base is very small.
+         
+              
+         
+     
+    by Sasayaki (1096761)
+
+    I sometimes think Slashdot needs a "Like" button for posts like this but then I consider the broader implications.
+
+    But sometimes... sometimes, in my dreams, I imagine it.
+     
+    by fluffythedestroyer (2586259)
+    It all comes down to pure profit. If the company doesn't make enough money, it will sell that factory and built one where it's cheaper. He will export his products where he can make more profit. Like you said, " Welcome to capitalism." Your right on that. There seems to be 2 different views from both our generation and theirs and what they don't seem to grasp is the world is turning and in constant evolution. There's so many stores, the market is saturated with them so it makes those products very cheap alm
+        
+        by Sique (173459) on Tuesday July 24, @09:40AM (#40748569) Homepage
+
+        It all comes down to pure profit.
+
+        No, it is not only the profit. I might have become a carpenter, able to built my own windows (there is a carpenter in the backyard of my house, and another down the road), but I chosed not to. I might have become a mason, building my own houses. I even had courses doing exactly that during my school time, even though only four hours every two weeks. I chosed not to. I know a little knitting and tailoring, because the nursery teacher had us children craft something for Christmas each year, but I chosed not to become a fashion designer.
+        There is a rule of thumb that to master a subject, you have to do it for about 10,000 hrs. In a normal working year, there are about 2080 hrs without holidays or vacation (52x40). So you have to work five years to master something. Five years of farming, five years of carpentry, five years of masonry, five years of tailoring, five years of cooking, five years of forging, five years of mining, five years of plumbing, five years of each profession necessary to provide for today's needs. My life is too short for that. Literally too short. I expect to live about 75 years, this means that I at a maximum can become proficient at 15 different trades. And then I die.
+         
+              
+         
+     
+    by Troyusrex (2446430)
+    Of all the days not to have mods points! While long this post is well reasoned, well argued and fits into my preconceived biases (in other words, I think it's right on but recognize I'm coming from a particular viewpoint).
+     
+    by neyla (2455118)
+
+    Indeed. This is just whining. No I don't make my windows myself, if I did they'd be more expensive, and leak heat like a seave, compared to a modern sealed triple-glass argon-filled thing. I could though, assuming I was satisfied with 100 year old standard of windows.
+
+    The main reason you replace instead of repairing is the same: a generation ago a washing-machine cost the equivalent of a months pay, thus if it was broken and could be repaired in a day, it was a no-brainer to do so. Today a (much better!) ma
+    
+    by garyebickford (222422) <`moc.liamg' `ta' `cib73rag'> on Tuesday July 24, @09:05AM (#40748069)
+
+    It's funny, none of my relatives guilt trip me like this New York Times writer that probably hasn't spent a day of his life working in a factory.
+
+    From the NYTimes author's bio:
+
+    Mr. Uchitelle was a visiting scholar at the Russell Sage Foundation in New York in 2002-03 and taught journalism for many years at Columbia University’s School of General Studies. Before joining The Times, he worked for The Associated Press as a reporter, an editor and a foreign correspondent in Latin America.
+
+    Indeed. One of my big complaints is that journalism, having become a 'profession' that you now go to college for, is now populated by people who know nothing but what their professors taught them - 1/2 propaganda and 1/2 how to hold a microphone. Back in the day reporters, editors and the like either started out in a different job or worked their way up from copy boy or runner. Either way, having spent time in the real world, they understood a few things and had a perspective on real life. Unfortunately going to journalism school doesn't teach you anything about how the world works, or the details of any part of it. As a result, nowadays listening to the news and most commentary is like listening to grade school reports from complete newbies who know nothing about the history, background or dynamics of whatever they are reporting on. And many of them show the arrogance of one who thinks they know something when they are actually ignorant (at least of the topic at hand). It's like an unending procession of valley girls (and boys) remarking 'OMG look at those big buildings where people work - umm - what's work?'
+     
+          
+     
+        
+        by eldavojohn (898314) * <my/.username@@@gmail.com> on Tuesday July 24, @08:19AM (#40747647) Journal
+
+        no one who has worked on a farm says 'discer'. It's a disc.
+
+        It's true. I've been living a lie. Sure, I talk the talk and I might sound like I've worked on farms but it's all a sham. "Why do I do it?" Well, there's something about being able to tell all the Carnegie Mellon, Princeton and MIT graduates I work with that I spent my childhood picking up rocks and throwing bails. I keep a bucket of pig shit behind my house and sometimes I just smear that all over me before I hit the town. But it's all a lie. I'll step into the local bar and the women will take one whiff of that sweet fecal matter and come running to me. "What were you doing today, eldavojohn?" they ask as they swoon around me. "Castratin' pigs," I'll lie. And they will just fall all over each other to touch me. I know, it's all very glamorous but it requires a lot of research to go into detail about making two incisions to get the testicles out on the small male pigs and then wiping them down with antibiotic. Or injecting the blue crap into the female piglets' ovaries. Women just absolutely adore a man who knows his way around ending the reproductive cycle of pigs. Bring up that topic at a fine family dinner and even East Coast grandma is on the edge of her seat.
+
+        And the money. My god, the money I've made claiming to have worked on farms. I get $25,000 a night just to make an appearance at places and rub elbows with businessmen, musicians and diplomats. They would trot me out like a one trick pony and all ask me questions -- hanging on my every word. That too, has been all a lie. "Con man" would be a kind label for me now.
+
+        But you caught me. I never worked on farms growing up. I only brag about walking up and down scorching black earth, picking up any baseball sized or larger rock and returning it to the flatbed behind the tractor. But I've never done it. Never done it for hundreds of hours every summer between the hours of 5am and 11am daily. Never received $8/hour under the table nor the right to use some of their equipment at my folks' place. The details are there but the colloquialism of "discer" versus "disc" ruined me. I suppose this slip has been a blessing in disguise.
+
+        I'm glad you caught me before I cut off one of my own fingers so I could tell people I lost it trying to free up the gears of a frozen motor. All the Slashdot karma that would have gotten me and all the pussy that would have been so easily accessible with only nine fingers would have been great -- but it all would have been a lie.
+
+        Thank you, Anonymous Coward. Thank you for helping me help myself and own up to this horrible vile lie that has given me an undue elevated societal status.
+         
+              
+         
+             
+            by Araneas (175181)
+            Awesome bit of writing this.
+             
+            by Relayman (1068986)
+            You should have used craftsmanship to build a rock picker that you pull behind the tractor.
+        
+        by garyebickford (222422) <`moc.liamg' `ta' `cib73rag'> on Tuesday July 24, @09:10AM (#40748135)
+
+        Forbes just had a good article (sorry, too lazy to find the link) about how much better things are now than they were not long ago. Thanks to smart phones, the lowliest tribesman in Kenya now is better connected to the world than Ronald Reagan (or anyone at that time) was. Homicides are down by a factor of 100 from 500 years ago. The mean (adjusted) per capita income of the poorest people in the world today has tripled in the last 50 years despite the population doubling. The percentage of women dying in childbirth is down by a factor of 100 over the last 100 years, and childhood mortality has improved similarly. And so on. (These numbers are my recollection from the article so could be off, but you get the picture.)
+         
+              
+         
+            
+            by HungWeiLo (250320) on Tuesday July 24, @02:27PM (#40753333)
+            Thanks to smart phones, the lowliest tribesman in Kenya now is better connected to the world than Ronald Reagan
+
+            Fer crying out loud, for the last time - he was not born in Kenya!
+             
+                  
+             
+             
+            by hal2814 (725639)
+            Did that person manufacture their own tiles or did they go to the store and buy them by the box? Everyone is building something from a kit these days (and by "these days" I mean "since the industrial revolution"). Some kits are just easier to assemble than others. There's nothing more glorious about gluing tile to the ground than there is about gluing vinyl to the ground. They didn't "do it themselves." They just did part of the assembly. The amount of effort put into the creation of ceramic tile is f
+
+
+by Peter Simpson (112887) on Tuesday July 24, @07:41AM (#40747407)
+It's getting hard to find anything but pre-pack import junk at Lowes and Home Depot. "Brass" fittings are cheaply plated steel that rusts when you look at it sideways, Kobalt tools are half plastic -- it's like a branch of Wal-Mart. If my local hardware guy doesn't have it, I mail order. The only things I go to Lowes for are immediate needs.
+ 
+      
+ 
+
+    
+    by JaredOfEuropa (526365) on Tuesday July 24, @08:20AM (#40747659) Journal
+    Odd, over here (the Netherlands) the opposite has happened, and DIY chains now sell more up-market fittings as well as the cheap stuff. With tools, it's the other way around: we now have a lot of cheap tools from China, of varying quality. And that's fine as well: power tools that used to be prohibitively expensive for the occasional user are now affordable. That Chinese drill motor with pneumatic hammer isn't going to be as nice and long-lasting as the one from DeWalt, but it's good enough for drilling a few holes to hang paintings or chisel old tiles off the bathroom wall, and it's only a hundred euros instead of 600 for a pro tool.
+
+    As for declining skills, I'd have to agree with the article's author. I think part of the problem is that being a craftsman isn't cool anymore... ok, perhaps it never really was cool, but at least good craftsmen got some respect, and it was a viable career choice for many. Nowadays, you can still make a decent living doing that sort of work, but if you enroll in trade school, people will think there's something wrong with you. The general sentiment seems to be that winners do knowledge work or at least get to boss other people around; if you actually work with your hands, you're a loser. And even trade school is changing to reflect the idea that everyone needs to be in "services", dropping classes that teach actual skill in favour of management crap or theoretical stuff, the idea being that everyone needs to be a knowledge worker to some degree.
+     
+          
+     
+    
+    by arth1 (260657) on Tuesday July 24, @09:06AM (#40748083) Homepage Journal
+
+    It's getting hard to find anything but pre-pack import junk at Lowes and Home Depot.
+
+    Indeed. I have several times walked out empty-handed when attempting to buy something that was common a few decades ago, but is now no longer available. The scary thing is when the staff don't even understand what I'm talking about.
+    Lowe's, Home Depot, True Value and similar stores are turning into Chinese prefab outlets where the focus is on assemble and replace, not on make or repair.
+
+    Examples of missing stuff: Brass wire and surveyor's chain. Not to mention chemicals, where you no longer can get the "pure" stuff, just various mixes "for" specific purposes. No lye, TSP or sugar soap without perfumes, "cleaning agents" and additives, and most astonishing, no cotton roving.
+     
+          
+     
+             
+            by Sollord (888521)
+
+            It's all imported "junk" all must none of it's made in the US when it comes to power tools.
+
+            For power tools Ryobi, Craftsman (Portable power tools only), Milwaukee, and Rigid are mostly made by TTi in Taiwan and China. Stanley Black & Decker makes DeWalt, Bostitch, Black & Decker, Mac Tools, and Porter cable to name a few. Bosh makes Bosch, Skill, RotoZip and Dremel. Kobalt last I knew was made by Snap-On but that was 8 or so years ago and lowest bidder wins. Just like Husky Tools are or were made b
+
+by N3tRunner (164483) * on Tuesday July 24, @07:41AM (#40747409)
+
+I'm 29 and I can repair things around the house just fine, thank you. I guess this article is talking about people younger than me, but I doubt many of them own houses...
+ 
+      
+ 
+
+     
+    by DrgnDancer (137700)
+
+    I agree. I was pretty much useless at handy man activities until I bought a house. It's amazing how much contractor bills can convince you to learn. I can fix/build most simple stuff now if I have a need, but I also know that for anything complicated a contractor will probably do a better job and do it faster. Depending on the required tool investment he might even do it cheaper. I think that most home owners who aren't either rich or stupid pick up the basics if they didn't learn them from a father or
+    
+    by hackula (2596247) on Tuesday July 24, @09:18AM (#40748271)
+    If 29 is older than the age group TFA is complaining about, then which group are they referring to? "God damn 12 year olds these days! They don't even know how to manufacture their own code-compliant hurricane-resistant fucking windows these days!! Gafaww!!!"
+    I am in my mid-20s and know my way around carpentry, however, when I was in my teens this was not the case. The whole "experience" thing comes to mind.
+     
+          
+     
+        
+        by fluffythedestroyer (2586259)
+        I was about to say "tell me something i don't know". The middle class that owns a house, work 40 hours in a week are almost forced to be a diy guy (or girl ? ) since they are not rich people. I don't know for all of you but I like building things, repairing and renovation things by myself. It makes me feel useful and it will serve as a good example for my son.
+
+by DoofusOfDeath (636671) on Tuesday July 24, @07:42AM (#40747419)
+
+It's hard for a craftsman to know if he's violating a patent, environmental law, or something that will make a TSA knuckle-dragger feel is a weapon of mass destruction.
+
+Car manufacturers seem intent on specifically requiring special tools for their cars, and use patents to protect them.
+
+The DMCA, copyright, and patent laws make it neigh illegal to tinker with electronic devices you've bought, because some a$$hole in Holywood bought some corrupt legislators. I mean, discussed how to make America more competitive in a global IP marketplace.
+
+Finally, cheap manufacturing from Asia has lead to a situation where it's cheaper to replace consumer products than to repair them. So how are many people going to learn repair skills on them? It's certainly not a valid career path in the U.S.
+ 
+      
+ 
+
+        by garyebickford (222422) <`moc.liamg' `ta' `cib73rag'> on Tuesday July 24, @09:24AM (#40748353)
+
+        Forbes just had an interesting article about how many major manufacturers (Caterpillar, IBM, etc.) are beginning to come back to the US and building plants based on advanced robotics, nanotechnology and 3D printing. These plants can build stuff cheaper than those relatively labor-intensive plants in China, making it no longer worth the cost to ship materials back and forth across the Pacific. I think part of this next phase will be the inclusion of recyclability into the manufacturing process - if a part can be recycled using automation back into materials that can be re-used in production, the true costs go down. According to the article, even FoxConn is getting into the action - they are planning to buy a million robots and install them in plants in Taiwan, replacing plants presently in China.
+
+        Of course, this doesn't mean a bunch of low-skill jobs are coming back in the US or anywhere else. It does mean a huge threat to low-wage low-skill countries worldwide. The solution is probably going to mean permanent unemployment support in the US and other developed countries for a major part of the working-age population, and a huge demographic crisis for overpopulated countries full of low-skilled workers. Whatever happens, it's going to be interesting.
+         
+              
+         
+
+by Gothmolly (148874) on Tuesday July 24, @07:43AM (#40747433)
+
+Just as people now believe that you can run perpetual Federal deficits, or that all children are above average, or that form is more important than function, or that you can borrow more money to buy a house than you can pay back, there's a growing disdain for people who point out that the emperor has no clothes. Tell people you work on your own car instead of dropping it off at the dealer? Subtle sneer. Drive a used car instead of a new one? Sneer. Study hard and get good grades? You're just a dork, and you're not cool. It's the same anti-science mentality that's been around for years, now broadening to the more practical skills.
+
+It's also the Walmart mentality - why buy something for $100 that lasts forever when you can buy one a Walmart for $9.99 and replace it every six months?
+Just as people no longer distinguish between news and entertainment, they can no longer distinguish crap from quality. Our cultural egalitarianism now covers everything - and since values are subjective, who are you to say that 1 person's skills are better than another? They're just different, right?
+
+As a homeowner, the only decent work I've had done at my house has been by older, family-run businesses. Newer, younger contractors inevitably do a horrible job and require constant handholding.
+
+Personally, I'm glad that I'll be dead in 40 years - the way things are going I think soon after that we'll be back living in caves.
+ 
+      
+ 
+
+     
+    by Bigbutt (65939)
+
+    It's more like, why buy something that lasts forever for $100 that I'll use maybe 10 times over 2 or 3 sessions when I can buy a $9.99 one when I need it which might last until the second time, or not. Then I can save 80 or 90 bucks. And in the event the $100 lasts until I die, my kids will likely already have that particular item or even worse, they won't know what the hell it is or why I'm still carting the damn thing around with me 20 years later.
+
+    [John]
+
+by Anonymous Coward
+
+The tools of the 21st century are not cutting knives and hacksaws, sorry. Prefab is going to become easier and easier. Never mind slow and expensive Fab @ Home stuff - automated cutting machines and delivery networks will let you acquire custom-designed and -fitted furniture, flooring, etc. etc. as easily as you buy a book from Amazon today; snap your room with your smartphone, click buy flooring, and it's there on Tuesday at 9am for the price you'd pay Home Depot for some low-quality one-size-fits-all ru
+
+by Anonymous Coward on Tuesday July 24, @07:50AM (#40747479)
+
+This is yet another in a long line of alarmist articles about the 'loss of' X or Y in our modern technological culture. What is being missed is that this state of affairs is exactly was Capitalism was meant to bring about, a day when we all have much more leisure time because automation and division of labour has made long hours of back-breaking subsistence working obsolete. What we should be asking is not 'how do we go back to hard work with our hands?' but how do we transition to a new model (a post recession model) which acknowledges that there is no viable reason for people to need to be working 40  hours a week. We can then realise that we can work with our hands, enjoy DIY and reconnect with the land in a way that is about personal growth, community and coexistence, instead of commerce, because commerce takes less and less work to keep running. It's not a hippy dream, or a Socialist agenda, it's actually the victory of the Capitalist model being unable to see it's own success clear enough to embrace it yet.
+ 
+      
+ 
+
+     
+    by RabidReindeer (2625839)
+
+    This is yet another in a long line of alarmist articles about the 'loss of' X or Y in our modern technological culture. What is being missed is that this state of affairs is exactly was Capitalism was meant to bring about, a day when we all have much more leisure time because automation and division of labour has made long hours of back-breaking subsistence working obsolete. What we should be asking is not 'how do we go back to hard work with our hands?' but how do we transition to a new model (a post recession model) which acknowledges that there is no viable reason for people to need to be working 40  hours a week. We can then realise that we can work with our hands, enjoy DIY and reconnect with the land in a way that is about personal growth, community and coexistence, instead of commerce, because commerce takes less and less work to keep running. It's not a hippy dream, or a Socialist agenda, it's actually the victory of the Capitalist model being unable to see it's own success clear enough to embrace it yet.
+
+    Spare me the religion. Capitalism is about leveraging Capital. That's it. Anything else is incidental. Certainly it wasn't brought about to provide a 40-hour work week or leisure time. Go back and read what some of the 19th century capitalists had to say about giving workers Saturdays off so that they could spend time in sloth, idleness, depravity and beer-drinking. Hmmm.
+
+    Making Capitalism out to be a purely benevolent force is no more realistic than saying that all rain is good and just as mindlessly simpli
+    by trout007 (975317) on Tuesday July 24, @08:52AM (#40747927)
+
+    I think the base problem is envy. If you gave a top 10%er of 1700 the chance to live like a bottom 10% today I think they would take you up on it. You can live better now on the hand me downs of our economy than you could working your ass off back then. The problem is that people are envious of the over achievers. It's not fair they get their huge houses and expensive cars and vacations. Now I agree there are many that get rich through fraud in the financial industry.
+
+    There is always a trade off between leisure and labor. I think 40 hours might be near where most people make that trade. They want enough money to be able to do something with their leisure. They see expensive things and are willing to labor to afford it. I'm fine with that. I can't see spending money on a far off vacation that is over in a week. I'd rather spend that money on something for my house that I can enjoy forever. But I don't begrudge people that want the vacation but I don't appreciate when they are envious of my possessions. They don't see the vacations I didn't take or the yard work I do every week or the meals my wife cooks at home when we didn't go out to eat.
+     
+          
+     
+    by miletus (552448) on Tuesday July 24, @09:18AM (#40748269)
+
+    this state of affairs is exactly was Capitalism was meant to bring about, a day when we all have much more leisure time because automation and division of labour has made long hours of back-breaking subsistence working obsolete.
+
+    This seems wrong at many levels. "Capitalism was meant" suggests capitalism was designed or created with a purpose, rather than being the evolution of one mode of exploitation (serfdom) into another (slavery). Furthermore, historians of the late medieval period show that peasants where self-sufficient in food and had more leisure time than early factory workers, who were forced off the land (e.g. Enclosure Acts) and hence food self-sufficiency to work 12-14 hour days. It was the labor movement that fought for shorter work days; and even if we nominally have an 8 hour day today, modern capitalists always find a way to squeeze more out of you (e.g. work from home).
+
+    a new model (a post recession model) which acknowledges that there is no viable reason for people to need to be working 40  hours a week
+
+    Yes, that would be socialism, not the dreary factory-centric model in which the corporation is replaced by the state, but where free associations of people produce to fulfill needs and wants without the rusted-out fetters of money to dictate everything.
+
+    it's actually the victory of the Capitalist model being unable to see it's own success clear enough to embrace it yet.
+
+    I'd suggest you look at some of the early advocates of capitalism, particularly in the Scottish enlightenment, who were quite explicit that forcing peasants into starvation was the most efficient way to boost labor discipline. Here's a link [nakedcapitalism.com] to get you started
+     
+          
+     
+
+by gallondr00nk (868673) on Tuesday July 24, @07:53AM (#40747495)
+
+Sorry, but they do.
+
+Inevitable really. With a large service sector comes services. Services like having a kitchen installed or a carpet laid. I don't see it as a bad thing, if anything it shows a marginal increase in living standards.
+
+As an aside, all these rose tinted submissions are getting silly. Before long it'll be "Slashdot. News for reactionaries, stuff used to be better."
+ 
+      
+ 
+
+by michaelmalak (91262) <michael@michaelmalak.com> on Tuesday July 24, @08:00AM (#40747535) Homepage
+
+Same with cooking. With so many pre-packaged frozen meals, fresh pre-prepared ready-to-cook meals at the grocery store, vacuum-packed foods, ubiquitous drive-thrus, and universal Take Out Taxi restaurant delivery, cooking is either a lost art or relegated to holidays and "I'm going to cook today" days. The gourmet kitchen has become the SUV room of the house -- a $50k expense useful for that one excursion spent off-roading or the one blizzard of 24".
+
+Division of labor is a double-edged sword. More cynically, one might say it is seductive, tempting the populace into comfort in exchange for reduction of self-sufficiency, independence, resilience, and sustainability.
+ 
+      
+ 
+
+    by dywolf (2673597) on Tuesday July 24, @08:17AM (#40747635)
+    Mod up. And cue the Heinlen quote: "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
+     
+          
+     
+
+by invid (163714)
+Robots
+
+by WillAdams (45638)
+
+For those not familiar w/ these sites:
+
+www.etsy.com --- marketplace for (mostly) handmade goods
+www.inventables.com --- convenient laser-cutting, CNC milling and 3D printing
+www.shapeoko.com --- the least expensive, reasonably capable hobbyist mill thus far
+
+Lots of interest in ``Neanderthal'' (mostly non-power-tool) woodworking as well.
+
+by jfruh (300774) on Tuesday July 24, @08:10AM (#40747599)
+
+I had a conversation with my step-father a few months ago (he's 71) when he was talking about how when he was a teenager and young adult he used to tinker with his cars all the time, trying to squeeze a bit more performance out of it. Now, of course, he never opens his car's hood. "Do you miss it?" I asked him. "Of course not," he said. "Those cars were garbage. They lasted half as long as the new models, and the reason we were always tinkering with them is that stuff went wrong with them so often that you couldn't afford to take it to the mechanic for every little thing."
+ 
+      
+ 
+
+    by invid (163714) on Tuesday July 24, @08:55AM (#40747955) Homepage
+
+    Moving from cars to computers, I do miss tinkering with autoexec.bat and config.sys. In those days you knew exactly what was happening in the computer.
+
+    Lawn! Kid! Off!
+     
+          
+     
+
+by captainpanic (1173915) on Tuesday July 24, @08:19AM (#40747653)
+
+When technology moves on, the end users learn to use the new tools and new materials, and only experts use the expert's tools to make the tools and materials for the every day man. But the experts do that much more efficiently and at a lower price than the normal people could do before.
+
+There was a time when you could fix your own car, but that car would be so simple that it could only do 100 km/h, had no satnav, no ABS, no fuel injection, no mp3 player, no central locking system, no electrical windows, no indicators when something was wrong. And I spend my time to do something else (like spamming on /.), instead of tinkering on my car.
+
+Nostaligia is a rubbish argument against technological progress.
+ 
+      
+ 
+
+by na1led (1030470)
+In this technology age we live in, thing are changing very rapidly. Computer and Machine is merging with Humans, and that means we will have to take on new roles. Unfortunately there isn't enough for 7 Billion people to keep busy doing important work. I imagine large populations will be living like cattle, with nothing to do.
+
+by evilviper (135110) on Tuesday July 24, @08:35AM (#40747783) Journal
+
+Lamenting the decline of Do-it-Yourselfers (DIY) is about on-par with lamenting the decline of horse-drawn plows, and saying it is some sort of American cultural underpinning is idiotic. Do you really think folks in the "roaring '20s" were all interested in working with their hands? Hell no, they were getting suddenly rich off the stock market boom, and bootlegging, and expected it would always be that way.
+
+DIY was basically invented during the great depression. Man-hours were nearly free, so it made all the sense in the world to spend hours fixing your existing items, rather than calling in an expert, or buying a replacement. It went as far as folks partially or almost completely building their own houses. With the 2008 recession, there's been an upswing in DIY as well, but it'll just continue to decline as things get better.
+
+These days, going nuts with DIY is insanity. If my $20 weed-wacker breaks, it will be replaced, as it's not worth the effort to fix it. The same is true for just about all electronics these days... it's only worth fixing if you know some school kid who can solder, and whose time is basically free.
+
+People still need some mechanical know-how, or at least have someone in the family who does... Being able to fix simple issues with your own car (battery, alternator, power window motors, etc) is still profitable and convenient, as well as issues with your home and appliances (those $10 thermocouples go out every few years). But with car manufacturers having 10-year warranties that REQUIRE all maintenance and repairs be done by professionals, anyhow, and more and more people RENTING their homes, which have their own maintenance people, there are ever-fewer places where DIY knowledge is useful, nevermind necessary.
+
+And I say all of this as a very capable handyman, who buys and fixes-up old houses, and maintains classic old cars...
+
+Imagine he was, instead, saying that every American should be able to replace the bad capacitors on their PC's motherboard, and tell me if you'd agree... It's a nice skill if you've got it, but not a very profitable one, and happens to be increasingly impractical as prices fall.
+ 
+      
+ 
+
+by Hillgiant (916436) on Tuesday July 24, @08:38AM (#40747801)
+
+I own a house that was originally constructed in 1942. I purchased it from the estate of the original owner in 2004. Every single thing I have tried to do in the house has been thwarted by the previous owner's amateur attempts at home improvement. Electrical (four electrical boxes, knob & tube wiring under the attic insulation), carpentry (crooked doors, cheep 70's aluminum frame windows, bathroom floor supported by rusty screws and good intentions), plumbing (copper tubing to the attic furnace, automotive radiator hose for the u-bend on the tub drain). Every single thing has taken twice as long and cost almost twice as much as needed due to poor craftsmanship, kludges, and stubborn refusal to follow code or even basic principles of home construction.
+
+Seriously. I wish he had just hired a professional.
+ 
+      
+ 
+
+     
+    by kidgenius (704962)
+    Amen. I think the author is looking back with rose-colored glasses. In the "good ole days" people didn't repair their house because they knew how, they did it to save money. Unfortunately, a lot of people did it incorrectly, leading to situations such as yours. My wife and I bought a house last year and as we were looking through these homes I noticed so many repairs and renovations that were done poorly that I didn't even want to think about making an offer. Hell, if the stuff I could see was that bad
+
+by argStyopa (232550) on Tuesday July 24, @08:51AM (#40747909) Journal
+
+Specialization benefits all of us.
+
+Adam Smith explained it in Wealth of Nations.
+The making of pins is (was) about 18 steps.
+In a factory, 10 specialized employees can perform these 18 steps to make 48000 pins/day or 4800 pins/day/man, far in excess of the perhaps 200 pins/day possible to a single employee performing all stages.
+
+Yes, this means necessarily that the 'straightener' eventually forgets how to do the other tasks, and yes, if the whole system collapses, the straightener is going to have to either learn how to do the other 17 steps or die for want of pins.
+But in fact the utility gained over his lifetime of specialization is CLEARLY in excess of the marginal chance that the whole system collapses, and the extra work/risk at that point.
+
+We benefit so broadly, generally, and regularly from specialization, that the individual cost/risk of NOT having those skills is infinitesimal.
+
+While I agree with the OP and bemoan the loss of basic skills, I suspect that part of this comes from my youth during the Cold War - we always 'kept in mind' the consequence of trying not to be totally reliant on our civilization, as sometimes we might not be able to rely on it. Partly, I've learned to let this go. For years, I resisted a kindle, mainly because I didn't want to own books that would vanish when the battery died. Then it occurred to me - if I'm somehow UNABLE to get electricity for the month or more it would take my kindle to die...I'm so severely fucked, I don't really care about losing some novels. (Even writing that feels like some sort of confession...).
+
+Personally, I LIKE knowing how to "do things". But I recognize that without practice, I truly suck in practical terms. Having the knowledge generally is the best I can 'afford' time- or resource-wise.
+
+This doesn't mean that we should accept COMPLETELY losing our skills, but honestly, I can't get terribly worked up that I don't know how to perform some basic construction skills. If we're so screwed that I can't either a) buy a prefab, or b) find someone that can, well, we're in a rough situation and I'm not going to be TOO concerned about that windowframe, not so concerned I won't just board it over.
+ 
+      
+ 
+
+by jenningsthecat (1525947) on Tuesday July 24, @09:06AM (#40748071)
+
+Wow, this is such a complex topic, with so much to be said about it.
+
+First off, from one of the links given: "All this adds up to an economy that generates just as much income, but with profits flowing into far fewer pockets than they did in the previous century". Yup, that right there is your disappearing middle class and your wealth-bloated '1%'. It seems that perhaps all of those people who fought, and are still fighting, the globalization movement, were right when they said that it would destroy jobs and lives in their own country. And yes, globalization was inevitable. But a lot of people in high-tech, (many of them Slashdotters), heaped laughter and scorn upon the 'deluded' 'reactionary' anti-globalization movement. If they had instead taken time to listen to the concerns and think about the problem, we might be in a better place today. And no, communism doesn't work, but it's easy to see why people are attracted to it. When the general population is either broke and unemployed, or working two jobs or more to maintain a lifestyle that's barely above subsistence, resentment of the 'fat cats' who have so much more and do so much less work to get it is inevitable.
+
+Second, and again from the same link: "Katz argues that this will be crucial for those with only high school educations, who will need to learn a “high touch” trade—like personal trainers, kitchen designers, and home health aides—where personal interaction is critical." My apologies in advance to people working in those fields, but I was irresistably reminded of Hitchhiker's Guide to the Galaxy, and the Golgafrincham hairdressers, phone sanitizers, ad execs etc. Is North America destined to becom a continent of middle men?
+
+Third, if we costed our manufacturing according to sound economic principles instead of the voodoo economics we currently practise, most of this stuff wouldn't be nearly so big a problem. We are stealing from future generations - not even borrowing, (because that would require a re-payment plan and the means to pay it back), but outright stealing. We exhaust the earth's resources by pulling raw materials out of the ground, yet with those materials we manufacture goods that fail, or are otherwise disposed of, in 6 months or a year instead of after a decade or several. Re-cycling these discarded items is inefficient and energy intensive, and causes further pollution and contributes to climate change. Sure, this makes more 'profit' for shareholders, if we ignore the fact that we're impoverishing future generations, and literally making it impossible for large numbers of them to merely survive, never mind thrive. If we were being appropriately responsible to the generations that will come after us, we would make goods locally to be consumed locally, (because the total energy consumption of that is so much smaller), and we would make them to last, because that would leave behind that much more for our children, grand-children, etc.
+
+Fourth, from a purely immediate survival standpoint, how much sense does it make to export critical skills to other jurisdictions? That leaves us utterly vulnerable to the whims and possible enmities of other countries and cultures. America is serious about securing uninterrupted and uninterruptable access to oil and gas, but what good does that do if America doesn't have the vehicles, industry, and infrastructure to make use of that oil and gas?
+
+We're screwing ourselves, and the '1%' are fiddling while we all burn.
+ 
+      
+ 
+
+by Chas (5144) on Tuesday July 24, @09:13AM (#40748187) Homepage Journal
+
+Uhm. What?
+
+Wasn't one of the benefits of assembly line technology the fact that you could get away with using unskilled or lesser-skilled employees? Precisely because they didn't NEED to know how to assemble the entire product themselves. They just needed to know one or two steps of the whole process.
+
+Don't you just LOVE revisionism?
+
+Now, I'd LOVE to be able to build my own furniture. But, am I going to invest the thousands of dollars for said equipment?
+No.
+Mainly because I live in an apartment and don't have the space or necessary power available to me to support something like that.
+Plus, my neighbors would bitch up a storm if I ran something like a table saw in the evenings.
+Moreover, I wouldn't use it enough to make the investment worthwhile.
+
+I own a drill motor and a circular saw currently. The drill sees use every couple months. The circular saw was used once, about 10 years ago, shortly after it was bought. It hasn't been touched since.
+
+So I'm what? Going to go out and get myself a table planer? A drill press? A bandsaw? And start putting tables and chairs together?
+ 
+      
+ 
+
+by tekrat (242117) on Tuesday July 24, @09:32AM (#40748483) Homepage Journal
+
+Louis Uchitelle needs at attend a Maker Faire -- it was there that I regained hope in the American spirit of ingenuity and the ability to make anything out of anything.
+
+Of course, that ability isn't limited to the USA, the net is littered with stories about African kids in poor villages that manage to make generators out of bike parts or have managed to turn junk into pieces that provide services for their community.
+
+However, the hacker community is the one place where innovation is happening -- too bad the authorities frown on doing things your own way, and that laws are in place to prevent reverse engineering.
+
+If anything, Louis Uchitelle should look to Congress to see where craftmanship is being stifled. Kids can no longer build plastic models because they can't buy glue, they can't whittle because they aren't allowed knives, they can't do anything except sit in front of the TV. It's all been made illegal -- to 'protect' the children.
+
+That's why no one knows how to do anything anymore, because all the valuable skills you learn as a kid are now forbidden due to safety concerns. And then when you grow up, all you're left with is the Home Depot way of doing things.
+ 
+      
+ 
+
+by mindcandy (1252124) on Tuesday July 24, @09:37AM (#40748553)
+Like so many of you, I'm an IT geek, had my first computer when I was 4 .. but my dad also let me hang around while he fiddled in the garage (he was an engineer) and I developed the confidence (no so much the skills, per se) to tackle pretty much anything.
+
+Sure, there were plenty of times I got in over my head, like when I tried to rebuild a transmission at 15 and had to take buckets of parts to a mechanic because I couldn't get it back together. I did do that successfully again a few years later, having learned from my mistakes.
+
+As for "skilled trades", my most recent one is I installed a complete HVAC system, including all the sheet metal work to fabricate my own ductwork. Now I've never oxy/ace brazed before, but I studied for the EPA test and got my license to handle refrigerant (easy), bought a torch kit and regulators as well as vacuum pumps and gauges, practiced a bit .. and guess what? .. it isn't that hard. The city inspector was baffled that it was DIY and I had all the licenses. It probably cost me a little less than paying someone to just come do it, but in the end, now I know how to do it again, and I have the tools .. so the couple weeks of "vacation" from work was worth it. How did I learn how to do that? .. Youtube, mostly.
+
+Really .. don't be afraid to get dirty.
+ 
+      
+ 
+
+by gestalt_n_pepper (991155) on Tuesday July 24, @09:50AM (#40748675)
+
+In another 25 years, most manufacturing is some variation of 2d printing, using software. Both mass production and craftsmen will find themselves using very similar tools.
+
+Now get off my virtual lawn!
+ 
+      
+ 
+
+by Burdell (228580) on Tuesday July 24, @09:50AM (#40748683)
+
+I ordered some special-order sliding patio doors at Home Depot recently, and I'm paying to have them installed (next week). I've worked on over two dozen Habitat for Humanity house building projects, I helped when my parents added on to their house when I was a teen, and I have a good supply of my own tools (some of them handed down from my grandfather, who was a contractor). Why am I paying someone else?
+
+    Installing a quality sliding door (especially in the place of a French door that is slightly larger) is a little tricky to get right, and if you don't get a sliding door installed correctly it won't work right. If I installed dozens or hundreds of sliding doors, I'd be able to get it right with ease, but these would have been the only sliding doors I'd ever installed.
+    These doors are heavy. They are probably more than my father and I (even with a neighbor) could have easily managed. We sit at desks for a living (I carry the occasional server or router, but not that often). Sliding doors are awkward to handle as well.
+    The installer is a professional tradesman with his crew (probably just one other person for this job). They have specialized skills and knowlege, just like I have specialized skills and knowlege. If they want a website, or need a office network, etc., they'll call someone like me.
+
+As for complaining about self-stick flooring or pre-hung windows, WTF? Does this guy make his own plywood too? Guess what; builders have been using such materials for many years. It is quicker and easier, and in many cases allows for a nicer finished product (because a factory can generate a pre-finished piece that is nicer than even most professionals could fabricate on-site).
+ 
+      
+ 
+
+by Lumpy (12016) on Tuesday July 24, @09:51AM (#40748693) Homepage
+
+IT is becoming a reality.
+
+I showed a guy once how to make a bow lathe from garbage at a camp site, and used a nail as a cutting tool and turned a stick into a pretty looking dowel/pen handle. He looked at me as if I was a magician. This is utterly basic stuff, like boy-scout 13 year old level.
+
+I'm just glad that people are getting dumber, it means I'll be living the easy life picking up the resources of the dead.
+ 
+      
+ 
+
+by muridae (966931) on Tuesday July 24, @11:54AM (#40750665)
+
+Want to know why some people don't build their own stuff? Because they don't want to! Same reason some people buy tomatoes and zucchini at the store instead of growing their own. And the same reason why a lot of you will have a pre-fab MP3 player instead of building one yourself. Once you factor the time it takes to learn a skill, whether carpentry or gardening or soldering and coding; and the cost of equipment, like drill and saws and bits and blades or pots and dirt and fertalizer or a soldering iron and programming cable and IDE and breadboards; and divide that cost by the number of things you are going to produce, it doesn't add up. So if someone wants just a bookshelf, should they buy $10 of lumbar and screws and a $100 drill and do it themselves? Or should they buy a $15 flat-pack and just put it together? They look at it and work out the cost of the drill over how many things they can expect to assemble with it. Sure, maybe they get that part wrong and don't think of all the other bookshelves they'll need because the cheap one falls apart. Or maybe they value the time spent learning carpentry and want to do something else with it.
+
+What is the next complaint? That Makers are so busy printing enclosures that nobody is bending and welding sheet metal anymore? That no one forges their own hinges now, and everyone just buys them? Or remember the "good old days" when people assembled their hi-fi from the best parts available, and now no one builds or codes their own MP3 players. Computers used to have just a BIOS and a maybe little scripting language, now you buy this beige box and get a whole OS and games, why isn't anyone typing in games from magazines anymore?
+Because we have better things to do with out time. Me, for instance, I like building my own bookshelves and painting and lacquering my desk, and fixing old cameras. You want kids to be good with tools? Raise your taxes and put woodshop and technical classes back in schools. And make sure to add back in some technology and music too, while your at it.
+ 
+      
+ 
+
+     
+    by TheoGB (786170)
+    Quite an achievement on an article so devoid of content worth commenting on. Hey, Baby-Boomers, if you're so pissed off with how the world's turned out maybe you shouldn't have pulled the ladder up after yourselves?
+         
+        by Weezul (52464)
+
+        I'm hoping for gas price shocks high enough to halt importation for a while.. or perhaps China could start invading neighboring countries. Talk about excitement!
+             
+            by camperslo (704715)
+
+            I'm hoping for gas price shocks high enough to halt importation for a while.. or perhaps China could start invading neighboring countries. Talk about excitement!
+
+            If you look at South America and other places around the world, you'll see that China has some large operations extracting resources. There's some conflict over them cutting exports of rare-earths / metals needed for many high tech products, and some territorial conflicts as well. Japan, China, Vietnam and others are finding island / ocean areas with precious resources suddenly very important. And even though there has been a great deal of isolation of North Korea, they're talking with the South over min
+
+     
+    by Joce640k (829181)
+
+    In other news, the science of psycohistory is progressing nicely.
+
+     
+    by Joce640k (829181)
+
+    It's not just you. Stud finders don't work for anybody.
+         
+        by AliasMarlowe (1042386)
+
+        It's not just you. Stud finders don't work for anybody.
+
+        Yep. They should be called nail/screw finders, because that's what they can find. And electrical cables, if you're unlucky...
+
+     
+    by cpu6502 (1960974)
+
+    It's truly sad. In my day we cut down our own trees, stripped the logs, laid them carefully on top of one another, and created a beautiful home that can withstand the worst storms. NOW people buy these frame homes with walls as thin as paper. Sure they cost less and can be built in a week, but what a loss of craftsmanship! (published in 1850)
+        
+	by azalin (67640) on Tuesday July 24, @09:14AM (#40748207)
+        Now get of my lawn before I finished loading my flintlock rifle. You got about about ten minutes, because I will have to cast another bullet and mix the gunpowder first.
+         
+              
+         
+
+        by Sique (173459) on Tuesday July 24, @09:15AM (#40748231) Homepage
+
+        Also three pane windows are mainly filled with argon today. The low heat conductivity, even lower than nitrogenium or normal air, has its advantages. Also argon filled double pane windows are lighter, cheaper and provide about the same thermal isolation than three pane air filled windows.
+         
+              
+         
+            by Cheech Wizard (698728)
+            A few years ago I replaced all glass (windows, sliding glass doors, etc.) with triple pane, argon filled, and they also have a UV film on them. The difference (after also adding 18"  of attic insulation) is unbelievable.
+                
+
+		by ArhcAngel (247594)
+                I don't believe you.
+

@@ -1,0 +1,16 @@
+A new way to access quality content online
+Thursday, March 29, 2012 10:21 AM
+Posted by Paul McDonald, Product Manager
+
+Whether we’re getting the latest election news, making sense of the day’s stock market activity or looking for an update on our favorite celebrities, we rely on publishers to inform and entertain us. Online publishers often fund the creation of this content through ads; sometimes they ask you to pay for content directly, by buying a subscription or purchasing a particular article.
+
+Now, you may see a new option: the ability to access some of this content by responding to microsurveys, without having to pull out your wallet or sign in. When a site has implemented this option, you’ll see a prompt that offers you a choice between answering a market research question or completing another action specified by the publisher (such as signing up for an account or purchasing access). All responses are completely anonymous -- they aren’t tied to your identity or later used to target ads. The prompts look like this:
+
+
+Publishers get paid for hosting surveys. A number of publishers, such as the The Texas Tribune, the Star Tribune and Adweek have already started running these microsurveys on their sites.
+
+So what’s the point of these questions? From international brands to local food trucks, every business owner wants to make important decisions with their customers’ feedback in mind. That’s why we’ve created Google Consumer Surveys, a new business-facing product that makes custom market research easy. It enables companies to ask questions (the ones you'll later see on your screen) and get back quantitative results quickly, accurately and cost-effectively. Companies have already been using it to research everything from online shopping behavior (Lucky Brand Jeans) to gluten-free baking mixes (King Arthur Flour), and to assess brand awareness (Timbuk2) and inform product development (479 Popcorn). Google shares the money these companies spend with our publisher partners.
+
+The idea behind Google Consumer Surveys is to create a model that benefits everyone. You get to keep enjoying your favorite online content, publishers have an additional option for making money from that content, and businesses have a new way of finding out what their customers want.
+
+If you’re a publisher interested in running microsurveys on your site, let us know. 

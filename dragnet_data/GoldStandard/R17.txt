@@ -1,0 +1,24 @@
+Commonly used Broadcom Wi-Fi chipset vulnerable to attack
+updated 09:40 pm EDT, Fri October 26, 2012
+
+Proof-of-concept code knocks affected devices offline
+
+
+Proof-of-concept example code shows a vulnerability in the firmware of two wireless chips sold by Broadcom -- the BCM4325 and the BCM4329. The chips are found in recent devices such as the iPhone 4, iPad, iPad 2, HTC Droid Incredible 2, Motorola Droid X2, and some Edge model cards manufactured by Ford. The flaw makes the devices vulnerable to attacks that render the Wi-Fi connection unusable for the duration of the attack.
+
+"The only requirement to exploit the vulnerability is to have a wireless card that supports raw inject of 802.11 frames," Andrés Blanco, a researcher from Core Security told Ars Technica. A complete list of devices affected by this flaws available at the Core Security website.
+
+Once the assault is over, the attacked device works normally. Other features of the device are unaffected by the Wi-Fi disruption. "We are not sure that we could retrieve private user data but we are going to look into this," Blanco said.
+
+By Electronista Staff
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+I believe this is the tip of the iceberg. There are probably a number of chipsets with potential exploits. I am glad someone is finding these issues before the criminals take advantage of them.
+
+This is kinda lame. They don't get any access. It doesn't cause any crashes or damage. It's basically WI-Fi blocking.

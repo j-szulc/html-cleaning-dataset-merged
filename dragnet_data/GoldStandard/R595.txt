@@ -1,0 +1,11 @@
+Incredible RGB LED Cube Tutorial
+
+We’ve seen our fair share of LED light cubes before, but what makes this one different is its incredibly detailed, step-by-step tutorial.   The creator of this light show previously made a one color LED light cube and shared the trials, tribulations and instructions.  He has since decided to go multi-color, again while challenging himself and learning some new tricks along the way.
+
+The project requires 512, 10mm RGB LEDs and an Arduino compatible microcomputer. The creator used wooden strips to create vertical panels of LEDs rather than horizontal layers for ease of building. The building and soldering took about one weekend and the software took about 70 hours. The author saves you time by providing most of the code for you.  Learn how to  fbuild your own RGB LED cube!
+Popular LED Projects:
+
+    Psychedelic Sphere of LEDs
+    Arduino and Ikea = Superb RGB LED Table Hack
+    Build an LED Cube Using an Arduino
+

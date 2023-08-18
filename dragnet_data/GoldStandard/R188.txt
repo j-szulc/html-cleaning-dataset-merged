@@ -1,0 +1,13 @@
+
+The Future of iOS
+
+Kyle Baxter writes about the future of iOS from a functionality standpoint. He uses his app Basil as an example for what better communication between installed apps could lead to:
+
+    For example, Basil could declare that it handles web URLs. Then, I could build the recipe saving feature of Basil as a mini application (stored in Basil) that users can use from any other application that deals with the web. If someone who uses Basil is browsing recipe websites in Safari, they could tap a “Basil” icon in the action sheet, and my mini application would pop up, save the recipe to Basil and get out of the way—all without the user ever leaving Safari. The same could be true for Reeder (save recipes from cooking websites you subscribe to while browsing your feeds), Twitter applications, or anything else—and those developers wouldn’t have to know that Basil even exists.
+
+This is a shared sentiment among developers. In my interview with Loren Brichter, the man behind atebits said there will be an “explosion in innovation” when Apple will allow XPC (the technology Kyle refers to) to work with third-party apps — more specifically, he mentioned “faceless apps, doing neat things for you in the background without presenting any UI and using minimal hardware resources”.
+
+This is a subject I’ve been writing about for the past two years as well. In using my iPad as my main “computer” regularly every week, I have come to the conclusion that what I’m missing from the Mac isn’t multiple windows — it’s the glue that allows apps to work together in harmony. Maybe it’s a service to send text from Safari to Evernote. Or perhaps a simple script that puts a Mail message into OmniFocus. This kind of trusted, efficient communication between apps is what I’m really looking forward to seeing on iOS. This is why we should be excited for the future: it feels like we’ve only scratched the surface with third-party software on iOS.
+
+Read Kyle’s post here. See also: Ole Begemann’s series on Remote View Controllers.
+Posted by Federico Viticci | Read more at tightwind.net 

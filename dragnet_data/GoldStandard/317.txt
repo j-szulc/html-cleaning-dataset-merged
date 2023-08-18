@@ -1,0 +1,663 @@
+Reports Say Apple Is Shrinking Its Docking Connector With iPhone 5 427
+Posted by timothy on Tuesday July 24, @11:25AM
+from the hope-bluetooth-dongles-come-quickly dept.
+jones_supa writes "Two sources have told Reuters that Apple's new iPhone will drop the classic wide dock connector used in the company's gadgets for the best part of a decade in favor of a smaller one. The refresh will be a 19-pin connector port at the bottom instead of the previous 30-pin port 'to make room for the earphone moving to the bottom.' That would mean the new phone would not connect with the myriad of accessories playing a part in the current ecosystem of iPods, iPads and iPhones, at least without an adapter. On the upside, a smaller connector will allow for more compact product designs. Some enterprising vendors in China have already begun offering cases for the new phone, complete with earphone socket on the bottom and a 'guarantee' that the dimensions are correct." Gizmodo writer Adrian Covert says it's for your own good.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+by GameboyRMH (1153867) <gameboyrmh.gmail@com> on Tuesday July 24, @11:29AM (#40750213) Journal
+
+I'm sure MicroUSB and other industry-standard connectors weren't considered. For how many years now has Apple been the last holdout with proprietary connectors?
+
+Even if they did they'd still find a way to make it proprietary with something like the charger resistor trick [engadget.com] or the headphone recess. [engadget.com]
+ 
+      
+ 
+
+    by johnlcallaway (165670)
+    I was thinking the very same thing. How sad that Apple continues to want to keep an iron fist over their product instead of admitting others may have better ideas. Of course, they didn't really 'invent' anything other than a style. Everything they have done has only incorporated incremental improvements over existing tech. I have yet to see anything truly innovative come out of Apple, other than innovative ways to convince people they have a product worthty the Apple tax and lack of options.
+        by cpu6502 (1960974) on Tuesday July 24, @12:21PM (#40751151)
+
+        >>> I have yet to see anything truly innovative come out of Apple
+
+        I can think of two things:
+        1984 - mouse based OS (yes they copied it from Xerox, but they were first to put it in a home desktop)
+
+        1988(?) - FireWire. A damn fast serial bus. Was used in HD VCRs and camcorders in addition to Macs. Sadly Apple failed to let anyone else use it (so the PC world developed USB instead).
+
+        1991 - PowerPC... though I'm not really sure how much Apple really "contributed" to the design beyond the operating system. PPC is the heart of all modern settop game consoles (and also Amiga computers).
+         
+              
+         
+            by ericloewe (2129490)
+
+            Mouse? Not innovative, just applied to a home desktop.
+
+            FireWire? Good for its niche, too expensive for mass adoption on the scale of USB.
+
+            PowerPC? Sure, it's in the consoles, but it's not because it's good - it's cheap enough for them to get custom processors and actually own the design.
+                        by TheRaven64 (641858) on Tuesday July 24, @01:53PM (#40752753) Journal
+                        The real issue was that Intel put USB controllers on south bridge chips. This meant that motherboard makers got USB almost for free - they just needed to put the sockets on the board and connect them to the chip. To support FireWire, they needed to add another chip and connect it to the south bridge via the PCI bus as well as to the socket. The south bridge already had traces going to the PS/2, serial and parallel ports, so adding USB did almost nothing to increase motherboard complexity - they just had to run a few extra traces alongside existing ones. Adding FireWire meant a lot of effort in board layout.
+                         
+                              
+                         
+                                by TheRaven64 (641858) on Tuesday July 24, @02:58PM (#40753835) Journal
+                                FireWire was already dying by that point. I had a couple of drives that had FireWire 400, FireWire 800 and USB 2. FW800 was clearly superior: I could plug both of them into a single port on my laptop and still not be bottlenecked by the connection. USB2 couldn't quite match FW400 in real-world usage. But there were very few computers with FW400, let alone FW800, so there was little incentive for device manufacturers to use FireWire (and produce more expensive devices, since FireWire was no host-device model).
+                                 
+                                      
+                                 
+        by itsdapead (734413) on Tuesday July 24, @02:25PM (#40753303)
+
+        I have yet to see anything truly innovative come out of Apple,
+
+        Well, not if you define "innovation" as actually inventing a completely brand new idea from scratch, and don't give any credit to the hard part - selling it. "Build a better mousetrap and the world will beat a path to your door" is an aphorism only exceeded in utter wrongness by "look after the pennies and the pounds will look after themselves".
+
+        The story of Apple's life has been "they may not have invented (x) but they were one of the first to turn it into a desirable product and successfully market it..." where X includes the GUI and mouse, local area networking, the laser printer [wikipedia.org], PostScript [wikipedia.org] - and hence desktop publishing, full motion video on PC (Quicktime was at the cutting edge of this) - and hence nonlinear video editing... some of us were around when these things were taking off and people sure as hell weren't using IBM PCs for them (Amigas and Acorns maybe).
+
+        And the original Mac is something of a design classic...
+
+        Then you have the modern laptop - with the keyboard set back and a central pointing device in front, as debuted on the first Powerbooks. Maybe not the Manhattan project, but virtually every other laptop since has copied it. Pretty sure that the previous Mac "Portable", though deemed a flop, was the first portable to use an active-matrix (TFT) display.
+
+        Using a RISC processor? RISC vs. CISC is almost irrelevant now (since modern CISC processors have assimilated the good bits of RISC design) but it used to be the Next Big Thing and Apple were the second to market with a RISC-based personal computer (Acorn were first by a long margin, but not really significant outside of the UK, although the ARM processor they developed didn't do badly - Apple played a big role in the later development of that, too). Then there's Digital Cameras [wikipedia.org] - again, not the first but one of the first viable consumer products.
+
+        Of course, the Newton wasn't innovative at all because some guy at Xerox had sketched one on a beer mat 20 years before (and anyway, Steve Jobs planted the whole Newton thing when he was using a time machine to set up the great iPhone conspiracy).
+
+        Then there's USB. Apple certainly didn't invent that, but before the iMac the only use for it was the slightly increased airflow from those two funny square sockets on the back of your PC that Windows 95 didn't really support. There was a reason why most of the first mass-market USB peripherals had translucent blue cases...
+
+        So, what have Apple done for us this century? Well, every year in the 80s and 90s was going to be The Year of Unix on the Desktop. Apple finally did it with OS X (yes, there's Linux - which succeeded on servers, embedded devices an Android but has yet to get large scale adoption on the desktop). They managed to fairly seamlessly switch from PPC to Intel using emulation/recompilation (quite an achievement) and popularised Small Form Factor computers. We've had vastly improved trackpads on laptops (seriously - I always had to carry a mouse around until Apple introduced the new multitouch trackpads). Now we have an external PCIe bus (thunderbolt) which may or may not take off, and they've just doubled the linear resolution of their laptop display at a time when everybody else had decided that 1080p was enough.
+
+        I won't mention the iPod/iPhone because everybody knows that they were invented by Samsung after being inspired by the "news pad" in the film 2001, and that Apple copied them and then used a time machine to go back and launch the iPhone at a time when Android phones looked like this [slashgear.com].
+
+        So please suggest some other companies with anything like that track record. Microsoft/IBM? Well, turning the personal computer into a commodity was pretty damned significant (not so sure that it was progress), but apart from that...
+        Read the rest of this comment...
+         
+              
+         
+            by Anonymous Coward on Tuesday July 24, @11:49AM (#40750575)
+
+            It's really sad that you're a fucking piece of shit moron. But we don't really care.
+
+            I can appreciate that people get crazy-sensitive about their mobile phones, but "you're a fucking piece of shit" might be a tad over-the-top.
+
+            Why does it matter to you in the slightest that Apple is using space and components efficiently, instead of creating huge devices with half-a-dozen ports?
+
+            I don't know of anyone advocating half a dozen ports. What I do see is people saying it'd be nice if they used micro-usb like everyone else instead of a proprietary connector.
+             
+                  
+             
+                by s.o.terica (155591) on Tuesday July 24, @02:23PM (#40753255)
+
+                I don't know of anyone advocating half a dozen ports. What I do see is people saying it'd be nice if they used micro-usb like everyone else instead of a proprietary connector.
+
+                I think his point, however poorly made, was that if they did switch to micro-USB, there would have to be more ports to supplement the additional capabilities the dock connector is used for (line-level analog audio, analog and HDMI video, additional power options, etc). At the very minimum, there would have to be a second minijack connector to provide line-level audio, in a standardized location across all their devices so that it could still be placed in a dock, along with a separate stabilizing mechanism since otherwise you would have to rely on the minijack connector and micro-USB connector holding the device in place. This sounds like a less elegant solution by far. And is likely the reason that no other manufacturer has a docking standard that works across all of their devices.
+                 
+                      
+                 
+                    by acoustix (123925) on Tuesday July 24, @02:52PM (#40753717) Homepage
+
+                    I think his point, however poorly made, was that if they did switch to micro-USB, there would have to be more ports to supplement the additional capabilities the dock connector is used for (line-level analog audio, analog and HDMI video, additional power options, etc).
+
+                    At the very minimum, there would have to be a second minijack connector to provide line-level audio, in a standardized location across all their devices so that it could still be placed in a dock, along with a separate stabilizing mechanism since otherwise you would have to rely on the minijack connector and micro-USB connector holding the device in place. This sounds like a less elegant solution by far. And is likely the reason that no other manufacturer has a docking standard that works across all of their devices.
+
+                    Why not provide three ports at the bottom of the device: 1/8" headphone jack, micro USB and micro HDMI? Use those as the docking ports. Viola! No proprietary connectors needed. You can use each of the three ports independently when not docked. The dock would then consist of one, two or all three connectors depending on the functionality of the dock.
+
+                    Problem solved.
+                     
+                          
+                     
+    by tripleevenfall (1990004)
+
+    Apple uses proprietary connectors, everyone knows that.
+
+    That being said, connectors change over time, a la USB, Mini-USB, Micro-USB. I don't think Apple moving from the one it's used for 5-6 years to a smaller one is nefarious.
+        by GameboyRMH (1153867) <gameboyrmh.gmail@com> on Tuesday July 24, @11:34AM (#40750317) Journal
+
+        Apple going through the trouble of abandoning their old proprietary connector and MAKING A NEW PROPRIETARY ONE instead of going to a standard one like every other phone has had for years sounds at least a bit nefarious to me.
+         
+              
+         
+            by Anonymous Coward
+
+            The problem is Apple phones are kind-of a primadonna about how peripherals can interact with them.
+
+            If Apple put a standard port on their phone users would expect anything that will fit to work with the phone. That includes devices that use protocalles iOS does not support.
+
+            Now there is an argument to be made that Apple could simply start supporting more protocalles. However that's never been how Apple rolls. They'd rather say "No it doesn't do that." than have something that "sort of works".
+            by Cinder6 (894572)
+
+            I'm gonna say that, while I wish everyone used the same connectors, I'm not a fan of micro-USB. The devices (or maybe cables) I have just don't seem to have a tight grip and fall out pretty easily.
+            by gstoddart (321705)
+
+            Is there functionality they can do over their connector which can't be covered via existing USB? Bandwidth? Control functions?
+
+            If there's anything they can do in their connector that normally doesn't get provided by USB, then I should think there's nothing at all nefarious about it.
+
+            I've always assumed this was more about additional stuff they could do, not snubbing a standard that doesn't quite cover what they want.
+                by Hamsterdan (815291)
+
+                Audio In, Audio Out, Video Out, Auto Power Off (depending on resistor value), Dock detection, and others...
+
+                  http://pinouts.ru/PortableDevices/ipod_pinout.shtml [pinouts.ru]
+            by sglewis100 (916818) on Tuesday July 24, @01:37PM (#40752419)
+
+            Apple going through the trouble of abandoning their old proprietary connector and MAKING A NEW PROPRIETARY ONE instead of going to a standard one like every other phone has had for years sounds at least a bit nefarious to me.
+
+            Is it possible that a standard micro or mini USB cable didn't do everything they wanted [cultofmac.com]?
+             
+                  
+             
+                by GameboyRMH (1153867)
+
+                Before micro-USB there was mini-USB, they're standard connectors that can be forwards and backwards-compatible with simple mechanical adapters. Miniature USB connectors on phones have a long history.
+                    by HarrySquatter (1698416)
+
+                    And mini-USB was not consistently used among all phones. I and my girlfriend have a few different model flip phones from just 2 years ago from T-Mobile that all have their own proprietary connector. Again, you are highly exaggerating how consistent USB use was and has been until only recently.
+                            by Grishnakh (216268)
+
+                            It was largely driven by an EU law forcing all mobiles phones to have microUSB connectors, because people were so sick of proprietary connectors and the overpriced phone chargers that resulted.
+                    by TheRaven64 (641858) on Tuesday July 24, @02:01PM (#40752879) Journal
+                    The EU regulation has an loophole, which means that as long as Apple puts a dock to micro-USB adaptor in the box they comply. As to the dock vs micro-USB issue, most people seem to be missing the fact that the dock connector does a lot more than USB. It also contains audio line in and out, component and s-video, serial, USB, and FireWire (not in recent ones) [pinouts.ru]. USB is a step backwards. A modern replacement for the dock should ideally contain display port or HDMI video and a switchable line out / S/PDIF or similar. Personally, I'd love to see Thunderbolt ports on mobile devices.
+                     
+                          
+                     
+                                    by msauve (701917)
+                                    No, the limit for a specification USB charger is 1.5 A. Anything more is out of spec. The limit for the power contacts of a micro-USB connector is 1.8A.
+
+                                    Charging by plugging into a USB device, like a laptop, is limited to 500 mA.
+                                    by Kalriath (849904)
+
+                                    More power-draining devices can negotiate a higher power output if the bus is capable of supplying it. That's in spec.
+
+                                    However, Apple devices won't. They'll ask for a higher power output only if they see iTunes running on a Mac (ever wondered why iPads always report "Not Charging" when plugged into a PC?).
+                by Githaron (2462596)
+                For one, if your friends phone is almost dead, you are likely to have a compatible charger you can let them borrow while they are at your house. Also, it allows more devices to be made they are universally compatible rather than compatible with a single device. Besides, why not sell the chargers separate and give the savings back to the consumer. You could buy a couple of chargers and use them to charge all your devices. When you got a new device, you wouldn't need a new charger. In the end, it is more conv
+                by FrankSchwab (675585) on Tuesday July 24, @01:05PM (#40751947) Journal
+
+                You have a simple life, eh?
+
+                I have a charger at home, one at work, and a 12V one in each of my family's cars. Still pretty simple, but causes an issue if I change phones. Of course, I picked up a wife too, and if her phone didn't have the same charger as mine, I'd have to divorce her. Then, through mechanisms still somewhat mysterious, we ended up with two children. They have Nintendo DS's, and a portable DVD player for the car (all seperate proprietary chargers). My wife bought an iPad (30-pin), and the kids are getting old enough that we're considering getting them iPods (which, if we wait for the new ones, will have the 19 pin).
+
+                Have you kept count of how many charging cords I need to have yet? Wouldn't it be nice to have one or two identical chargers in each car and in the house, and anyone could charge anything, as opposed to having 5 or 6 different chargers?
+
+                This is a situation where Apple has their head firmly inserted into their rectum. An innovative, customer-oriented company would have put a micro-USB connector with standard USB charging protocols. If you want Audio out, or Video out, or whatever else comes out their dock, have it come out digitally and convert it in the dock.
+                 
+                      
+                 
+        by Daniel_is_Legnd (1447519)
+        The thing about changing between different USB versions is that they are all compatible with one another. I can buy an adapter and my mini-usb is now a micro-usb. From the story, it seems Apple is changing the connector to make people buy new cables, chargers, and accessories.
+            by tripleevenfall (1990004) on Tuesday July 24, @11:41AM (#40750461)
+
+            Do we know there won't be any adapters available? They have produced adapters for their products in the past, such as the numerous display adapters.
+
+            It's kind of "heads I win, tails you lose".
+
+            If Apple moves to a slimmer profile device, people say they are just trying to make people buy new cables. If they stay on an old one, people say they won't give up on their proprietary cables.
+
+            If they produce an adapter, people will say they just want to cash in by selling the adapters. If they don't produce adapters, people say they just want to make you buy new cables.
+             
+                  
+             
+                by vlm (69642)
+
+                Do we know there won't be any adapters available?
+
+                If apple sells a cable that has "weird new thing" on one end and plain ole PC USB on the other end (for charging, itunes sync, whatever) then there already exist adapters to go from usb-micro cable aka male to desktop USB female.
+
+                People forget the apple connector has at least composite video, maybe more on that little plug. I would not be surprised if the new plug has full HDMI and at least some weird digital SPDIF if not much more.
+                    by jo_ham (604554) <joham999@@@gmail...com> on Tuesday July 24, @12:17PM (#40751077)
+
+                    The current 30 pin has all sorts along with USB - composite video, stereo line out, firewire data and power (now unused), ipod accessory control, etc. It's much more than just a micro USB port, but it is overkill now that there's no need for the firewire pins, for example.
+
+                    The same sources that have said there will be a new port have also said that an adapter is also in the works.
+                     
+                          
+                     
+                            by jo_ham (604554) <joham999@@@gmail...com> on Tuesday July 24, @01:58PM (#40752817)
+
+                            ...and clearly it all converts to USB.
+
+                            No, it doesn't. When the USB cable is plugged in (the one that comes with the phone and has a USB port on one end and the 30 pin port on the other) only the USB data pins and the USB power pins - 4 out of the total 30 are connected.
+
+                            Actually, the ground pin is probably also connected to the shielding. Five pins.
+
+                            The other pins connect when other things are connected, like a docking port on a music system will have the power pins, the accessory control and the line out pins connected. The HDMI adapter will connect to other pins, the video adapter will connect to the line out pins and the video pins.
+
+                            The USB cable with the standard USB port on the end *absolutely does not* convert all those things down so that they work over USB. It connects the two data pins and the 5V power only.
+                             
+                                  
+                             
+                            by tooyoung (853621)
+                            Ah, but it doesn't have to convert to USB. This is what you and apparently 2/3 of posters on this article don't seem to understand - the Apple connector can output to HDMI, S-Video, component video, VGA, RGB, component audio, etc. One cool thing about supporting component output is that you don't have to have a chip that can interpret USB on the device that you are outputting to. This means that you iProduct can be used to broadcast to most devices that you already own. It also allows device manufacture
+                by tepples (727027)
+
+                Do we know there won't be any adapters available?
+
+                Apple has in the past sued companies producing products with connectors that mate with its own devices. Even cutting off the end of an authentic Apple power supply and soldering it onto an external battery has triggered a lawsuit [arstechnica.com].
+                            by ceoyoyo (59147) on Tuesday July 24, @02:52PM (#40753713)
+
+                            All the ones I found for Android used the headphone port for audio (not line out, which is much higher quality), couldn't control volume and/or playback, or was very expensive because it had to do everything over USB (and required a special app) or Bluetooth. If you can find one, please share.
+
+                            Some Android devices can do analog video out via their headphone jacks. Which means if you want to charge at the same time you need two cables. And again, if you want to have off-device controls you need a full USB implementation.
+
+                            I found a couple of Android speaker docks. Like this one: http://www.zdnet.com/blog/mobile-gadgeteer/finally-a-universal-speaker-dock-for-android/5506 [zdnet.com]. It requires connecting a couple of cables, and using a special app for playback control.
+
+                            From the review:
+
+                                Again, if you have an iPhone or iPod dock, this may not sound like a huge feature set, but if you have an Android phone, this is heaven.
+
+                                Given the scarcity of speaker docks for Android, the $100 price is worth the experience.
+
+                            Perhaps you should try again? Or not....
+                             
+                                  
+                             
+            by Known Nutter (988758)
+
+            According to MacRumors, Apple will provide an adapter.
+
+            http://www.macrumors.com/2012/07/23/apple-to-provide-adapter-for-smaller-iphone-dock-connector/ [macrumors.com]
+
+            Yes, I realize its a "rumor" site.
+    by darjen (879890)
+
+    This way they can charge $30 for an extra power adapter. I guess if you decide that you really like being a part of the iOS ecosystem, the extra cost will be worth it to you. Judging by the sheer number of iPhone sales, plenty of people think that it is.
+        by tripleevenfall (1990004)
+
+        Every device comes with a power cable, you'd only need to buy additional ones if you wanted to own several of them.
+
+        Most people own a number of Apple cables because they have owned a few different iPods and iPhones. The same thing will happen in the future, it will just be a different cable.
+    by Guspaz (556486) on Tuesday July 24, @11:40AM (#40750433) Homepage
+
+    The "proprietary charger resistor trick" was made part of the USB standard in 2007 (USB Battery Charging Specification), three years before the article you linked to purporting to have discovered "secret resistors" that enable Apple to "artificially restricts iPhone chargers"...
+
+    Apple's no saint, but if you're going to call them out on something, maybe try to stick to stuff they actually did wrong instead of making stuff up. The headphone recess thing might be one, although I'd argue that that was just a dumb design decision rather than an attempt to introduce a proprietary standard; it was still a standard 3.5mm jack, just rendered mostly useless.
+     
+          
+     
+        by GameboyRMH (1153867) <gameboyrmh.gmail@com> on Tuesday July 24, @11:50AM (#40750601) Journal
+
+        Gonna need a source on that. There are standards that use resistors on the data lines but not in Apple's configuration:
+
+        http://blog.curioussystem.com/2010/08/the-dirty-truth-about-usb-device-charging/ [curioussystem.com]
+         
+              
+         
+    by bjackson1 (953136) on Tuesday July 24, @11:45AM (#40750513)
+    You realize that the dock connector is more than just a USB cable with a weird connector at the end, right? The new 19 pin connector would presumably do the functions of the current 30 pin dock connector, which allows full digital video and audio out, analog audio and video, and control data simultaneously over one connection. I don't believe that this is part of the USB standard.
+     
+          
+     
+        by wiredog (43288)
+
+        It's USB on the other end...
+            by ceoyoyo (59147) on Tuesday July 24, @02:06PM (#40752969)
+
+            Only for charging and data transfer. Any device that uses any of the extra functions (and there are a LOT... any speaker system that has a dock connector, or car kit, for example) is definitely NOT USB on the other end.
+             
+                  
+             
+            by ceoyoyo (59147)
+
+            Plus analog audio and video, plus a control spec so you don't have to implement a full USB host in your peripheral.
+    by mischi_amnesiac (837989)
+    Considering that Apple signed a declaration of intent in 2009 (together with Nokia, RIM, Samsung and others) to use micro USB connectors from 2010 onward (at least in the EU), I'd wager that they won't stick to what they signed for a long time to come. No, what they actually did was releasing an adapter which let you use every other manufacturer's charger to charge an iphone.
+    by Trevelyan (535381)
+    I am pretty sure the MicroUSB connector is now required in the EU.
+
+    Maybe a mircousb plug will fit it for USB and power, but the official Apple plug will have more contacts on it for other functions.
+    by tlhIngan (30335) <slashdot@wo r f . n et> on Tuesday July 24, @12:08PM (#40750885)
+
+        I'm sure MicroUSB and other industry-standard connectors weren't considered. For how many years now has Apple been the last holdout with proprietary connectors?
+
+        Even if they did they'd still find a way to make it proprietary with something like the charger resistor trick or the headphone recess.
+
+    Rumors have it that the port IS micro-USB compatible. As in, you can plug in a micro-USB cable into it and connect/charge via USB. This would make sense as Apple right now supplies an adapter for EU iDevices for micro USB. This would get rid of the adapter, but not the funtionality of the port.
+
+    If you want the additional connectivity (line-in/out, component video, HDMI, etc) you need the other pins, which would be used for say, a connector adapter. (There are way too many 30-pin accessories out there).
+
+    As for the resistors - they are a brilliant way to do USB charging - because USB chargers do NOT communicate how much power they can provide. If you plug in a USB charger, a device can't tell if it can pull more than 500mA (even then it shouldn't assume it can - USB spec calls for 100mA until you positively identify a charger or get enumerated and told you can draw 500mA). But the charger can provide 800mA, 1A, 2A or more, and you need a quick-and-cheap way of telling the host device that fact. The resistors do that (by pulling the D /D- lines certain ways).
+
+    FYI - the USB charger spec shorts D  to D-, and special resistors inside the device detect that (usually through a special line state). But again, it doesn't tell you how much you can draw - a tablet might want 2A, but it can't tell for sure if you plugged it into a wimpy 500mA one. (We've blown a few during development - notably the cheapass chinese crap adapters with no protection).
+
+    An even more proprietary way would be to include an enumeration chip that tells the device over USB what it can draw (which Apple does with its Macs to do "high-speed" charging - the ports negotiate with iDevices to provide I think 1A current).
+
+    The USB spec is violated so often that you can make a rather useless USB host if you adhered to it, for example. The 100mA one is routinely violated (embedded devices with USB host often only provide 100mA). USB hard drives count on the fact most PC manufacturers are cheap and put only one overcurrent switch for a gang of ports (e.g., a 4 port might use a 2A overcurrent switch) so they can draw 1A  when spinning up without tripping the switch (see this a lot).
+
+    Or USB chargers that provide 500mA, and overheat/explode wen some device goes right ahead and tries to draw 1A.
+     
+          
+     
+    by v1 (525388) on Tuesday July 24, @12:18PM (#40751087) Homepage Journal
+
+        For how many years now has Apple been the last holdout with proprietary connectors?
+
+    OK then clearly they should have gone with the other industry standard cable that supports power, usb, video, remote volume and play selection, etc. Oh wait, that's right, there isn't another one!
+
+    Your argument is only valid when there are other non-proprietary options. It works well when talking about say, Sony's "i-link" proprietary firewire connector, or any of those proprietary USB connectors on cameras, where they're using a special connector to force you to buy cables and other accessories directly from them at some absurd mark-up. But that's not the case with Apple's dock connector.
+
+    This is the only connector that does it all in discrete pins, vastly simplifying construction of accessories. Even cars are coming with Apple's dock connector in them nowadays. Apple's not being an ass and forcing you to use their connector to do what they could have done with another standard connector. They just happen to have pioneered the market and have been using this one connector for the last decade, with a crapton of accessories being made by other vendors. You don't have to buy your dock from Apple. Try getting an iLink cable from someone besides Sony. (for $35 or so) That's how you abuse proprietary connectors
+     
+          
+     
+            by v1 (525388)
+
+                I'm sort of confused, what do you think the cable does?
+
+            Yes I can see that. On a small device like a phone or ipod there's only room for a couple connectors. Also each connector eats up space on the inside and cuts into battery life. Headphones are a requirement for the ipod and a high value connector on ipad and iphone also. Apple has added one more connector for all the other uses. The current connector does at least:
+
+            - power
+            - usb
+            - firewire
+            - stereo audio out
+            - stereo microphone in
+            - volume up and down
+            - t
+    by Zcar (756484)
+
+    Can MicroUSB carry everything the dock connector carries? Line level audio in/out? Composite video? It seems to me they have at least a semi-valid reason for going proprietary to be able to include all the connectivity the dock connector provides without sourcing and finding space within the device for all the different connectors required.
+    by icebike (68054) *
+
+    I'm sure MicroUSB and other industry-standard connectors weren't considered. For how many years now has Apple been the last holdout with proprietary connectors?
+
+    Didn't the EU mandate a standardized [slashdot.org] charger connection? Apple slips through a loop hole by providing an adapter. Like the people who forgot their charger will remember the adapter.
+
+    Why not some teeth in the law? Forbid the import or sale in the EU of any phone that uses ANYTHING other than the standard adapter for charging.
+
+    Or are those draconian measures reserved only for rounded corners? Why does Apple get a pass?
+        by GameboyRMH (1153867)
+
+        Why is it that stupid people hate Apple? Is there something about being stupid that I just don't get?
+
+        He's gone Fanboy Super Saiyan! 8-(
+        by chispito (1870390) on Tuesday July 24, @12:04PM (#40750831)
+
+        Why is it that stupid people hate Apple? Is there something about being stupid that I just don't get?
+
+        And yet many of us prefer the company of the decent and stupid to the condescending and average.
+         
+              
+         
+            by HarrySquatter (1698416)
+
+            Without adapters or proprietary protocols?
+                by Antarius (542615)
+                Yes. He should fuck off without any adapters. ;-)
+
+                (insert joke about M/F, M/M and F/F adapters here)
+            by Dog-Cow (21281)
+
+            So you just want them to add a port just because. The other end of an Apple cable is plain old USB. So Apple is being efficient in use of space and materials and for some reason this bugs you so much that you have to not only not buy the product, but also complain about it on the Internet. Pathetic and stupid all rolled up into a nice little (yeah, right) package.
+        by Githaron (2462596)
+        No no no! Do not create a government entity to regulate power adapters. If business want to get together and create a standard, fine. The government should not be involved.
+            by h4rr4r (612664)
+
+            Why not?
+
+            Government action to ensure interoperability is pretty standard. It is why all cars fit in one lane on the highway.
+
+            Heck all the government would have to do is tax $500/device that does not use an industry standard connector. No need for the government to select it, just set standards around it.
+
+by AmiMoJo (196126)
+
+Every other phone manufacturer seems okay with USB and a headphone socket. Same accessories, standard connector and charger.
+
+    by GameboyRMH (1153867) <gameboyrmh.gmail@com> on Tuesday July 24, @11:32AM (#40750275) Journal
+
+    To Apple that isn't a feature, it's a bug.
+     
+          
+     
+    by Kenja (541830) on Tuesday July 24, @11:35AM (#40750331)
+    USB lacks video & audio out as well as other feature connectors. So its one custom connector, or several standard ones. Apple wants fewer connectors, so a custom one is used. Not a big deal really.
+     
+          
+     
+        by kidgenius (704962)
+        It does? I guess I need to throw away my MHL adapter that I've been using to transmit video over the USB port, since you say it can't work.
+                by swillden (191260)
+
+                Now output VGA, RGB, S-Video, Component Video.
+
+                Why? Have you ever actually hooked your iPhone to a component video input?
+                    by slimjim8094 (941042)
+
+                    Yes, actually, and the rest. VGA for a projector, RCA composite (which is what I assume he meant) for an old TV, and component video for a new TV. I once borrowed an S-video one for an old-ish-but-newer TV, but I don't personally own it.
+                by jareth-0205 (525594)
+
+                So you were trying to prove his point by stating you needed an additional adapter to do what you wanted since the standard cable wouldn't?
+
+                Um... you only need the adapter if you plug it into a TV that doesn't have it. Presumably a dock for a phone designed for the purpose would have the MHL built-in, in the same way that any current Apple dock has to have special stuff built in to deal with their proprietary protocols.
+        by organgtool (966989)
+
+            USB lacks video & audio
+
+        I must be missing something here. Can anyone explain to me how USB is not capable of sending audio or video data or how the Apple connector is somehow better at sending such data?
+            by imagined.by (2589739)
+
+            Of course USB is "capable" of sending video and audio. But for manufacturers of accessoires, it is 100x easier to implement analog connections than figuring out some data protocols.
+            by iluvcapra (782887)
+
+            iPad requires an active dongle to connect to an SD card: ridiculous! N900 requires an active dongle to connect to a TV: completely acceptable!*
+
+            Macbook Air requires a dongle to use wired ethernet: bondage! Podunk Clock Radio Corp. has to use an integrated USB or BT chipset in order to get a line-level output: totally obvious!**
+
+            I know it's not necessarily the same people complaining, but really.
+
+            * Are we sure a phone's USB 2.0 can push an HD image at 30fps? Not just an H.264 stream, because we want to run gam
+            by imagined.by (2589739)
+
+            One word: Accessoires.
+            by Darth Snowshoe (1434515)
+
+            Steve Jobs is making me do it!
+
+            Steve, Steve, please stop! I don't want a new, smaller connector! AAAAAAAGGH!
+
+            His new connector is going to only connect to my new phone Steve is making me buy!! And no one else's! And I can't stop him! He's already in my house! At my refridgerator, eating all the peanut butter!
+
+            And on his new connector, there's a PRIME NUMBER of pins! NINETEEN! It's IIINDIIIIVIIIISSSSSIIIIIIIBLLLLLLLE!!
+
+            His connector is going to read all my iTunes playlists and delete all the the old Y
+    by milbournosphere (1273186)
+    My understanding is that in Europe, every phone manufacturer either has to build their phone to use Micro-USB as a charging standard, or provide an adapter at no charge. If this is the case, why don't they just save everybody the headache and move to the now-rampant standard? The proposal for this came out in 2009 IIRC, so it's not like this was just sprung on them...
+        Re: (Score:2)
+        by djh101010 (656795)
+        The connector has more than just charging and USB data on it. Why should my phone be limited only to what can be done over USB?
+    by aristotle-dude (626586)
+
+    Every other phone manufacturer seems okay with USB and a headphone socket. Same accessories, standard connector and charger.
+
+    Right, they should then abandon their advantage that they have built up over years with dock connectors on alarm clocks, portable stereos and car connection kits?
+
+    Wouldn't they have to replace the dock connector with two ports being an USB port and a mini HDMI port for video and audio? Even still, they would loose the serial interface for controlling/being controlled by accessories present in the dock connector.
+
+    See below:
+    http://irq5.wordpress.com/2012/06/25/the-apple-30-pin-dock-connector/ [wordpress.com]
+
+    The dock connector
+
+by Antipater (2053064) on Tuesday July 24, @11:35AM (#40750337)
+It's not about how big the connector is. It's how you use it!
+ 
+      
+ 
+
+by aristotle-dude (626586)
+
+That back piece could be a decoy to weed out leakers at Apple or it could even be a part for chinese iPhone clone. The appearance of the back plate does not look consistent with previous iDevices put out by Apple before. The speaker/microphone grills do not match in size with larger holes than I would expect and there is no benefit to having the headphone jack at the bottom if it means sacrificing symmetry and reducing the docking port. Also, the back panel having an "Apple" logo means nothing. There have b
+
+by itsdapead (734413)
+
+...and before we start frothing at the mouth over all the iPad-enabled equipment destined for landfill, there are equally credible rumors [macrumors.com] that Apple will be making an adapter.
+
+As for why - well, they've managed to stick to the same physical connector for 10 years, which is pretty good going. Maybe it wasn't possible to add USB3 in a way that didn't break compatibility with existing docks. They probably don't need composite/component analog video now, either.
+
+    by Rik Sweeney (471717)
+
+    there are equally credible rumors [macrumors.com] that Apple will be making an adapter.
+
+    To be sold separately.
+
+by cpu6502 (1960974)
+
+Making not-needed changes that end-up costing the loyal Apple user more money. BTW when the iPhone 5 comes-out, I hope they reduce the price on the older 4 model. I want to buy one but $550 is a steep price.
+
+by mlts (1038732) * on Tuesday July 24, @11:45AM (#40750511)
+
+One thing about the current connector Apple uses is that it doesn't just provide pins, it provides a structural element, allowing devices to plug in standing up. Without this, it will be a pain at least for a docking station to be built, especially ones that are engineered to support iPhones, iPods, and iPads, all of differing widths, heights, and thicknesses, but all sporting the same connector.
+
+I hope this isn't the case, since it means that the whole accessory market, from the docking station that is a part of a new motorhome to the one that is built into a home theater system, to the dock that is part of a construction grade battery charger are all useless.
+ 
+      
+ 
+
+    by John Napkintosh (140126)
+
+    For the two docks I own, the design of the dock (i.e.: the phone resting in a form-fitting recessed "receptacle") accomplishes that task. Devices which rely on the data connector for structural support are a bad idea. Every time it wiggles while docked, it is weakening the dock's connector as well as potentially damaging the data connector on the phone.
+
+by SuricouRaven (1897204) on Tuesday July 24, @11:49AM (#40750585)
+Why this relentless drive for thinness at Apple? They switched to displayport because VGA/DVI ports were too thick, and now they dropped ethernet from their new retina laptops because the RJ45 connector is too thick. Every time Apple bring out a new iThing, I see the fanboys celebrate how this is the slimmest iThing yet - another 0.25mm shaved from the thickness! Really, once a phone reaches the 'fits in pocket' size, what advantage could be gained for the user in making it slimmer? It's just became some sort of Apple dogma that thinner is better and thinnest is best.
+ 
+      
+ 
+
+    by hahn (101816)
+    As the saying goes, "You can never be too rich or too thin."
+    by tooyoung (853621)
+    My wife has an iPod touch, which looks just like the early model iPhone, but it is much thinner. I have to say, I'd love having a phone exactly like that. Not because I'm a drooling fanboy who needs to have the latest shiny, thin, fancy thing, but because it is just a very nice form factor. Is that so unreasonable?
+
+11 pins, free of charge (Score:2, Interesting)
+by John Napkintosh (140126)
+
+Why were they using 30 when they only needed 19? Is some functionality going to be lost in the new connector? Are they serializing some functions that used to be parallel over the cable? Did the originally plan for some functionality they never got around to adding? Maybe just giving themselves the opportunity to remove them later and and create a market for adapters?
+
+    by HarrySquatter (1698416)
+
+    It's to remove pins that are no longer used.
+    by silverhalide (584408)
+
+    Look at the pinout:
+    http://pinouts.ru/PortableDevices/ipod_pinout.shtml [pinouts.ru]
+
+    I'm going to guess with a high confidence that they are losing analog video pins (3), Firewire pins (6, including 12V power pins), and probably consolidating some of the ground and reserved pins.
+
+    Another connector redesign issue may be to address some shielding issues - as they move to high frequency HDMI video connections, the original connector may have had some challenges there.
+
+by aristotle-dude (626586)
+
+Didn't all of the major news outlets believe that a teardrop LTE iPhone 5 was coming out last year? Did you all forget that?
+
+Do you really believe Apple is going to abandon their ecosystem of dock connector accessories? Really? These reporters need to go back to school because they have become as bad as "bloggers" believing rumours and random parts that could be fake or part of a chinese knockoff designed based on the rumours about a taller iPhone.
+
+by ravenswood1000 (543817)
+Watch them stop manufacturing the current connector as a way to make us all "upgrade".
+
+by demonbug (309515)
+
+Is it possible that this is a miniaturized Thunderbolt? Seems like that would offer all of the connectivity they want, although the pin count is off (by one). Just seems strange (although all-too Apple-like) to invent yet another connector that is different from everything else they use.
+
+by Animats (122034) on Tuesday July 24, @12:00PM (#40750783) Homepage
+
+Connectors are obsolete on a device that has at least three radios in it. Charging should be inductive, video should be WiFi, and audio should be Bluetooth. Then the thing would be hole-free and could be made waterproof.
+
+Now this [youtube.com] is what Apple should be shooting for in ruggedization.
+ 
+      
+ 
+
+    by 0123456 (636235)
+
+    Charging should be inductive, video should be WiFi, and audio should be Bluetooth. Then the thing would be hole-free and could be made waterproof.
+
+    Ha-ha.
+
+    I can barely even get compressed HD video to my laptop from my file server over wi-fi, it's sure as hell not going to be able to send uncompressed HD video to a TV over the same connection. And you really, really, don't want to push video and audio over separate interfaces with all the delights of properly synchronising them at the other end.
+    by Dcnjoe60 (682885)
+
+    Connectors are obsolete on a device that has at least three radios in it. Charging should be inductive, video should be WiFi, and audio should be Bluetooth. Then the thing would be hole-free and could be made waterproof.
+
+    Now
+    this [youtube.com] is what Apple should be shooting for in ruggedization.
+
+    Those capacitive touch screens don't work too well when under water or even just wet.
+
+by Dcnjoe60 (682885)
+
+The real purpose of the change is not to make it so the ear phone can be smaller. The real purpose is that with the change, all of your add-ons that used the old connector will need to be replaced instead of moved to your next device and if there is a new add-on you really want, you'll need to buy a new idevice because the connector changed. Effectively when the new dock is made standard all existing devices will become obsolete.
+
+It's not about better design, etc. It is about generating increases in reve
+
+by Shompol (1690084) on Tuesday July 24, @12:10PM (#40750929)
+From TFA:
+
+New standards are always rough on the early adopter
+
+Standards? What standards? Maybe if you stuck to the standards this would not have happened to you.
+
+All electronics stores everywhere overstocked on Apple peripherals to the point that speakers connecting to non-Apple device are hard to come by. This is the payback time! My turn to walk with a gleeful grin, as millions $ worth of equipment finds its way to the dumpsters worldwide.
+ 
+      
+ 
+
+by swb (14022)
+
+...on the bottom? That really doesn't make much sense, unless part of the connector shrink is removing the line level output from the connector and moving it to the headphone jack. But this would require one of those bizarre connectors like the original iPods had for wired remote functions, and that doesn't seem Apple like.
+
+The dock connector needs to be redesigned, although one of the iDevice's strengths has been a fairly long run with a common connector.
+
+    by vlm (69642)
+
+    Now maybe one of those thousands of companies will realize the the smart move would be a USB plug for charging combined with a bluetooth system for transmitting the music. I can't seem to find anything good for my Android phone.
+
+    You've just described the thing in my car. As for "good", well define good. It does work... If you go to amazon.com and search for "Wagan 5 Amp AC to 12V DC Power Adapter" you'll see an $18 way to run my car's adapter thingy indoors. The absolute cheapest similar device is $12 made by Bestek. I can personally endorse the thingy in my car WRT to charging ability and sound quality being "good enough", but at home I have an elaborate 12 volt ham radio related distribution system, so I have no personal exp
+
+    by chispito (1870390)
+    It's funny, but not analogous. They aren't trying to make a new universal connector and get everyone onboard. Apple is (reportedly) trying to make a new proprietary connector for i-products only.
+
+    by fluffythedestroyer (2586259)
+
+    Forgot to tel but:
+
+    In 2011 the global market for mobile phone accessories will rake in an estimated $34 billion in revenue. Apple-approved products—accessories made by Apple or branded by Apple—make up about $2 to $3 billion of that.
+
+    from fiscal times [thefiscaltimes.com]
+
+    They can't ignore that.
+
+    by s.o.terica (155591)
+
+    blatantly copies the Nexus S 4G earphone location
+
+    You mean the iPod nano headphone jack location from 2005 and iPod touch headphone jack location from 2007?
+    by aristotle-dude (626586)
+
+    Ironic how apple is competing through litigation arguing patent infringement and then blatantly copies the Nexus S 4G earphone location (http://forums.androidcentral.com/google-galaxy-nexus/143389-headset-jack-bottom-yea-nay.html)
+
+    Do you really believe this is a real leaked part? It is more likely a chinese knock off based on "rumours" about a taller iPhone. The clones have their jack at the bottom and a smaller "dock" port like this one.
+
+    Here is an example of a clone:
+
+    http://www.youtube.com/watch?v=uEhowtIJQS8 [youtube.com]
+
+    And another one:
+
+    http://www.youtube.com/watch?v=j-4mYehiNpI [youtube.com]
+
+    by mr1911 (1942298)
+    Considering that 99.9% of people that "complain" about Apple products buy at least one anyway, I doubt Apple gives much of a shit about the concerns expressed here.
+
+    by Dcnjoe60 (682885)
+
+    If my house "only" flooded with two to three feet of water, the least of my concern would be having to replace my router etc, because the power brick got bricked. I'd be much more worried with the damage to the house wiring, insulation, drywall, flooring, etc.
+
+    Yes, standard power supplies would be nice, but I don't think I would use flood recovery as a reason for them.
+

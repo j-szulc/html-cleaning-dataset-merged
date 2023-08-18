@@ -1,0 +1,6 @@
+
+
+The Reader gadget
+Tuesday, June 09, 2009 10:38 AM
+Google Reader has finally come to Google Desktop, as announced on the Google Reader blog. This gadget is a convenient way to check your subscriptions and fits right in with the Gmail, Calendar, and Docs gadgets. Please give it a try and tell us what you think. And a big thanks to Arindam Sharma, who created this gadget during his internship at Google Bangalore.
+

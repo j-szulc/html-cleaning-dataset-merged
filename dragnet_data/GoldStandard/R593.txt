@@ -1,0 +1,12 @@
+Superb Mechanical Seven-Segment Display
+
+Sure, 7-segment displays are common electronic components we see everyday.  This, however, is an entirely mechanical version which morphs each minute as the time changes.  To accomplish this, it uses lots of small servo motors to manipulate each of the clock’s 28 individual segments.  Check it out in action:
+
+The innards of the clock include a microcontroller and shift register. The entire setup is made from laser cut acrylic and each segment along is built from three individual pieces of acrylic! Read more about the project to build your own!
+
+Top DIY Clocks:
+
+    Giant Seven Segment LED Displays
+    Build a Glossy Black Word Clock with Arduino
+    DIY Open Source Sunrise Alarm Clock
+

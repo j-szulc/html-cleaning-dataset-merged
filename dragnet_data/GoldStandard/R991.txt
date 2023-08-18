@@ -1,0 +1,42 @@
+
+
+    November 9, 2012, 7:41 PM
+
+What Fuels the Power-Outage Numbers?
+
+
+By Carl Bialik
+
+My print column this week examines those ubiquitous post-storm estimates of how many customers lost power. Such figures were fixtures of coverage of superstorm Sandy, which devastated much of the East Coast and Midwest of the U.S. when it made landfall less than two weeks ago.
+
+“There is interest in the public and the government sector to know about customer outages,” said Phillip Vavala, the operations leader on the incident-support team for Pepco Holdings , Inc., which owns the northeastern power companies Atlantic City Electric, Pepco and Delmarva Power.
+
+Two decades ago, customer outages were measured less quickly and with more manual intervention, using paper tickets and hard copies of customer records. “It took some time to put numbers out there in the storm,” Vavala said. “In the early ’90s, that’s really where we were with some of that.”
+
+Today, utilities make these estimates using automated algorithms that take into account customer reports of service outages, as well as outages detected directly by utilities through their monitoring systems. “You come up with a predictive number, then improve on that number throughout the event,” said David Callahan, supervisor of operations analysis support at American Electric Power , which operates in 11 states, including West Virginia, which was hit hard by Sandy. “You’re seeing constant adjustments. That’s a minute-by-minute thing.”
+
+Several utilities said their estimates are accurate within 10% of actual outage numbers, though they declined to provide detail on how they know — since they generally won’t get an exact count of outages after all power has been restored. “Northeast Utilities’ operating companies utilize a computer system called an outage management system that dynamically determines the number of customers that have a power outage, and it does so with an estimated accuracy of over 90 percent,” said Caroline Pretyman, a spokeswoman for Northeast Utilities .
+
+Added Todd Schneider, a spokesman for FirstEnergy, “We believe the outage estimates are accurate. However, there could be some slight fluctuations during a large-scale weather event. Repairs could be made to one circuit and our outage system would reflect that fix. But if trees take out additional circuits several minutes later, the outage system would show a higher number.”
+
+Spokesmen and spokeswomen for state agencies say they generally can rely on the estimates from state agencies. “We have found the numbers provided by Delmarva to be reliable and accurate,” said Matthew R. Hartigan, a spokesman for the Delaware Public Service Commission, about the state’s only power company regulated by the commission.
+
+Added Regina L. Davis, spokeswoman for the Maryland Public Service Commission, “We have never had reason to doubt their accuracy, but we have no means of verifying them independently.” For large events, Maryland utilities are required to report to the commission every four hours “including outages, specific components of their systems that are down,” said Davis, “and the numbers of personnel they have deployed, en route, and requested.”
+
+“As estimates, which they are, yes they have been reliable and accurate,” said John Reinert, a spokesman for the New Jersey Board of Public Utilities, about the counts of customer power outages. He added that the figures are useful, “as a measuring stick” on the utilities’ progress in restoring service, in assisting on directing relief, and in giving “communities and customers some insight into the amount of time needed for full restoration.” Mr. Reinert added that the figures are “one factor among many utilized in reviewing” how electric companies prepared and responded to a big storm.
+
+Spokespeople for utilities said they aren’t able to convert the number of customer outages with the number of people who lost power. “We view customers in the context of meters,” said Robert L. Gould, a spokesman for the Baltimore Gas and Electric Company. “Obviously, one meter may serve many actual customers” — such as office building or apartment complexes.
+
+Spokespeople for state storm-response agencies also said they couldn’t convert the number of customers without power into the number of people affected. “I’m sure somewhere in census statistics, we could figure out the number of people involved, although in some instances if a business customer is without power, that might be harder to calculate,” said Edward J. McDonough, a spokesman for the Maryland Emergency Management Agency. “If the business cannot operate and the employees cannot work, do you include them in that figure? Even if they are already counted if their home is out of power?”
+
+Storm responders are used to inexact numbers in their work. Anne Marie Borrego, spokeswoman for the American Red Cross, said the relief organization looks at several indicators when devising an emergency response, such as whether the event is atypical — if it is, many people won’t have insurance for it. “Determining response is part science, part art, so there isn’t a spreadsheet or magical formula that we use,” Ms. Borrego said.
+
+McDonough said that for Maryland, the counts are more useful to the power companies than to the government. “Ultimately, the numbers probably provide more help for guiding the power companies on how many out-of-area crews to request to assist with restoration efforts,” he said. “But again, they are only helpful if we have advanced warning of an emergency event and if we have a good handle on what areas of the state will be hit.”
+
+Customer reports really do matter to utilities, both for making reliable estimates and for learning about outages so they can be fixed, said Schneider. “We do urge customers to call when they are without power,” Schneider said. “It sounds simple but sometimes people assume their neighbor has called when in reality they might be the only one on the street that is experiencing a problem.” Today many report their lack of electricity not by calling, but by using electronic devices — for as long as their smartphones still have batteries and Internet service.
+
+While individual readings of total outages can be fuzzy, the trend after the storm hits follows a familiar pattern. First, there’s rapid decline, as crews reverse major outages affecting the most customers. Then the number of outages flattens out through what Mr. Vavala calls the “hard slog,” through tough fixes that could take all day and serve one customer.
+
+AEP’s hourly numbers for the areas of West Virginia served by its Appalachian Power utility unit, provided by the company, showed service outages climbing quickly on Oct. 30, peaking at 4 p.m. at 155,856 and dropping to 242 by 11 p.m. this past Monday.
+
+“The end of the storm is the hardest,” AEP’s Callahan said. “At that point, you’re marching up the side of a hill to restore one pole.”

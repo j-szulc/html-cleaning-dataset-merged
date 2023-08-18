@@ -1,0 +1,42 @@
+November 06, 2012
+EMC upgrades its document content management line
+Documentum 7.0 is more tightly integrated with VMware and addresses cloud-based document management and mobile access to files
+
+EMC today announced a series of software upgrades for eight products in its Documentum content management platform and its Captiva document capture software line.
+
+The upgrades, which address cloud-based document management, add mobile access to files.
+
+[ Find out the topics and issues affecting tech's biggest names and news makers as revealed in the IDGE Insider CEO interview series. | Stay ahead of the key tech business news with InfoWorld's Today's Headlines: First Look newsletter. | Read Bill Snyder's Tech's Bottom Line blog for what the key business trends mean to you. ]
+
+The upgrades include Documentum 7.0, Documentum xCP 2.0, Documentum Information Rights Management (IRM) 5.1, EMC SourceOne eDiscovery (Kazeon 4.7), Captiva 7.0 and Syncplicity Connector to the Documentum Platform and Documentum xCP. Most of the upgrades deal with managing the applications more easily over virtual interfaces.
+
+Documentum 7.0 is more tightly integrated with VMware's vCenter server virtualization and server management system for easier deployments in a private cloud infrastructure, according to Sean Baird, director of product marketing at EMC's Information Intelligence Group.
+
+Baird said the new GUIs and automation tools will give users of Documentum up to 10 times faster deployments.
+
+"Just consider the time and cost it takes to design, develop, deploy and maintain a [content management system]. Now, you can set up rules to allow a system to be deployed automatically," Baird said. "This is not only for private clouds, but it also helps support EMC on-demand offerings in order for customers to deploy content management solutions using our hosted environment."
+
+In addition, EMC has integrated Documentum with its Syncplicity software.
+
+In March, EMC acquired Syncplicity, a cloud-based file management software vendor. Since then, it has integrated the Syncplicity software with Documentum, allowing users to synchronize content between multiple devices, either by pushing it manually or setting automatic updates.
+
+For example, an insurance claims processor in the field could request case documents from his desktop to his mobile device to help make a decision to approve or decline a claim.
+
+Among the upgrades for the Documentum 7.0 platform is "Information Rights Management v5.1", which includes support for Apple iOS as well as digital rights management for embedded documents.
+
+Additionally, EMC upgraded its Documentum xCP (Accelerated Composition Platform), which helps developers build case management applications or interfaces for mapping process flows that, in turn, help workers collaborate on business decisions.
+
+EMC announced Documentum xCP 2.0, which is now qualified for use with iOS-enabled devices such as the iPad.
+
+The 2.0 version also comes with a library of pre-built components available as free downloads in the EMC Community Network (ECN) for faster development. It is also optimized for private cloud deployment through the new Documentum xCelerated Management System (xMS) software, which reduces deployment time through tight integration with VMware technologies and tools.
+
+EMC also announced Captiva 7.0. Captiva is an image capture application that is typically used to scan documents that are all part of a business or legal case.
+
+The new Captiva version adds drag-and-drop features around image processing or data extraction from documents as well as graphical user interfaces to help users simplify manual processes, whether it's data entry from documents or validating information extracted from documents.
+
+Lucas Mearian covers storage, disaster recovery and business continuity, financial services infrastructure and health care IT for Computerworld. Follow Lucas on Twitter at @lucasmearian or subscribe to Lucas's RSS feed. His email address is lmearian@computerworld.com.
+
+See more by Lucas Mearian on Computerworld.com.
+
+Read more about data storage in Computerworld's Data Storage Topic Center.
+Computerworld is an InfoWorld affiliate.

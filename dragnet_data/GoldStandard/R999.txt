@@ -1,0 +1,50 @@
+The Digital Asset Grid Session at SIBOS
+
+Summary: For the last six months Kynetx has been working partnership with several other companies on a project for the Innotribe division of Swift. The project, called the Digital Asset Grid provides a way for banks to become platforms. 
+
+For the last six months, Kynetx, in partnership with Respect Network and Ctrl-Shift have been working closely with Swift to create a prototype of the Digital Asset Grid, or DAG. The DAG is a Swift Innotribe project to determine how Swift can best provide new services to banks around secure and private sharing and storage of digital assets.
+
+The idea is fairly simple: While many of us share digital assets every day and store them on various Web sites, these are, for the most part, assets of low value or low consequence. Few of us would feel safe conducting a complex banking transaction on Twitter or Facebook. In contrast, the DAG would provide a way of conducting transactions involving any high-consequence digital asset on the open Internet but with Swift-grade security and privacy. The DAG is conceived as a set of services built on top of the open, standards-based Internet. Swift is working on the DAG to position banks as platforms upon which online services can be built.
+
+Kynetx has been building a DAG prototype and an intentcasting scenario in preparation for Sibos. There is much to say about that, but that is another blog post. In this post, I want to give an overview of the session and what was said and done. Here’s the running order:
+The Internet is a Wonderful Thing, BUT…
+
+The session started with Alan Mitchell from Ctrl-Shift.
+
+    The Internet has brought access to information at any time and place. It gives us the world’s information at our fingertips. It lets us communicate and share information with virtually anybody, any time . Its scale and scope is already vast. We’ve moved from a world of information scarcity to information overload. 
+
+You can hear Alan’s complete talk here:
+Slices of Life
+
+Innotribe commissioned a video from the magnificent Heathervescent called “Slices of Life.” The video shows how the DAG could affect real people in their daily lives.
+
+Intentcasting on the Digital Asset Grid
+
+I was up after the video with a short demonstration giving more information about the intentcasting app featured in the Slices of Life video. Our intentcasting scenario involved a constellation of personal clouds running the CloudOS. There were even clouds representing the motorcycle and the bank loan. Most of the interesting bits involve establishing, permissioning, managing, and decommissioning connections between clouds. We’ve created CloudOS services to take care of all that so developers can concentrate on what the application does. 
+
+As I mentioned, I’ll have another blog post detailing the Intentcasting scenario and how we designed and implemented it.
+Green Ski Lodge
+
+Xenapto demonstrated their system for connecting investors and entrepreneurs and smoothing the funding process. As Dominic Sayers states, Xenapto doesn’t do away with the need for face-to-face meetings, but it smooths out the rough spots where workflow can and should be automated.
+Forever
+
+Drummond Reed demonstrated the Forever application. Forever is a contact management system based on the principles of the DAG so that contacts are always fresh and address books are permanently synced.
+
+My Personal Cloud Desktop in Action post showed a similar functionality in how personal clouds work. This isn’t a coincidence.
+FidorSafe
+
+Matthias Kroener of Fidor Bank demonstrated FidorSafe (PDF), the first personal data store offered by a licensed bank.
+Why Banks? Why Now?
+
+Finally, Liz Brandt of Ctrl-Shift offered a business case for banks to be involved in the DAG.
+
+    The Digital Asset Grid is a game changer, offering banks an opportunity to transform their businesses and their industry and commerce - strategically positioning banks at the nexus of value exchange in the digital economy. All the banks consulted were convinced of the potential of DAG to have a significant effect on their institution and the banking system overall. 
+
+You can watch her talk here:
+The Rest of the Story…
+
+The session also included a great opening keynote and closing summary from Yobie Benjamin, the Global CTO of Citi who strongly endorsed the DAG project. We had breakouts in order to explain the details of our respective parts of the project in more detail. There’s lots to show on the intentcasting piece. We only had 15 minutes in the breakouts. I could have easily talked and demonstrated features of the intentcasting scenario for hours.
+
+As part of creating the DAG session at Sibos, Heather also created a documentary about the DAG featuring interviews with industry experts on identity, privacy, and personal data:
+
+We shot some of these interviews while many of us were together at Cloud Identity Summit this past summer in Vail. This has been a great project and I look forward to what we do in the coming months as we bring the DAG to life. 

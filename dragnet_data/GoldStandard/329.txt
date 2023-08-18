@@ -1,0 +1,624 @@
+Neuroscience May Cure Videogames Industry's Obsession With Guns 254
+Posted by Unknown Lamer on Tuesday July 24, @03:17AM
+from the stanley-kubrick-presents dept.
+An anonymous reader writes "Leading developer Chris Stevens tells Edge magazine that neuroscience researchers will soon find 'non-violent triggers to mimic the rush of pleasure gamers feel when firing guns.' Researchers can now use functional MRI scanners to monitor what is going on in a player's brain and search for more optimistic and non-violent pleasure triggers. 'For decades it's as if developers have been driving a car with no speedometer,' Stevens claims, referring to the reliance on reported emotions rather than empirical measurements in game development. The functional MRI now gives a much more accurate indication of when peaceful triggers light up the brain's pleasure regions, opening up alternative game designs, without crude weaponry. 'I would like to see many more beautiful games like Fez and Limbo,' Stevens says. 'When I was a kid, games were more beautiful and magical and immersed you in fantastical, peaceful and enjoyable landscape.' The functional MRI could make these peaceful titles provably superior — no mean feat in a mass-market games industry currently obsessed with the crude dopamine-triggering effects of simulated weaponry."
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+by TheInternetGuy (2006682) on Tuesday July 24, @03:22AM (#40746395)
+I misread the title as "Neurosurgery may cure videogame industry obsession with guns".
+Now I must admit to being slightly disappointed.
+ 
+
+    by kermidge (2221646)
+
+    If this research is done and shows what Stevens thinks it might, I'd be open to developers applying it if they were candid about doing so. My fear would be if it works and could be applied in advertising, political rhetoric, and incorporated into television news and shows.
+        by BlueStrat (756137) on Tuesday July 24, @03:56AM (#40746513)
+
+        My fear would be if it works and could be applied in advertising, political rhetoric, and incorporated into television news and shows.
+
+        Too late.
+
+        It's called "propaganda".
+
+        Strat
+                 
+            by catchblue22 (1004569) on Tuesday July 24, @02:26PM (#40753317) Homepage
+
+            Too late.
+
+            It's called "propaganda".
+
+            I find it interesting to watch the "propaganda" machine in action. When there is a new development that might affect the public mind (say for example the "Occupy" movement in its early days), there seems to be a delay in the response by certain parts of the media. Comments by establishment right wing posters are initially sparse, and coverage in right wing media sources is initially factual and muted. Commentary is initially limited. Then the comments begin to increase, and gradually adopt a common thrust. Right wing postings on discussion boards become more common and usually have a common theme. With the "Occupy" movement, some of the themes were, as I remember, that the protesters were a bunch of hippies, that they should get jobs, that they don't have any demands, or that their demands are unrealistic. The coverage peaks, and then declines over time. By the reduction in coverage, the public gradually subconsciously gets a sense that the phenomenon is declining, that it is finishing. People then turn their attention elsewhere and the message that the movement is finishing becomes a reality.
+
+            Many readers might say, well, that the above descriptions were true. They were hippies. Their demands were unrealistic or didn't exist. They did decline. To which I would ask how you actually developed those opinions? Did you visit the protesters? Did you interview them? Did you actually try to understand their concerns? Did you really get inside their heads and try to comprehend their concerns in a deep way? Because if you didn't, your opinions were largely based on what you saw in the media. Your opinions were largely based on what we might call propaganda. And that propaganda likely originated largely from the minds of "public relations" experts. It was probably, when necessary, vetted with "focus groups", who were likely monitored in detail for their emotional responses to various statements. It was probably reinforced with polls and interviews. And it was very effective.
+
+            I doubt the American Revolution would have taken place if the British had had such all pervasive means of propagandizing the masses.
+                         
+        by TheInternetGuy (2006682)
+
+        if only slashdot had a joke plagiarism filter.
+
+        Why did the Anonymous Coward cross the road?
+            by RaceProUK (1137575)
+
+            if only slashdot had a joke plagiarism filter.
+
+            Why did the Anonymous Coward cross the road?
+
+            To troll the other side, of course! :) And I know this AC wasn't trolling ;)
+        by hawkinspeter (831501)
+        I need that like I need a hole in my head
+            by lightknight (213164)
+
+            Good News!
+                    by Austerity Empowers (669817)
+
+                    You forgot "stabbing neuroscience researchers".
+
+by Ukab the Great (87152) on Tuesday July 24, @03:23AM (#40746403)
+
+    non-violent triggers to mimic the rush of pleasure gamers feel when firing guns.
+
+It's called an orgasm, produced by a hand motion similar to squeezing a trigger. You typically fire one of these at a simulated woman in place of firing a gun at a simulated bad guy to get your rush of endorphins. There's actually quite a thriving industry on the internet involved in this gameplay, so I'm not exactly understanding what the scientists hope to achieve.
+
+ 
+
+    by techno-vampire (666512) on Tuesday July 24, @03:45AM (#40746479) Homepage
+    It's called an orgasm, produced by a hand motion similar to squeezing a trigger.
+
+    You really need to get out of your mother's basement more often and find out by personal experience why there are two sexes.
+   
+     
+        by MobileTatsu-NJG (946591) on Tuesday July 24, @04:29AM (#40746627)
+
+        You really need to get out of your mother's basement more often and find out by personal experience why there are two sexes.
+
+        Only two? Pffft. You obviously haven't seen my browsing history.
+        
+         
+        by Dunbal (464142) * on Tuesday July 24, @07:01AM (#40747193)
+        You mean the two sexes are not "left" and "right"?
+        Reply to This Parent Share
+        twitter facebook Share on Google+
+         
+            by Austerity Empowers (669817)
+
+            Also known as "Clever" and "The Retard". Which is which varies by person.
+        by Austerity Empowers (669817)
+
+        ou really need to get out of your mother's basement more often and find out by personal experience why there are two sexes.
+
+        Save you the trouble. It's because if a man gave us so much trouble, we'd just punch him in the nose.
+    by Burz (138833)
+
+    When I read the summary I thought "what would compete with guns would be pr0n".
+    by guttentag (313541) on Tuesday July 24, @04:13AM (#40746559) Journal
+
+        non-violent triggers to mimic the rush of pleasure gamers feel when firing guns.
+
+    It's called an orgasm, produced by a hand motion similar to squeezing a trigger.
+
+    Developers have already come up with a video game that simulates the excitement of violence without guns. It's called Angry Birds.
+
+    Interestingly enough, it is a fair approximation of this orgasm thing you mentioned:
+    "Aww... How the hell am I supposed to hit that when you don't even give me a clear shot at it?! You want me to get creative on your ass?! Bounce it off the what now?" (thirty minutes later) "I hit it?! Bam! That's what I'm talking about! Now I'm just going to do my little dance and act like I knew what I was doing all along. I'm ready to take this to the next level! Hey, I need to buy something to continue? I'm just getting started."
+   
+     
+        by Krokus (88121)
+
+        Bejeweled 3's Diamond Mine game variation does it for me. No guns, just lovely, lovely gems that explode in such a satisfying way. :)
+
+        Just Diamond Mine, though. All the other game variations blow.
+
+by Anonymous Coward on Tuesday July 24, @03:24AM (#40746409)
+
+Anyone else think there is a subtle irony in the fact the chap that killed 14 people in the Batman movie in america was studying neuroscience.
+
+This obviously wasn't his thesis.....
+
+
+    by jellomizer (103300)
+
+    Makes sense... Who makes better guineapigs for controlled studies than your own grad students?
+
+by JockTroll (996521)
+A good lot of videogames are not about guns or even about fighting. Those that are about that, unless they're SF or fantasy-based, should strive to have the most realistic experience as digitally possible but there is no substitute for the firing range. And anyway, games are about competition so "peaceful" is a four-letter word here. Take your hippy theories and fire them up your bunghole with an Angry Bird slingshot, loserboy.
+
+    by tehcyder (746570) on Tuesday July 24, @04:20AM (#40746591) Journal
+
+    And anyway, games are about competition
+
+    Not necessarily, unless you include "competition against yourself to have more fun" which you could apply to anything if you stretched it far enough.
+    
+        by DNS-and-BIND (461968)
+
+        Are you kidding? The Simpsons mocked this using their squarest character precisely because it is so incredibly lame.
+
+        Principal Skinner: Oh, licking envelopes can be fun! All you have to do is make a game of it.
+        Bart: What kind of game?
+        Principal Skinner: Well, for example, you could see how many you could lick in an hour, then try to break that record.
+        Bart: Sounds like a pretty crappy game to me.
+
+        I suppose most kids today have never watched the first few seasons of The Simpsons and hence are unaware of
+            by canajin56 (660655)
+            Yeah, good work, you got his point but somehow thought it was your own.
+    by FTWinston (1332785) on Tuesday July 24, @05:43AM (#40746893) Homepage
+
+    Those that are about that, unless they're SF or fantasy-based, should strive to have the most realistic experience as digitally possible but there is no substitute for the firing range.
+
+    Surely they'd be better off striving to have the most enjoyable experience possible? Especially if you say that they'd still be "no substitute." A sniper game that involves hiding in the one place for 2 days straight, for instance, may be realistic, but why would anyone want to play it? Give me TF2 any day.
+    
+    by vivian (156520) on Tuesday July 24, @05:59AM (#40746961)
+
+    One of the most memorable games from my youth was an RPG called Ultima IV. In the previous games in the series, you just stole all the gold and levelled entire friendly towns for profit, once you got strong enough - no consequences.
+
+    In Ultima IV however all of a sudden there were consequences for mis-deeds. you could still lie, cheat, steal, and lay waste to the friendly citizens, but there were in-game consequences that cost you. Of course a central theme to the game was to become virtuous, but I think more games could do with some of these mechanisms - allow free action still, but make it have consequences.
+    
+        by Belial6 (794905)
+        Well, as a rule, RPG Heroes are Jerks. http://www.collegehumor.com/video/5977008/rpg-heroes-are-jerks [collegehumor.com]
+
+        Ultima IV was still ultra violent. Try playing though it without any weapons or offensive spells. See how far you get. Ultima IV, as awesome as it is, just wraps its violence up in religion.
+    by bluefoxlucid (723572) on Tuesday July 24, @08:16AM (#40747627) Journal
+
+    I think this whole effort is incredibly misguided. Video games used to be peaceful, like Custard's Last Stand or T.E. or that Super Favio Brothers thing where you stomped the shit out of some turtles and walking mushrooms, or alternately set fire to them.
+
+    Violence is a fact of life. There is no power to protect; this is a thing I discovered long ago but have been agonizing over to the point of crying trying to understand... somebody spelled it out for me (it was in a book), I finally swallowed it but it was a big pill to swallow. Part of enlightenment is sitting around holding onto truths you've discovered years ago and trying to find the flaw in them, I guess. Unfortunately there is no flaw: there is no power to protect.
+
+    Power allows you to destroy, in its simplest and easiest form; more subtle, difficult applications of power allow you to create, and creation is just the careful application of destruction and preservation. People will seek to protect their own interests by force, by taking things that don't belong to them; they will seek to maintain dominance and strength by force of will--by instilling fear, with destruction. The only thing that protects you is the power to destroy: your entire police force functions on the principle that would-be criminals understand they will find you and they will beat and kill you if you resist.
+
+    Folks think it's so god damn 'virtuous' to refuse violence. It's insane. You want virtue? Stop being a coward. When you see someone being dragged off to be raped or murdered, go over there and stop their attacker--whether it comes to threats or beating someone's head in with a steel pipe. If you knew the whole damn world would suddenly come to kill you if you rape a bitch, you're probably not going to do it unless you're suicidal; yet sane, rational people will complain about all the violence in the world and then willfully strip themselves of their defenses, and espouse the virtue of having everyone who could possibly stand in to protect them do the same. Lunacy. A lot of good people are gonna get hurt. This is a side-effect of that: violence bad, we should hide it, pull it out of entertainment, teach people to all play nice.
+    
+        by moeinvt (851793)
+
+        What's the book damnit?
+
+        Are there people other than Christians who believe violence is bad, even in self defense?
+            by geminidomino (614729)
+
+            Are there people other than Christians who believe violence is bad, even in self defense?
+
+            Unfortunately, yes.
+
+            In my experience, they've tended towards the intersection of female, self-proclaimed liberal, and academic, like the one I've been dating for the better part of a decade.
+
+            Not sure if it's "ironic," or just amusing, that listening to her "reasoning" on the subject always makes me reflect on just how badly she needs a good Gibbs-slap.
+            by bluefoxlucid (723572)
+            Third book in the Mageborn series. Mort gets into a short debate with someone over the nature of power. She tells him quite plainly there's no such thing as the power to protect someone.
+            by bluefoxlucid (723572)
+            And if I'm wearing plate? Cat can't scratch me, it's not heavy enough to topple me. No power to destroy, thus what can it do to protect?
+            by bluefoxlucid (723572)
+
+            Have you read The Giver? I believe it is the embodiment of your perfect little world.
+
+            You continue to advocate making the weak even more defenseless such that the strong can rule over them by blunt force.
+
+by LittleImp (1020687) on Tuesday July 24, @03:40AM (#40746457)
+All people want is some false sense of achievement. There are literally thousands of games that do this without guns. And do so successfully.
+
+"no mean feat in a mass-market games industry currently obsessed with the crude dopamine-triggering effects of simulated weaponry" -- This quote just shows another person knowing absolutely nothing about the gaming market, but having an opinion on how to "improve" it anyway.
+
+
+    by phantomfive (622387)
+
+    All people want is some false sense of achievement.
+
+    This is an interesting point, I noticed once I started achieving things in real life, games seemed less exciting to me, and more like, mere games. Maybe this is a real reason people enjoy games.
+
+by maweki (999634)
+The mouse and the gamepad are very good to simulate 3D-Dimensional motion, as are the Graphics Cards. Having a game that works with space is easy because it is modelled after reality.
+So having a game around the notion of moving things through space at a specific target is an easy concept. Acquiring control over said space through excertion of force is easy to grasp as well.
+
+I think there was an article on RPS some time ago that talked about how the video game controls are specifically suited to manipulate
+
+    by Talderas (1212466)
+
+    And what better physical interaction is there than punching?
+
+    The Germans have a word for this...Backpfeifengesicht.
+
+by mentil (1748130)
+
+If someone actually does the research to find what game mechanics are the most pleasurable, that likely won't lead to other games usurping shooters as being the genre that publishers feel safe pumping $50 million into each.
+It's also not just a matter of the intensity of pleasure, but also the frequency. If a shooter is very pleasurable when you're shooting things, but a puzzle game is only very pleasurable when you solve a puzzle, then you get more pleasure per minute from shooting.
+
+Those making manipulative
+
+    by tehcyder (746570)
+
+    Those making manipulative 'social games' who have studied psychology to understand how people feel rewarded already understand this (in theory), and have made games with a variety of methods of pleasing the player. It will probably be found that the theory matches the results of the experiments. This means instant rewards, periodic rewards, sparse rewards, novelty, and different game modes.
+
+    If you think FPS games aren't equally manipulative, you're dreaming.
+    by ifrag (984323)
+
+    you get more pleasure per minute from shooting
+
+    Hmm, maybe this should be a box statistic. [ Xbox Live ] [ 16 Players ] [ 80 Pleasure Per Minute! ]
+
+    Assuming this research has some idea of objectively tracking it.
+
+by Jesrad (716567) on Tuesday July 24, @03:45AM (#40746481) Journal
+
+I'm reasonably sure they can safely and successfully replace "shooting guns" with "swinging swords" and other bladed weapons. Remote-control explosives, lassos and whips, Force-lightning and gravity-guns would probably also work. I'm unsure about their untold, implicit objective though, but then, science is about testing hypotheses, and not fulfilling fantasies about human nature - now that's what simulation video games are for !
+
+    For decades it's as if developers have been driving a car with no speedometer
+
+Well of course the game designers wouldn't need external measuring tools, not when their own brain can tell them what they, themselves, enjoy playing. Apparently they found out on their own that the most efficient way for getting "crude dopamine-triggering effects" was "simulated weaponry".
+
+I'll even go out on a limb and say that the researchers will find "triggering peaceful-triggers" is best done by solving puzzles that are challenging but not out of reach, repeating a timed sequence of memorized or interpreted actions to a sufficiently close match of a model (like, say, jumping through perilously placed platforms) and the sort of things that have spawned entire casual videogame genres.
+
+
+    by bmo (77928) on Tuesday July 24, @03:59AM (#40746523)
+
+    Apparently they found out on their own that the most efficient way for getting "crude dopamine-triggering effects" was "simulated weaponry".
+
+    Real weaponry is an efficient way of getting "dopamine triggering effects," thus my obsession as a teen with archery.
+
+    --
+    BMO
+    
+        by tehcyder (746570)
+
+        Apparently they found out on their own that the most efficient way for getting "crude dopamine-triggering effects" was "simulated weaponry".
+
+        Real weaponry is an efficient way of getting "dopamine triggering effects," thus my obsession as a teen with archery.
+
+        -- BMO
+
+        You can get quite a high from real life violence without weapons too, like joining in a riot and beating rivals to death with your fists and boots. That doesn't mean it's a good or clever thing.
+            by TheGratefulNet (143330)
+
+            but it does mean that you could have a very 'rewarding' career wearing blue uniforms and carrying weapons of destruction and torture.
+            by bmo (77928)
+
+            >Archery == Senseless violence
+
+            Okay.
+
+            Plonk.
+
+            --
+            BMO
+        by Mashiki (184564)
+
+        Real weaponry is an efficient way of getting "dopamine triggering effects," thus my obsession as a teen with archery.
+
+        Mine was racing. So was many others at my highschool, geekdom comes in many flavors oddly enough, and plenty of us liked computers as cars. Going down to the track, and racing in 1/4 mile stretches, then tinkering like hell for the following weekend. Was just as much fun as fun as going to someones house and having a LAN party weekend, and playing Doom and Quake.
+
+        To be honest, this entire thing just stinks. Unless they're going to remove or try and "fix the world" so the high is only in "carefully contro
+            by GameboyRMH (1153867)
+
+            You might have stuck with it if you'd chose a form of racing that isn't primarily a spending competition.
+    by BoogeyOfTheMan (1256002) on Tuesday July 24, @04:07AM (#40746539)
+
+    Reading the summary, (no I didnt RTFA), it seems like they have forgotten that before video games, kids played cops and robbers. And before that, cowboys and indians. And before guns were invented, they played with toy swords. Sure there are other non violent games, ones involving a ball, hide and seek, tag, hopscotch, etc. But for centuries, kids have played violent games. Could it possibly be that humans enjoy a make believe violent fantasy? Nooooo, its the game developers not knowing a better way....
+
+    There are already plenty of games that dont involve guns and/or violence. Music games, puzzle games, sim games, racing games, sports games. Like the poster above me said. We already have what they are trying to do. Its just that the violent ones tend to be more popular
+    
+        by Jesus_666 (702802) on Tuesday July 24, @06:34AM (#40747085)
+
+        There are already plenty of games that dont involve guns and/or violence. Music games, puzzle games, sim games, racing games, sports games. Like the poster above me said. We already have what they are trying to do. Its just that the violent ones tend to be more popular
+
+        Don't lie. Dance Dance Revolution doesn't exist and neither does Need for Speed. And Tetris was just a lie to make the Soviet Union appear harmless. All games involve shooting guns as their only gameplay element.
+
+        And before video games came out children were always well-behaved, played wholesome contact-free team sports and got their rushes of pleasure discussing classical literature and working out how to best advance society once they would be old enough to do so. Then computers appeared and it was non-stop Doom.
+        
+        by Sycraft-fu (314770) on Tuesday July 24, @07:11AM (#40747251)
+
+        As I noted in another post: Get some animals together, see how they play. A big part of it is play fighting. They wrestle, chase, chew and so on. Many of their actions are the precise same ones they take when actually hunting or fighting, they just are gentle with it.
+
+        For example many cats (which is what I've owned the most of) like to chew on your hand, grip your arm with their front paws, and pick it with their back paws, while laying on their back (often while purring up a storm). This is what they do in combat, just with more force and claws out. They try to bite the neck/face of the other cat and use the back claws to disembowel their opponent.
+
+        How they fight and hunt relates to how they play. You see this all over nature. Thus you start to think maybe this is not coincidence, maybe there's an evolutionary reason that play mimics combat. Also you start to realize that humans are not unique in this regard, just more complex in our kinds of play.
+        
+    by GameboyRMH (1153867)
+
+    Yeah most of the weapons in the DMC series and Prototype aren't guns, and even without them the games would still be very violent.
+
+by ShakaUVM (157947) on Tuesday July 24, @03:49AM (#40746497) Homepage Journal
+
+I find it quite amusing that their "solution" to violent video games is Limbo.
+
+They obviously never stepped one foot into that world. If anyone got through that game without being impaled or decapitated at least a dozen times, I would be very impressed.
+
+
+    by gl4ss (559668)
+
+    I bet they love mario and it's stomping on things. and shooting fireballs.
+
+    they'll just replace the projectiles with other projectiles. what's the difference between a nerf gun fps and a normal fps? just graphics. estimating how projectiles fly gives satisfaction, that much was already known anyways.
+
+    and journey.. goddamn pfft. do they want really us to go comatose?
+    by Anonymous Coward
+
+    they want to solve "guns" not "violence".
+        by GameboyRMH (1153867)
+
+        That's a long-solved problem, there are tons of 3rd-person and 1st-person action games out there that either don't have guns in them or would be just as fun without them. Some are hyper-violent gore-fests like Prototype.
+
+by c0lo (1497653)
+And in this case, the speedometer is...
+
+The functional MRI now gives a much more accurate indication of when peaceful triggers light up the brain's pleasure regions, opening up alternative game designs, without crude weaponry. So, fix your < $100 car (i.e game) with... someone remind me, please... how much for a "functional MRI" speedometer? ('cause, I s'ppose, each driver is be different, thus the speedometer would read something else)
+
+by petsounds (593538)
+
+This is just a BIT ironic, or at the least bad timing, considering the Colorado shooter was in grad school for neuroscience.
+
+by XiaoMing (1574363)
+
+Remove just the word videogames, and imagine how much ridiculous NRA'esque rhetoric we could expect to see (even here on /.) about how "they" (big brother, gov't, democrats, Obama etc.) are literally trying to brainwash us and take away our rights!
+
+by Trepidity (597)
+
+So if they've identified pathways they want to target and have some good fMRI evidence of what's going on, why use games as the drug delivery mechanism, instead of a more conventional method?
+
+by circletimessquare (444983) <circletimessquareNO@SPAMgmail.com> on Tuesday July 24, @04:25AM (#40746615) Homepage Journal
+
+where i played hours and hours of 'DOOM' day after day
+
+i did not turn into a massacring monster. the worst thing on my record is a speeding ticket. i am nonviolent
+
+in fact, i am for much stricter gun control in the USA. the second amendment was written before semi-automatic firearms existed
+
+i enjoyed the escapist violence in 'DOOM' because it is just a game, i can tell the difference between real life and a game. everyone can except a few nutjobs
+
+the point is: violent videogames, movies, books, or any media do not turn certain people into nutjobs. certain people are just already nutjobs, and yes: certain media may set them off
+
+however: in a world where all media is unicorns and flowers, the barking dog next door or the roommate's weird style of laughter or the burning red eyes of the toaster oven would set them off instead. meaning they are going to be set off, one way or another, no matter what media exists
+
+so let us enjoy our first person shooters and batman movies. these media might set off nutjobs... nutjobs who would be set off anyways in any media environment regardless
+
+to get quite pointed here about how silly it is to focus on media: if you are concerned about some media creating violent people, then the bible and the koran are the very first things you want to destroy, as those two books have served as the inspiration for the murder of millions. the contents of those two books are very violent, and suggest that an almighty invisible power has absolute authority to command you to obey its violent teachings. great, that's just what you need to tell a crazy person
+
+    by shutdown -p now (807394)
+
+    in fact, i am for much stricter gun control in the USA. the second amendment was written before semi-automatic firearms existed
+
+    If you wish to argue for stricter gun control, then by all means do so, but don't pretend that the 2nd somehow supports you. It was written when private ownership of artillery pieces and naval ships of the line was not only legal, but actually happened, and no-one batted an eye at that. It would be unreasonable to believe that the writers who didn't feel the need to ban people from having a ship that can fire a broadside of 70 guns, would find a semi-automatic rifle so dangerous as to warrant prohibition.
+
+    Ag
+
+by Jane Q. Public (1010737) on Tuesday July 24, @04:43AM (#40746671)
+But I have to wonder about "neuroscience" ASSUMING that an affection for guns has to be "cured".
+
+Other video games have other forms of violence, whether it's punching mushrooms or dumping barrels on somebody's head.
+
+I think there are a number of assumptions here that are probably unwarranted.
+
+
+    by GameboyRMH (1153867)
+
+    Even then, what about real vs. virtual guns.
+
+    In games I'm all about guns, I like the STALKER games where you can mod them etc, lots of fun.
+
+    IRL, I don't really care. I live in a decent neighborhood, I don't have to deal with any dangerous animals, I have no need to own them. Firing them at targets isn't that appealing to me. Paintball is much more fun.
+        by GameboyRMH (1153867)
+
+        How could orgasms ever be bad? And reproduction past a certain point (maybe 2 kids) is bad right now.
+
+by Dr. Spork (142693)
+Geez, if all you expect from games is to be shown stimuli that trigger pleasure receptors, that's a very impoverished idea of what games could be! Imagine if someone wrote the MRI-perfect novel, so that every page would trigger some neural activity in the pleasure center. Would that even be a good book? I'll answer that rhetorical question: No, it would be a completely pointless, manipulative piece of shit. That happens to describe too many video games already; I don't want this to get even worse. If all we
+
+    by FTWinston (1332785)
+    And reading something interesting doesn't count as a specific form of neural stimulation?
+        by Dr. Spork (142693)
+
+        Sure, all pleasure is ultimately a neural phenomenon. I'm just saying that the methodology of this experiment - to correlate what happens on the screen with what happens as an immediate result in the brain - will only reveal things that give us pleasure through giving us some kind of rush. Or do you think that this technique could reveal what's good about the novels of Dostoyevsky?
+
+        And suppose that you measured the brain of someone who was deeply moved by p. 412 of Brothers Karamazov. Then you implant wi
+            by FTWinston (1332785)
+            I don't think this technique can reveal what's good about Dostoyevsky, nor indeed what's good about computer games. It can, however, show you whether or not something else has the same neurological effect as reading Dostoyevsky, or playing a shooter, or whatever. If they were able to recreate the identical (your word) neural stimulation, then I would - but I don't think they'd ever be able to recreate it identically, so that's perhaps not so important.
+
+            This neuro technique presupposes that you accomplish what you want by just skipping the insight and going straight to the rush of pleasure that insight causes.
+
+            I've not read TFA, but I'm not convinced that they are
+
+by Lisias (447563)
+
+Would not be cheaper simply legalize prostitution, gay marriage, et all?
+
+Violence is one possible (and probably the most common) symptom of repressed sexuality!!
+
+    by TheGratefulNet (143330)
+
+    prostitution is already legal; what are you talking about?
+
+    have you never heard of congress before??
+    by tftp (111690)
+
+    Violence is one possible (and probably the most common) symptom of repressed sexuality!!
+
+    Finally the reason for wars had been discovered. That includes wars against oppressors and occupiers, apparently. Should we send sex toys to Syria?
+
+    In reality most of simulated violence is necessary, justified violence that the player performs to protect his people. This rule is true from Wolfenstein 3D to Doom to Resistance and Halo. The player there is shown as a good guy, not as a monster. Deus Ex does the same, t
+
+When I was a kid, games were more beautiful... (Score:5, Insightful)
+by skine (1524819) on Tuesday July 24, @05:08AM (#40746747)
+
+"When I was a kid, games were more beautiful and magical and immersed you in fantastical, peaceful and enjoyable landscape."
+
+When exactly did Chris Stevens grow up?
+
+Obviously, it wasn't in the Atari era, where half of all games were space shooters.
+
+Obviously, he didn't grow up in the 8-bit or 16-bit era, where every game involved you killing everything within sight - either with guns, or swords that have the ability to shoot.
+
+Obviously, he didn't grow up in the 64-bit era, where first person shooters became the biggest selling games.
+
+Obviously, he didn't grow up in the modern era, where a good shooter sells a console.
+
+So, obviously, Mr. Stevens either never grew up, or he didn't grow up with video games.
+
+    by skine (1524819)
+
+    Then again, he could have been raised on, and only raised on, the Sonic the Hedgehog franchise.
+
+    You never kill enemies, because they all turn into bunnies or squirrels when you stomp on them, and Dr Robotnick never dies.
+    by Sycraft-fu (314770)
+
+    All the guns and so on in games isn't surprising: It is the human version of play fighting. It doesn't take long watching animals to see that pretend fighting is the #1 form of play out there. Kittens stalk each other, puppies wrestle and chew on each other. Well humans are the same way. Plenty of our games are "play fight" type of games, and videogames are no different.
+
+    May well be evolutionary reasons for it (perhaps play fighting helps yo be better at real fighting). However given that it is the kind of t
+    by GameboyRMH (1153867)
+
+    The only games that are peaceful are flight and driving simulators. And even then you can fly your plane into a building or slam a competitor's car into a wall.
+        by Hatta (162192)
+
+        What, you think Civilization is a non-violent game?
+
+by trout007 (975317) on Tuesday July 24, @05:28AM (#40746813)
+
+We recently bought an Xbox 360. I downloaded some demos and one was Bulletstorm. I was playing it and my 10 year old son was watching. My 7 year old walks in, watches for 3 seconds, and says "I don't think this game is appropriate for kids". Just then I finished the level and the guy in the game said something where he drops the f-bomb. My daughter walks out saying "Yeah, definitely not appropriate". I said "yeah I think you are right.
+
+
+by DrXym (126579)
+Sounds like he would be uniquely qualified to study this and has some spare time on his hands.
+
+by 16Chapel (998683) on Tuesday July 24, @06:07AM (#40746997)
+Pyro Vision.
+
+http://wiki.teamfortress.com/wiki/Meet_the_Pyro [teamfortress.com]
+
+Problem solved.
+
+by 140Mandak262Jamuna (970587) on Tuesday July 24, @06:35AM (#40747089) Journal
+So instead of crude blasters and guns, they are going to use an elegant weapon for more civilized ages? Like what this woman is showing off? [youtube.com]
+
+by argStyopa (232550) on Tuesday July 24, @07:11AM (#40747257) Journal
+
+But what does the SALMON think of violent video games?
+http://neuroskeptic.blogspot.com/2009/09/fmri-gets-slap-in-face-with-dead-fish.html [blogspot.com]
+
+(The comedic scanning of a *dead* salmon with fMRI, showing that - without careful correction - fMRI can give you data from absolutely nothing. In this case, "...the salmon was shown a series of photographs depicting human individuals in social situations. The salmon was asked to determine what emotion the individual in the photo must have been experiencing...". "Studies" like this - purporting to explain some sort of human behavior - always remind me of this result.)
+
+
+by SomeoneGotMyNick (200685)
+
+They can use this [wikipedia.org] for inspiration...
+
+by Loosifur (954968)
+
+...like Contra, Rush N' Attack, Combat, and Ikari Warriors. Sad that today's games are so obsessed with violence and the military.
+
+    by Lord Lode (1290856)
+
+    Or Dungeons and Dragons.
+
+by N3tRunner (164483) *
+'When I was a kid, games were more beautiful and magical and immersed you in fantastical, peaceful and enjoyable landscape.'
+
+Yeah, I hear that Contra and Ninja Gaiden were all about peace and love. I guess this guy only played Mario when he was a kid.
+
+    by GameboyRMH (1153867)
+
+    Mario, the game where you kill every living creature you run across who isn't already your friend. Very peaceful.
+
+by Maxo-Texas (864189) on Tuesday July 24, @08:16AM (#40747629)
+
+We played war, threw real rocks at each other (so cover was important). We did lots of violent stimulating activities. Riding bicycles as fast as we could and jumping off to grab a tree branch and swing while the bike sailed off. Running to the edge of the bayo with card board boxes and jumping off the edge onto the 45 degree slope and sliding down (could have broken our arms).
+
+And our video games as they appeared had guns almost immediately. It was like pong, pac man, then shooters.
+
+My favorite games were
+Crazy Climber (no gun), ROBOTRON 2084, Defender. Two of three involved shooting and killing things.
+
+by slashmydots (2189826)
+They said gamers but what they meant was males. Females of course have universally not given a crap about big weapons firing off in games. So if they take away alpha male, testosterone junkie, fake power trip crap, they might actually get some female to play big titles.
+
+by RobertLTux (260313)
+
+Violence Sport or "Sporting" those are what drives men they have known this since The Dawn of Time
+
+by doug141 (863552)
+...brain's pleasure center? They'll invent porn.
+
+    by MobileTatsu-NJG (946591)
+
+    Take Portals for example. It's an extremely fulfilling game with a gun, that doesn't kill anyone.
+
+    Small nitpick: I doubt I'm the only one that has fun picking up turrets, using them as a shield, and tricking his buddies into shooting him up.
+        by lightknight (213164)
+
+        Thus fulfilling the inner hostage-taker and human shielder in all of us.
+        by GameboyRMH (1153867)
+
+        Came here to post about the portal gun. It's not a traditional gun, it doesn't shoot projectiles, but it sure is violent (against robots). Tricking them into shooting each other, dropping them from heights, bashing them into each other...the portal gun can definitely be a violent weapon.
+    by tehcyder (746570) on Tuesday July 24, @04:36AM (#40746647) Journal
+
+    You can't take the gun out of games, but you can make the gun non-violent. Take Portals for example. It's an extremely fulfilling game with a gun, that doesn't kill anyone.
+
+    The reason why players enjoy game have gun that kill other characters so much might stem from the fact that we as a society know that in real life they kill. Therefor we turn to shooter games to play the hero, and save the people from the evil terrorist, and not harm a soul in real life doing it.
+
+    Try all you want but the fact of the matter is, guns are part of the gaming culture and an even bigger part in story telling. That is untill something more harmful and destructive comes along.
+
+    Guns are inextricably linked with First Person Shooter games, for am extremely obvious reason.
+
+    Your error lies in assuming that the only game genre is FPS.
+       by cyclomedia (882859)
+
+    And yet when I try to tell people how good the Portal games are they say "But there's no one to shoot, sooo booringgg"
+
+    Also, Mirror's Edge. I've played through it a couple of times (Where's the Sequel already!?!?!) without shooting any cops. Just seems wrong and out of character.Though on the other hand I think there should have been less fighting and more tomb raider in that game.
+
+    Maybe I'm just too neurological
+        by GameboyRMH (1153867)
+
+        Playing Mirror's Edge without shooting anyone is freaking hard at some points. Especially the final battles in the upper lobby of the Shard building and the server room. It doesn't seem wrong or out of character though, guns aren't the main weapon in the game, they're only close to necessary in a few big firefights.
+
+    by Voyager529 (1363959)
+
+    While in broad theory I agree, I don't think that more open gun laws would have prevented this *particular* instance.
+
+    When people say things about how keeping guns off the streets involves making guns illegal, my answer tends to be, "virtually every moral system from virtually region and origin frowns upon murdering other people. Do you seriously think that anyone willing to commit murder will be thwarted by the inability to legally obtain a gun to do it? Before you say 'but it's easier than having to obtain
+
+    by Qzukk (229616)
+
+        Just get me more rag-doll !!
+
+    Sounds like you need some stair dismount.
+
+    by GameboyRMH (1153867)
+
+    Sadly I think there's a little bit of hipsterism surrounding indie games: being indie and obscure itself is praised.
+
+    by GameboyRMH (1153867)
+
+    There's something like this in one of the Mario Party games for the Wii. I have a friend who brags that he always wins, LOL!
+    by cyclomedia (882859)
+
+    And yet when I try to tell people how good the Portal games are they say "But there's no one to shoot, sooo booringgg"
+
+    Also, Mirror's Edge. I've played through it a couple of times (Where's the Sequel already!?!?!) without shooting any cops. Just seems wrong and out of character.Though on the other hand I think there should have been less fighting and more tomb raider in that game.
+
+    Maybe I'm just too neurological
+        by GameboyRMH (1153867)
+
+        Playing Mirror's Edge without shooting anyone is freaking hard at some points. Especially the final battles in the upper lobby of the Shard building and the server room. It doesn't seem wrong or out of character though, guns aren't the main weapon in the game, they're only close to necessary in a few big firefights.
+
+    by Voyager529 (1363959)
+
+    While in broad theory I agree, I don't think that more open gun laws would have prevented this *particular* instance.
+
+    When people say things about how keeping guns off the streets involves making guns illegal, my answer tends to be, "virtually every moral system from virtually region and origin frowns upon murdering other people. Do you seriously think that anyone willing to commit murder will be thwarted by the inability to legally obtain a gun to do it? Before you say 'but it's easier than having to obtain
+
+    by Qzukk (229616)
+
+        Just get me more rag-doll !!
+
+    Sounds like you need some stair dismount.
+
+    by GameboyRMH (1153867)
+
+    Sadly I think there's a little bit of hipsterism surrounding indie games: being indie and obscure itself is praised.
+
+    by GameboyRMH (1153867)
+
+    There's something like this in one of the Mario Party games for the Wii. I have a friend who brags that he always wins, LOL!
+

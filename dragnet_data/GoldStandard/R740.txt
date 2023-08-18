@@ -1,0 +1,84 @@
+
+November 13- Notes and Domino Social Edition webcast
+October 29 2012
+Tweet
+
+Mark your calendars and register today!!!!
+
+    Calling all IBM Lotus Notes and Domino customers, Business Partners and developers!
+
+    Join IBM on November 13th at 10am Eastern Time US for an important series of announcements and previews. Learn how IBM Lotus Notes® and IBM Lotus® Domino®, better than any other platform investment, positions you to create a more effective workforce.
+
+    During this special broadcast, we will introduce our new IBM Notes and Domino Social Edition beta program, and updated product roadmaps, that truly demonstrate IBM's strong commitment to the Lotus Notes and Domino platform.
+
+    And, stay afterwards for a special edition of the IBM Collaboration Solutions monthly community call to discuss what you just heard. Register for the combined Special Broadcast and monthly ICS Community meeting today! 
+
+This should be pretty exciting...
+
+Link: IBM Webcast: Special Broadcast: IBM Notes and Domino Social Edition Preview and Announcements > 
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+    1  Stephan Kopp http://stephankopp.net | 10/29/2012 5:14:46 PM
+
+    Hi Ed,
+
+    the link seems to be broken...
+
+    Possibly this one?
+
+    https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&eventid=536640&sessionid=1&key=C6BEF855CF8CB5C47F10A8779CD2A431&partnerref=HTML&sourcepage=register
+
+    Best regards,
+
+    Stephan
+
+    2  Ed Brill http://www.edbrill.com | 10/29/2012 5:25:25 PM
+
+    @1 - thanks. Indeed. Just fixed - I borrowed a bit.ly from Mat Newman...
+
+    3  Ranjit  | 11/6/2012 3:07:08 AM
+
+    Hi Ed,
+
+    I was reading through some of the articles on Notes & Domino Social which states that we can run our LN Client based apps on browser. Does that mean existing apps which were client specific can now be directly run on browsers without writing a single line of code or making any changes to the existing code? Will UI classes work...I mean, if yes, nothing like it.
+
+    4  Sriram http://twitter.com/tsriram | 11/6/2012 11:26:08 AM
+
+    Well, I've been wondering about this for quite sometime and had asked you on twitter without getting any response. My question is whether we will get audio of this webcast in the meeting itself or I've to dial in to a telephonic conference bridge? Its quite difficult to be on a telephone call for two hours especially when you are traveling and have to pay roaming charges!
+
+    Don't we see this as a big opportunity to show the capabilities of Sametime Meetings' audio?!
+
+    5  Kevin  | 11/6/2012 4:05:47 PM
+
+    Good blog.
+
+    6  Ed Brill http://www.edbrill.com | 11/6/2012 4:20:08 PM
+
+    @3 Yes - It is a Notes client, running inside of a plug-in in the browser. If it runs in Notes 8 basic configuration, it is expected to run in the plug-in without modification.
+
+    @4 Sorry I don't have the bandwidth to respond to all my tweets. There will be a streaming audio component of the broadcast, no need to dial in for the event.
+
+    7  Andy Steven http://www.organisedit.com | 11/7/2012 8:18:20 PM
+
+    Hope it's really really good product. Looking forward to seeing it.
+
+    Some sources now have Notes useage as low as 0.7 percent... I know here in Adelaide (pop 1 million) there is nothing left..
+
+    8  Sriram http://twitter.com/tsriram | 11/7/2012 11:30:12 PM
+
+    Thanks a lot Ed. I don't want to miss this out for any reason. All excited and looking forward to this! All the very best.
+
+    9  Ed Brill http://www.edbrill.com | 11/8/2012 7:44:36 AM
+
+    @7 0.7% of what? And source?
+
+    10  gareth cox http://www.ashridge.org.uk | 11/8/2012 9:36:21 AM
+
+    Hi Ed,
+
+    Apologies for posting here but I must of missed an info burst where it states that the embedded sametime client will not work in the beta for 8.5.4 - keep getting an error, client is not authorised etc, can you confirm? Sorry again!

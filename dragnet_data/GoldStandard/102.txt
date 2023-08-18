@@ -1,0 +1,182 @@
+
+The Dangerous Hubris of the Startup World
+
+by randfish on January 31, 2011
+
+Students of history will almost certainly be familiar with the 7 Deadly Sins – the list of human vices that are, purportedly, the source for much of humanity’s evil. Of these, one in particular stands out:
+
+In almost every list Pride, or hubris, is considered the original and most serious of the seven deadly sins, and the source of the others. It is identified as a desire to be more important or attractive than others, failing to acknowledge the good work of others, and excessive love of self.
+
+Despite age-old recognition regarding the folly of pride, it remains pervasive in politics, culture, media and enterprise – and it’s definitely with us in the startup world, too.
+
+Here’s Quora’s Charlie Cheever (emphasis mine):
+
+…Investors appear to be convinced that it will (gain popularity): Quora snagged $11 million in Series A financing, largely thanks to former Facebook colleague Matt Cohler, who is now with Benchmark Capital. It helps that Quora’s closest competitors are sites full of poorly articulated and often unreliable answers (think Yahoo! Answers, Formspring, Mahalo, Ask or Answers.com). Cheever dismisses the notion that there is a direct competitor for Quora.
+
+Really? Quora has no competition?
+
+Next up is Mark Zuckerberg, whose ego (or misconceptions about it, depending on your perspective) inspired a motion picture:
+
+“You have one identity,” he emphasized three times in a single interview with David Kirkpatrick in his book, “The Facebook Effect.” “The days of you having a different image for your work friends or co-workers and for the other people you know are probably coming to an end pretty quickly.” He adds: “Having two identities for yourself is an example of a lack of integrity.”
+
+Another extremely bold statement coming from a CEO and shareholder in a company that monetizes identity. It shows… chutzpah, at the least.
+
+Perhaps no one is more transparent about his maniacal hubris than Elon Musk (of Paypal, Solar City, Tesla and Space X):
+
+“We’re all focused on our little things that are of concern to humanity itself. People think of curing AIDS or cancer as being very important, and they are—within the context of humanity. But curing all forms of cancer would improve the average life span by only two to three years. That’s it.”
+
+“In other words, while eradicating disease is a worthy pursuit, and would extend the lives of individual human beings, my life’s work is extending the life span of life itself.”
+
+While I admire the “big dream” perspective, I think a lot of people would take offense at the insinuation that curing cancer or AIDS are, relatively speaking, “little things.”
+
+Apple’s Steve Jobs “is considered one of Silicon Valley’s leading egomaniacs.”
+
+The ego of Googlers starts at the top and seems to run down the chain of command.
+
+It would seem that hubris is no anomaly in the startup world, particularly in some of the most successful companies on the radar – Google, Facebook and Apple could certainly be joined by the likes of Microsoft (particularly in their halcyon days), Oracle and Amazon.
+
+How, then, can we reconcile the supposed evil and inevitable downfall that accompanies pride with the success that arrogant companies and CEOs achieve. Are “nice guys” (rumor holds that Yahoo!’s Jerry Yang fits this mold) doomed to fall by the wayside while their egotistical peers rise to fame and fortune?
+
+I suspect not.
+
+In fact, while a few big examples dominate the headlines, my experience has been that a great number of good people with down-to-earth personalities make up the startup landscape, and the “no assholes rule” is spreading.
+
+Years ago, some pretty big assholes ruled the worlds of supporting startups and venture investing. But over the past decade, and particularly the last five years, it’s my sense that a new, introspective, self-effacing breed are moving into the drivers’ seat.
+
+Netflix’s Reed Hastings could serve as an example, Groupon’s Andrew Mason is likely another and Zappos’ Tony Hsieh a third. I know a few folks in the space that I’d personally vouch for (at least, from my interactions) as honest, humble and down-to-earth, including Fred Wilson (Union Square Ventures), Paul Graham (YCombinator), Andrew Braccia (Accel),  Joe Greenstein (Flixster), Brian Halligan & Dharmesh Shah (Hubspot), Naveen Selvadurai (Foursquare), Sachin Agarwal (of Posterous) and many more.
+
+I don’t mean to conflate arrogance/pride/hubris with confidence, vision or tenacity. These individuals have the latter three in spades, but manage to eschew the traditional egomania that often accompanies them.
+
+It’s certainly possible that I’m experiencing selection bias – maybe the groups I connect with and the people I know are responsible for this perception. But I don’t think so – my instincts say there’s a stylistic shift away from hubris towards a more open-minded founder/investor/startup-er.
+
+I suspect that the increase in humility is led by several factors:
+
+• Increased publicity and demands around evangelism for investors and founders which leads to greater value in having authentic, humble, like-able people in these lead roles.
+
+• A shift towards investing in founding teams that don’t necessarily have a “Harvard-MBA” style background (no offense to Harvard, but they certainly create a culture of pride and entitlement) which brings more diverse mindsets to the startup landscape.
+
+• A less escapable reputation and a more connected marketplace due to the nature of media and web technologies which means burning bridges or even rubbing the wrong person the wrong way can have a much greater network effect.
+
+• Increasing availability/accessibility of capital, ideas, people and startups themselves which opens the playing field to a more down-to-earth market.
+
+• A dramatic increase in the availability of resources and knowledge about how to build a great company, meaning that those who are open to receiving knowledge, learning from others, accepting outside viewpoints and generally staying open-minded can benefit more from those traits that at any previous time.
+
+In the past, I might have posited that humility was its own reward and that, in the long term, it might yield better results than an attitude of “I’m always right.” But I think I can also add that today, it’s more likely to get you meetings, funding, sales and PR (the good kind, anyway).
+
+I hope that’s not just wishful thinking.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+I have met very few millionaires in my life, but the ones I have, did not come off like assholes or egomaniacs, in fact they were shockingly human. Sometimes Rude, Sometimes extremely quiet, storytellers and listeners, rather than braggarts or obsessed with accomplishments. They are probably a confident bunch.
+
+I’ve met plenty of assholes and egomaniacs who are not millionaires however.
+
+Maybe there is something to it?
+
+by james on January 31, 2011 at 9:59 am. 
+
+Great post Rand, certainly there is a pattern across both around belief. There is absolutely a fine line between belief and egomania. Diversity of thought and business direction cam be good on so many levels.
+
+by Damien on January 31, 2011 at 10:12 am. 
+
+I don’t know nearly what you do about the startup world, but I see the shift happening in the SEO world.
+
+Last week, my friend Richard Shove tweeted “Dear SEO community. Please stop referring to each other as “rockstars” and “ninjas”, it makes all of us sound like twats.” He was retweeted 40 or so times by people who work in Internet marketing all over the world.
+
+It’s not the act of calling yourself that: it’s the attitude that comes with it. People who call themselves that are invariably packed full of misplaces pride. The vomit-inducing term “SEO r0ckstar” as a well-meant acknowledgement of someone’s skill was vaguely acceptable a few years ago, but since certain people started labelling themselves and their friends as such, the majority of people I know in our industry consider it unbelievably rude and unnecessary. These people whose pride still rules their behaviour are becoming less and less popular. Or more and more unpopular.
+
+At least, I also hope that that’s not just wishful thinking.
+
+by Jane Copland on January 31, 2011 at 10:29 am. 
+
+I remember that tweet, as I was 1 of the retweeted it and had a short dialogue with Richard.
+I agree with the concept behind that tweet… but I also have to consider how much that self-classification is just pure brand marketing more than a simple teen attitude.
+
+by Gianluca on January 31, 2011 at 8:19 pm. 
+
+Great post Rand.
+
+I agree that the trend towards more conscious and aware leaders is taking hold. Increased transparency and lower barriers to entry are rendering big egos less effective.
+
+It can be difficult to remove the blinders and leave hubris completely, but it’s getting easier to lead a reflective life due to technology and the longer/wider ‘trail’ we’re all leaving in cyberspace.
+
+This is the era of patience, measured responses, proactivity and living well by doing good.
+
+I don’t think it’s wishful thinking at all – we’re on the verge of a major shift in the collective conscious that only promises to accelerate the trend.
+
+by Colin Pape on January 31, 2011 at 12:27 pm. 
+
+My experience of interacting with numerous start-ups over the last five years, resonates very strongly with this.
+
+In my view, really smart people have a large dose of humility. Consequently they are not worried about asking questions, or for help, when other clever or political types might be too proud or arrogant to do so.
+
+Smart people recognise their limitations, seek help, learn then grow with their companies.
+
+by Colin Hayhurst on January 31, 2011 at 12:56 pm. 
+
+Rand a good, well thought of and honest post.
+The start up world is brutal and is set for you to succeed or fail in style.
+Companies cannot just create a smart start up and sell too quickly anymore.
+VC is a big boy playground and only the elite survive
+
+by Caliber on January 31, 2011 at 8:35 pm. 
+
+Great post, Rand. Who can forget Mark Zuckerberg’s “I’m the CEO… bitch” business cards, or the “a Mark Zuckerberg production” footer on the Facebook in 2004? There’s definitely a culture of entitlement at Ivy League universities and Stanford, but I’m not sure that it always serves the graduates well. When I built and maintained the software for Yale’s reunions from 2000 – 2007, what surprised me was the number of people who needed financial aid to go to the reunion. There are a lot of unsuccessful people who still have huge egos. After encountering a lot of huge egos volunteering for the Yale Daily News, I stopped trusting my classmates to collaborate fairly on any project. I even bought a UW shirt my sophmore year because I felt it represented me more than Yale. If Yale wasn’t free for me, I would have gone to the UW.
+
+Simply going to an Ivy League school doesn’t give you a big ego; Tony Hshieh went to Harvard, has been wildly successful, and promotes the value “be humble.” From reading his book, it sounds like he felt there were some elements of failure in building his first company. The biggest egomaniacs have gone from success to success, often without any failure. It reminds me of Nassim Taleb’s book “Fooled by Randomness” where he points out that in a large enough sample, there will be a few people who have a continuous series of lucky events. They’ll ascribe it to their brilliance, hard-work, etc.
+
+What tricks most people in Casinos, on Wall Street (is that redundant?) and in life is how frequently long series of one outcome (e.g. heads or red 10 times in a row) will occur purely because of chance. People who don’t credit luck for any part of their success may avoid failure simply because of the positive-feedback loop of success, but they’re often not very fun to be around.
+
+by Eric Kennedy on February 1, 2011 at 12:23 am. 
+
+During university, I heard from quite a few Gonzaga (private college in Eastern Washington) students about how their education was better than mine (state college in Eastern Washington). It was mortifying, but the years since graduation have been a little more satisfying.
+
+The main two offenders have not, as yet, amounted to much, which I put somewhat down to thinking that the university’s name, rather than their own efforts, would allow them to sail through life with ease. Not so.
+
+by Jane Copland on February 1, 2011 at 8:27 am. 
+
+Good post.
+
+We shouldn’t discount the media tendencies to publicize and put the spot light on bigger personalities. They make for some good shows and sell more.
+
+Naturally free (good or bad) publicity is a definitive plus (even more when it help raising stock prices.
+
+That been said Jim Collins made quite a strong point in Good to Great that humble teams & companies outperform louder/shinier ones. It’s not because one CEO love publicity that there are not 10 others ones are not outperforming him (it’s rarely a woman). They just fly under the radar of media attention but hopefully not investors.
+
+Humility will help you get where you want. It’s not just wishful thinking but it’s also not the only important attribute.
+
+by Martin on February 1, 2011 at 3:02 am. 
+
+It’s important to not conflate pride with arrogance or hubris. You can be proud and humble at the same time – but many young people, especially women, have their comfort with authentic pride (comfort with achievement) squashed out of them before they enter the workforce. I don’t think you can be a successful entrepreneur without loving your achievements and being willing to share your pride in them.
+
+by Shava Nerad on February 8, 2011 at 12:02 am. 
+
+[...] this is when they’re dead. Rand Fishkin, the founder of SEOMoz, calls this “the dangerous hubris of the startup world… the original and most serious of the seven deadly [...]
+
+by Arrogance, a fatal flaw | Alex On Technology and Entrepreneurship on February 15, 2011 at 5:52 pm. 
+
+Rand,
+
+Have you read the book “Egonomics?” It basically states that ego is necessary in great leaders but it has to be balanced by humility to be truly effective. Interesting read.
+
+by Seth Jenks on March 24, 2011 at 3:27 pm. 
+
+I think you’re missing one of the best leaders and humblest people in the technology landscape: Jeff Bezos.
+
+See these posts that demonstrate Bezos’ humility and focus on his employees and the customer:
+
+http://goo.gl/W0vhe – Jeff Bezos discusses Kaizen with an employee at a Fulfillment Center.
+
+http://goo.gl/0CdhA – Jeff Bezos letter to shareholders regarding 2010 goals and that 360 of the 452 goals directly impact the customer experience and that the words “net income”, “gross profit”, “gross margin”, and “operating profit” are not used even once.
+
+http://goo.gl/oBda3 – Jeff Bezos demonstrates the 5 Why exercise at a Fulfillment Center, showing humility and leadership.
+
+There are more, but Bezos is definitely a leader that runs counter to the typical ego-centric technology and startup culture.
+
+by Pete Abilla on April 13, 2011 at 2:39 am. 

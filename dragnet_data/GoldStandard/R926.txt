@@ -1,0 +1,298 @@
+Day 1: Double your output (while working fewer hours)
+
+    Note: this page is intended only for people who missed this email in the bootcamp. As such, I’ll be taking it down after the bootcamp is finished, so if you want a personal copy, make sure you print one off! If you want to get the rest of the bootcamp emails, sign up here for free.
+
+In this email I’m going to share a trick I’ve used to double the work I’ve managed to get done, while working fewer hours. Without it, I’m certain I couldn’t have finished the MIT Challenge.
+
+Before I share the method, however, I’m going to tell you why it works.
+
+First, I want you to ask yourself a question: do you have enough time to get done everything you want to do?
+
+I’m guessing you don’t. Or at least, you feel you don’t have enough time.
+
+However, in this email I want to explain why this is a misconception. You do have enough time, and most people do. Time is rarely the constraint that limits the amount of work you can get done, and as I’ll explain, believing it does causes you to get far less work done with more stress than you could using a different system.
+
+Why You (Almost) Always Have Enough Time
+
+Now it might seem unfair for me to claim this. After all, I don’t know your life. How can I possibly assert that not having enough time isn’t your problem?
+
+The reason I make this claim is because I’ve researched it. Just three weeks ago I surveyed the readers here to tell me their biggest obstacle to learning. The results weren’t surprising because they were almost identical to the last time I asked:
+
+The problem is focus.
+
+I’ve read hundreds of emails from students and workers all suffering from the same problem: they can’t focus well. They procrastinate, they get distracted, their mind wanders.
+
+I’ve also heard just about every possible solution. They study someplace quiet. They turn off their phone. Shut off the laptop. Force themselves to stay in the library for longer hours to get more done. Even then their mind doesn’t want to stay on task.
+
+I’m willing to bet that if most of these students could have a deep focus for even 50% of the time they commit to studying, they’d have more than enough time to finish all their work. This goes double for non-students.
+
+If you could focus completely, you wouldn’t need more hours in the day.
+
+Why You Can’t Focus
+
+The truth to why you have difficulty focusing is simple: you don’t have enough energy.
+
+By energy I don’t mean chi or electricity. I mean the invisible resource that controls your willpower, self-control, and ultimately, your ability to get work done.
+
+Dr. Roy F. Baumeister conducted an interesting series of experiments. In them, he showed that willpower wasn’t just a personality trait, it was something you could boost up or down with something as simple as a sugar cube.
+
+Baumeister ran an experiment testing willpower. To one group, he gave a glass of glucose-containing lemonade. The other group used an artificial sweetener. The group that got the real drink performed better on tests of self-control and willpower than the control.
+
+Willpower is a resource. What’s more, by giving someone more energy, they’re better able to perform on tasks that require it (such as focusing when learning something hard). This showed that energy isn’t just New Age quackery, but a physical constraint which can enable us to work.
+
+Interestingly, one of the treatments for ADHD is methylphenidate, or Ritalin. Ritalin is actually a stimulant. This may seem paradoxical, that a stimulating drug could reduce hyperactivity symptoms. But what may be happening is that the drug is stimulating the control areas of the brain.
+
+Energy is the limited resource, not time. Add any extra hours to the day that you want, without more energy you won’t get more work done.
+
+Why Time Management Hurts You
+
+The belief that there aren’t enough hours in the day is a toxic one to productivity. It’s toxic because it suggests that better management of our time will lead to greater output. But if our energy is the true constraint, better time management may actually be destructive if it results in poorer energy management.
+
+Consider the response most students take when they have an important exam:
+
+    Pull an all-nighter
+    Devote long hours to studying
+    Give up on exercise, sleep and good eating habits
+
+These practices make sense if there truly isn’t enough time. But they’re the opposite of what you’d want to do if energy were the scarce resource. Instead you’d want to:
+
+    Make sure you’re well rested
+    Study in intense bursts, not endless sessions
+    Have dedicated time off
+    Continue exercising and eating well
+
+You might be able to get away with an energy deficit one or two days, but more than that and the cost just isn’t worth it. More hours does not equal more productivity.
+
+How I Used This to Finish MIT Classes in 5 Days
+
+Now I’m going to share how this philosophy of energy management can solve the mystery of focus, and lead you to get more done with fewer hours and less stress.
+
+Here’s the time management system, simply:
+
+    Dedicate time off. For me, that meant one day off per week and evenings were no study zones. I did not study during a single evening the entire year, even the day before a hard exam.
+    Never sacrifice sleep. Giving up sleep to study more is the stupidest thing you can do as a student. Stop.
+    Constrain your working hours. Don’t try to work more hours, in the hopes you’ll be able to focus. Work in smaller, more intense chunks and you’ll greatly increase your productivity.
+
+Nothing here is complicated. But this goes against everything we’re taught as students, so I suspect there will be some resistance from many of you, so I’ll try to explain these points precisely.
+
+Evenings + One Day Per Week = No Work
+
+If you’re a full-time student, follow this formula. One day per week and evenings are no-study periods. You can exercise, watch television, read a book for fun or socialize, just no studying.
+
+If exam periods are an exception, never let the exception go beyond one week. Then you’ll just be retreating back to lower levels of energy and output.
+
+If you’re not a full-time student, this point doesn’t apply to you. Instead, think about constraining your working hours so that you know which hours are for work (or any particular learning project) and which aren’t. I’ll discuss that soon.
+
+Please note this isn’t just a plea for life balance. I didn’t care about life balance when I was doing my challenge, and I would have been quite happy working non-stop if it would have helped. The reason I suggest this is because it allows you to get more done.
+
+Never Sacrifice Sleep
+
+Sleep is one of the things students quickly cut when they need to prepare for exams. This is the stupidest move you can possibly make, since you’re sabotaging both your energy and the system your brain uses for consolidating memories (that’s what sleep does).
+
+If you need to make an exception to this in a pinch, realize it’s going to cost you double down the road. One hour of missed sleep will require at least two more later in the week to get back to neutral, so pay that price with caution.
+
+Constrain Your Working Hours
+
+I’m a fan of task-based productivity systems. But during the MIT Challenge, I often found I would spend all day working on just one or two tasks. In this case, I found it more useful to use Calvin Newport’s fixed schedule productivity.
+
+The idea here is simple: you set dedicated hours to your most important work, outside these hours you’re not allowed to work.
+
+This approach works better if you’re not a student and want to devote time to a particular learning project. Simply schedule certain time chunks for the job, and don’t allow yourself to work on them beyond this. Studying for a professional exam? Pick your studying hours and constrain them in advance.
+
+It’s also important that these be real constraints. Many people get in their heads the idea of working non-stop on a project, so their constraints aren’t really constraints at all. If it doesn’t feel like you’re being lazy when setting your hours, you’re not doing it right.
+
+Cal Newport himself only works 8 hours a day using this method, which if you’ve met any postdocs competing for academic tenure, is practically unheard of.
+
+ACTION STEP: Day One
+
+Yesterday I received thousands of emails from people telling me they were going to follow the bootcamp. I’m hoping that was not just bluster, since now is the time to actually follow through.
+
+Today’s action step is simple and will take less than 15 minutes. However, it has the possibility of doubling your long-run productivity and cutting your stress at the same time.
+
+Here it is:
+
+    Take out a piece of paper.
+    If you’re a full-time student, pick which hours/days you WILL NOT work. I followed no work after 7pm and on Sundays during my MIT Challenge, but adapt it to suit your own preferences.
+    If you’re not a student, or learning part-time, doing the opposite might be easier: look through your schedule and figure out which hours you WILL dedicate to your learning project.
+    Write these hours on a piece of paper and put them over your desk or workspace.
+    Commit to following this new schedule for AT LEAST one week.
+
+If you don’t feel it will be somewhat difficult to finish all your work in that time period, it’s not a tight enough constraint. The pressure of the constraints should force you to focus during your work time. The lack of pressure outside those constraints should allow you to keep your energy high, so you can focus when working.
+
+That’s it for today. Tomorrow I’ll share new learning and productivity tips.
+
+Best,
+-Scott
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Jacob says:	
+October 26, 2012 at 2:38 am	
+
+Are you always going to put the bootcamp-email on your blog? Reason for asking: I have your blogposts sent to my Kindle, but that is not possible with the email’s text (unless you do a workaround), so I want to know if I should do the workaround with the boot-camp email or wait for the blog post to appear on my Kindle. Thanks.
+Joe says:	
+October 26, 2012 at 8:08 am	
+
+Scott, have you send out the tips for today (Day 2)?
+Scott Young says:	
+October 26, 2012 at 10:31 am	
+
+Jacob,
+
+Sorry, just for this one. I messed up the setting when posting this, as this wasn’t supposed to go on the RSS.
+
+-Scott
+Dvir says:	
+October 26, 2012 at 10:40 am	
+
+I found this article very helpful. Thank you!
+David says:	
+October 26, 2012 at 12:52 pm	
+
+Just signed up for your bootcamp. Looking forward to learning more.
+I have a question though.
+
+You stated:
+
+“If you’re not a student, or learning part-time, doing the opposite might be easier: look through your schedule and figure out which hours you WILL dedicate to your learning project.”
+And
+“If you don’t feel it will be somewhat difficult to finish all your work in that time period, it’s not a tight enough constraint.”
+
+I would like to apply your technique to learning PHP, Javascript and Hebrew.
+
+Ive chosen 1 hour a day for each of these non-work related subjects.
+Now does that mean that during that one hour I attempt to do as much as possible in learning the subject or should I set a definite restriction?
+IE: for PHP I give myself 1 hour a day to complete 3 lessons?
+Scott Young says:	
+October 26, 2012 at 2:55 pm	
+
+Hey Scott
+I am an Indian and on average study for 10-12 hours a day, I have special permission for not going to school so i am home all day. The Point is when i do 6 hours a day i feel like i am going to fall in hell due to incompetence and when i am doing 13 hours a day i feel like something big is amiss, People call that PRODUCTIVITY. I am not a troubled, frustrated Student, I actually like to study that much Its joyful , But something is still amiss. I have tried many many hacks and obviously i already know all memorization techniques so retention is not a problem . but what can i do to solve like 150-200 really tough problems every day, without bursting out
+Bobby says:	
+October 26, 2012 at 6:49 pm	
+
+Loving your philosophy here and I’m really impressed with what you accomplished. Did you keep all your notes from your MIT challenge? They would be really valuable for beginning level programmers (like me!). You should consider selling them as an ebook or something along those lines.
+Week 6 of project | Mira Kirvesmaki says:	
+October 27, 2012 at 5:00 am	
+
+[...] to explain myself a bit, I read this magnificent article by Scott Young on how to Double your output (while working fewer hours) and it really made a lot of sense to me. The article explains that the amount and quality of ones [...]
+shreevidya says:	
+October 27, 2012 at 7:14 am	
+
+hi,
+Yes, this is my basic point of not getting my work finished in time. I will work towards it. thank you.
+Reid says:	
+October 27, 2012 at 9:33 am	
+
+Scott,
+
+Just finished your article on Cal’s blog and made my way to your site.
+
+Would you be willing to give an example where you have created an incomplete picture for your visualization? (under developing deeper intuition) I am interested in applying this to computer science. I am digging into that now in my career and enjoying the mind logic and expansion of the subject.
+Great article. Thank you very much for sharing.
+-Reid
+Kamal says:	
+October 27, 2012 at 5:16 pm	
+
+Hi Scott,
+
+I’m trying to register at this site. It says a email is sent to my email address for confirmation but I could not find any mail.
+
+Even after trying few times, I haven’t got any link mail in my Inbox or Junk mail folders.
+
+Pl. advice, as I don’t want to miss any useful information from your emails.
+
+Thanks
+Humberto says:	
+October 27, 2012 at 5:33 pm	
+
+Hey Scott, can I have your opinion on something? As a student, I of course have the responsibility of studying and doing work for many classes, but I’ve also been wanting to find time to do leisure activities. Of these activities, I particularly enjoy studying undergraduate pure mathematics, such as linear algebra and hopefully topology, with no pressure from classes, deadlines, or any commitments whatsoever.
+
+If I study math for the sake of math, would it still be OK if I were to do so during my break days and evenings, which I’ve set to Sundays and hours after 9 PM? Although it’s studying and note-taking with varying intensity, I don’t feel that it’s “work”, per se, especially since it’s all at my own pace. But I’m still curious as to whether such an activity would have an effect on the effectiveness of applying this and any other techniques in the bootcamp.
+
+Thanks in advance.
+Lauren says:	
+October 27, 2012 at 11:54 pm	
+
+I am using this to begin studying story writing skills on my own. Thanks so much. Looking forward to more posts.
+Philip says:	
+October 28, 2012 at 1:32 am	
+
+What a brilliant post with deep insights into energy management instead of time management. Your post has helped me considerably in re-thinking ho to pace myself as a trader in financial markets. You are way ahead of most people in terms of your understanding of how to learn, emotional self-regulation, and also your general maturity and attitude in life. I wish you continued success in life and work.
+Scott Young says:	
+October 28, 2012 at 3:28 am	
+
+Humberto,
+
+My definition of work is things you force yourself to do. With this particular article, I’d narrow that definition to things that consume your mental energy.
+
+As such, studying math for math’s sake wouldn’t count against you here, since if you’re too exhausted you wouldn’t push yourself to study it.
+
+Kamal,
+
+Make sure you can accept emails from Aweber.com and ScottHYoung.com, some mail clients block emails (as opposed to flagging them as spam).
+
+Bobby,
+
+I do still have all the notes, but I think there’s too much to be very useful as a public resource (a few thousand pages, much of it scratch work). I think the programming projects I did would be more useful to programmers (most of my MIT classes were math-related) and I’ve already uploaded all the code on the challenge homepage.
+
+-Scott
+Harvey specter says:	
+October 28, 2012 at 8:58 am	
+
+Hey Scott
+I am an Indian and on average study for 10-12 hours a day, I have special permission for not going to school so i am home all day. The Point is when i do 6 hours a day i feel like i am going to fall in hell due to incompetence and when i am doing 13 hours a day i feel like something big is amiss, People call that PRODUCTIVITY. I am not a troubled, frustrated Student, I actually like to study that much Its joyful , But something is still amiss. I have tried many many hacks and obviously i already know all memorization techniques so retention is not a problem . but what can i do to solve like 150-200 really tough problems every day, without bursting out
+R. Silver says:	
+October 29, 2012 at 12:22 pm	
+
+Hi Scott,
+
+Long-time reader here. I’ve been seeing a few of the emails, and they act as connectors within your many posts. The added guidance really does help. I just wanted to tell you to keep being awesome! :)
+Rodolpho says:	
+October 29, 2012 at 4:09 pm	
+
+Thanks Scotth, this is really helpful! Congratulations for the MIT Challenge.
+Tri Cao says:	
+October 29, 2012 at 10:06 pm	
+
+Scott,
+I’m really interested in your materials, such as Learning on Steroids and Learn More, Study Less. So what’s the difference between those two? To be honest, I cannot afford both programs so I need your advice. My main goal is to be able to learn hard subjects quick enough. Thank you a lot.
+Scott Young says:	
+October 30, 2012 at 2:50 am	
+
+Tri Cao,
+
+Your best purchase would be the Learn More, Study Less Ninja Edition since it gives you access to a free month of Learning on Steroids.
+
+The two programs cover similar focuses, just the content is organized differently–Learning on Steroids is an ongoing program which gives weekly emails and monthly updates, Learn More, Study Less is a package you get all upfront.
+
+-Scott
+Joanne says:	
+October 30, 2012 at 3:55 pm	
+
+How do you stop yourself when it is time?
+
+The problem I have is — I can “say” I’ll stop working at 7PM. But I don’t want to. I want to keep working badly enough that I just keep going, even though I’ve written down the stop time: 7PM.
+
+I’m a website business entrepreneur. It seems really productive to keep doing client work while the energy and enthusiasm is high. Are you saying I’ll get more done if I force myself to stop, even though I want to keep going?
+
+(I don’t know if it matters but I’m also trying to do well in a grad level graphics design course, while not a full-time student).
+Elaine Enlightening says:	
+October 30, 2012 at 7:27 pm	
+
+I really appreciated your comments, especially the one about constrained work hours. This is confirmation for me. Thank you!
+Trishna Sharma says:	
+October 30, 2012 at 8:10 pm	
+
+Hi Scott! Great article. I’ve been forwarding the boot camp emails I get from you (I get your newsletter through my personal email address) to my brothers who are both in college right now and this is just what they needed and they are very appreciative.
+
+My favorite of the boot camp so far is Day 6 (today’s). I’m no longer a student but it wasn’t that long ago that I was and I really like this one because it reminds me of back when I was studying for the SATs. Of all the words I studied, there is only one that I even remember having to study: opulent. And it was because I created a crazy image to remember it. This technique is definitely top notch. I’m sure anyone who signs up for your boot camp will have much to gain!
+Bhargav says:	
+October 30, 2012 at 10:43 pm	
+
+Great article :D I am amazed at how much insight you have in things..small things that can make a great difference.
+Keep up the good work mate.

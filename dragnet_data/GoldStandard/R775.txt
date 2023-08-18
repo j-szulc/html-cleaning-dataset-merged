@@ -1,0 +1,14 @@
+LiveU Picks Up Another $27M Led By Lightspeed For Its B2B Mobile Video Transmission Tech
+Ingrid Lunden 
+
+LiveU, a provider of video transmission technology that works over cellular and WiFi networks, and is used by media companies (including TechCrunch, but also the BBC and NBC) that need to record and transmit video on the go, has raised another $27 million in funding. This round was led by new investor Lightspeed Venture Partners, and also included participation from existing investors Canaan Partners, Carmel Ventures and Pitango Venture Capital. The total raised by LiveU since 2006 is $50 million.
+
+The company says that funding will be used to build out its business into offering more solutions, growing beyond its roots in hardware, which have up to now been typified by its LU70 product, a 3G/4G LTE backpack that hooks up to a video camera and lets a producer transmit high-quality video streams in real time. Those solutions compete against satellite-based solutions that are often more costly to implement, and it looks like the next generation of LiveU’s products will be even more disruptive to the old guard. They include laptop and mobile apps that let users manage multiple feeds from LiveU units in different locations.
+
+LiveU notes that its technology has notably been used by top-tier broacasters like NBC and the BBC, and that its units were used widely during the U.S. Presidential campaign and events like Hurricane Sandy and the London Olympics. In total, its tech has been implemented in more than 60 countries over 4G LTE/3G, HSPA+, WiMAX and Wi-Fi cellular networks — using whatever network is available at the best level of quality.
+
+The growth of online video content has had a knock-on effect for those companies that develop products to enable it. Samuel Wasserman, LiveU’s CEO, says in the news release that it has been witnessing year-on-year growth in a market with “fast-growing demand for cellular-based live video transmission” both among traditional broadcasters and online outlets.
+
+“As we move from being a product-based to solutions-based company, this substantial investment will enable us to expand our mobile offerings, continue our technological innovation and extend our geographical presence,” he said. That will see the company looking to offer more managed services — and itself receive a more regular revenue stream as a result — on top of its hardware offerings.
+
+LiveU’s last investment prior to this was $11 million raised in 2010.

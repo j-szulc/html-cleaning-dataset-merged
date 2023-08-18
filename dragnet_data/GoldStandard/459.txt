@@ -1,0 +1,119 @@
+
+53 bits ought to be enough for anybody
+
+by John on July 19, 2012
+
+When I first heard of software that could do extended precision calculation, I thought it would be very useful. Years later, I haven’t had much use for it. When I’ve though I needed extended precision, I’ve usually found a better way to solve my problem using ordinary precision and a little pencil-and-paper math. Avoiding extended precision calculation has caused me to understand my problems better. (Here’s a recent example.)
+
+I’m not saying that extended precision isn’t sometimes necessary, or that I would go to great lengths to avoid using it. I’m only saying that I’ve had little use for it, much less than I expected, and that I’ve learned a few things by not immediately resorting to brute force.
+
+(Why 53 bits? That’s the precision of a standard floating point number, regrettably called a “double.” It’s no longer “double,” it’s typical.)
+
+Software cannot offer infinite precision, so you have to carry out your calculations to some finite precision. If the roughly 15 decimal places of standard precision is not enough, how much do you need? How about 50? Or 100? How do you know what to choose? If you hope more precision will eliminate the need to understand what’s going on numerically, good luck with that. Maybe it will. Or maybe you’ll still see the same kinds of problems you had with standard precision.
+
+A good use of extended precision might be as follows. You’re trying to compute the difference between two numbers that agree to 30 decimal places, so 40 decimal places of precision in your calculation will give you 10 decimal places in your result. But suppose you think “This isn’t what I expect. I’ll try a little more precision.” The computer may be trying to tell you that you’re going about something the wrong way, and the extra precision could mask your problem and give you confidence in a wrong answer.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Andrew Moylan 07.19.12 at 07:57
+
+    Extended precision is something I explicitly use only occasionally.
+
+    But roundoff error tracking that is part of extended precision in systems like Mathematica is something I use often.
+
+    For example if you have a complicated expression involving x, will the result be accurate if you substitute in an approximate floating point value for x, or will roundoff errors spoil the result?
+
+
+John 07.19.12 at 08:00
+
+    A system that estimates its own error is much better than just a finger-in-the-wind estimate of “Oh, I think I’ll use 30 decimal places.”
+
+
+rdm 07.19.12 at 08:29
+
+    This is domain specific.
+
+    On the flip side, you can have more than 53 bits of precision when using the IEEE-754’s binary64 standard.
+
+    For example, you can use two floating point values. Or, you know, you can even use 3 or 4 floating point numbers. It’s ok.
+
+    To make this slightly relevant, when I have a number like 1234, I can say that I am dealing with the polynomial (x^3)+(2*x^2)+(3^x)+4 where x=10. And, polynomials can be re-expressed in a variety of ways…
+
+    Of course, it’s not always the case that when I am dealing with a loop that the underlying abstraction is really a large number (or large numbers). Most of the numbers I deal with are small, most of the time. And I totally agree that using a fixed sized representation has huge advantages.
+
+    But I think it’s also fair to point out that one of the reasons we can get away with this is that we have other options (besides directly representing higher precision) to deal with the cases where our fixed precision causes problems.
+
+
+Stan 07.19.12 at 09:39
+
+    Interestingly, I found that starting to do GPU computing back when CUDA first came out really forced me to ask the same question about single vs. double precision. Once I started thinking about about how error propagated in my calculation, I discovered that 24 bits was often enough.
+
+    Single precision arithmetic is way, way faster on most GPUs, so there is a big benefit to being able to rely on it for calculations. Tricks like Kahan summation help you deal with the cases (like accumulators) where single precision is likely to be insufficient, and mixed precision techniques are also becoming more popular now with algorithms that can iterate with single precision and then refine the final answer with a double precision pass.
+
+
+Daniel Lemire 07.19.12 at 09:51
+
+    53 bits is a lot compared to the accuracy and precision of most of our sensors. Fancy sensors have 32-bit capabilities, but the real output is less due to noise.
+
+
+Rick Minerich 07.19.12 at 10:32
+
+    I’m surprised you didn’t mention quads (binary128) because that’s what I was figuring this article would be about. That’s 113 delicious bits of precision.
+
+
+Christopher Felton 07.19.12 at 12:32
+
+    As other mentioned the error is the important part.
+    As for representing absolute values (such as sensors,
+    what’s your ENOB) a small number of bits could be ok.
+    When doing the arithmetic on the values error can creep
+    in. With the example below what is the precision used?
+    What should be used? Where do I round off my answer?
+    Using the Python decimal (arbitrary precision) removes
+    the error.
+
+    In [63]: from decimal import Decimal
+    In [77]: 850*77.1
+    Out[77]: 65534.99999999999
+    In [78]: Decimal(’850′) * Decimal(’77.1′)
+    Out[78]: Decimal(’65535.0′)
+
+    (example from http://bit.ly/NAJXDF)
+
+    What’s interesting with the above, I can reduce the
+    precision down to 6 decimal points (not talking bits)
+    and still get the correct answer (above was prec=28).
+
+    In [87]: decimal.setcontext(decimal.Context(prec=6))
+    In [88]: Decimal(’850′) * Decimal(’77.1′)
+    Out[88]: Decimal(’65535.0′)
+
+Paul A. Rubin 07.19.12 at 15:27
+
+    Arbitrary precision integer arithmetic is probably useful for number theorists. Extra precision floating point arithmetic may induce people to try to milk ducks.
+
+    There may also be a more subtle and (to me) somewhat pernicious effect. I date back to when double precision was a luxury. My first grad course was numerical analysis, and it seemed rather important at the time for those of us who would be crunching numbers (rather than counting finite groups or dreaming about Klein bottles). Now, with double precision the default (as you note) and lots of numerical libraries easily available, I think people are less likely to study numerical analysis at all. More than once I’ve seen users of integer programming solvers moaning about the solver “mistakenly” telling them a binary variable came out 0.999999999999923.
+
+Jean Francois Puget 07.20.12 at 06:55
+
+    There are domains where you need more than 54 bit precision. In some financial applications you must represent 18 digit integers and they speak of moving towards 22 digit integers. Don’t ask me what these represent!
+
+    I agree it is orthogonal to your post, but I thought it was worth mentioning. It is relevant given we have to solve optimization problems that use 18 digit integers as input/output.
+
+John 07.20.12 at 07:12
+
+    Long integers are often useful, more so than extended floating point in my experience. Cryptography, for example, uses extremely long integers.
+
+Jean Francois Puget 07.20.12 at 07:26
+
+    Right, but we use floating point computation to solve the optimization problem (mixed integer programming). Maybe there is room for good rational implementation of LP algorithms.
+
+Rick Wicklin 07.20.12 at 12:32
+
+    Years ago, in the days of FORTRAN, some programmers would use the “quad” variable type to get extended precision. Most of the time the extended precision was completely unnecessary. However, I was talking to someone who did contract work for NASA and he told me that it was standard practice in “rocket science” to use quad precision to solve the ODEs that arise in computing the trajectories of planets, moons, comets, sattelites, and space vehicles. Since errors in ODEs accumulate, and since the n-body problem is know to exhibit sensitive dependence on initial conditions, the hope was that quad precision would enable them to integrate the equations of motion long enough to get the spacecraft to its destination accurately.
+

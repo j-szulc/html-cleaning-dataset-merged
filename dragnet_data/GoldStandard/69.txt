@@ -1,0 +1,101 @@
+The Endeavour
+
+The blog of John D. Cook
+80-20 software
+
+by John on July 22, 2012
+
+The 80-20 rule says that often 80% of your results come from 20% of your effort. Applied to software, 80% of your customers may only use 20% of the features. So why not just develop that 20% and let the rest go?
+
+There are numerous objections to this line of reasoning. I’m just going to address one here. Maybe each of your customers uses a small subset of your features, say nobody uses more than 5%. But they all use different subsets of the features. When you add together everybody’s 5% you end up with everything being used. For example, Microsoft Word is huge. I doubt many people use more than 1% of the software. And yet every feature is being used somewhere.
+
+That’s a valid point, but it’s a stronger point after the software is written than before it is written. Once a feature is released, someone is going to use it. And once someone is accustomed to using it, they’re going to want to keep using it.
+
+Suppose your software provides two redundant ways to accomplish some task, method 1 and method 2. Half your users stumble on method 1 first and get comfortable using it. The other latch on to method 2. Now you cannot remove either method without upsetting half your customers. But if you had only shipped method 1, everyone would have used it and been happy.
+
+Removing features is almost impossible. You can never substantially simplify an existing product without the risk of making customers angry. But those same customers might have been happy with a simpler product if that’s what you’d delivered first.
+
+A hidden cost of extra features is that they may need to be supported for years to come.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+phpguy 07.22.12 at 20:33
+
+    You are right, once its there someone is going to use it and as SOON as you remove it within days someone will be screaming. Ive worked on projects that were 10+ years old and dont even think about refactoring :-)
+
+
+Joan Combs Durso 07.22.12 at 21:25
+
+    I still wonder why The Data Analysis ToolPak was taken out of Excel for Macs.
+
+
+foljs 07.23.12 at 04:04
+
+    There are numerous objections to this line of reasoning. I’m just going to address one here. Maybe each of your customers uses a small subset of your features, say nobody uses more than 5%. But they all use different subsets of the features.
+
+    No, they don’t. There’s a common core that everybody uses, a smaller set that some people use, and a long tail of stuff very few use and don’t matter much outside of niche uses (the 80%).
+
+    It’s not like each users needs are a random selection of the features, so in the aggregate almost all get to be used. Some features are just more useful (and used), period.
+
+
+adamo 07.23.12 at 07:30
+
+    If you just develop that 20% and let the rest go, then that 20% becomes the new 100% and the 80-20 rule applies recursively until your software does exactly one thing.
+
+
+John 07.23.12 at 07:55
+
+    I don’t take a literal 80-20 rule seriously, and I doubt many people do. The more general principle is that return on effort is unevenly distributed, often surprisingly so. Maybe 92% of customers use only 17% of features. Maybe 70% of customers use only 3% of features. The numbers vary. And if you do limit your attention to the most popular features and apply the rule again, you’ll get a different distribution on how frequently the remaining functions are used. This may be closer to a uniform distribution, but still uneven.
+
+    Once the core functionality is in place, you have to do a cost-benefit analysis of adding more features. And I believe the cost side is often grossly underestimated. “We’ve already written the code. It costs nothing to go ahead and ship it.” Nothing? The code may be written, but it still needs to be documented, tested, patched, and otherwise supported. Forever.
+
+
+AllanL5 07.23.12 at 10:11
+
+    Sure, and the Sturgeon Rule is that 90% of everything is crap. The problem with “well, just produce the high-quality 10% then” response is that you never know what the 10% is (or the 90% for that matter) until after you produce it. Trying to limit yourself to only producing that magical 10% (or 20%) is a guaranteed path to writer’s block — for Science Fiction or Software.
+
+    And, as you point out, in software you don’t know what the really useful 20% is to your users either. And many times you still need the 80% to get to that 20%.
+
+
+Dan S 07.23.12 at 12:16
+
+    “you never know what the 10% is (or the 90% for that matter) until after you produce it” – Shhh…don’t tell the market research professionals. Big Design Up Front trusts them.
+
+
+Jeff H 07.24.12 at 07:30
+
+    @phpguy: this may seem to be a quibble, but refactoring does not mean removing (or changing) functionality. Quite the opposite: refactoring means keeping the same functionality; the changes related to refactoring are in the supporting code. See the Wikipedia page: http://en.wikipedia.org/wiki/Code_refactoring; relevant quote is by Martin Fowler: refactoring is a “disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior”.
+
+    I think that the 80-20 rule, while not a universal law, is usually a good enough rule-of-thumb to work with, at least until proven false by empirical data
+
+
+David H 07.24.12 at 08:43
+
+    This explains much of Apple’s success. Steve Jobs was very, very good at identifying those 20% (or whatever) of the features most people would want to use, and was enough of a slavedriver to make sure those features were done well. You can see this throughout the iDevices: pretty much whatever they do, they do well (Siri being something of an exception – it wasn’t the Steve Jobs way to release it when they did).
+
+    Another advantage was that, when functionality is limited, it’s easier to make each individual function easier to use, and therefore the early iPhones seemed more feature-rich than they actually were. (For a given customer, a feature only exists if he or she can figure out how to use it.)
+
+    This also reminds me of St. Exuperay’s (sp?) statement that “Perfection is not achieved when there is nothing more to add, but when there is nothing more to take away.”
+
+
+Dan Sutton 07.24.12 at 11:12
+
+    This is true even to the extent of bugs: for example, certain operating system or compiler bugs have to be left in for future releases, because technical users write stuff which takes advantage of the bugs; remove those bugs and their programs stop working. Frustrating, huh!
+
+
+Anonymous Coward 07.24.12 at 11:37
+
+    You’re absolutely right. That’s why OOo has such a nice extensions mechanism, and is scriptable in so many ways, and Unix has so many commands which can communicate via pipes or sockets, and why you have a nice package manager built into each Linux distro – and why modularity and extensibility should not be an afterthought. Long after a monolithic system has collapsed under its own weight (even a complete rewrite cannot avoid taking over some cruft in case of monolithic systems), a system capable of hosting new features and shedding old ones will still thrive, even if it won’t really resemble the initial state too much anymore.
+
+    In ~15 years of programming, I have yet to see an enterprise application which thinks about extensibility, plugin mechanisms and externally published APIs in advance. Nobody in the corporate world wants to pay the small added cost of building such stuff into an application right from the start, but is extremely miserable later on, when singificantly payment becomes due for a rewrite, because the app evolved into a big unmaintainable ball of mud, which cannot keep up with the business changes anymore.
+
+    An example: the Linux kernel. It is an extremely versatile piece of software, running on the entire range of hardware, from dumb phones to top500-listed supercomputers, without carrying any sort of cruft around. All of this is made possible by its extremely powerful modules mechanism.
+
+
+Léo 07.25.12 at 21:55
+
+    I couldn’t stop thinking about Gnome 3 in the last paragraphs.

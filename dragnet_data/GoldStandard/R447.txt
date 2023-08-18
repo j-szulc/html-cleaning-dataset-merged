@@ -1,0 +1,36 @@
+Ipswitch File Transfer Launches MOVEit Cloud & MOVEit Ad Hoc Transfer
+
+Ipswitch File Transfer, the trusted secure-file- transfer choice of IT for over 20 years, announces the availability of MOVEit Cloud and MOVEit Ad Hoc Transfer. MOVEit Cloud is the first enterprise-class, cloud-based, Managed File Transfer solution that makes file transfer with partners, customers, employees, and applications easy and secure. Released to meet the growing demand of businesses to leverage cloud Software-as-a-Service (SaaS) options, MOVEit Cloud combines the comprehensive file transfer features needed by businesses today with the benefits of an easy to use and secure cloud service.
+
+Also announced today is the new MOVEit Ad Hoc Transfer product available for the first time as a standalone offering. MOVEit Ad Hoc Transfer provides an easy to use IT-sanctioned alternative for employees to conveniently transfer files with people and groups in a secure manner. MOVEit Ad Hoc transfer addresses one of IT's biggest security challenges today -- the growing risk created by employees' misuse of personal email and file sharing sites to share sensitive business information.
+
+"Businesses are sharing more confidential and sensitive information electronically than ever before, and IT is looking for trusted, secure, and convenient enterprise-class solutions to help make that possible." said Rich Kennelly, President of Ipswitch's File Transfer Division. "MOVEit Cloud and MOVEit Ad Hoc Transfer directly address these needs. Ipswitch has always been at the forefront of providing trusted IT solutions for File Transfer. With these recent announcements, Ipswitch shows that leadership again, providing IT with the broadest enterprise-class deployment options for Managed File Transfer. They can now choose Managed File Transfer options in the cloud, on-premise, or a hybrid deployment, depending on their business and data policies."
+
+MOVEit Cloud To meet the growing demand of businesses to leverage cloud Software-as-a-Service (SaaS) options, MOVEit Cloud delivers the first enterprise-class managed file transfer solution in the cloud. MOVEit Cloud combines the comprehensive functionality demanded by businesses today, including system-to-system, group, and person-to-person sharing of files, within an easy to use cloud service. As a cloud-based service, businesses also benefit from:
+
+    A scalable architecture
+    Elasticity to meet peaks in demand
+    System administration to supplement existing IT resources
+    Budget predictability and flexibility
+    Simple user-based pricing
+    Configuration in hours without burdening IT
+
+
+MOVEit Ad Hoc Transfer A recent Ipswitch File Transfer study confirmed a rapidly growing problem for IT - that employees are putting businesses at risk today by sharing sensitive information in non-secure ways. The survey shows that 84% of employees send sensitive information through non-secure email attachments while 50% use personal email to send work files. The result is lack of visibility and control for IT while exposing organizations to significant security and compliance risks.
+
+MOVEit Ad Hoc Transfer directly addresses this problem by providing a convenient, IT-sanctioned option for employees to send confidential and sensitive information. It satisfies employees' needs for ease of use and speed, as well as IT's need for governance with the visibility, control, and security required to protect their business and data.
+
+With MOVEit Ad Hoc Transfer, organizations of all sizes can:
+
+    Take advantage of secure person-to-person communication with a secure, standalone file sharing solution
+    Easily share their larger files with employees, partners, and groups
+    Securely and quickly send encrypted files and messages to other people using a Web browser or Outlook
+    Quickly provision new users with self-registration and guest user features
+    Easily administer and automate file transfers with IT control and governance
+
+
+"We are seeing some definite file sharing business trends. First, the ever-increasing non-secure personal file sharing habits of many employees are creating a significant risk for businesses," said Ben Huang, principal research analyst, Gartner. "Second, IT is looking for enterprise strength cloud offerings to quickly address the personal-file sharing risk as well as broader managed file transfer requirements."
+
+Product Availability MOVEit Cloud, MOVEit Ad Hoc Transfer and MOVEit 7.5 are immediately available. For more information on the solutions, please visit the Ipswitch File Transfer website.
+Published Tuesday, November 06, 2012 12:21 PM by David Marshall
+Filed under: Cloud

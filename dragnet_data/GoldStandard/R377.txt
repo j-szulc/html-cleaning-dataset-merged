@@ -1,0 +1,33 @@
+November 06, 2012
+Imagination buys MIPS to expand beyond graphics processors into smartphones
+MIPS will also sell the majority of its patent portfolio to a consortium including chip design house ARM
+
+British chip designer Imagination Technologies plans to acquire the operating business of processor maker MIPS Technologies, as well as some of its patents, in an effort to strengthen its position on smartphones. At the same time MIPS has also sold a majority of its patents to a group including ARM Holdings.
+
+Imagination may not be a household name but its graphic processor designs are used on Apple's latest iPads and the iPhone 5. Just like its compatriot and competitor ARM, the company licenses the technology necessary to build processors but doesn't build any on its own.
+
+[ Keep up on the day's tech news headlines with InfoWorld's Today's Headlines: Wrap Up newsletter. ]
+
+The deal with MIPS sees it buying the company's operating business, including 160 employees, and IP licensing business with 82 patents for $60 million.
+
+The patents Imagination has acquired are directly related to the MIPS processor architecture and instruction set, according to Imagination spokesman David Harold.
+
+Imagination is hoping to take advantage of its position as a supplier of graphics chip designs to mobile phone makers, using MIPS to sell them a main processor too.
+
+However, it won't be easy for Imagination to break ARM's dominance of the smartphone processor market -- and it will also face competition from Intel, which wants a piece of the mobile market too.
+
+Earlier this year Indian company Karbonn Mobiles announced the MIPS-powered Smart Tab 1, which runs Android 4.1 and costs $125, MIPS said in a statement at the time.
+
+But Imagination isn't intending to use MIPS' technology just in mobile devices: It also hopes to enter new markets, including that for networking equipment.
+
+MIPS-based processors are also used in digital televisions, set-top boxes, Blu-ray players, Wi-Fi access points and routers, according to Imagination.
+
+The two companies already have about 15 shared customers, including chip maker Broadcom, according to Harold.
+
+Separately from the deal with Imagination, MIPS has also sold 498 patents to a consortium that includes ARM. The consortium will pay $350 million in cash for the patents, of which ARM will contribute $167.5 million, ARM said in a statement.
+
+The consortium, called Bridge Crossing, was set up by Allied Security Trust, which buys, licences and sells patents to protect its members, which include Hewlett-Packard, IBM, Intel and Research In Motion, according to its website.
+
+Both transactions are expected to close in the first quarter of 2013, according to Imagination and ARM.
+
+Send news tips and comments to mikael_ricknas@idg.com.

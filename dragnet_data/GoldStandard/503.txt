@@ -1,0 +1,246 @@
+
+A Healthy Dose of Fear is Appropriate When Dealing with the Press
+
+by randfish on April 16, 2012
+
+This past Friday I read Ben Huh’s post entitled Don’t Fear the Press. He writes:
+
+I often see very puzzling behavior from some entrepreneurs when it comes to dealing with the press and media. Either they are desperate for it and would kill to get a press write up, or they vilify the press and hate them for whatever happened.
+
+As far as I am concerned, there are two ways to behave towards the press: 1) Treat them with respect and make sure you are open, real, and fair. OR 2) Shut up and let them know you’re not ready to talk about it.
+
+Despite the fact that I generally think Ben Huh is a genius and he’s proven to be far more adept in garnering great press than I, I’m going out on a limb and saying that I think this simplistic, bimodal approach is bad advice for most in the startup world.
+
+My interactions with the press – both mainstream and tech-centric – suggest that more critical thinking, a strategic approach and, yes, a healthy dose of fear, are all smart ways to approach press interaction.
+
+Over the past decade, I’ve encountered dozens of horrific examples of startup->press  interactions, but would have to get permission to write about the most egregious ones. However, I can share a few that have happened to me:
+
+• Substantive changes of clear, obvious, precise details around a story. This TechCrunch piece on Moz’s funding says we received $1.25mm, but the correct amount was $1.1mm. It misspells the name of the investor (“Ingition” instead of “Ignition”) and doesn’t mention that $100K of the financing came from Curious Office. Even after repeated emails, they never bothered to update.
+
+• Writing completely fabricated stories based on “a tip from a trusted source,” without any fact-checking. This Venturebeat piece (which, rather than issue a lengthy redaction, has been replaced by an entirely new version) originally noted that our company had raised money, which we never did. The story had our business model wrong (said we did consulting), our employee count wrong, our membership numbers wrong, our revenue wrong… You get the idea. The reporter could have visited our website to learn any/all of these things, or emailed any of our team members, but chose to hit publish in hopes of getting a scoop. Even after the edit, there’s still errors in the piece (which I noted in the comments… still no update).
+
+• Manipulating headlines and story arcs to create a far more dramatic, negative piece than the truth warrants. In this piece by Business Insider, the writer strategically chooses elements from a blog post and substantively warps it to their particular perspective without ever speaking to sources. The original headline was even changed (~30 minutes after publication if memory serves) to be more attention-grabbing and negative. The result is a piece that places complete blame for the situation on the entrepreneur/company (aka me, so obviously there’s some bias to work around here), which isn’t the takeaway I’ve heard from 99% of folks who know the details.
+
+• Cherry-picking small details to create a story based on the journalist’s vision (or what they were asked to write) rather than discovering the truth and sharing that. For this very brief BusinessWeek profile, I had a lengthy email interview to fill out along with a ~30 minute chat with their reporter. The details of the final piece weren’t entirely negative, but they were bizarrely curated fragments of my responses/conversation.
+
+• Using casual conversations in non-work settings to craft stories. I was at a bar in Seattle a few years back for a tech event when a man interrupted a conversation I was part of but not actively contributing to. He clarified a few details, drank the rest of his beer with us, struck me as friendly but a bit aggressive, and left soon after. The next day, elements of that conversation appeared in a tech publication. I was shocked, as was one of the other parties involved in the conversation. When I talked to one of our investors about the situation (who was also at the event), she knew the journalist and apologized for not giving me advance warning (she presumed I’d known who it was).
+
+In my experience, this type of coverage is not unique. Entrepreneurs and marketers I talk to are constantly surprised with the huge deltas between what they discuss with press vs. what gets written.
+
+Here’s the clincher – you CANNOT blame journalists and media for this. Or rather, you can, but it won’t do you, your startup or those who consume media any good. We all (myself most definitely included) need to learn how to interact with the press effectively.
+
+Below are some recommendations I’d have for entrepreneurs going down the path of journalist interaction. This advice generally assumes a “worst case scenario” :
+
+Know Your Preference: No Press or Wrong/Biased/Negative Press?
+
+Much of the time when the press covers your company or project, the results won’t match your expectations or ideals. If publicity about your work is strategic and useful to the company, some amount of inaccuracy/negativity is affordable. But you should know the balance ahead of time. Far too often, entrepreneurs presume that press is a good, desirable commodity and will suffer unduly to achieve it. The truth is that with a few, relatively rare exceptions, press will not make (or break) your startup.
+
+Have a Clear, Compelling, Unique Message to Share
+
+The press is looking for a story. Something that will draw attention and receive reactions and responses or, at the least, fill their pageview quotas. If you don’t have a worthy story to tell, it’s up to the journalist to find it for you. That is almost never ideal and often the source of entrepreneur unhappiness with the press. Strategize about what you want the piece to convey and then stay on message. Take the parable of the blue cup to heart – consistency, repetition and simplicity are keys to effective communication with the press.
+
+Ask Questions About the Journalist’s Motivations
+
+Before you begin the “taped portion” of an interview or reply to a question-laden email, consider asking three questions of the interviewee:  1 “What’s the focus and goal of the piece?”  2 “What are you hoping to get from my contributions?” and  3 “What’s your fact-checking process?”
+
+The first two will help you better understand whether you want to participate (for example, I’ve turned down interviews/contributions with 4 major publications in the last few years because their answers to the first two suggested that they wanted to frame SEO as a black hat/negative/manipulative practice).
+
+The last one will inform you as to the source’s professionalism and quality. Great journalists fact check and great publications employ fact-checkers. I’ve only talked to two in my career, but both of those pieces were head-and-shoulders above the average. Inquiring about fact-checking can be a powerful psychological motivator – reminding the journalist that you (and their readers) have an expectation of accuracy.
+
+Study Your Target/Interviewer Beforehand
+
+You’d never go into a potential investor’s office or a bizdev partner meeting without background knowledge. So why wouldn’t you research a reporter or journalist? If you get an email, phone call or inquiry, type their name into Bing (or that other one) and get the skinny on where they’ve worked, what type of stories they write, the quality, etc. This can help inform how (and whether) you approach the conversation.
+
+Consider Your Words and Phrasing Extremely Carefully
+
+That clear, compelling message you want to deliver is constantly at risk of being gobbled up by minutiae, irrelevant details and rabbit holes the journalist hopes will make the piece more sensational/viral/interesting. Their goal is not to help you promote your startup, it’s to drive eyeballs and build their career.
+
+ Four out of five times your message doesn’t help them achieve those goals, so you should anticipate that they’ll push you to find another angle. It’s not so much that you need to be guarded or restrict yourself from answering questions, but rather that, like great politicians and orators, you want to guide the answer back to your message. This is hard. But I’ve observed entrepreneurs who can do it effectively and the results are remarkable (e.g. Nirav Tolia of Nextdoor is a master).
+
+Email Interviews are Great; Phone Calls/In-Person is Riskier
+
+When reporters contact me, I always request an email interview. It’s dramatically easier to control the message carefully, communicate clearly and ensure that both parties have a reliable transcript.
+
+Most journalists, however, will push hard for a phone call or in-person meeting. Human beings are much less able to control communication, recall their exact words or avoid awkward questions thus giving the journalist far more flexibility and effectiveness to achieve their goals (“Wait, did I really say that? I guess I might have…”). .
+
+Just remember, email is entirely to your advantage, verbal communication is the opposite. Use caution and discipline and you’ll usually be fine, but also keep in mind that your physical traits can be interpreted (or misinterpreted). Just think how many times you’ve seen a phrase like “He seemed uncomfortable when I asked if…” in the press. Whether you actually are uncomfortable is entirely up for debate, but the journalist can now frame the response the way they’d like it to appear.
+
+Pretend Everything is “On the Record”
+
+I’d encourage entrepreneurs to speak to the press entirely “on the record,” even before the formal transcript begins (usually via a recording device). Everything you say is fair game. The early “banter” and random discussions before you “get down to business,” can become just as much a part of the story as what’s on the tape. And don’t forget that your handshake, your clothing, your demeanor, your office decor and your “off the record” banter are likely to impact the piece. Read most interviews or profiles and you’ll see this color commentary time and again.
+
+Beware Later Questions and the “Followup”
+
+There’s a common technique I was unaware of until recently that’s apparently taught in journalism school (or it was when my wife attended). It’s sometimes referred to as the “followup” and leverages a particularly powerful psychology. I’ve had two professional journalists use it on me – here’s how it works: At the end of an interview, the journalist thanks you, mentions when they’ll next be in touch and then says “oh, and one more thing…”
+
+That one more thing is often a pointed and potentially high-consequence question they’ve been saving until your guard is down. Both journalists who used it on me asked the same style of question – “what does Google think of your activities?” I now know better than to think this is an off-the-cuff request. They’re seeking the dramatic wedge issue and know that this timing plays expertly into receiving a less-than-prepared answer. In my case, since we make software for professional marketers and SEOs, they’re hoping to find a conflict angle (thankfully, there isn’t one).
+
+Don’t Be Afraid to Call Journalists Out Publicly
+
+If you are the recipient of inaccurate, misleading or unduly negative press, don’t be afraid to call out the journalist and publication directly and publicly, but do it as warmly and professionally as possible. The comments are best (and nearly every publication has them now). Address the journalist directly, thank them for writing the piece, then list the factual inaccuracies and provide any citations you can to back up your claims. Don’t get petty or nasty. Don’t insult them or imply they didn’t do their research (even if they didn’t). You need the press on your side.
+
+These tips are odd for me to give, since my company and personal philosophy focus so much on transparency generosity in sharing. However, my experience with the press has taught me to be careful, be focused and be strategic. I’m happy to forego mainstream press coverage in favor of telling the whole story honestly and openly rather than having a bias applied to the small part that appears in a media publication.
+
+Here’s to hoping that in the future, great journalists prosper (IMO, Danny Sullivan is the gold standard in the technology world) while those who don’t live up to such standards find other pursuits. In the meantime, entrepreneurs should approach the field with suitable preparation.
+
+p.s. I should make it clear that not all journalists behave in ways I’ve described above. Like any field, a few bad eggs can color the whole bunch. My goal with this piece is to suggest tactics that can help entrepreneurs prepare for the worst case. Fingers crossed, you get the high caliber folks and don’t need to worry about many of these scenarios.
+
+
+
+
+!@ $%^&*()  COMMENTS
+
+
+
+
+
+
+I got to the point where I simply refused to talk to anyone from the press in any capacity because I have yet to have an interview presented as recorded. The worst was when I was doing environmental work in New Mexico for the mining industry.
+
+The TV interview was held at an old mine site. When I saw it later that night on the news the questions all had an old town for the back drop. A town about 6 miles from the mine. Plus many of the questions were slightly altered to make some of my answers sound differently than intended. But the final bit was a question about the affect on surrounding wildlife. My answer was that there was no substantial large game wildlife in the area while they cut to a stock shot of an Elk in Colorado to make it look like it was in the background while I answered the question.
+
+That was the last time I gave a ‘real’ interview to anyone in the press that I didn’t know personally.
+
+by SteveG on April 16, 2012 at 4:56 am.    
+
+Good gravy. How do you have time to write something like this?
+
+Incredulity at your blogging consistency aside, great post! Having been one of the people on the other side of the coin (both a journalist for a traditional paper and a writer for a web property) it can be interesting getting into it with companies/individuals who feel they’ve been wronged by our coverage.
+
+Occasionally, we will have truly gotten something wrong, and we make the change quickly and without argument. Far too often, though (at least 70% of the time) companies/individuals complain about the coverage they received because it just doesn’t make them look good. And, by remaining unbiased, there’s really nothing we can do about that.
+
+I like your “healthy dose of fear” addition to Ben’s article; if you’re looking for publicity for your business, you’ve got to be absolutely positive you’re ready to accept the good along with the bad, because there will undoubtedly be both. If you’re off searching for a reporter to write a glowing review of your product/service, then you’re wearing your expectations crooked.
+
+Anyhoo, nice article Rand. Thanks! :)
+
+by Mitch Monsen on April 16, 2012 at 4:59 am.    
+
+Thanks Mitch! Interestingly enough, I’ve actually found web publications and company/niche blogs to have much higher standards for accuracy than many of the mainstream outlets. For example, whenever I write on the SEOmoz blog, I feel that I have to live up to an extremely high standard of accuracy or risk losing credibility far more so than some of the sources I cited above. Of course, I get to weave in opinions and narrative much more liberally, but the “reporting” aspect of most blogs in the niche of marketing seem to be a considerably better job than the wider group of technology sites. It makes me question a lot of what I read.
+
+by randfish on April 16, 2012 at 5:37 am.    
+
+That “trick” is interesting.
+
+Another one (coincidentally also one I leant from my wife) is the “would you say xyz?”
+
+To most people this sounds just like a turn of phrase, meaning something like “is xyz true?”
+
+To a journalist, thogh, any kind of vaguely positive answer means they can use *their phrase* as a direct quote from you
+
+I am learning that the correct response to that is (even when you broadly agree) “no, I wouldn’t put it like that, I would say ‘abc’”.
+
+I find this hard: my natural response is “yeah; but I think it’s more subtle than that, I think abc…”
+
+by Will Critchlow on April 16, 2012 at 7:52 am.    
+
+Whoa… Yeah – get that phrasing a lot. Thanks for the advice; will likely need to apply in the near future.
+
+by randfish on April 16, 2012 at 8:26 am.    
+
+“Using casual conversations in non-work settings to craft stories” is fair game. Journalists are not the police. They don’t have to announce themselves or read you any rights before they start getting information from you. If you were having this conversation in a bar, anyone could have overheard you. Good on the journalist for speaking up to clarify details instead of running with what he thought he heard.
+
+by Matthew Gerring on April 16, 2012 at 8:18 am.    
+
+Matthew, journalist aren’t the police, but we — I’m a former newspaper man — are bound by a code of ethics. True, journalist are masters at eavesdropping. Ethically, however, journalist should be upfront about who they are, announce themselves when they seek comment. Despite popular fiction portrayals and the proliferation of would-be journalist online, journalist shouldn’t be deceitful to get the story. They should ask tough questions and seek the truth, but they should never be duplicitous in doing so. If that’s old school, then call me old school.
+
+Now if the reporter in the bar saw fit to insert himself and ask clarifying questions, he should’ve said so then and there as to why he was seeking clarifying questions to the conversation.
+
+by Ryan Thomas Riddle on April 20, 2012 at 8:57 pm.    
+
+I should also add that what you’re basically suggesting is being combative with journalists as a default, and treating them with suspicion. This is a mistake. The best way to get good press coverage is to act in good faith with journalists, assume they’re doing the same, and return phone calls promptly.
+
+by Matthew Gerring on April 16, 2012 at 8:21 am.    
+
+Unfortunately, all the historic evidence I’ve got goes against your advice (which is basically what Ben posted in his original piece), hence the reason for writing this post.
+
+by randfish on April 16, 2012 at 8:25 am.    
+
+My evidencce, having worked as a journalist for ten years and ocassionally covering startups, is that I’m only going to be negative about you if you’re A) being evasive, suspicious and combative or B) puling stupid PR tricks like repeating the same phrase in every answer. If you talk to me like a real person, your chance of fair (though not necesarily positive) treatment is much greater.
+
+by Matthew Gerring on April 16, 2012 at 12:23 pm.    
+
+Matthew, of the problems discussed, only a few were due to the journalist purposefully and maliciously “going negative.” Most were due to ignorance, incompetence, lack of domain knowledge, or simply being more focused on writing a good story than capturing the interviewee’s perspective.
+
+by Steve on April 16, 2012 at 1:16 pm.    
+
+@MattGerring I recently did an email interview with Rand and was pleased to receive his answers within hours (maybe less) . I’ve played on ‘both sides,’ and find Rand’s insights regarding hesitance and further questioning of intent as warranted, as unfortunate as it is.
+
+I contacted a reporter of a major media source once, giving her info related to how the company alternatively addressesed the ‘lunch hour.’ She turned it into a story about how my boss was a slave driver with a cartoon picture of a worker chained to his desk as the main image. In short, being cautious is a necessity.
+
+by Anthony Pensabene on April 17, 2012 at 6:22 pm.    
+
+On “manipulating headlines” that’s just linkbaiting, right Rand? ;-)
+
+A few years ago I stumbled across a piece on SEO in a tech publication, I forget which one now, by a journo who had the most dismissive style. When I posted some caveats in response to add some balance to the piece, he then rounded on me too.
+
+So your tip that people should research their potential tormentors first is a prime one, Rand. The young and the hungry may just end up eating themselves.
+
+As long as journalists don’t stray too far from the truth and are responsive to clarifications and corrections then all’s well, but, as you say, we’ll find out if they’re still in the same job in a few years time or back to flipping burgers.
+
+by Paul Mackenzie Ross on April 16, 2012 at 8:41 am.    
+
+Hey Rand,
+Unfortunately, as what might be considered an “old school” journalist, I have to agree with the overall tone of your post. Journalism in the main is predicated on a completely different view of the world now than in decades past.
+There seem to be two main drivers in the press these days – intrusion and sensationalism. You are quite correct though in saying that the journalists really can’t be blamed for the industry having gone this way. Journalism is after all, the ultimate consumer-driven product. If the world were not clamoring for this brand of overly intrusive sensationalism, media would not publish it.
+Online publications do largely seem to be less affected than print or television media, but still there are the problems you mentioned. I find the issue of inaccuracy and lack of fact checking most disappointing. Lets face it…fact checking has never been easier!
+There is one suggestion I would make for those in your position, who still need to deal with the press as a necessity:
+You mentioned Danny Sullivan’s well deserved reputation in the Tech space and there are certainly a few others out there who can also hold their heads high. My suggestion would be when you come across a journalist you consider to be the kind of person you would happily trust as a friend, go with that. Enjoy the friendship and be real.
+Much farther down the track, should you have something to tell the world, you may choose to give the story to someone you trust who already knows the real facts about you and your company :-)
+Let it be known that you generally talk only to trusted writers and be firm about sticking to that.
+The interesting thing about this approach is that other good journalists will actually accept that this is how you roll, and make a real effort to be trustworthy in order to be considered worthy of a conversation in the future.
+Sha
+
+by Sha Menz on April 16, 2012 at 9:00 am.    
+
+One other tip you might find useful: Ask the reporter who else he or she has interviewed, or plans to interview, for this story. Assuming the reporter will share that info, you might be surprised to learn whose comments yours will appear alongside. That kind of context helps you select the right words (or decline the interview request), and also gives you a clearer picture of the the reporter’s angle. IF they share that info…
+
+I enjoy your insight, Rand.
+
+by Jay Socol on April 16, 2012 at 11:30 am.    
+
+Great post. I disagree about the email vs. phone conversation. Talking to a reporter can deliver a far more fluid, efficient stream of coverage points that, for me, make the email option slow and laborious. Sure, it’s a riskier. But, so is running a business. If an entrepreneur isn’t ready to get out there and have real conversations with real people (yes, reporters are real people) then they’re probably not ready to reap the benefits of exposure. The key to a successful phone interview is to research the reporter, their publication, their readership, etc. – points you made in your post. I’d add to that to use a mind mapping tool and have it at your ready during the call. It can help an entrepreneur be prepared as the conversation shifts and turns.
+
+Also, prepare yourself with a set of rude Q&As – something any good PR firm would help an entrepreneur create before a “tour.” In other words – think of all the dumb, obnoxious, crazy questions a reporter “might” ask – and have answers at the ready. The dumber they are, the more likely they’re going to be asked. :) Talking to reporters over the phone or in person can be fast, exciting and, even, intoxicating.
+
+by David Geller on April 16, 2012 at 6:56 pm.    
+
+Rand, this is a great post. I don’t know how you find the time, honestly.
+
+To stay on topic, I have only done a few interviews in the past. However, I have found much of what you say to be quite true.
+
+Quite frankly the timing of this post is very coincidental, in that I’ve recently begun an online course in Media Presentation from TJ Walker [[understand if your editorial team needs/desires to remove the name]] (basically, how to take an interview on your terms and control it all that you can).
+
+One question we always need to ask a journalist, prior to agreeing to do an interview, is when is their deadline for the piece. Delay beginning an interview even if it gives you a mere few minutes to focus on what you want to say. Use the time to focus on three takeaways you want the journalist to come away with along with some quotable phrases or sound bites. Answer concisely rather than feeling the need to educate on all you know.
+
+At any rate… thanks!
+
+by Eric Itzkowitz on April 16, 2012 at 9:55 pm.    
+
+As a former media relations/communications professional, I have to agree…and say that there’s a lot of business people out there who just never get/can’t seem to grasp that the media is an entirely different beast (and doing an interview doesn’t mean you get approval before print, like an ad does).
+
+There’s a reason why you can get formal media training, why interview practice is paramount and why there’s communication experts out there who do this for companies.
+
+Now, small businesses especially claim they can’t afford that support, but all it takes is one (or two) bad experiences and articles with mistakes before things can snowball.
+
+by Andrea on April 20, 2012 at 6:49 pm.    
+
+I think SEO is a very misunderstood industry, so dealing with press in regards to it, will always be a risky venture.
+
+by Ashley, cutey on April 23, 2012 at 9:52 am.    
+
+Awesome post! Thanks so much for sharing. I’m just now learning about how the media works, that a journalist’s job is to get a story—not necessarily to just report the facts… and sensationalism sells.
+
+A while ago, one of my friends came upon a crime scene after a crime happened, and there was apparently a reporter standing among the people who were watching the police. He was quietly listening to the bystanders’ chit-chatting with each other, and at the end walked up to my friend and asked “What’s your name? Where do you work?” and she answered him, not knowing who he was or what he was doing. He never identified himself. That same day, there was my friend, front and center on the newspaper’s website, (inaccurately) described as a witness to the crime, and a quote from someone else was misattributed to her.
+
+She contacted the press to ask them to change it because it was wrong, and the reporter was resistant to doing so. Very dirty trick, in my opinion.
+
+I think reporters can help tell your story, but they’re going to tell *their* version of your story. And that can be a double-edged sword.
+
+by Ron Stauffer on May 2, 2012 at 2:42 pm.    
+
+Great Post Rand. Web Publications, and blogs are far ahead, interms of fact checking and delivering good content. May be it happened to you since SEO is still a misunderstood industry.
+
+Besides that, it’s an insightful post! And its true most of the time, we’re not getting the story that we’d think in those publications! They’re always in hurry and never bother to re-check once.
+
+by Aakar on May 11, 2012 at 10:20 am.    
+

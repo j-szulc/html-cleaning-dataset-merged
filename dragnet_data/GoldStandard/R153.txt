@@ -1,0 +1,140 @@
+Nokia E71 Software Update - v400.21.013
+
+Nokia E71 is getting a new software update for European versions. The biggest updates are; Quick Office is improved to version 5.3. Ovi Store is updated to v1.5 and more…
+
+Looks like Turkish Nokia E71 users will love Turkish SMS Character support. With v400.21.013 firmware this feature is coming. This update is also makes Nokia E71’s WLAN Connection more stable and fast.
+
+Here is the full changelog of firmware version 400.21.013;
+
+NEW FUNCTIONALITIES:
+
+- Gimlet v9.5 (version - 9.5.3.72)
+- Quick Office 5.3
+- Ovi Store 1.5 (version - 1.5.2)
+- Ovi Contacts – Preinstalled.
+- Mail for Exchange 2.9.176.
+
+CHANGES AND IMPROVEMENTS:
+
+- E-mail Setup Wizard update.
+- WLAN Corrections and improvements.
+- Internet Radio v1.16 – Increased functionality.
+- Camera functionality has been improved.
+- Incoming call hang issue fixed.
+- Turkish SMS character input improvement.
+- Many functionality and Stability improvements in Mail for Exchange.
+- Support for Russian and Ukranian keymats.
+- Phone activation Baseline updated.
+- Yahoo account hack fixed.
+
+GENERAL IMPROVEMENTS
+
+- Stability and functionality improvements.
+- Email and WLAN functionality improvements.
+- Increased robustness in handling SMS and incoming calls.
+- Memory leak fixes and crashes.
+- Email and WLAN functionality improvements.
+
+CALL HANDLING
+
+- Fix for Incoming call hang issue and fast call crash.
+- Fix for making emergency call when the phone is locked.
+
+CALENDAR/CLOCK
+
+- Minor Functionality improvements.
+- Time display correction when the phone is locked.
+
+CONNECTIVITY
+
+- WLAN functionality Improvements and fixes for crashes.
+- Improvement in WLAN authentication.
+- mVPN authentication improvements and general functionality improvement.
+
+EMAIL
+
+- Email setup wizard updated
+- Fix for Yahoo account hack while setting up Gmail account through Nokia Email.
+- Fix for mails getting duplicated after restoring backup.
+- Mail for Exchange upgraded from 2.9.158 to 2.9.176.
+- Many functionality and stability improvements in Mail for Exchange
+- Robustness and functionality improvements in email items.
+
+INTERNET RADIO
+
+- Improved functionality - (v1.16)
+- Increased application stability.
+
+QWERTY KEYBOARD
+
+- Usability improvements.
+- Keyboard mapping corrections for Russian and Ukranian keymat.
+
+MESSAGING
+
+- Improvement in Turkish SMS characters input.
+- Fix for delivery report for SMS with more than 22 characters.
+- Increased robustness in handling SMS.
+
+Please share your experiences with the update v400.21.013
+
+Download Nokia Software Updater
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Fortunato Saraiva
+Dec 6th, 2009 at 6:06 am	
+
+How to do to add the Portuguese from Europe to my Nokia E71 languages? My nokia has been purchased with: English, Nederlands, French, Deutsch and Italian. I would like to add to its firmware also the Portuguese from Europe. How to do it even if it is necessary to remove one or two of the existing languages. regards.
+Robert NETHERLANDS
+Dec 8th, 2009 at 8:03 pm	
+
+My phone cannot be updated to v400.x although I have a Dutch (i.e. European) phone… Will the update eventually become available?
+Darwin
+Dec 13th, 2009 at 11:28 am	
+
+Im doing my update now i hope this one will really work knowing its 114MB and i have to wait like forever for this to finish..I’ll let you all know later if this is worth trying for
+Manfred
+Dec 20th, 2009 at 5:01 pm	
+
+I am now using the version, not bad.
+shadaab INDIA
+Dec 21st, 2009 at 8:23 am	
+
+we need to update software Nokia E71
+Dan UNITED KINGDOM
+Jan 1st, 2010 at 10:18 pm	
+
+no update on the nokia software updater for my phone yet !!!!!!
+Vlad NETHERLANDS
+Jan 15th, 2010 at 12:02 am	
+
+I have immidiately upgradet my phone shortly I bought to v400.XX.XXX , NO real experince with the old one software firmwares, so waiting for the next improvements - a has to be done
+RAJENDRA SHAKAR AUSTRALIA
+Apr 13th, 2010 at 3:08 pm	
+
+sir,
+frequent problem arrising on the mobile while sending message. it require the software upgrade. dialind recieving & message incomming is working properly.
+my set is E 71.
+please help
+alex UNITED KINGDOM
+Apr 27th, 2010 at 10:25 am	
+
+hi i’ve been god knows how many web sites for nokia software updater, but every site i have been i’ve tryed downloading the version for my phone.
+Error 400/404/500 and i still haven’t been able to download it yet…..can anyone help…?
+dija SAUDI ARABIA
+May 31st, 2010 at 10:57 pm	
+
+the certification after the update is expired how to fix it
+cedric PHILIPPINES
+Jun 13th, 2010 at 2:06 pm	
+
+It works fine!!!
+ebad ghavami
+Jul 19th, 2010 at 12:53 pm	
+
+It is OK
+

@@ -1,0 +1,12 @@
+
+Google Desktop Update
+Friday, September 02, 2011 12:48 PM
+In 2004, Google launched Google Desktop, a program designed to make it easy for users to search their own PCs for emails, files, music, photos, Web pages and more.
+
+Desktop has been used by tens of millions of people and we’ve been humbled by its usage and great user feedback. However, over the past seven years we’ve also witnessed some big changes in how users store and access their own data, with many moving to web-based applications. There has been a significant shift from local to cloud-based storage and computing, as well as integration of Google Desktop functionality (like local search) into most modern operating systems. This is a positive development for users and we’re excited that most people now have instant access to their personal information. As such, we’ll be discontinuing support for Google Desktop, including all of the associated APIs, services, plugins and gadgets.
+
+As of September 14, Google Desktop will no longer be available for download, and existing installations will not be updated to include new features or fixes.
+
+Thanks again to all of our users. It’s been a fun journey.
+
+Posted by the Google Desktop Team

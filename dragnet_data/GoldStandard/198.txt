@@ -1,0 +1,23 @@
+
+Mobile developer platform gets $12 million boost in funding
+
+The first round of funding for Xamarin, a company that provides developer tools for thousands of mobile app developers, will go toward expanding its services.
+Donna Tam
+by Donna Tam
+July 24, 2012 7:00 AM PDT
+
+
+Xamarin, a company that provides developer tools to hundreds of thousands of mobile app developers, has received $12 million in first-round funding, the company announced today.
+
+The financing comes from Charles River Ventures, Ignition Partners, and Floodgate, and will be used to expand the company's software and build a sales and marketing team, according to a press release.
+
+The desire to build mobile apps can often be hindered by a lack of mobile developers, but Xamarin's software makes it easier for traditional programmers to make the transition to mobile, according to an analyst quoted in Xamarin's release.
+
+"Enterprises face a severe shortage of mobile developers as pressures from BYOD escalate and as mobile becomes a strategic customer engagement channel," Al Hilwa, director of Applications Development Software at IDC said in a statement. "Technologies that leverage large existing ecosystems of developer skills are exactly what enterprises need to support multiple device platforms productively."
+
+
+The company's software allows developers to build mobile apps with a programming language called C#, and access APIs and user interface toolkits unique to the iOS, Android, and Windows device operating systems.
+
+"Our mission is to make it fast, easy and fun to build great mobile apps," said Xamarin CEO Nat Friedman. "We've had a tremendous first year, validated by more than 12,000 new developers per month, and millions of dollars in revenue. This funding will enable us to scale our success and better deliver on our mission, bringing millions more developers to mobile."
+
+Since the company started about a year ago, more than 150,000 developers have used its cross-platform mobile development software, including those behind music subscription service Rdio's app and the developers at Microsoft, where Xamarin's tools allow developers to re-use existing code for new platforms. 

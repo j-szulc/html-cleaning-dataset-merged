@@ -1,0 +1,8 @@
+Four short links: 6 November 2012
+Internet of Copters, Privacy Game, Visualizing Data, Secure Configs
+by Nat Torkington 
+    Tilt-to-Fly Controller and Copter (Kickstarter) — This looks totally awesome and hackable. The controller has a USB port, the protocol is documented, and you can even connect your own electronics payload, like an Arduino, camera, or homebrewed project to the auxiliary serial (UART + power) port.
+    The Privacy Game (The Open University) — This game is designed to highlight how privacy and consent work online. Players make decisions about which information they reveal, who they reveal it to and why. For example, you may decide to trade some information for gifts when shopping on a website; or you may decide to keep other information secret when posting on a social networking site. (via BoingBoing)
+    statwing — very easy analysis and visualization of data.
+    duraconf — a collection of hardened configuration files for SSL/TLS services. It’s easy to reduce crypto effectiveness with crappy choices and options, so it’s good to have solid configurations to go from.
+

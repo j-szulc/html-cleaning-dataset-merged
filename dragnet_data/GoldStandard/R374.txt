@@ -1,0 +1,35 @@
+November 06, 2012
+x86 processor shipments drop steeply in Q3 as Intel gains on AMD
+Intel gained share over AMD, but it was the second worst quarter for the x86 processor market since Q1 of 2001
+
+Intel gained PC microprocessor market share over Advanced Micro Devices during the third quarter, but worldwide shipments of x86 chips declined at rates not seen in more than a decade, according to Mercury Research.
+
+Worldwide shipments of those microprocessors dropped around 9 percent during the third quarter from the same quarter last year, said Dean McCarron, principal analyst at Mercury Research. It was the second worst quarter for that segment of the processor market since the first quarter of 2001.
+
+[ Keep up on the day's tech news headlines with InfoWorld's Today's Headlines: Wrap Up newsletter. ]
+
+Intel's market share was 83.3 percent in the third quarter, growing from 80.6 percent in the same quarter the previous quarter. AMD's market share was 16.1 percent, falling from 18.8 percent. Via Technology, which largely makes chips for low-cost PCs. had a 0.6 percent market share.
+
+An uncertain economic environment and slowdown in PC demand hurt x86 microprocessor shipments, McCarron said. Key computer makers backed off buying PC parts, with overall chip shipments declining for Intel and AMD.
+
+"AMD took more of the hit than Intel did. They both experienced declines," McCarron said. "AMD was simply hit by what OEMs saw in the markets... and hitting the brakes."
+
+Mobile chip shipments reduced by a mid-single digit percentage range for AMD and Intel, according to the research. Intel's gains on AMD mostly came in desktops, where volume shipments of new Core processors based on the Ivy Bridge microarchitecture and aggressive pricing may have helped it. Intel launched the first Ivy Bridge chips for desktops in April, and followed with Core processors for laptops.
+
+The PC market is in decline with more people buying tablets like the iPad for computing. According to IDC, worldwide PC shipments in the third quarter dropped by 8.6 percent compared to the same quarter a year earlier. A new category of light laptops called ultrabooks did not provide a spark to PC shipments during the third quarter, and analysts have said the PC sector could get a boost from Microsoft's latest Windows 8 OS, which became available late last month.
+
+The third quarter is traditionally strong due to the back-to-school PC purchases. But x86 chip shipments fell by 4 percent compared to the second quarter this year, McCarron said.
+
+AMD is strong in the desktop market, but launched its latest PC chips code-named Trinity just as the PC market started going into a decline, McCarron said. AMD was just phasing out its Llano chips, which are more than a year old and considered a failure, and sales of Trinity chips have not ramped up completely.
+
+The upcoming quarters look difficult for AMD and Intel with the PC market in a slump.
+
+"The key is how the macroeconomic situation is, which is not looking good for the next couple of quarters," McCarron said.
+
+The recovery of the chip market also depends on PC buying trends, which may not improve in the coming quarter.
+
+"Hopefully things will improve next year," McCarron said.
+
+The slumping PC market also hurt Intel's and AMD's earnings, with overall and PC chip revenue dropping for both companies in the most recent fiscal quarter. The chip makers are facing an increasing threat from the likes of Apple, Samsung, Qualcomm and Nvidia, whose ARM-based chips go into smartphones and tablets. Mercury Research's study did not include ARM in the numbers as the processors are not considered PC chips.
+
+Agam Shah covers PCs, tablets, servers, chips and semiconductors for IDG News Service. Follow Agam on Twitter at @agamsh. Agam's email address is agam_shah@idg.com.

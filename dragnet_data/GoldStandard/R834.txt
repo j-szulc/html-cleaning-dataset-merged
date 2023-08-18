@@ -1,0 +1,24 @@
+Apple makes peace with HTC but Android wars continue
+
+Apple has reached a deal with HTC that ends the two firms’ patent disputes. It looks as if Apple is now narrowing its intellectual property wars from an all out assault on Android to a battle focused on Samsung.
+
+The Apple-HTC deal is largely under wraps, but it is known they’ve dropped all legal action and reached a 10 year deal for each side to license the others patented technologies.
+
+Exactly what money is changing hands isn’t being revealed. It appears the cash will be flowing Apple’s way but it will only be in the form of royalties rather than damages. HTC says the deal won’t hurt its finances, suggesting that any royalties cost will be less than the $200 million it had already reportedly set aside to cover the risk of paying damages or legal fees.
+
+It’s the first such deal between Apple and a manufacturer using Android for its smartphones or tablets. That’s already sparked speculation of a change of tactics from the time when Steve Jobs declared “thermonuclear war” on the system. New boss Tim Cook appears to be taking a more practical approach and saving the company’s resources for the bigger battles, most notably against Samsung.
+
+Speaking of which, regular readers won’t be surprised to know Apple has paid a price for its continued cheekiness in the UK where it suffered a rare loss to Samsung. As we previously noted, the judge ordered that Apple publish a statement on its website and in print publications to say that the court found Samsung had not violated its patents.
+
+Apple did so but also threw in some quotes from the ruling apparently criticizing the design of Samsung devices, along with highlighting Apple’s victories in other countries. The judges dealing with the case were reportedly livid, even more so when they ordered the statement be replaced with the specified warning and were told by Apple that it would take 14 days to update its website.
+
+The court has now ruled that the original “apology” was “false and misleading” because it suggested other courts around the world have ruled differently on the issue. In fact those cases dealt specifically with the iPad, while the UK case dealt with a patented technology rather than a particular device. The ruling also notes Apple took some liberties with the timing of the publication of the advert in newspapers and magazines.
+
+As a punishment, the court has ruled Apple must pay Samsung’s legal fees on an “indemnity basis.” That effectively means the Samsung lawyers can name their price and it’s up to Apple to prove they are being unreasonable. Normally the onus is on the side receiving the payment to justify its calculations.
+
+Amazingly that may not be the end of the matter. Eagle-eyed geeks noted that Apple had tweaked a piece of javascript — on its UK site only — to make an ad for the iPad mini appear larger. The result was that the link to the apology, which the court had ordered to appear on the Apple homepage, dropped off the bottom of the screen for many users such that it would only be seen by those scrolling down.
+
+Apple has since removed the code. It’s not yet known if it will face any further legal consequences over it.
+ZergNet
+
+

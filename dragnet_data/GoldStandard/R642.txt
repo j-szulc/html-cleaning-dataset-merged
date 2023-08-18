@@ -1,0 +1,7 @@
+London mapped with language
+Neurobonkers on November 8, 2012, 11:50 AM
+
+A professor specialising in spatial analysis at London's UCL has produced a wonderful interactive map of London produced purely with a peppering of dots marking the locations individuals tweeted from over the past summer using different colours for different languages. It is both a beautiful demonstration of the ethnic diversity of a metropolitan city and a disquieting reminder of the trail of data that we leave behind us in the digital age.
+
+To see the data overlaid over a map click here.
+

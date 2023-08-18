@@ -1,0 +1,26 @@
+App promoters: Are you prepared for a surge in downloads this holiday season?
+
+Wednesday, November 07, 2012 | 2:00 PM
+
+Labels: apps, Case studies, Conversion Optimizer, Google Trends, Mobile, Smart Phones, Tablet
+
+With 29% of shoppers planning to purchase smartphones this holiday season, there’s no doubt that some of the shiniest new mobile devices will be wrapped up under the tree this Christmas. Little time will be wasted before happy new smartphone and tablet owners begin searching for the best apps to fill these new devices. So it’s no surprise that according to Google Trends, during the week following Christmas last year, searches for “best tablet apps” rose by more than 70%, while searches for “free phone apps” jumped by about 37%. The holidays are prime time for app promotion, so it’s important for marketers to make sure their app stands out from the crowd.
+
+Maximizing reach with search and display ads
+Whether you have a shopping companion app, a banking app, or a mobile gaming app, it’s important to reach the right audience to drive downloads and increase awareness. Many marketers have made mobile work for them by using search and display strategies together to raise interest and drive downloads of their app.
+
+TripIt, a mobile travel organizer, used click-to-download ads on Google Search and the Google Display Network to promote their app to business travelers on the road. By creating and optimizing display ads within other apps, TripIt increased downloads by more than 75% and slashed cost-per-download by more than 96%. According to Rhonda Hanson, senior director of search marketing, promoting their app with mobile ads allowed TripIt to, “redirect the dollars we've saved on app promotion to improving our app and providing a better trip-organizer service to our business travelers.” Download the full case study here. 
+
+Maximizing ROI with Conversion OptimizerSavvy advertisers also know they can take app promotion to the next level with optimization tools. Leading mobile game developer GREE promoted their apps to gamers using Google Search click-to-download ads along with image and text ads on the Google Display Network. To make sure they were getting the best return on investment for their in-app display ads, they used Conversion Optimizer for apps to reach their cost-per-download targets. This automated campaign optimization helped them improve app download rates by 150%, decrease cost-per-download by 52% and improve click-through rates by 49%. Download the full case study here.
+
+If you haven’t already created your holiday app strategy, it’s not too late. Here are some things you can do to win across search and display:
+
+    Make sure you’re reaching people when they search for apps like yours and help them easily download your app with click-to-download ads and mobile app extensions
+    Reach relevant users within over 300,000 premium apps on the Google Display Network with image and text ads
+    Track downloads on Android and iOS with AdWords conversion tracking and optimize ROI with the automated bidding feature, the Conversion Optimizer for apps
+    Measure in-app user activity with Mobile App Analytics in order to optimize
+    Increase app promotion campaign budgets for the holidays to account for additional ad clicks
+
+
+For more on how you can drive cost-effective app downloads with Google AdWords, check out this recorded Learn with Google webinar.  
+Posted by Jessica Sapick, Product Marketing Manager, Mobile Ads

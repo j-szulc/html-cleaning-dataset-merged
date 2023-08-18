@@ -1,0 +1,32 @@
+
+
+November 4, 2012 5:12 pm AEST — By Long Zheng
+BUILD 2012: Xbox SmartGlass, powerful developer platform held back by limited availability 
+
+Ever since Xbox SmartGlass was announced at E3 2012, I’ve been intrigued at how it works behind the scenes – across games, apps and device platforms. Thanks to a session on the last day of Microsoft BUILD 2012, it turns out to be quite an interesting developer platform, if you can get your hands on it.
+
+As Microsoft Xbox Live’s Neil Black explained, the goal of SmartGlass is to simplify the trend of second-screen experiences for both end-users and developers. The games, TV and movies market is fragmented with companion-like apps from publishers, networks, devices and special once-off apps like the Olympics.
+
+To make SmartGlass available to the devices that people already own (but best on Microsoft devices), they settled on a client cross-platform HTML5, JavaScript and JSON powered solution for Windows, Windows Phone, iOS and Android devices.
+
+Using the Xbox SmartGlass native app as an abstraction layer, it manages the connections to the SmartGlass cloud services and exposes a set of SmartGlass APIs and events (ex. client connected, Xbox media changes, triggered events) and device capabilities (ex. accelerator, gyro, input) to the hosted browser control (IE or WebKit depending on device).
+
+In fact Microsoft even went as far as to host a service proxy for the SmartGlass client apps to connect to third party REST APIs without running into cross-domain scripting issues. A SmartGlass Studio app (not demoed) was also available to simulate a mobile client from the developer machine.
+
+The result is that a developer without much connectivity or even game developer experience could write a SmartGlass client with just a few lines of HTML and JavaScript as if it was a mobile web site. The example of a Poker game SmartGlass mobile client could utilize the phone’s accelerometer for each of the four players to shake the phone for “table-knock” check in the game.
+
+But of course it was all too good to be true. Microsoft is currently restricting the SmartGlass SDK to Xbox title publishers, which are the likes of EA, Activision and ESPN who have a “partner relationship” with them. Microsoft’s Neil also confirmed that indie game developers using the XNA platform do not have access to SmartGlass and support is “not directly on the roadmap”.
+
+As someone who is a strong advocate of Apple’s AirPlay solution which not only natively supports display mirroring but also allows any iOS developer to develop multi-screen apps and games, it’s disappointing Microsoft is trailing behind as a late arrival.
+
+I wish you could hear the collective sigh from the developers in the conference room when the presentation concluded.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+planetarian
+November 6, 2012 at 2:45 am	
+
+in other words, “eff you XNA guys, the platform we gave you is dead.”

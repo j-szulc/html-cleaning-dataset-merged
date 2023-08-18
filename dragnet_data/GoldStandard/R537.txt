@@ -1,0 +1,13 @@
+Improving news search with expandable results
+Monday, October 22, 2012 3:29 PM
+Posted by Rudy Galfi, Product Manager
+
+Last year we updated Google News to make it easier for you to scan for stories that are interesting to you and let you dig deeper when you find them. Today we’re announcing an update that brings some of those same ideas to news search.
+
+Over the next few days we’ll be rolling out the following features:
+
+    Click-to-expand news results clusters: Each news results cluster is collapsed down to one result with the exception of the first cluster. Click on the “Show more” link to see articles from more sources. This improvement makes it much easier to scan through the search results to find just the collection of news coverage you’re looking for. 
+    Multimedia: Within some of the expanded results clusters you’ll see a bar of videos and photos that relate to each cluster’s content. Click on any of these for more coverage of the story. 
+    Layout updates: The cluster image now appears on the left and the source information has been moved to below the article links for better readability.
+
+You can try this out by doing a search on Google News or by clicking on the “News” filter on the web search results page. We hope you like these changes and that they improve your experience searching the news.

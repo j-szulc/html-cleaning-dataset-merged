@@ -1,0 +1,13 @@
+
+
+More Powerful +1s on Google News
+Tuesday, November 22, 2011 6:10 AM
+Posted by Erich Schmidt, Software Engineer
+
+Over the past few months, myriad sites across the web (including Google News) have adopted the +1 button to help start conversations. But there hasn’t been an easy way for signed-in users to see what news articles your friends are enjoying -- until now.
+
+Starting today, the Spotlight section will sometimes include articles that your Gmail contacts and people in your Google+ circles have publicly +1’d. You can see their profile pictures and click through to their Google+ profiles, just like on Social Search. And of course you can +1 the stories too, expressing your opinion and optionally sharing with your circles.
+
+Here’s what Spotlight looks like with social annotations:
+
+We hope this change helps you find more great articles to enjoy, and gives more power to your +1s. 

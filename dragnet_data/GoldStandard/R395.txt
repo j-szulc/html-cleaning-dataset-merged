@@ -1,0 +1,12 @@
+October 15, 2012
+SAP HANA Real Time Race–The Cisco/EMC team
+
+I think these sort of fun competitions are always a gas…  (think the Diamond Sponsor “Hunger Games” at VMworld 2012)…
+
+What’s this one?   It’s a competition between two SAP consulting companies (Bluefin Solutions and Optimal Solutions) who specialize in SAP analytics to showcase how fast and easy a customer can migrate BW to HANA – then deploy Analytics use cases, and delivering them on mobile devices using SAP’s mobility portfolio.
+
+While it’s not about the SAP HANA appliances per se (it’s about the two partners and illustrating it doesn’t take rocket scientists to deploy) they will be running on the Cisco/EMC HANA appliance – and it’s a great example of what we can do with our scale-out, and highly available HANA solution…
+
+The winner will get a shout-out from SAP’s CTO - Vishal Sikka in his Tuesday morning keynote…   If you want to find out more about the Cisco/EMC team on this, check it out below….
+
+http://scn.sap.com/community/hana-in-memory/blog/2012/10/04/sap-hana-real-time-race-las-vegas-challenger-ciscoemc

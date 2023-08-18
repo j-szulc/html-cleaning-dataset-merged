@@ -1,0 +1,77 @@
+November 4, 2012, 11:39 am
+Nov. 3: Romney’s Reason to Play for Pennsylvania
+By NATE SILVER
+
+The Saturday before the election produced a predictably large volume of polling in battleground states — but also some predictable-seeming results, with most of the polls coming close to the average of other polls.
+
+Because President Obama leads in the polling average in most of the swing states, this means that most of the polls there on Saturday showed him ahead as well. Among the 21 polls in battleground states on Saturday, 16 had Mr. Obama ahead as compared with just two leads for Mr. Romney; three other battleground state polls had the race tied.
+
+Some of the consistency in these results may reflect a tendency of polls to converge or “herd” around the polling average close to Election Day. This may occur because some polling firms alter their turnout models or other aspects of the polls so as not to produce outliers — a dubious practice if the goal is to provide an objective take on the race.
+
+At the same time, Mr. Obama’s state polls continue to show more strength than they did just after the Denver debate. As we wrote on Saturday, we are at the point where the polls would have to be biased against Mr. Romney (in a statistical sense) in order for him to win the Electoral College.
+
+It is worth emphasizing the point once more that, for all the distractions caused by individual polls, the polling averages have been very reliable in the era of rich state polling.
+
+In the table below, I have listed every instance in the FiveThirtyEight database since 1988 in which at least three polling firms issued likely voter polls in the final two weeks before an election. I have taken a simple average of the last poll that each firm released, similar to the Real Clear Politics method for averaging polls.
+
+Of the 77 states with at least three late polls, the winner was called correctly in 74 cases. (I exclude Missouri in 2000, where the polling average showed an exact tie.) There has been little tendency for the state polling averages to overrate either Democrats or Republicans, or either incumbents or challengers. The state polls also performed fairly well in two years, 1996 and 2000, when the national polls were somewhat off the mark.
+
+The chances of a miss are higher, of course, when the polls show a closer race. Even among the 33 cases where the final polling margin in a state was within five percentage points, however, the polling average identified the winner correctly in 30 cases.
+
+The FiveThirtyEight forecast model uses a more sophisticated method than this to estimate the chance of a polling miss. For instance, it looks at how much the polls have historically missed the final margin in the election, rather than simply whether they called the winner correctly. In Ohio in 2000, for example, George W. Bush was projected to win by eight points in the polling average, but carried the state by about three points instead. That is a reasonably large error, even if it did not reverse the outcome.
+
+Furthermore, the FiveThirtyEight estimates of the uncertainty in the polling averages are based partly on earlier years, like in 1980, in which there were few state polls but when the national polls performed poorly.
+
+There are other characteristics of this year’s polling that make upsets less likely. The polls tend to be more accurate when there are fewer undecideds in the race, and fewer voters who say they will vote for third-party candidates. The number of undecided voters is now very small in most states, and third-party candidates are not a major factor in the race (as they are in volatile polling years like 1980 and 1992).
+
+Instead, Mr. Obama is at about 50 percent of the vote in the polling average in Pennsylvania, Wisconsin, Nevada and Michigan; at close to 49 percent in Ohio; and at about 48 percent in Iowa, New Hampshire, Virginia and Colorado.
+
+There are not really any recent precedents in which a candidate has led by something like 49 percent to 46 percent in the final polling average, as Mr. Obama does now in Ohio, and has wound up losing the state. That does not mean such misses cannot or will not occur: there have only been a few elections when we have had as much state polling data as we do now, which is why the model allows for the possibility of a 1980-type error based on how the national polls performed that year.
+
+But the reasonably high level of confidence that the model expresses in Mr. Obama’s chances of winning Ohio and other states reflects the historical reality that the polling average normally does pretty well.
+
+That brings us to Pennsylvania — where the forecast model puts Mr. Obama’s chances at better than 95 percent.
+
+One poll of Pennsylvania on Saturday, from Susquehanna Polling and Research, showed a different result, with the two candidates tied at 47 percent. But in context, this is not such a great poll for Mr. Romney.
+
+The polling firm has had a very strong Republican lean this cycle — about five percentage points relative to the consensus, a much larger lean than firms like Rasmussen Reports and Public Policy Polling that are often criticized for having partisan results. Susquehanna is the only pollster to have shown Mr. Romney ahead in Pennsylvania at any point in the race, as they did on one occasion in February and another in October (Mr. Romney led by four points in their previous poll of the state). Perhaps they will be proven right, but it is usually a bad bet to bank on the one poll rather than the many.
+
+Still, Mr. Romney’s campaign is making a late play for Pennsylvania with advertising dollars and a visit there on Sunday.
+
+That is probably a reasonable strategy, even though Mr. Romney’s chances of pulling out a victory in Pennsylvania are slim. What makes it reasonable is that Mr. Romney’s alternative paths to an Electoral College victory are not looking all that much stronger.
+
+Wisconsin, for instance, is one of the states where Mr. Obama has shown the sharpest rebound in his polling. Another issue for Mr. Romney is that Wisconsin allows voters to register on Election Day, which may make it one case where the likely voter models that pollsters apply are too restrictive. Polls put out by two Wisconsin-based universities, St. Norbert College and Marquette University, show a larger lead for Mr. Obama than those produced by national polling firms, which may not account for these nuances. (Democrats slightly outperformed the polling average in Wisconsin in both 2004 and 2008.)
+
+Nevada is problematic for Mr. Romney because perhaps 65 or 70 percent of its vote has already been cast — and because Democrats have roughly a 50,000-ballot lead there based on the votes that have been collected so far. The better news for Mr. Romney is that Democratic margins in the early vote count are down from 2008. But Mr. Obama carried Nevada by more than 12 percentage points that year, so he could lose a significant amount from his margin and still win.
+
+Democrats also have about a 63,000-ballot lead in Iowa based on the early vote. That is down from an 87,000-ballot lead for Democrats in 2008. Still, as in Nevada, this is a state where Mr. Obama can afford to lose something from his 2008 margin, when he won Iowa by about 10 percentage points.
+
+Ohio is another early-voting state. The most recent figures in Democratic-leaning Cuyahoga County, home to Cleveland, suggest that about 236,000 votes have already been cast there, representing 35 percent of 2008 turnout.
+
+In Franklin County, where Columbus is the largest city and which is the Democrats’ next best county in the state, early votes represent 36 percent of 2008 turnout.
+
+By comparison, the early vote represents 21 percent of 2008 turnout in the other 86 counties in Ohio, combined.
+
+Unlike in Iowa and Nevada, where the early-voting numbers favor Democrats but are down from 2008, the statistics in Ohio could wind up being quite similar to those from 2008 once the last two days of early balloting are concluded on Sunday and Monday.
+
+In 2008, 39 percent of the vote was cast early in Cuyahoga County and 44 percent in Franklin County, compared with 22 percent elsewhere in the state.
+
+The early-voting figures in these states tell a story that seems to be consistent with the polling. In contrast to Iowa and Nevada, where Mr. Obama will almost certainly underperform his 2008 margins, the polls anticipate less of a decline for Mr. Obama in Ohio, which he won by five percentage points four years ago.
+
+My inference, then, is that Mr. Romney’s campaign may be thinking about a map like this one, in which he wins Pennsylvania in order to claim 273 electoral votes. If Mr. Romney did so, he could win the presidency despite losing Ohio, Wisconsin, Iowa and Nevada.
+
+Mr. Romney could not afford to lose Virginia, where he is narrowly behind in the polling average, or Florida, where he is narrowly ahead. He could also not afford to lose Colorado, unless he won New Hampshire.
+
+But Florida, Virginia and Colorado are traditionally slightly Republican-leaning. If Mr. Romney overperforms his state polls across the board — something he will need to do anyway to win the election — they may come along for the ride.
+
+Is Mr. Romney likely to flip enough votes in Pennsylvania to win? Probably not. Pennsylvania has historically had quite accurate polling, with the final polling average missing the eventual margin there by just one percentage point on average between 1996 and 2008. It is also a relatively “inelastic” state, meaning that there are relatively few swing voters who make up their minds at the last minute — perhaps part of the reason that the polling has normally been accurate.
+
+Given the number of unappealing options for Mr. Romney, however, it may be worth a try. Pennsylvania still ranks seventh on the FiveThirtyEight list of tipping-point states — and that is without considering the mechanics of early voting. Pennsylvania has little early voting, meaning that a larger share of the vote there is still in play.
+
+We will still be watching for more swing state polling later on Sunday and on Monday, but the final national polls will also deserve attention.
+
+On Sunday, Mr. Obama led by an average of about one percentage point among seven national surveys. That is not much of an edge, but better than had generally been the case for him just after the Denver debate.
+
+What Mr. Romney will want to see are national polls showing him a point or so ahead in the race, as was the case just after Denver.
+
+If the national polls show a tie on average, then Mr. Romney will be more of an underdog than you might think, since that is when Mr. Obama’s Electoral College advantages will tend to give him their greatest benefit. In the FiveThirtyEight simulation on Saturday, Mr. Obama won the Electoral College about 80 percent of the time when the national popular vote was tied.

@@ -1,0 +1,22 @@
+
+
+November 1, 2012 2:33 am AEST — By Long Zheng
+Microsoft BUILD 2012 Keynote 2 group liveblog
+
+It’s that time of the year again where your favorite Microsoft bloggers come together to cover the most exciting Microsoft conference of the year, BUILD 2012. To help cover the keynotes, we’re doing another group liveblog with Mary Jo Foley, Paul Thurrott, Kip Kniskern, Rafael Rivera and myself, Long Zheng.
+
+Today is day 2 and wrapping it up is the second keynote where we expect the focus to be on Windows Azure and dev tools.
+
+Note: We are using an experimental liveblogging app. If the embed below does not work, try this link.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+planetarian
+November 1, 2012 at 3:08 am	
+
+What’s with the unremovable google chrome frame thing plastered onto the liveblog frame that I can’t get rid of?

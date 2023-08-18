@@ -1,0 +1,39 @@
+20 July 2012
+“LEGO for the iPad generation” gets funding
+
+
+LittleBits are Tinkertoys, gone electronic.  Some circuits, some lights, some buzzers and some buttons, these brightly colored pieces snap together with magnets, allowing for creation of projects that do things, rather than just sit there. The brainchild of TED Fellow Ayah Bdeir — who explained the littleBits in a talk at TED2012 — this open-source hardware startup has sparked a lot of interest since its launch in December of 2011. In fact, Bloomberg TV called them the “LEGO for the iPad generation,” since they allow anyone to learn about electronics while creating an unlimited variety of objects and toys.
+
+Now, littleBits has just received $3.65 million in funding and signed a deal with manufacturing company PCH International. We talked to Ayah to find out what this moment means to her.
+
+What’s the story?
+
+So the big news is that we just closed our Series A round of investment, taking in $3.65 million, with some of the greatest investors in the field. They’re very focused on maker companies, on open-source hardware and this revolution of democratizing technology. This investment will really let us focus on the product and on the team. In September 2011, we had a limited-edition run of 230 pieces, and it sold in a matter of weeks. And then in December, when we launched, we sold out of inventory in three weeks. Ever since then, we’ve been rushing to meet overwhelming demand.  We’re only a team of eight, so we’ve been scratching the surface of what we could do with partners, with schools, with stores, with product. This investment means we can start growing the product and go out on the field to start testing littleBits for real.
+
+
+
+Are you excited to be working with PCH?
+
+PCH is a global, top of the line, first-class manufacturing and logistics company that works with some of the best consumer brands in the world — but they usually only work with large companies. They recently started an accelerator program and are becoming very interested in startups. They’re taking us on as part of that program, but they’re working with us as a client and partner as well.
+
+How was littleBits born?
+
+My interest in open source hardware and electronics started at the Media Lab at MIT. Before that, I did computer engineering and really hated engineering and electronics, feeling they were restrictive. I wanted to be a designer. But then at the Media Lab,  I realized it was very powerful to be able to use electronics and technology for creativity. Electronics are a very powerful, modern and necessary medium. So I started working on different projects integrating electronics, art, design and activism. A few years later, I started working on littleBits. It was an overnight success four years in the making!
+
+How did you decide to embed your interest in electronics in toys?
+
+Not everybody can be an engineer, and I wanted to make electronics accessible to anyone. I was inspired by construction materials like cardboard and paper and construction kits – I wanted to give creating with electronics the same level of ease.
+
+What’s your next step?
+
+Now our goal is to make 30 to 50 new products, focus more on using littleBits in education, and start to get the community involved to be much more active in collaborating on projects and making things together.
+
+What’s your TED Fellowship been like so far?
+
+I’m very grateful to be a TED Fellow. The TED team have been so helpful, and the TED Talk has reached hundreds of thousands of people all around the world. I’m constantly getting email about it, and am thrilled about that.
+
+What’s your wildest dream of success for littleBits?
+
+To make a littleBits hot-air balloon!
+
+For more on littleBits and the cool things people are making with them, visit them online. 

@@ -1,0 +1,200 @@
+November 7, 2012
+Regulation as a Prisoner's Dilemma
+
+This is the sort of thing I wrote about in my latest book.
+
+    The Prisoners Dilemma as outlined above can be seen in action in two variants within regulatory activities, and offers a clear insight into why those involved in regulation act as they do. The first relationship is that between the various people and organisations being regulated ­ banks, nuclear power stations, council departments, police agencies, journalists, etc, and the clear lessons from history are that even for those organisations that are theoretically in competition with each other, it is beneficial to both/all sides in the long run to use mutual cooperation in order to maximise their personal benefit. Whether it was Virgin and British Airways forming an illegal cartel to fix the price of fuel surcharges (a benefit to themselves which was paid for in increased prices for passengers); football shirt retailers (and Manchester United) being fined £16m for fixing the price of replica football shirts, or Barclays (and undoubtedly other banks) working together to fix the LIBOR rate, the reason why they do it is simple and unanswerable -- it is in their benefit to do so.
+
+    [...]
+
+    However, when it comes down to the relationship between the regulators and those being regulated, then a completely different strategic dynamic comes into play. The ability of the regulated organisation to maximise personal benefit is then based on the ability to predict what the other side will do in response to the two options ­ cooperate (play nicely) or betray (screw the customer). Given that in almost all cases the regulatory body has less funds, personnel, resources and expertise than the organisation it is regulating, then it becomes clear that there is little to be gained in the long run by cooperating / playing nicely, and much to be gained by ignoring the regulator and developing a strategy that focuses purely on maximising its own personal benefit. This is not an issue of 'right' or 'wrong,' but purely, in its own terms at least (maximisation of profit, increased market share, annual bonuses, career prospects), of whether it is 'effective' or 'ineffective.'
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Isn't this a restatement of the well-rehearsed idea that corporations are amoral, or even psychopathic, and therefore should not be given rights a moral, non-psychopathic individual would have?
+
+Posted by: John King at November 7, 2012 7:00 AM
+
+PJ O'Rourke: when legislators decide what can be bought and sold the first thing to be bought and sold will be legislators
+
+Posted by: BrianSJ at November 7, 2012 7:21 AM
+
+Regulation costs. In the case of banks, big time.
+
+So consider the case of a big or medium size banks. You have the same cost of regulation as a small bank. It's a scaleable operation. You just run the same report over a bigger data set.
+
+So big banks love the regulator, because it stops new competition, and regulations benefits the established but inefficient, driving up costs.
+
+The government doesn't see this. It draws a boundary around its costs, and excludes costs to others.
+
+A good example of this is building a new road. The costs of the delays whilst being built is never part of the equation, because someone else pays the price
+
+Posted by: Nick at November 7, 2012 7:39 AM
+
+If I don't tell my son he can only have two cookies out of the cookie jar, he will eat all of them, get a stomach ache and will not have any cookies to eat tomorrow.
+
+Humans are generally greedy,stupid and don't really care how their actions affect others.
+
+And there lies the need for regulation.
+
+Since the beginning of time, the many have to suffer for the sins of the few...
+
+Posted by: Carlo at November 7, 2012 9:17 AM
+
+Carlo, yes the market needs regulation, but expecting to get proper regulation from politicians is naive. The incentives for politicians are improper for good regulation.
+
+Proper regulation can only come from the market itself, that is from consumers/buyers acting on their own beliefs and desires. All political regulations actually interfere with the natural regulatory mechanisms and thus make things worse.
+
+Posted by: Ron Helwig at November 7, 2012 9:38 AM
+
+Regulations can cut both ways.
+
+Adam Smith (Wealth of Nations): "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the publick, or in some contrivance to raise prices." Smith was referring to monopoly privileges that were granted by government regulation. There was no prisoners dilemma because government and the trades were all in it together.
+
+But in Smith there is a role for regulation in ensuring justice or restraining self-interested actions that cause systemic risk. For example, Smith on banking regulation in Wealth:
+"To restrain private people, it may be said, from receiving in payment the promissory notes of a banker, for any sum whether great or small, when they themselves are willing to receive them, or to restrain a banker from issuing such notes, when all his neighbours are willing to accept of them, is a manifest violation of that natural liberty which it is the proper business of law not to infringe, but to support. Such regulations may, no doubt, be considered as in some respects a violation of natural liberty. But those exertions of the natural liberty of a few individuals, which might endanger the security of the whole society, are, and ought to be, restrained by the laws of all governments, of the most free as well as of the most despotical. The obligation of building party walls, in order to prevent the communication of fire, is a violation of natural liberty exactly of the same kind with the regulations of the banking trade which are here proposed."
+
+The problem of course, as Smith well-recognized, is that government often isn't very good at the task and often gets bought off. It is ironic, of course, but maybe Smith wouldn't have been surprised, that in our time banking was deregulated in a manner that created systemic risk and justified by the wide-spread mis-representation of Smith by Greenspan and modern economists.
+
+Posted by: AlanS at November 7, 2012 9:43 AM
+
+The incentives of regulators and criminal actors are sufficiently non-comparable that invoking the prisoner's dilemma as an analytic model is not particularly useful beyond invoking ideology.
+
+Posted by: ChuckB at November 7, 2012 10:18 AM
+
+@Helwig
+The notion of self-regulating markets is nonsense.
+
+Amartya Sen. "Capitalism Beyond the Crisis".
+http://www.nybooks.com/articles/archives/2009/...
+
+"And yet the supervisory role of government in the United States in particular has been, over the same period, sharply curtailed, fed by an increasing belief in the self-regulatory nature of the market economy. Precisely as the need for state surveillance grew, the needed supervision shrank. There was, as a result, a disaster waiting to happen, which did eventually happen last year, and this has certainly contributed a great deal to the financial crisis that is plaguing the world today. The insufficient regulation of financial activities has implications not only for illegitimate practices, but also for a tendency toward overspeculation that, as Adam Smith argued, tends to grip many human beings in their breathless search for profits."
+
+Posted by: AlanS at November 7, 2012 10:35 AM
+
+'The active role for the Government not just regulation, but monitoring and enforcing due process and providing the right incentives and disincentives'
+(Gary McGraw & Ivan Arce on cyber security).
+I guess that statement is applicable not only to cyber security, and have nothing to do with arbitrary selection winners or losers.
+
+Posted by: vasiliy pupkin at November 7, 2012 11:45 AM
+
+Thank you AlanS for bringing some sense into the non-sense we know as self-regulating markets.
+
+Its naive and dangerous to think markets regulate themselves. If that was the case, we wouldn't have a worldwide recession. We need regulation to the point where competition is fierce but legitmate. Not controlling or overbearing. Markets are always trying to beat the system (of government regulation) and the system is too slow or political to do anything about it. As soon as the noose tightens, bad things happen for business and thus consumers. When regulation is too loose, business may boom, but it eventually brings about bigger consequences. And we still suffer.
+
+Posted by: onearmedspartan at November 7, 2012 11:49 AM
+
+Another thought about market self-regulation is that if the government never bailed out failed markets or market-players, the concept might be more tenable. Maybe. But if the markets are deregulated and, at the same time, the government is expected to bail out failures, then of course the principals of these market entities have no reason to fear failure.
+
+In essence, it's only partially deregulated.
+
+Posted by: jerry at November 7, 2012 12:04 PM
+
+@Jerry
+
+Financial bubbles have a long history. People have engaged in reckless speculative behavior leading to systemic failure regardless of expectations of government rescue.
+
+Posted by: AlanS at November 7, 2012 2:46 PM
+
+In the UK our government is reducing the size of the audit function despite continued corruption being found in many of our financial institutions and despite the fact that it pays for itself by increasing the treasury coffers in unpaid tax, fines, etc.
+
+It is so obvious that we should increase the number of financial auditors exponentially until they cease to pay for themselves but this is beyond the wit of politicians - or perhaps there is something rather dark and sinister behind the proposals.
+
+Posted by: alan at November 7, 2012 4:26 PM
+
+I work in an industry that is highly regulated.
+
+    Given that in almost all cases the regulatory body has less funds, personnel, resources and expertise than the organisation it is regulating, then it becomes clear that there is little to be gained in the long run by cooperating / playing nicely, and much to be gained by ignoring the regulator and developing a strategy that focuses purely on maximising its own personal benefit.
+
+
+From my personal experience, I would say that the above quote is not just an awful run-on sentence; it's also completely wrong. Specifically:
+
+
+    "... in almost all cases the regulatory body has less ..." (Emphasis added.) This is false. There are only a handful of players in our industry that can call on similar resources to the government auditors. Remember, a company might have hundreds of employees, but most of them are the working joes busy actually making stuff. When we get an audit from one of the three agencies that regulate our industry, we typically have 4 to 10 auditors turn up. We can only spare 2 or 3 guys to respond to them.
+
+    "... less funds, personnel, resources and expertise than the organisation it is regulating ..." Again, complete rubbish. The regulator may or may not have less funds overall, but they have far more funds earmarked for regulatory investigation matters. This for the simple reason that it is their core business, whereas for the other guy it is pure overhead. More importantly, they also have lower costs as it is much cheaper to conduct an investigation that to hinder it. As for personnel, the regulators have a marvellous force multiplier: they can call on the company's own personnel as additional resources! (And yes, they are aware of the potential pitfalls. In reality most employees are more than happy to have a legally privileged opportunity to squeal on the boss.)
+
+    "...it becomes clear that there is little to be gained in the long run by cooperating..." This is a non sequitur. It simply doesn't follow from the premise. I think what the author meant to say is that because of his preceding claims (which are doubtful in any case), the probability of getting caught is so low that P(caught) x C(fines, reputational damage etc) is less the savings. That may or may not be true on a case-by-case basis, but it is definitely untrue as a general principle, and for much of our business it is wrong by an order of magnitude.
+
+
+As I mentioned, my industry is highly regulated. All of it is pretty effective in the sense that attempts to cheat are quite unusual.
+
+However the real elephant in the room is that large chunks of the regulations are themselves a load of nonsense. Some of them once made sense but are obsolete; some are just Byzantine, Kafkaesque bureaucracy at its finest; some are pure idiocy.
+
+Consider this example. We have a certain wastewater stream that contains traces of certain chemicals. All these chemicals are also found in lawn fertilisers. So it occurred to us that we could water our lawns with this stuff. We would reduce consumption of scarce water resources, we would get a nice healthy lawn, and we eliminate the small risk of our "fertiliser" causing an algal bloom somewhere. The particularly nice part of the idea is that we aren't just pushing this chemical waste under a rug; we found a safe, environmentally sustainable way to permanently convert it to something harmless.
+
+Well, according to our regulators, this would be illegal. The concentration of chemicals in this water is low enough that it is legal to dump it in the nearby river; but we can't put it on the lawn because if there was a storm before the plants had soaked it up, some of it might run off ... into the river.
+
+That's the real problem with regulation: there is no routine feedback mechanism to ensure that it makes sense.
+
+Posted by: Roger at November 7, 2012 5:33 PM
+
+@ ChuckB
+
+The incentives of regulators and criminal actors are sufficiently non-comparable that invoking the prisoner's dilemma as an analytic model is not particularly useful beyond invoking ideology.
+
+I beg to differ. An angle that is not covered in the article is the relation between regulators themselves. Although financial markets are a global phenomenon, regulators are often restricted to national boundaries. This in fact leads to a standard Prisoner's Dilemma on the local level: if we regulate in "X", will our counterparts in country "Y" do the same or will they do nothing and gain an unfair advantage ?
+
+Even in the case of supra-national regulation where the regulating body has little resources or authority, audit and enforcement will be up to the underwriting member states where a new instance of Prisoner's Dilemma occurs: will we enforce or won't we ? As an example, a few days ago, the European Court of Auditors published a report stating that about 4% of the 2011 budget (5 bn euro) had not been properly allocated. In quite some cases, this was down to national and local governments failing to properly oversee and control the distribution of funds.
+
+Unfortunately, the problem is much bigger than this with the collusion between legislators and representatives/lobbyists of the entities they are supposed to regulate being the most obvious issue. It is impossible to effectively regulate or enforce when the governing laws/rules are being written by exactly those folks who are the subject of said regulation. And that's just one of the many reasons why intertwinement between politics and corporations is such a bad idea. This has nothing to do with ideology, but everything with common sense.
+
+Posted by: Dirk Praet at November 7, 2012 6:20 PM
+
+@ Roger
+
+That's the real problem with regulation: there is no routine feedback mechanism to ensure that it makes sense.
+
+You are absolutely right that regulation without a feedback mechanism makes no sense whatsoever. But it would also be wrong to throw away the child with the bathwater. Regulation done the right way does provide for feedback mechanisms which for all practical purposes are (or should be) a quintessential part of any regulatory system.
+
+Posted by: Dirk Praet at November 7, 2012 6:27 PM
+
+@Dirk Praet
+
+Does lobbying count as a feedback mechanism? If so its the main one in the United States :)
+
+Posted by: lliamander at November 7, 2012 6:29 PM
+
+Does lobbying count as a feedback mechanism? If so its the main one in the United States :)
+
+Or feed forward, in the case of the RIAA writing the most of anti-piracy laws like SOPA.
+
+Posted by: Godel at November 7, 2012 6:56 PM
+
+@ lliamander
+
+A defanging mechanism ?
+
+Posted by: Dirk Praet at November 7, 2012 7:07 PM
+
+@alan -
+
+Oh it's worse than that. Many of the remaining staff have been shifted over to working on benefit fraud.
+
+Which has for several decades has a static 0.5% fraud rate. They've managed to drive down the average amount of that fraud by some tens of pounds by throwing billions at it.
+
+The Daily Fail and so on lap it up, though.
+
+@Roger - The issue is that capitalism naturally lends itself to monopolies, regulatory capture and sequester of profits away from workers.
+
+Posted by: Leon Wolfeson at November 7, 2012 10:09 PM
+
+@Dirk Praet: Not enforcing supra-national regulations introduces a whole new game the (not) regulated corporations should better be aware of: The government could always change its mind for any reason (or no reason whatsoever) and effectively threaten shut down the business. This sort of blackmail is actually quite common in countries that usually don't enforce these regulations. Corruption works both ways.
+
+Posted by: Autolykos at November 8, 2012 5:26 AM
+
+@Autolykos.
+In the country claimed to be law-guided state regulations should be applied uniformly to all businesses regardless of did those business contribute to election of particular government or not.
+The most terrible thing is selective application of laws/regulations by the principle:'For friends (contributors to the election) everything, for others - law'. That is (time and again), draconian laws/regulations are not iron ones, but capricious.
+
+Posted by: vasiliy pupkin at November 8, 2012 7:43 AM
+
+What we've seen in a lot of regulated industries is also a personal version of the prisoner's dilemma: regulators who have an uncompromisingly aggressive attitude toward the firms they regulate may find that they are less likely to get job offers from those firms when their stint at the regulatory agency is over. (And where else, with their specialized expertise, would they go to maximize their earnings?)
+
+So cooperation benefits both the individual regulator and the regulated. But not so much the society as a whole.
+
+Posted by: paul at November 8, 2012 9:33 AM

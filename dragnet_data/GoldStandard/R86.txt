@@ -1,0 +1,10 @@
+Tuesday, October 23, 2012
+In Shanghai this Week 
+
+This week I'm in Shanghai and surrounding cities working on EHR implementation and health information exchange issues.
+
+There will be a few days without blog posts this week due to my travels, but I will detail all the lessons learned when I return.
+
+Aligning quality, safety, and efficiency with technology and politics pose the same challenges all over the world but the scale of China makes implementation particularly interesting.  
+
+And now off to spread the gospel of Meaningful Use.

@@ -1,0 +1,82 @@
+Microsoft commits to user privacy in IE10; risks advertiser wrath over Do Not Track support
+
+    By Joel Hruska on August 8, 2012 at 12:56 pm
+
+Microsoft has affirmed its commitment to shipping IE10 and Windows 8 with “Do Not Track” (DNT) enabled by default. In doing so, it’s set the stage for a major war over user privacy, and appointed itself an unofficial white knight of user privacy.
+
+Feel free to pause a moment and let the cognitive dissonance fade.
+
+For those of you just tuning in, Do Not Track is a proposed privacy flag whose implementation is currently being drafted by the W3C. As currently implemented, a browser with DNT activated notifies the target website that the user does not wish to be tracked. A website that supports DNT would (theoretically) honor the flag and agree not to track the visitor’s activities. DNT is a voluntary standard — there’s no federal or state law mandating its use and very few websites currently support it. If a website doesn’t support DNT, turning it on in the browser does nothing.
+
+A number of advertisers have signed on to help draft the DNT standard in a bid to avoid a government-mandated solution that might be far more limiting, but that doesn’t mean they like it. Microsoft’s initial statement that DNT would be enabled by default came as a total surprise to many of the participants in the W3C’s draft process and was sharply criticized from certain quarters. In June, the W3C changed the DNT draft to propose that browsers must ship DNT off by default and enable it only if the user gives “explicit consent.” This implied that if Microsoft went ahead and shipped IE10 with DNT activated, it wouldn’t be able to claim its browser supported DNT.
+
+Microsoft’s unofficial response? “Bring it.” In a recent blog post, Brendon Lynch, MS’s Chief Privacy Officer, spelled out how DNT is implemented in IE10. Users who choose “Express Settings” for browser configuration at first-run will have their DNT flag enabled. Users who choose to customize their options will be prompted to set the flag manually. In both cases, users are told what the DNT flag is and how to change it if they choose to do so.
+
+“Our approach,” Lynch writes, “is part of our commitment to privacy by design and putting people first. We believe consumers should have more control over how data about their online behavior is tracked, shared, and used.”
+
+Ulterior motive?
+
+A number of pundits have questioned whether or not Microsoft is using privacy issues to strike at Google’s advertising empire. The truth is, we don’t know. Some draft standards are widely adopted before the final version is complete — 802.11n was a good example of this — but with DNT, the implementation is still being worked on. Browsers that support DNT tend to do it in different ways, and websites are waiting for a better understanding of what they need to do before they go ahead with implementing it.
+
+Microsoft’s decision to ship DNT as active by default isn’t actually going to mean much right away. It’s already led the W3C to consider modifying the DNT proposal; the business interests working on the standard are petrified that an opt-in network will destroy their companies and bombard users with constant requests for data sharing. Some of these concerns are shared by privacy advocates; a standard that destroys companies and creates an impenetrable tangle of pop-ups is in no one’s best interests.
+Wired IE10 dialog
+
+For the moment, I’m willing to take Microsoft at its word. What’ll be critical to watch is how the company implements DNT on its own websites, what it advocates as the standard evolves, and whether its positions take principled stands on defending users’ rights, or are drawn in a way that benefits itself while choking out the competition. This is a move that really could go either way. If Windows 8 catches fire, it’ll fundamentally change the way Microsoft interacts with its customers and users. It’s fair to give the company a chance to demonstrate the principles it intends to uphold as part of that change — but it’s also fair to keep a weather eye on what’s going on behind the scenes.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+    h4rm0ny
+
+    I don’t care if they’re doing this to look after their customers or if they’re doing it as a side-swipe at Google. I benefit. It’s obscene that the W3C should mandate that DNT be turned off by default. Good for MS.
+
+    And the argument that this might provoke advertisers not to respect DNT? What kind of Catch-22 is that? You can have DNT so long as you don’t use it? It is our choice whether we want to be tracked everywhere we go online or not. We don’t have to negotiate on that.
+        Joel Hruska
+
+        Actually, yes we do. 
+        (I’m not saying I agree). 
+
+        Everything about DNT is voluntary. There are no penalties for failing to follow the rules. Granted, the rules themselves are not fixed yet, but the only thing keeping companies in line, until the FTC or Congress say otherwise, will be the consciences of the companies that agree to uphold the standard.
+            h4rm0ny
+
+             It seems the argument is that it is better to let monitoring companies track most people in exchange for some of us who think we are more savvy retaining the ability to opt out, rather than try to have large numbers of people opt out and provoke measures that will catch all of us.
+
+            I see that as rather self-interested, to be honest. The monitoring companies know as well as we do, that if you have to maintain awareness, expend effort in order to preserve a right, then most people will not. What we are talking about when we mandate a default of opt-in, is creating a pervasive culture of monitoring by private industry. A small number of people who are knowledgeable enough and hard-headed enough to turn off tracking each time they use a new browser or new device forever every time wont change that for everyone else.
+
+            And when that culture becomes pervasive, as it has done, that makes it harder for those of us who do care about privacy to maintain that right because we’ll be odds with that culture and the way things are done worldwide.
+
+            This is a very big deal. We are currently deciding as a culture whether it is okay or not for private companies to monitor and track everywhere you go online and when and it is growing from there as they incorporate purchasing history, real world personal information. Accepting that sea change in exchange for letting some few of us who will open up Browser->Settings->Advanced->Privacy everytime we install something sneak through the net, is not the way to go, imo.
+
+            Browsers and the OS are becoming more and more integrated. We’ve already seen an instance where the browser is the OS (Chrome OS) and Windows 8 has a high degree of integration. We basically have to decide whether we want Private Companies to be able to mine enormous chunks of our lives and sell it or not. DNT was “granted” by the industry under the expectation that it would not be used. Now it is. If that means they back out of what they agreed to and it has to go to a law enforcing the right not to be tracked, then so be it. Because I don’t recall “we the people” agreeing on our part not to use DNT.
+
+            Advertisers managed before without knowing exactly what, when and where you were. All the personal information aggregated is a tool by middle-men such as Google to be able to charge more than their competitors by saying to advertisers – “look, we can serve your ads to just the right people.” There will still be advertising. There will still be revenues. Do we think that advertising budgets will suddenly be slashed without the direct personal information? No, that wont happen much. What it will mean is that middle players between the companies and the websites can’t claim as big a slice of it because they don’t know as much as before. The sky will not fall. But we will have greater freedom. A culture that lives under a permanent feeling of exposure and monitoring, is less free than one that does not.
+    Jan-Willem Wisgerhof
+
+    Does everyone realize that most websites would simply not be here if there was no tracking? Sure you can place “normal” ads but it isn’t nearly as profitable. I fear for the free (money) web if this becomes the standard.
+
+    As long as websites offer me a subscription plan (say, $5 per month) as an alternative to ads I do not mind tracking. 
+    Ncrdrg
+
+    Yes, as much as I like the added privacy, it’s incredibly shortsighted to do this. A lot of businesses on the web work using tracking to survive.
+
+    Going forward with this plan with tracking off by default is basically asking to kill online businesses relying on advertising and DNT to be flat-out ignored by that industry.
+
+    I’m a cynic, always have been. I just see this as Microsoft taking a pot-shot at Google to try hurting their bottom-line since most of their business revolves around advertising. The businesses caught in-between? It hurts Google so fuck ‘em!
+
+    Having it enabled by default unless specified otherwise is the sane way to do this if we want to preserve a healthy online ecosystem.
+    intrimazz
+
+    NoScript and AdBlocker Firefox Plugins have been around for several years now and no one has been up in arms over them…  I guess it’s just the norm to pick on MS.
+        Joel Hruska
+
+        Those are opt-in, optional programs. What MS is doing will have a much, much larger impact.
+
+

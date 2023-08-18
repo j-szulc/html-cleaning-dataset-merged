@@ -1,0 +1,21 @@
+2012 Hyundai Veloster Six-Month Road Test: Infotainment Issues
+
+We've mentioned before how the Hyundai Veloster offers a lot of technology for not a lot of money. While we've been impressed with it, and the infotainment system overall, there's been one nagging issue we can't seem to figure out. And neither could Hyundai.
+
+Picture this: you're listening to XM radio while driving to your destination. Upon arriving at your destination you turn off the radio, and then turn off the car. When you arrive back at your car you start the engine and turn on the radio. Now, at this point you'd normally expect the radio to turn back on and resume playing the exact same station you left it tuned to on XM radio, right? Because that's how it works normally in most cars. Unfortunately for myself, that doesn't seem to be the case about 60 percent of the time in the Veloster.
+
+For instance, I'll be listening to channel 36 on XM radio, which is Alt Nation. I always turn the radio off before turning off the car. Upon restarting the car, many time the radio will default to an FM station, even though I left it on an XM station.
+
+At this point it's worth noting that I had an iPhone 4S paired with the Bluetooth system in the Veloster, and my co-worker Bengt Halvorson has an iPhone 3GS paired with the system. Both phones were running the latest iOS operating system, which was 5.1.2 at the time. Weirdly, the issue only happened when I had the car. Bengt couldn't get this issue to replicate no matter how hard he tried.
+
+The issue arose about four weeks after we took delivery of our Veloster. We immediately started playing with settings, checking the battery connections, looking at the wire harnesses running around the car, anything that might cause this issue. After exhausting all possible ideas we contacted the team at Hyundai.
+
+After answering a bunch of questions and having us recheck settings and wiring, the team at Hyundai decided it must be a defective head unit. A new unit was drop-shipped from Korea and sent to our local dealership. We left the car at the dealership for about a day while they installed the new head unit.
+
+Unfortunately that head unit had a defective touch screen, so the dealership was kind enough to take a working one out of a brand-new Veloster on the lot, and to install it in our car. Don't worry; Hyundai shipped the dealership a new head unit to replace the one we took.
+
+All that happened in July, the week before our Great American Road Trip. Too bad, the same exact issue cropped up within two days, the exact day we were leaving on the cross-country road trip. We decided the show must go on and we would just deal with the annoyance until we arrived back in Portland.
+
+Still stumped by this issue, Hyundai decided to send both an engineer from LG (the company that makes the actual head unit), along with a field test engineer to our local dealership. We handed them the keys to our car, which they then played with for two days. The team was able to successfully replicate the issue (proving I wasn't crazy).
+
+The technicians also had an iPhone 4S connected to the Bluetooth system during their testing. They determined that the iPhone 4S hardware combined with the iOS 5.1.2 software was causing an issue with the infotainment system when the "Bluetooth handshake was occurring." Basically they said the the iPhone 4S hardware and iOS 5.1.2 software were causing a slightly delay and this caused the infotainment system to not retain what station or source we were on. So it would default back to FM.

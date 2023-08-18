@@ -1,0 +1,76 @@
+Commanding Your Text Editor
+Editing actions you’ll use daily 
+
+
+
+The process of writing code is much different from the process of editing code. It’s easy to confuse the two since they both involve mashing buttons on a keyboard while staring at a computer screen.
+
+Vim users know this already. Their editor works in two completely different ways depending on whether they are adding new words to a document or changing existing words.
+
+They also know that there’s more to text editing than moving around with the arrow keys and selecting one letter at a time. But you don’t have to memorize hundreds of commands. I think only these six will handle most of the editing that you’ll do every day.
+
+    Delete whole words (before and after the cursor)
+    Create a newline and put the cursor there (above or below)
+    Search in a file
+    Switch files
+    Indent code automatically
+    Use completion
+
+1. Delete Whole Words
+
+Steve Yegge writes that it’s much faster to delete an entire word and retype it than it is to navigate to and correct a single letter (see his post on Effective Emacs).
+
+There’s not much else to say here: learn to delete the word before the cursor and the word after the cursor. You’ll immediately find yourself using it constantly throughout the day.
+
+This one is even built in to Mac OS X, so it works in any text editing application (Sublime Text, Pages, TextMate).
+
+
+2. Add Lines
+
+The novice learns to make a newline by moving the cursor to the end of the line and hitting the ENTER key. Or a newline above by moving the cursor up one line, to the end of that line, hitting ENTER, then indent…shouldn’t this be easier?
+
+The Pro can add a newline above or below from any point in the line. You don’t have to move your cursor at all.
+
+
+3. In-file Search
+
+Search isn’t just for finding words. It’s an efficient way to navigate.
+
+And live search is much faster than using a search dialog. Hit the hotkey and start typing the word. BAM! You’re there. It’s great for navigation instead of using the arrow keys to navigate within a file.
+
+Emacs-style Ctrl-s is also available in TextMate.
+
+
+4. Fuzzy File Search
+
+Programming happens in files, usually several. TextMate’s fuzzy file search revolutionized my use of my text editor. But it only searches filenames, not directory paths.
+
+This is why I wrote PeepOpen, and I still use it every day.
+
+I think Sublime Text has the best built-in fuzzy file finder of any current text editor. It’s not initially clear that it does this, but it searches on paths as well as filenames. The search score on the left is completely useless to me, but the file and path are a huge improvement over TextMate.
+
+
+5. Automatic Indentation
+
+Now we’re getting into more advanced features, but still ones that I use constantly.
+
+When using languages without syntactically significant whitespace (e.g. CoffeeScript), I let the editor do the formatting for me. It works 90% of the time, and for the other 10% I’d rather modify my code to work with the built-in formatting than do it manually.
+
+Most developers would refuse to use a text editor without syntax highlighting. To me, auto-indentation is a show stopping feature.
+
+
+6. Completion
+
+Let’s admit it: the simple text-based auto-completion in open source text editors doesn’t come close to matching Microsoft Visual Studio from a decade ago.
+
+I hope that a decade from now, I can use a text editor that understands not only the words I’m typing, but their meaning within the application. Without bogging down the rest of the editor or toasting my battery, of course!
+
+In the meantime, I like the way Emacs completes words from all open buffers. TextMate and Sublime Text are limited to only words in the current file, which rarely includes the keywords or methods I’m looking for.
+
+
+Conclusion
+
+Learning these basic text manipulations has improved my editing speed. More importantly, I spend less time thinking about my text editor and more time thinking about the content of the text itself.
+
+Try it! I bet you’ll use each of these multiple times in the first day you learn to do them.
+

@@ -1,0 +1,8 @@
+
+Theme: Free WordPress Theme Designed for Speed
+
+Posted on October 30, 2012 at 12:13 am as Theme
+
+Frank is an open source WordPress theme designed specifically for speed. Frank is designed and built to provide a light, responsive and unobtrusive reading experience. The parent theme’s default home page makes 9 database queries and consists of 2 requests weighing ~29Kb (9.6Kb gzipped). Frank keeps it basic—no Javascript frameworks, no unecessary images, just a simple, no-frills, screaming fast blog.
+
+Frank has several different layouts to choose from for your home page. Frank is built on HTML5 and CSS3. The theme strives for 100% valid HTML5 templates. One way Frank is so small is that it uses CSS3?s effects and transitions to avoid unneeded images and Javascript. Frank uses a subset of Foundation to provide a responsive layout for desktops, tablets and phones as well.

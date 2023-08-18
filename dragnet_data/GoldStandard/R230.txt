@@ -1,0 +1,26 @@
+Apple, Intel suffering from the seven-year itch?
+
+Published report says Apple is exploring ways to replace Intel by using a homegrown chip design technology.
+
+
+by Charles Cooper
+November 5, 2012 1:11 PM PST
+
+
+Unhappy, if true: Intel CEO Paul Otellini
+(Credit: Dan Farber/CNET)
+Is Apple's relationship with Intel suffering from the seven-year itch?
+
+Seven years ago, Apple switched over to Intel for its desktop and notebook products. Now a Bloomberg suggests the company is investigating how to port "a version of the chip technology" employed in the iPhone and iPad for the Mac across the rest of its product families.
+
+The report cites unnamed sources described as familiar with the company's research. It also says that no final decision has been made -- which may mean this turns out to be much ado about nothing.
+
+Apple has invested heavily in developing its own chip designs based on the non-Intel, ARM architecture to power its mobile devices, including the iPhone and iPad. Apple is most likely looking to have a common processor base, which it has more control over, so that all applications could run across its product families without modifications needed to address the different chip sets. 
+
+The A6 chip that powers the iPhone 5 was built by Apple, after spending $400 million to acquire chip companies -- PA Semi and Intrinsity -- and millions to license the ARM chip technology.
+
+Read: Apple's A6 chip development detailed
+
+Linley Gwennap, a chip analyst with The Linley Group, predicts that Apple will develop new CPU designs every two years, similar to the product release cadence of Intel and AMD.
+
+Intel said it does not comment on rumors and speculation. We've contacted Apple and will report back when we have more information.

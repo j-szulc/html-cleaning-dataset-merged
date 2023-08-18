@@ -1,0 +1,20 @@
+November 06, 2012
+IT jobs on the other side of the cloud
+As companies turn increasingly toward the cloud, corporate IT staffers wonder if the grass is greener working for a service provider
+
+Jake Robinson remembers the day when he really understood what it means to work on "the other side of the cloud."
+
+It was Thanksgiving, a couple of years ago. A retail client of Robinson's employer, Indianapolis-based cloud service provider Bluelock, posted on its site an iPhone app designed to give users access to coupons and discounts the following day, Black Friday.
+
+[ Stay on top of the current state of the cloud with InfoWorld's special report, "Cloud computing in 2012." Download it today! | Also check out our "Private Cloud Deep Dive," our "Cloud Security Deep Dive," our "Cloud Storage Deep Dive," and our "Cloud Services Deep Dive." ]
+
+It quickly became clear that the retailer had vastly underestimated demand for the app, and the database server at Bluelock was not prepared to handle the amount of traffic it generated. A solutions architect, Robinson was called in and spent most of the holiday tuning the client's database server to handle the traffic.
+
+Lesson learned? "You have to go above and beyond when it's a client rather than users," says Robinson, who formerly held infrastructure and field engineering positions in traditional corporate IT departments. That, in a nutshell, is the difference between IT at a cloud service provider and IT in the enterprise: You're no longer an expense; you're now part of the primary revenue stream, which means the pressure is on to perform.
+
+As enterprises increasingly consider moving all or part of their computing infrastructure to the cloud, IT professionals wonder whether they should follow the migration.
+
+To find out what it's like working for a cloud service provider, and how it's different from working in traditional IT, Computerworld spoke to a half-dozen IT professionals who are veterans of corporate IT and now have jobs at cloud service providers. They compared and contrasted their experiences in the two settings and discussed the pleasures and challenges of each. Ultimately, the consensus seems to be that, in the future, working in corporate IT may not be that different from working at a service provider.
+
+Surging demand in the cloud
+According to a study released in March by cloud staffing agency Hire On-Demand (download PDF), demand for developers of cloud-based applications spiked by more than 365% between 2008 and 2011, with another 90% bump anticipated for 2012.

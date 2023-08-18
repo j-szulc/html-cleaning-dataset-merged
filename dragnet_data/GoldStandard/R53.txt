@@ -1,0 +1,20 @@
+This blog is moving…
+by Julien Coquet 
+
+Hi folks,
+
+the title says it all so please bear with us while we redecorate… :-)
+
+In the wake of the recent acquisition of OX2 by the LBi group, one of items on the agenda for our web analytics team is to get this blog off wordpress.com and back to our ox2.eu domain. The reason might be obvious to most bloggers out there but I’ll lay them out here for good measure:
+
+    Hosting your own copy of the WordPress blog platform means you have complete control over how the application is configured, how it looks and behaves.
+    Custom CSS cost money and you cannot add plug-ins. Not that we’re stingy (it’s only $10 a year) but the best WordPress has to offer in terms of customization is switching to the K2 template and play around with widgets.
+    In France we have a saying to the effect of “shoemakers usually wear the worst shoes”. Well, in the web analytics department, I think we can all agree that, while at least providing basic site metrics, WordPress fails to provide meaningful reporting on the blog’s activity. This is a corollary to the aforementioned lack of customization. You will have to admit that this particular subject is annoying, especially when you run a blog about web analytics… and don’t get me started with WordPress saying you cannot run two instances of Google Analytics on the same page :P
+
+There you have it, we’re moving!
+
+Over the course of this week, we will be taking steps to redirect the blog to its new home.
+
+Please note the new blog’s URL: http://webanalytics.ox2.eu
+
+The redirect from WordPress should occur flawlessly, meaning links you may have to a post on the current blog will point to a copy of that post on the new blog. This should go for RSS feeds as well but it won’t hurt to update your bookmarks and RSS readers ;-) 

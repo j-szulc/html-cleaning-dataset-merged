@@ -1,0 +1,15 @@
+‘Gauss’ Virus Infected Middle-East, Kaspersky Says
+August 9th, 2012 By: THN News
+
+
+(The Hosting News) – A new state-launched virus known as Gauss was recently picked up on by the International Telecommunication Union, according to a recent report from security firm Kaspersky.
+
+What makes it especially intriguing is that the security firm signaled it was closely related to nation-state sponsored viruses including Flame and Stuxnet. Like those, it also primarily operates in the middle-east, inflecting victims in countries including Lebanon, Israel and Palestine.
+
+Through its blog on securelist.com, Kaspersky described the virus as a “Nation-state cyber-surveillance meets banking Trojan.” “Gauss is a complex cyber-espionage toolkit created by the same actors behind the Flame malware platform. It is highly modular and supports new functions which can be deployed remotely by the operators in the form of plugins,” commented Kaspersky.
+
+Using its tactics, the virus is capable of a wide spectrum of operations including the interception of browser passwords and cookies, configuration data harvesting, stealing credentials and more.
+
+The virus known as ‘Flame’ was initially reported on by the same security firm in May. As for the latest threat? Kaspersky noted that Gauss launched sometime during the months of August and September last year.
+
+So far, Kaspersky has used its security network to detect over 25,000 infected systems. However, the virus no longer appears to be active but that doesn’t mean it’s done for. “The Gauss command-and-control (C&C) infrastructure was shutdown in July 2012. At the moment, the malware is in a dormant state, waiting for its C&C servers to become active again,” read the report.

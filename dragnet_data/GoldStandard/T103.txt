@@ -1,0 +1,48 @@
+
+Judge sides with porn P2P plaintiff, setting up legal showdown
+Appeals court to decide if rightsholders can subpoena 1,058 people in one case.
+
+by Timothy B. Lee - Aug 9, 2012 7:30 pm UTC
+
+    
+In recent months we've seen growing judicial skepticism of mass copyright lawsuits. Many judges have concluded that plaintiffs—often pornography publishers—have no interest in actually litigating cases and instead hope to use the threat of ruinous legal bills (not to mention the embarrassment of public association with pornography) to extract four-figure cash settlements from defendants. This strategy has the advantage, from the plaintiffs' point of view, that the innocent have almost as much incentive to settle their cases as do the guilty.
+
+But the judiciary is far from unanimous. And this week, one judge sided squarely with the porn plaintiffs—again.
+
+Judge Beryl A. Howell is no copyright neophyte. As we put it last year:
+
+    Howell helped to write CALEA (the law extending wiretap powers to the Internet) along with the No Electronic Theft Act (providing tougher penalties for online copyright crimes), the DMCA (making it illegal to break or bypass DRM, even if you want to rip a movie from a DVD you own to your iPod), and the Digital Theft Deterrence and Copyright Damages Deterrence Act.
+
+    She then moved into private life at Stroz Friedberg, where she began lobbying for the RIAA, according to the Center for Responsive Politics. Between 2004-2009, Howell was the only listed lobbyist at the firm; the RIAA was her exclusive lobbying client for most of that time.
+
+Now she's on the bench as a federal judge in Washington, DC, ruling on mass file-sharing lawsuits. And she has proven more sympathetic to copyright holders' arguments than most of her peers.
+
+That trend was again evident in her Monday ruling, where she rejected arguments from major Internet providers that the subpoenas designed to uncover the identity of their subscribers were little more than fishing expeditions. The divergence between Howell's ruling and some of her peers has now set up a showdown at the appellate level.
+
+"No merits" to ISP objections
+
+The basic outline of the case will be familiar to Ars readers. The plaintiff, a shell company called AF Holdings, sued 1,058 "John Does" for participating in an alleged four-month BitTorrent conspiracy to distribute the film Popular Demand. The copyright for the film previously belonged to "Heartbreaker Digital LLC." Since the plaintiff only had IP addresses for the defendants, it subpoenaed several ISPs for subscriber contact information. The ISPs objected, arguing that a plaintiff shouldn't be allowed to sue more than 1,000 people in one lawsuit, and that most of the defendants were outside of Judge Howell's jurisdiction anyway, as even a cursory geolocation search would show.
+
+Those arguments have worked in other courtrooms, but Judge Howell didn't buy them. "The court concludes that the ISPs' objections to the plaintiff's subpoenas have no merits," she wrote.
+
+While other judges have found that suing hundreds of individuals in one lawsuit imposes an unacceptable burden on the judicial system, Judge Howell reached the opposite conclusion.
+
+    Joinder at this stage in the proceedings is the single, most efficient mechanism available for the plaintiff to obtain information to identify those allegedly illegally downloading and distributing its movie. Severing the Doe defendants would essentially require the plaintiff to file 1,058 separate cases, pay separate filing fees, and obtain 1,058 separate subpoenas for each of the Listed IP Addresses. This burden for the plaintiff—not to mention the judicial system—would significantly frustrate the plaintiff’s efforts to identify and seek a remedy from those engaging in the alleged infringing activity.
+
+Other judges have ruled that merely being part of the same BitTorrent swarm was not a sufficiently close connection to justify joining hundreds of defendants together in a single lawsuit. Here, too, Judge Howell disagreed.
+
+"Although some IP addresses listed in the Complaint are identified as infringing the plaintiff’s copyright four months apart, at this stage there is no basis to rebut the plaintiff’s claims that the Listed IP Addresses were, at least potentially, part of the same swarm and provided or shared pieces of the plaintiff’s copyrighted work," she concluded. "If the plaintiff chooses to proceed against those allegedly infringing its copyright after it obtains identifying information, the named defendants may be able to rebut these allegations."
+Settlements "serve our system of justice"
+
+Indeed, Judge Howell finds nothing improper in the plaintiffs' strategy of obtaining defendants' contact information and then using the threat of a lawsuit to extract settlements.
+
+"Upon receipt of the identifying information sought in the subpoenas, the plaintiff is entitled to seek settlement with these individuals, or decide that pursuing a lawsuit against particular defendants is no longer feasible or cost-effective," she wrote. "Either course selected by the plaintiff would give the copyright owner the opportunity to effectuate its statutorily protected rights and thereby serves our system of justice."
+
+Judge Howell also dismissed jurisdictional concerns, ruling that defendants were free to raise those issues once they had been identified and named in a lawsuit. She rejected the ISPs' contention that AF Holdings should have used geolocation technology to narrow down the list of defendants, arguing that such technologies are only 95 percent accurate.
+
+Recognizing that her ruling puts her at odds with many of her fellow judges, Judge Howell took the unusual step of authorizing an immediate appeal of her ruling. Ordinarily, appeals occur at the end of a case, in order to avoid wasting time with multiple rounds of appeal. But because these preliminary issues are likely to determine the outcome of the case, she allowed her ruling to be appealed immediately.
+
+Now the United States Court of Appeals for the DC Circuit will decide whether Howell's arguments stand up to scrutiny. While the ruling won't be binding on other judicial circuits, the appeals court ruling will set an important precedent that could start shaping the work of judges across the country.
+
+Listing image by Marcin Lachowicz
+

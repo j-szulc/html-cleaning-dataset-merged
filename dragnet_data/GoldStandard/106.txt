@@ -1,0 +1,345 @@
+
+“You Can’t Do It” is Powerful Motivation
+
+by randfish on December 4, 2010
+
+From age 20-26, I was, quite possibly, the world’s worst entrepreneur. I dropped out of college two classes away from graduating. In a typically low financial risk business – consulting – I managed to rack up hundreds of thousands in debt building, well, nothing. Wracked by credit card and equipment loan debt I had no idea how to pay back,  pursued by collectors, living off my girlfriend (now wife)’s paycheck, logic dictated declaring bankruptcy, going back to school and finding a job. So why keep at it?
+
+At the time, I had no idea what a “startup” was, what “entrepreneurship” entailed, what it took to start a business or even how being a “tech co-founder” could make someone money. But I damn sure knew what to do when people (in particular, my Dad) told me to quit this “silly game” and get a real job.
+
+It’s cliché. The son who does something stupid because his father tells him it can’t be done is a parable as old as time itself. The movie Good Will Hunting had a memorable (if overly dramatic)  few lines that embody this type of reckless thinking:
+
+    Sean: My father was an alcoholic. Mean fuckin’ drunk. Used to come home hammered, looking to whale on someone. So I had to provoke him, so he wouldn’t go after my mother and little brother. Interesting nights were when he wore his rings…
+    Will: He used to just put a belt, a stick, and a wrench on the kitchen table and say, “Choose.”
+    Sean: Well, I gotta go with the belt there.
+    Will: I used to go with the wrench.
+    Sean: Why?
+    Will: Cause fuck him, that’s why.
+
+And yet, when I analyze my motivations in those years, there’s little else that kept me “in the game” apart from that incessant need to prove the doubters among my friends and family wrong.
+
+Perhaps not surprisingly, in the years since, this same pattern has continued to fuel my motivations and influence the course of the company:
+
+————–
+
+July 2007: “You can’t build a big company in the SEO space,” said plenty of business people I talked to. “Stick with consulting – it’s what you know and you’ve got a great brand,” was another oft-received message. Proving both wrong became an obsession and (at least partially) led me to take a venture capital financing round we closed that November.
+
+September 2007: Before we’d even closed our financing round, one of my investors said “You need to hire a head of product and build a product team.” I, of course, thought I could and should do the job myself – wrong. In January of 2009, we hired Adam to run product, a team that now has 6 members, and our software is light years ahead of where I could have taken it alone. I almost certainly should have made that move years before.
+
+January 2008: “You can’t build a search engine sized web index on $1 million.” That advice came not only from close friends, but people who’d worked at Google and Microsoft in web search. A smart entrepreneur probably would have sought other ways to deliver value through SEO software, but not me. I stubbornly doubled down and burned through almost 3/4 of our capital to build our Linkscape product.
+
+I even recall a conversation at one of our board meetings, where I said to some of our investors, “We took this money to build our index and that’s what we’re going to do,” and they replied, “No. We invested this money so you could build a scalable, profitable business.” They were right, but I didn’t listen.
+
+It was only a year later, several months after we’d launched and regained profitability that I looked like anything other than a stubborn fool.
+
+May 2009: “Don’t try to raise money now – you won’t get any.” Sage advice from someone (OnStartups/Hubspot founder Dharmesh Shah) who continues to have an infuriatingly flawless track record when it comes to giving me advice. And what did I do?
+
+Set out to prove him wrong in an experience that proved to be one of the most frustrating, time-wasting and fruitless 4 months of my professional life. But, of course, instead of humbly accepting it was time to listen to someone else, that negativity led me to another stubborn rejection of conventional wisdom.
+
+July, August + September of 2009: From 40 different VCs, I heard 40 different reasons why SEOmoz couldn’t be a big business or a big success and why they weren’t interested in investing.  And while there’s a lot of motivations, internal and external that make me want to grow this company into the best it can be, nothing’s as relentless in my mind as the “You can’t do it,” messages I got that summer.
+
+In all of those conversations, though, one universal piece of advice was  given: “The self-service / web app model is wrong. You need to build an enterprise sales force / charge more for your product / create embedded software so it’s not so easy to quit.” And, of course, that only served to make me more determined to stay self-service focused and build a product the relied on the value it drove rather than the pain of high switching costs.
+
+Whether we can actually prove them wrong remains to be seen. We’ll likely do ~$12mm in revenue next year, and if we can maintain the growth rate of the past 3 years for the next 3, we’ll certainly be getting close. But the obstacles between here and there are, for the most part, a mystery. Time will tell.
+
+————–
+
+These 5 examples certainly aren’t alone. I’ve had dozens, if not hundreds of similar incidents, big and small. Some yielded positive outcomes, others have led to painful, unnecessary fights, almost always with people I care about.
+
+Undoubtedly, there’s some confirmation bias in this type of thinking and in my actions. From the Skeptic’s Dictionary:
+
+    Confirmation bias refers to a type of selective thinking whereby one tends to notice and to look for what confirms one’s beliefs, and to ignore, not look for, or undervalue the relevance of what contradicts one’s beliefs. For example, if you believe that during a full moon there is an increase in admissions to the emergency room where you work, you will take notice of admissions during a full moon, but be inattentive to the moon when admissions occur during other nights of the month. A tendency to do this over time unjustifiably strengthens your belief in the relationship between the full moon and accidents and other lunar effects.
+
+Slate recently had a good article on how this impacts the political spectrum.
+
+Powerful motivations and an unwillingness to back down often receive positive re-inforcement in the startup world. Mark Zuckerberg built an amazing business because he didn’t care about money or what other people thought. Warren Buffet is an amazing investor because he puts money where others wouldn’t and does so when everyone else is running scared.
+
+But there’s no concrete proof that my irrational driving force will improve my odds of success, and plenty to suggest it could do the opposite.
+
+That’s why it’s so curious that, despite an ability to analyze my psyche and see the potential pitfalls, I refuse to change my behavior. I’m more ready than ever to work long hours, push my team to do likewise and go for broke to prove to 40 people who probably haven’t thought about me since I walked out of their offices 18 months ago that they were wrong and I was right.
+
+Re-reading that last paragraph, even I think I’m crazy.
+
+(p.s. Other than being a pessimist about my entrepreneurship, my Dad has been great, especially when I was a young kid.)
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Man, that scene from “Good Will Hunting” can still powerfully impact me, even when I’m just reading the lines.
+
+As a fellow entrepreneur, I can totally relate to how much the need to “prove you can” can drive you.
+
+Thanks for sharing your stories. This blog is becoming great group therapy for others with the same genetic flaw you have.
+
+by Dharmesh Shah on December 4, 2010 at 10:42 pm. 
+
+“Thanks for sharing your stories. This blog is becoming great group therapy for others with the same genetic flaw you have.”
++1
+
+by Ruchir on July 27, 2011 at 7:08 am. 
+
+Thanks for sharing your stories. This blog is becoming great group therapy for others with the same genetic flaw you have. +2
+
+by Lauren Gold on August 19, 2011 at 4:57 am. 
+
+How about creating a web app that creates personalized, de-motivational, damming critiques of you and your business and take that to Sand Hill Road. That might get them doing the same thing?
+
+You appear to have come out of most of your experiences on the other side, but when would you suggest listening to damning advice, if ever?
+
+And should you seek out opportunities to deliberately prove people wrong?
+
+by Ed Fry on December 4, 2010 at 10:49 pm. 
+
+I completely know what you mean. Spite has been a powerful motivator in my life. In addition to just wanting to make the world a better place, I just want to prove the doubters wrong. Oh so completely wrong.
+
+Just recently subscribed to your blog and it’s already one of my favorites (out of the hundreds I read). Keep ‘em coming!
+
+by Jono on December 4, 2010 at 10:55 pm. 
+
+In my opinion irrational driving force is the number one important factor in an entrepenuer as long as the entrepenuer knows when to fold and start something new if he sees something won’t work.
+
+You always envinsioned that what you started would work. I am sure if that vision changed you would be ready to change up whatever you were doing to find the path to success.
+
+by joe m on December 4, 2010 at 11:09 pm. 
+
+You’re not crazy Rand, I know exactly how you feel. …Deep inside, I have – and you too I guess – this incredibly and all most unlimited desire to invent and create something incredible. For me it’s like a fire, that is burning and when focusing on the core ideas, many people get lost. But don’t ever change your way of thinking. We both know SEO is science and systems like Linkscape and Sitexploration are rising as the engines gets smarter every day.
+
+You are a big inspiration – Thanks!
+
+btw: of course you can create a excellent index, you just have to crawl intelligent!
+
+by Claus on December 4, 2010 at 11:29 pm. 
+
+Honest and riveting! Hung on every word. The reflection and looking back here is insanely valuable. There’s no set path to being a successful entrepreneur, and nobody is every right all of the time. Glad to know there are other “crazies” are there. Thanks for the jolt of sanity. Keep rocking out Rand.
+
+by Mark on December 4, 2010 at 11:43 pm. 
+
+This seems to be the same story for every entrepreneur. I’ve certainly followed a similar route only difference being is that I’ve not borrowed a cent yet and reinvested everything.
+
+by Adam Humphreys on December 5, 2010 at 12:00 am. 
+
+You have to turn this into a positive. One way to reframe it you should consider is Sam Walton’s rule #10
+
+Rule 10: Swim upstream. Go the other way. Ignore the conventional wisdom. If everybody else is doing it one way, there’s a good chance you can find your niche by going in exactly the opposite direction. But be prepared for a lot of folks to wave you down and tell you you’re headed the wrong way. I guess in all my years, what I heard more often than anything was: a town of less than 50,000 population cannot support a discount store for very long.
+
+I blogged about this in more detail here: http://www.skmurphy.com/blog/2008/02/01/focus-on-your-prospects-pain-not-the-brilliance-of-your-product-idea/
+
+by Sean Murphy on December 5, 2010 at 12:07 am. 
+
+Great post Rand–so much honesty.
+
+I think the drive you have to prove others wrong is probably common among so many successful entrepreneurs. Keep at it, you’re building a solid empire in the SEO space!
+
+by Andy Beal on December 5, 2010 at 12:08 am. 
+
+You are by definition a true entrepreneur (thank God for spell check); someone who organizes a business venture and assumes the risk for it. The risks you assumed were as much the need to prove your assumptions right than to prove others wrong. I guess that’s the same coin, different side.
+
+I’m sure you can come up with examples of times you did listen to advice despite your own admitted stubbornness which also may be classified more as determination to do it your way.
+
+Simply put, “If you believe you can, you can. If you believe you can’t, then, well you can’t.” Keep on believin’!
+
+by David Temple on December 5, 2010 at 12:33 am. 
+
+Great article. Thanks Rand, you are one person that definitely inspires young entrepreneurs like myself. Sharing your knowledge and experiences with us is truly helpful because it allows young startups to be efficient and dodge costly mistakes. Thanks again for all your help.
+
+by Daniel Lhanie on December 5, 2010 at 1:34 am. 
+
+Who knew you would ever go from the kid wearing yellow shoes at SES shows to where you are today? You did. I think that for entrepreneurs we drink our own kool-aide all the time, the key difference between the winners and losers is that the winners know when their kool-aide is just not right.
+
+We take the wrench because not only do we want to show the world that their beatings mean little to us, but also because the beating themselves help us find out what kind of entrepreneur we are.
+
+When I talk to kids about starting companies, I always say that there are two types of people, those that jump off the cliff trusting that they will figure out how to get the parachute open on the way down, and the person who makes sure the parachute is packed and tested prior to jumping (Reid Hoffman has a similar quote, to which he adds that investment is the updraft so we dont crash as quickly).
+
+Rand, keep jumping. I dig what you have done so far, and am excited to see what you do next.
+
+by Micah Baldwin on December 5, 2010 at 1:57 am. 
+
+Loved the humanity in your writing!
+What’s the muscle that needs relaxing?
+:)
+
+Cheers!
+
+by Oren on December 5, 2010 at 2:50 am. 
+
+Rand,
+
+Great post. I used to have a motivator like this, unfortunately the SOB died, so I had no one to rail against.
+
+Guess I have to find an new antagonist. There are a few excellent candidates though :)
+
+Your stuff keeps getting better and better.
+
+Thanks again.
+
+by Michael Weiss on December 5, 2010 at 3:44 am. 
+
+I agree that this is a driving force among many entrepreneurs. Proving someone wrong motivates many to become successful.
+
+However, I would be careful not to blindly try to set out by proving people wrong. Instead, I would suggest finding a legitimate reason why someone is wrong then set out to execute it.
+
+by Chris on December 5, 2010 at 8:01 am. 
+
+Many of your experiences ring true with mine recently. I only started my business last month and I’ve had more than my fair share of “you can’t do it” and “you should be looking for a real job!”
+It’s sad to hear comments like this from people you would like to have support you and encourage you to do well, however like you say it’s also motivational and I am so determined to prove then wrong!
+I do however have the full support of my parents and some very close friends and wanting to do it for them is somewhat more motivational that proving others wrong!
+
+by Peter Unitt on December 5, 2010 at 10:19 am. 
+
+Well, at least we know how to get you to do something now :)
+
+I’m not wired exactly the same (although the scars I have from college “you can’t do that” bets say otherwise and there’s at least one car in Rome with a footprint on the hood from an attempt to jump it).
+
+I’m not a fan of regrets because the world is pretty complex and it’s hard to say how something would have turned out with a different decision. Duncan and I listened to our families say we should wait before starting a business (when we were 21). We did – we started aged 25 and I’d love to have 4 more years of screwing stuff up under my belt now…
+
+The next step in my personal growth is going from founder to entrepreneur – here’s to an exciting next decade.
+
+PS – I enjoyed this comparison of entrepreneurship and adventure:
+http://24waystostart.com/2010/reflections-on-entrepreneurship/
+
+by Will Critchlow on December 5, 2010 at 12:23 pm. 
+
+What do VC’s know about SEO anyway? They don’t understand. It took them YEARS to get a clue that Landing Page Optimization for Paid Search (a $25 BILLION industry) was important and worth investing in (and it was only after the $60M exits of Offermatica and Optimost). They are followers. You’re a leader. Stay righteous.
+
+by Jonathan Mendez on December 5, 2010 at 2:24 pm. 
+
+The impossible challenge is surely one of the biggest motivational forces… and I think it is what moved all the people known and unknown that has done something in their existences worth to be reminded: from great scientists, to explorers but also so many “little people” that moved by the “you can’t do this” finally did it.
+Personally I cannot compare myself with many of you here, as my “business” is not that big, but what made me start it is the same “you can’t do it” that moves you everyday.
+In fact, I entered in the world of entrepreneurship quite late, at 35 y/o and when I had already spent 12 years of my professional life in a totally different job than SEO and Web Marketing.
+But life put me in the condition to have to challenge a “you can’t do it” moment. “You can’t do it” to abandon the entertainment world and reinvent yourself as a web marketer, “you can’t do it” to move to another country, learn a language and have a family…
+But here I am, five years later, with a quite respected name in the SEO industry both in Italy and Spain, with clients happy, with quite good perspectives of growing professionally and living in Spain, speaking fluent Spanish and enjoying my family.
+Yes, I know I will have for sure new “You can’t do it” moment in the future, because I somehow need them in order to challenge myself and to try to prove that I can do it and be better than I am… but I am not worried that much about. As you say, I refuse to change my behavior, or I wouldn’t be what I am.
+
+by Gianluca on December 5, 2010 at 4:10 pm. 
+
+Great post. Actually, (You can do it if your mind said so!) the single sentence that I keep saying to myself every single day “heck, every single hour”.
+
+by Sameh on December 5, 2010 at 4:34 pm. 
+
+You’re absolutely crazy. We just need to get over that not being a bad thing!
+
+There’s this science I’ve been reading about lately that the brain cannot retain negatives. So if you say to yourself “I’m not going to screw up this time” as your mantra, your brain hears “I’m going to screw up this time” and that is what gets committed to memory. The root of the statement is what is held, ignoring the negative, the “no” the “not this time”, etc.
+
+So what you’re saying is huge. Your “oh yea?” mantra is perfect. “You can do it” is retained in the brain as, simply, “You can do it!”
+
+Not to be confused with “You can do it all night long!” That’s an entirely different blog post.
+
+by Matthew Egan on December 6, 2010 at 5:38 pm. 
+
+The impossible, or nearly impossible, is what challenges us to push ourselves, as you’ve so nakedly put it.
+
+Without challenge, without the slightest doubt, it’s not really something we’ll take note of. How many times a day do you type an email, drive a car or text on your cell?
+
+Remember when those things were challenges? How much time we spent hunting and pecking for keys and numbers/letters? Remember being fresh behind the wheel?
+
+While these are much less challenging than building a lucrative, successful and self sustaining real world business in what’s essentially virtual world they are things we paid much more attention to when we weren’t sure if we could do it – or do it effectively.
+
+As for being a pessimist about your entrepreneurship, you’ve done an amazing thing so far. If you’d sat back and just believed it would happen, do you think you’d have worked so hard for it? Would anyone?
+
+Without the risk of failure there’s no true reason to work so damn hard.
+
+by Kristen on December 6, 2010 at 8:46 pm. 
+
+“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.”
+
+George Bernard Shaw
+
+by Adam Rulli-Gibbs on December 10, 2010 at 11:55 am. 
+
+Awesome post Rand. And I’m loving the new blog – maybe even more so than SEOMoz (am I allowed to say that?).
+
+: ))
+
+I actually just finished writing a post on my blog a few hours before I read this. It was in response to something very similar that a young kid posted on a forum I chat on. It was about how he got de-motivated by the negative comments people made about his aspirations… here are a couple parts of my response:
+
+“… there are a hell of a lot of people out there that don’t have the same confidence that you have and as a result are they are always going to be fearful of the negative outcomes. That’s just the reality of human nature, but don’t let them set your standards for you or tell you what you are or are not capable of, especially those that are only being negative because they fear getting on the field themselves…”
+
+and
+
+“If you are going to succeed in life as an entrepreneur it will help if you start looking at those negative assessments as only greater reasons to pursue something. Entrepreneurs need to be out to prove something. To prove it can be done. To prove the problem can be solved. To prove to others that you could when they said you couldn’t. Use the naysayers as your motivation.”
+
+… I had to post it here – it just seemed so relevant.
+
+I finished the post with this snippet from Rocky Balboa – it always motivates me when things get a little “rocky”.
+
+: ))
+
+http://www.youtube.com/watch?v=0s__B7HzEX0
+
+by Chris on December 11, 2010 at 5:08 am. 
+
+I thank you for your wise advices, Rand. I myself am at the age that you started, at the position that you were in. Everybody is telling me that it’s not gonna work out. Especially in such “difficult times”. But I’m set on proving everybody wrong. Although your advices are not go head first, your mere example is saying something else. That everything like that is achievable, if you’re willing to put in some hard work and a lot of effort. To be set on one goal. One drive. Your mind and your heart are speaking in different languages. This is something that is happening with me as well. So that’s why I appreciate you telling us everything that you went trough, so that I can check myself for the milestones that you went by. I’m going to keep your advices close to heart, and try to utilize them when I have to. And since my venture will is unique in its kind, I’m gonna need some help building it, the way that I imagine it. And just hope that when the time comes, I’ll be able to ask you for a bit of help, just a little push in the right direction.
+Thank you!
+
+by Evgeni Yordanov on December 17, 2010 at 8:14 am. 
+
+You just made me laugh so hard. I too “dropped out” of college two classes short of graduation :)
+
+by Deena on December 23, 2010 at 10:14 am. 
+
+I echo everyone else’s comments here: THANK YOU for your honesty and insight. This helps me as I swim upstream as well.
+
+by Dan Blank on December 26, 2010 at 9:53 pm. 
+
+I wrote a comment the other day, but deleted it. Just didn’t “feel it.” Then I read Chris Garrett’s post this afternoon and he summed up what I was going to say better than I did, so I circled back here and gave him the link.
+
+http://myescapevelocity.com/know-when-to-fold-em
+
+What I will say is that you never let someone else tell you you can’t do it. But you have to know when to tell yourself you can’t do it.
+
+BTW, love your work. You are a good face for the industry. I agree with @Chris, the new blog might be more enjoyable than SEOMoz.
+
+I’m not sayin’… I’m just sayin’…
+
+by Todd Drain on January 27, 2011 at 11:07 pm.
+
+[...] Our past defines us and makes us who we are. Thank you to everyone that doubted me and said “you can’t do it,” you’ve made me who I am and one extremely driven [...]
+
+by An InHouse SEO’s story of feeling beaten down but always moving forward on February 8, 2011 at 9:23 am. 
+
+This article came at the right time for me… As a first year business owner, I’ve got a lot of doubts, but I keep pushing through them… Sometimes things seem insurmountable… Really. I was encouraged by your story. Even though I’m on such a smaller scale than you, in terms of business, I feel better.
+
+Thanks for the story. Best of luck, from one of your SEOmoz pro users. ;)
+
+by Alex on February 24, 2011 at 1:28 am. 
+
+Inspiring story, Rand. Salute for all your hard work and success, plenty of more coming your way :)
+
+by Andryo on August 19, 2011 at 4:05 am.
+
+Thanks Rand.
+
+Suffice to say, the writing of this post is what I think of as a “perfect storm of unknown purpose”. That moment in time when one person is somehow moved to act in exactly the way, at exactly the time, that will impact another life or lives, more profoundly than that person can ever know.
+
+…and its not the first time. You definitely have a knack for it!
+
+That alone says that trusting your instincts works, not just for you, but for others. Whether you know who they all are matters not.
+
+As to doing what people say you can’t, always keep one thing in mind.
+
+There is a great difference between simply seeking to swim against the tide and seeing something that remains hidden from others and trusting your own insight above their narrowed view.
+
+If it is ever not right, you will see that before anyone else too. Trust yourself.
+
+by Sha Menz on August 19, 2011 at 6:28 am.
+
+I have been more than impressed by your post, Rand. I happen to have many points of coincidence with you. Although I got a degree in Communications, I started my first business in 1992 in Spain, an advertising and graphic design little company that, after two big fiascos, in 2000 finally became Human Level Communications. I have lived on my wife’s paycheck as a primary school for years. I am 46 now, have written five books on SEO and online marketing. I think I have a name in SEO both in Spain and Latin America and 10 other people have found in HLC an opportunity to develop a personal project. Keep up the good work and thanks for sharing your experience in such a close and trasparent way!
+
+by Fernando Maciá on August 19, 2011 at 6:33 am.
+
+Great and honest post.
+
+As an entrepreneur I understand what you mean. The thing is, having/running your own business is not all about money. For me, its more about doing things I want to do and the way I want to. I surely consult with other people and am open to ideas and critiques, but at the end of the day, its my business and I want to do it my way cause I enjoy it ( but of course it needs to make money too!).
+
+by KA on August 19, 2011 at 6:52 am. 
+
+Interesting post to say the least. Any chance of an update if the stubboness has helped or hindered?
+Personally, I feel people don’t want you to succeed because in comparison to you they start to look lazy.
+PS: Found this Blog from a screen in a Webinar. lol
+
+by Andrew on January 7, 2012 at 1:47 am. 

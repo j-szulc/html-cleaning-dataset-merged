@@ -1,0 +1,636 @@
+F-Secure Report: Another SCADA Attack in Iran — This Time With AC/DC 253
+Posted by timothy on Tuesday July 24, @10:46AM
+from the either-true-or-a-funny-movie-plot dept.
+An anonymous reader writes "F-Secure antivirus company of Finland has reported receiving e-mails from an Iranian nuclear scientist, who says Persian uranium-235 isotope refining efforts have just been hit with yet another cyber strike. (Stuxnet, Duqu and Flamer-Skywiper being the previous iterations of the same Operation Project Olympic attack plan.) Last month, President Obama's staff has admitted to the New York Times that there is a joint Israel-U.S. cybermilitary operation was behind the mishaps Iranians have recently been suffering with their UF6 gas refining centrifuge systems in the Natanz and Fordo plants. This time, the unverified e-mail claims, a new Metasploit-based malware owns Iranian VPNs, causes fault in the nuclear plants' Siemens-based industrial control systems, and randomly starts to play AC/DC's 'Thunderstruck' aloud via the infected computers' speakers."
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+by Quakeulf (2650167) on Tuesday July 24, @10:49AM (#40749619)
+Rock and revolt!
+ 
+      
+ 
+
+    by camperslo (704715) on Tuesday July 24, @11:20AM (#40750085)
+
+    Well there's really nothing to fear until people start getting Rick-rolled
+     
+          
+     
+                by Jeremiah Cornelius (137) on Tuesday July 24, @05:45PM (#40756687) Homepage Journal
+
+                These "cyber attacks" are criminal activity by the AmeriCIA/Israel government confab - directed against the LEGAL and compliant activity by a signatory of the non-proliferation treaty.
+
+                Israel is NOT signatory - and actually DOES produce weapons, in violation of international law.
+
+                So does India an NPT violator.
+
+                Who will stop these rogue regimes, that pursue their agenda, not through binding treaty obligations or courts of justice, but through rampant sabotage and a program of civilian assassinations?
+                 
+                      
+                 
+                    by sumdumass (711423) on Tuesday July 24, @09:45PM (#40759679) Journal
+
+                    You forgot Pakistan and China in that ramble. You also forgot that the states who did sign the treaty and agreed to be bound by it, the same states who benefited from the signing of the treaties, only one is openly hostile towards another nation. Of course India and Pakistan are or was openly hostile to each other but they didn't sign.
+
+                    Also, international law is not some imposing legal system that strips the sovereignty of nations just because a few states get together and declare something. Imagine if they got together and outlawed the Muslim religions or sodomy by declaration or something.
+
+                    The states in question by your comment have to agree to be bound by the treaty creating the international law or defeated by force and subjected to the ramifications of it ex postfacto. Should one of these non bound countries become openly hostile against another country or threaten the use of Nuclear or Chemical and/or biological weapons, I'm sure the focus of the world will change a bit. Until then, crying that they aren't being troubled is a bit like saying, why am I being arrested for robbing the bank, banks get robbed all the time and those people don't get caught.
+                     
+                          
+                     
+   
+    by SomePgmr (2021234)
+    Noriega compound, Fallujah siege, Iranian computer systems... weaponizing AC/DC must work. ;)
+       
+        by realityimpaired (1668397)
+
+        Noriega was Panama [wikipedia.org], not AC/DC.
+
+        And they should have gone with The Clash, not AC/DC this time... while the song Rock the Casbah was actually about a situation in Afghanistan, the situation in Iran today is very similar to the circumstances in Afghanistan that led to that song being written in the first place. :)
+            
+            by SomePgmr (2021234)
+
+            They played more than one song it seems. I wasn't there.
+
+            http://nofearofthefuture.blogspot.com/2006/12/noriega-playlist.html [blogspot.com]
+    by gtall (79522)
+
+    It could have been worse, how about Muskrat Love? That would have been truly diabolical.
+
+by sageres (561626) on Tuesday July 24, @10:50AM (#40749629)
+
+Sound of the drums
+Beatin' in my heart
+The thunder of guns
+Tore me apart
+You've been - thunderstruck
+ 
+      
+ 
+
+    by Anonymous Coward on Tuesday July 24, @11:10AM (#40749947)
+
+        Tore me apart
+
+    To the authors of this hack: I see what you did there, I LOL'd, and I will never listen to that song again without thinking of a cascade failure :)
+
+    You came, you saw, kicked its ass [youtube.com]!
+     
+          
+     
+
+by gestalt_n_pepper (991155) on Tuesday July 24, @10:52AM (#40749669)
+
+I would have gone for "Born in the USA"
+ 
+      
+ 
+
+    by Muad'Dave (255648) on Tuesday July 24, @11:02AM (#40749823) Homepage
+
+    I would've gone with Hava Nagila [wikipedia.org].
+     
+          
+     
+        by HiggsBison (678319)
+
+        Evergreen!
+
+        Yes, sure, she has a pure, wonderful, beautiful voice, blah blah blah. But that's the point. In my experience, the notes she sings travel hundreds of yards down the corridor and infect everyone's office.
+
+        Play it over and over and over and over and over and ... people will be tearing their hair out. We could call it ... I don't know ... the Streisand Effect?
+   
+    by Bill, Shooter of Bul (629286) on Tuesday July 24, @11:02AM (#40749831) Journal
+    Yeah, but that song is about how bad the USA is at taking care of people, not how awesome it is to live here.
+     
+          
+     
+        by mounthood (993037)
+
+        You only think that because you're thinking in english rather than the newspeak.
+            
+            by H0p313ss (811249) on Tuesday July 24, @12:13PM (#40751007)
+
+            You only think that because you're thinking in english rather than the newspeak.
+
+            Interstate running through his front yard and he think's he's got it so good. But ain't that America?
+
+            As a Canadian I found it pretty funny at the time that the song not only charted but became an anthem for (clueless?) patriots.
+             
+                  
+             
+                by X0563511 (793323)
+
+                Yea, well, when write a catchy hook saying something (in a non-sarcastic tone) patriotic, you've got no right to bitch and whine when the general public ignores the rest of it.
+
+                That's why you get anti-war songs [wikipedia.org] used as title music for Vietnam War games [wikipedia.org], etc.
+
+                Make your message the hook, not the counterpoint, or you WILL be misunderstood.
+                    
+                    by drinkypoo (153816) <martin.espinoza@gmail.com> on Tuesday July 24, @12:32PM (#40751387) Homepage Journal
+
+                    That's why you get anti-war songs used as title music for Vietnam War games, etc.
+
+                    Uh no, you get anti-war songs used as title music for the Viet Nam War because that war is almost universally hated, despised, and regretted. When you play a game about that war you know what the outcome is and you know it won't be happy. Irony, it's not just for breakfast any more, but it is for your comment.
+                     
+                          
+                     
+                    
+                    by jason.sweet (1272826)
+                    It seems to me that hook expressed the sentiments of many soldiers in the Vietnam War.
+                    
+                    by icebike (68054) *
+
+                    Make your message the hook, not the counterpoint, or you WILL be misunderstood.
+
+                    Had the hook been the main message the song would never have been played. How would that have served any purpose?
+
+                    The idea was to get the song on every radio station, and sell records (and make money). It worked.
+
+                    Once out there, people listen more closely, and when they do the message won't be misunderstood. That you still see it used today, inappropriately simply indicated people new to the song haven't yet listened to much beyond the hook. These are useful idiots, serving the song writer's purpose.
+
+                    Now d
+               
+                by u38cg (607297)
+                It seems a common issue. Look at the amount of airplay London Calling is getting on the back of a certain burger-advertising sporting event in East London.
+        
+        by Mister Whirly (964219)
+        Someone probably should have explained this to Reagan as he wanted to use it for his campaign song in 1984. Maybe someone should have looked at the lyrics, and not just the title? Needless to say Springsteen did not allow his song to be used by Reagan.
+                
+                by Mister Whirly (964219)
+                Indeed. And to get a context for what a singer is all about, looking at more than one of their songs, you would probably want to look at lyrics, you know, the plural of lyric? If I were a politician wanting to endorse a particular artist, I would want to look at more than just the words to a single song.
+    
+    by slashmydots (2189826)
+    In case you didn't know, it was based 100% on the latest Iron Man appearance in The Avengers. He hacks speakers to play that song in the movie.
+    By the way, Persia? Did they do the research for the article in the Bible? Most other sources call it Iran now.
+        
+        by fuzzyfuzzyfungus (1223518)
+
+        I would have gone for "Born in the USA"
+
+        A song chronicling the disillusionment of Vietnam veterans is probably not what the people who wrote that code are going for.
+
+        (Of course, a lot of people, including some politicians, seem to think that it's a pro-government patriotic song. Patriotic, maybe, but I'm guessing they never listened to anything but the chorus. Or perhaps the title.)
+
+        I'd like to think that 'Born in the USA' is considered patriotic because people are idiots; but I can never quite shake the nagging feeling that some of its proponents understand, and approve of, its celebration of America as a country where you can cynically throw away the human resources when they are no longer useful...
+            
+            by dpilot (134227)
+
+            One side thinks their country can be the greatest place on Earth, and wants to work on the needed changes to get it there.
+
+            The other side thinks it already is, and doesn't want to change a single thing - only roll back some of the changes the first group has already managed.
+
+            I'd prefer to think that "Born in the USA" was cast in the first mold, because recognition is the first step toward fixing. Also, any citizen of any nation can take the first view, and probably should. But then I just might be a little
+        by Anonymous Coward on Tuesday July 24, @11:58AM (#40750749)
+
+        I would have gone with some Justin Bieber or Nickelback.
+
+        The constitution forbids cruel and unusual punishment.
+         
+              
+         
+
+by Anonymous Coward on Tuesday July 24, @10:52AM (#40749679)
+
+This somehow seems like a disinformation campaign by the iranians. With the refinement Flame/Stuxnet had, it seems a bit too amateurish that all of a sudden the attack methods would become so much more primitive and obvious to the victims (I mean, seriously, playing loud music in the middle of the night?)
+ 
+      
+ 
+
+    by fuzzyfuzzyfungus (1223518)
+
+    Given that it is already de-facto-proven-even-for-official-purposes that the US has no qualms about fucking with Iran's computer systems, what would Iran have to gain by some sort of false-flag style thing?
+
+    If there were actually some lingering doubt about the US's willingness, I could see trying to score some points; but there really isn't. The explanations that it was either an attack pulled off by a much less sophisticated actor(hacking isn't totally newb stuff; but the list of people who can make trouble
+        
+        by deKernel (65640)
+
+        There is nothing tangible to gain in the sense that it helps prove one particular country was the source of the attack. What they are doing is causing doubts as to the progress, if any, in their program. Translation: we are talking mind games with analysis as to just where they stand in the development cycle. Plus, the people within the Iranian program can use this to cover their butts if they are running behind or have something worse happen like explosions at plants and such.
+        Make no doubt about it, though
+    
+    by vlm (69642) on Tuesday July 24, @11:24AM (#40750147)
+
+    More likely some poor bastard on the night shift was intentionally and willfully listening to evil mp3s he downloaded from the great satan over livewire, and when he got caught doing air guitar instead of whatever the hell a centrifuge operator does in his spare time, rather than taking the fall for it, commited yet another sin by blaming the CIA.
+
+    The disinfo part is I've worked in industrial plants on networks, and later for decades in companies with airgapped production and IT networks, and the first thing you do after the first infection is airgap IT and everything else you can away from production, then you disassemble production.
+
+    So the scales of upper management weigh:
+    1) On one side the ops when they're bored want to check  , email, and play angry birds online
+    2) On the other side the plant might be destroyed in an explosion that kills us all and the dictator will kill my family as punishment even though I'm already dead.
+
+    Yeah I can see how the local equivalent of mahogany row decided to leave plant equipment accessible. Yeah, totally realistic. Not PR BS at all. Uh huh.
+     
+          
+     
+    by AmiMoJo (196126)
+
+    Well it's hardly a secret or cold war any more, so subtlety is no longer required.
+
+    Eventually Iran will retaliate and then all hell will break loose. Just hope they send viruses and not cruise missiles.
+
+by Quiet_Desperation (858215) on Tuesday July 24, @10:54AM (#40749697)
+
+What other songs could the virus rock out with?
+
+"Stranglehold"
+"Eve Of Destruction"
+"Dogs Of War"
+"Born In The USA"
+Pretty much anything off Dark Side Of The Moon
+ 
+      
+ 
+
+    by Anonymous Coward
+
+    Something by Celine Dion.
+        
+        by Quiet_Desperation (858215) on Tuesday July 24, @11:07AM (#40749913)
+
+        That might violate the Geneva Conventions.
+         
+              
+         
+    by only_human (761334) on Tuesday July 24, @10:59AM (#40749777)
+
+    What other songs could the virus rock out with?
+
+    How about rickrolling?
+     
+          
+     
+    
+    by Teresita (982888) <badinage1@n e t z e r o d ot net> on Tuesday July 24, @11:02AM (#40749819) Homepage
+    I study nuclear science
+    I love my classes
+    I got a crazy teacher,
+    He wears dark glasses.
+    Things are going great,
+    And they're only getting better.
+    I'm doing all right, getting good grades.
+    The future's so bright
+    I gotta wear shades.
+     
+          
+     
+       
+        by MickyTheIdiot (1032226)
+
+        Hairstyles and attitudes... how to they relate?
+    
+    by Zocalo (252965) on Tuesday July 24, @11:03AM (#40749843) Homepage
+    The Police's "Every Breath You Take (I'll be watching you)" should raise paranoia levels nicely.
+     
+          
+     
+    by doubleplusungodly (1929514)
+    How about something obnoxious like "America, Fuck Yeah" or "Trololol"?
+        
+        by RaceProUK (1137575) on Tuesday July 24, @11:20AM (#40750081) Homepage
+        'Blame Canada'
+         
+              
+         
+    by magarity (164372)
+
+    No, no, no, you're thinking all wrong. Iran is a strict Islamic state. Songs to play over their nuclear program's computer speakers include:
+    "Girls Just Want to have Fun" by Cyndi Lauper
+    "Erotica" by Madonna ...etc
+        
+        by fast turtle (1118037)
+
+        "If I Had a Hammer" by Peter, Paul, Mary
+
+        Latin Love of Mine by?
+
+        How about the standard disconnected/unreachable phone number "We're sorry, that number is unavailable. Please check your number and dial again." though I'd change the message to We're Sorry but God is Unavailabe. You can leave a message or Hang Up."
+        
+        by HexaByte (817350)
+
+        Even better, it should just open a browser to a porn site.
+
+        Imagine how well their research will go when all their top scientists are beheaded for being perverts under Islamic Law!
+    
+    by fuzzyfuzzyfungus (1223518) on Tuesday July 24, @11:25AM (#40750157) Journal
+
+    Inertia might prevent this; but (if the virus has access to PLCs) rocking some unlistenable ambient industrial exclusively using PLC-controlled hardware being operated in a manner egregiously beyond its design specs would be fairly entertaining.
+
+    A computer attempting the DJ-style turntable 'scratching' effect on a bank of ultracentrifuges would be fun while it lasted...
+     
+          
+     
+    by gman003 (1693318)
+
+    Why not do something actually about nuclear war?
+
+    "Fight Fire With Fire" or "Rust in Peace... Polaris" might do nicely, as a sort of "hey, this thing you're building will kill millions of people, you know" message.
+    
+    by MarkGriz (520778)
+
+    What other songs could the virus rock out with?
+
+    "America, Fuck Yea!"
+    
+    by Phrogman (80473)
+
+    Armageddon
+    When you're Hot, you're Hot
+    
+    by leonardluen (211265)
+
+    i would be more impressed if they the music was coming from the centrifuges themselves. anyone can make a computer speaker play sound!
+
+    something like this ghostbuster theme on a tesla coil [youtube.com] or imperial march of the floppies [youtube.com]
+    
+    by AragornSonOfArathorn (454526)
+
+    Dirty Deeds Done Dirt Cheap
+   
+    by Cyko_01 (1092499)
+    Smooth criminal - michael jackson
+    "you've been hit by, you've been struck by, a smoooth criminal"...ok maybe not that smooth
+
+
+by MoogMan (442253) on Tuesday July 24, @10:54AM (#40749705)
+
+I hope the malware writers (or the US gov't) have agreed their license fees with the respective record companies, otherwise they'll find themselves in a world of pain!
+ 
+      
+ 
+
+    by captainpanic (1173915)
+
+    First thing I thought too, lol.
+
+    There's something comforting about it though. Even when employed by the government, hackers are just hackers. :-)
+    
+    by Quiet_Desperation (858215)
+
+    No worries. The Men In Black have already paid the industry lawyers a little visit. A courtesy call, if you will.
+    
+    by gmuslera (3436)
+    Thats the genious part of the attack. Those infected computers were found playing unlicensed music, the RIAA will sue them overseas. Is a blended attack, not only just hack them, but also take out all their money.
+        
+        by tepples (727027)
+        The Fifth Amendment provides an exception to sovereign immunity, allowing copyright owners to recover "just compensation" for the U.S. Government's use of their works.
+        
+        by Sulphur (1548251)
+
+        The playing of that music is the actual damage action because it is then clear that those infected facilities will be attacked by the RIAA fur unlicensed music playing.
+
+        How many bummers does the RIAA have?
+
+
+by gmuslera (3436)
+Will be amazing the variations of the "Cyberwar, wrong" message from the government in the next months/years, specially every time a hack widespreads or they want to catch even more private information from people of all countries. The key to be the victim in any conflict is dismiss/deny every time you were the attacker.
+
+
+by slb (72208) * on Tuesday July 24, @10:57AM (#40749751) Homepage
+Yeah, so suddenly the guys who did a lot of work to be undetected will use Metasploit code and disclose their owning of the computers with an AC/DC song .... Methinks someone is not reaching his objectives and found a good scapegoat as an excuse... The alternative of course would be that script kiddies are owning Iran's nuclear researchs lab infrastructure ...
+ 
+      
+ 
+
+    
+    by dbIII (701233)
+    It's a dirty deed done dirt cheap.
+    If they are caught they'll only make it out with a bullet in the back.
+    
+    by zrbyte (1666979)
+
+    Yeah. My bet would be on script kiddies as well. This is just somebody trolling the Iranians. The US and Israel tried to stay undetected for as long as possible and in the mean time do as much damage as they possibly could.
+        
+        by leonardluen (211265)
+
+        no, you see the US is just trying to unleash the RIAA's fury...hey those guys over there are playing your songs without paying! sic em boy!
+        
+        by RaceProUK (1137575) on Tuesday July 24, @11:19AM (#40750071) Homepage
+        Only with 5000% more talent :P
+         
+              
+         
+            
+            by Bill, Shooter of Bul (629286)
+            Five thousand percent of an infinitesimally small number is still an infinitesimally small number ... ;P
+        
+        by Thud457 (234763)
+
+        (AC because I'm posting at work)
+
+        I wish I could use some of my mod points to mod parent up. "Using (or having insiders create) multiple 0-days for Stuxnet" vs. "Metasploit and proclaiming victory by playing a .mp3" show two completely different models of operating. There isn't anything like Defcon or Black Hat going on this week, is there? ;)
+
+        (DC because I'm posting from my C64 on battery power from Afghanistan)
+
+        no [blackhat.com]
+
+by Anonymous Coward on Tuesday July 24, @11:00AM (#40749799)
+
+I have a few bones to pick with the summary, of a factual nature. Corrections are in bold, I have not corrected the grammatical errors.
+
+"F-Secure antivirus company of Finland has reported receiving e-mails from an Iranian nuclear scientist, who says Persian uranium-235 isotope refining efforts have just been hit with yet another cyber strike. (Stuxnet, Duqu and Flamer-Skywiper allegedly being the previous iterations of the same Operation Project Olympic attack plan.) Last month, an anonymous member of President Obama's staff has allegedly admitted to the New York Times that there is a joint Israel-U.S. cybermilitary operation was behind the mishaps Iranians have recently been suffering with their UF6 gas refining centrifuge systems in the Natanz and Fordo plants. This time, the unverified e-mail claims, a new Metasploit-based malware owns iranian VPNs, causes fault in the nuclear plants' Siemens-based industrial control systems, and randomly starts to play AC/DC's 'Thunderstruck' aloud via the infected computers' speakers."
+
+I'm not saying the Times is wrong, but I don't trust their source completely. I also am not claiming he's wrong, but the press has a very bad habit of really fucking up critical details of technology-related stories. For example, I find it pretty hard to swallow that such an operation would only involve the US and Israel. It's all very convenient, and tidy, and in real life the real story is very rarely wrapped up in such a pretty little package. We certainly need at least an independent confirmation of the source's information.
+ 
+      
+ 
+
+by Anonymous Coward
+
+They are seriously dancing around if this is an act of war. If Iran started hitting the US I suspect these actions would have a different spin. Of course the US is a super power so war with them is on a completely different level than the smaller countries.
+
+by Anonymous Coward on Tuesday July 24, @11:01AM (#40749813)
+
+It's been opened.
+
+The US will not encounter foreign boots on the ground but cyber retaliation... and I promise it could get very ugly. As a former Network Admin, Accelerator Designer, and now Siemens Programmer I can tell you that these viruses can be turned back on us. Much of the world runs on Siemens programming. Oil rigs, chemical mixers, MRI scanners, food prep, power grids, water treatment, and manufacturing assembly of all kinds (right off the top of my head) all run on Siemens hardware/software and we don't have the ability to defend against it.
+
+However, I am not worried about Iran. It's China who already has their digital boots on the ground.
+ 
+      
+ 
+
+    by organgtool (966989) on Tuesday July 24, @12:15PM (#40751057)
+
+        Much of the world runs on Siemens
+
+    My God! The world is covered in Siemen!
+     
+          
+     
+        by Kyont (145761)
+
+        I've just got to imagine that when the German executives meet with the American sales team, to discuss market penetration of Siemens into new openings, that the American contingent spends most of their energy trying not to giggle.
+    
+    by jellomizer (103300)
+
+    Much of the world runs on Siemens programming.
+    This makes me very scared.
+    Most of my experience is with Siemens Health Care Solutions. The fact that the world is running on Siemens makes me scared, outside the viruses. Just the POS quality Siemens puts out. I don't know how you people can sleep at night.
+
+by jonwil (467024) on Tuesday July 24, @11:02AM (#40749815)
+
+Will the RIAA be sending the Iranian government a cease and desist notice for violating its copyright on the song?
+ 
+      
+ 
+
+by DdJ (10790)
+
+I weep at the lost opportunity for rickrolling.
+
+by robi5 (1261542)
+
+Federal agents must be going through iranian IP addresses of the Cryptography course on Coursera.
+
+
+by Indigo (2453)
+
+> President Obama's staff has admitted to the New York Times that there is a joint Israel-U.S. cybermilitary operation was behind the mishaps Iranians have recently been suffering with their UF6 gas refining centrifuge systems in the Natanz and Fordo plants.
+
+Remind me, when and where exactly did Obama's staff admit this? Is there anything at all besides one article with unsourced allegations?
+
+No doubt the U.S. is behind behind this. But I'm getting damned tired of the shoddy journalism. I've seen so many c
+
+        
+        by drinkypoo (153816)
+
+        Besides. The obvious culprit here is Israel. They have the talent and motivation.
+
+        The US is just a spectator by comparison.
+
+        That's supposed to be some kind of joke, right? Israel wouldn't even still be there if not for our support, for good or ill.
+
+by rvw (755107)
+
+In five years time, Iran will have the best SCADA cyber security engineers in the world. I bet they will give this full priority. And when they have these skills, they have the skills to attack as well. Then think of what will happen. The US should better be sure that they are able to *destroy* those machines, so Iran cannot use them to test, otherwise... And how about Germany and Italy - are they still delivering systems to Iran? I wouldn't be surprised!
+
+by guanxi (216397)
+
+If it is true, it's bad news:
+
+Assuming that the Stuxnet/Flame attackers are trying to avoid being detected and are not announcing their presence with cheap pranks, the report, if true, would mean someone else has broken into Iranian nuclear weapons research systems, and that it's someone so unprofessional and unskilled that they are doing it as a prank.
+
+Those systems may contain data that nuclear proliferators would love. If they are that insecure, then everything the Iranians have learned could spread rapidl
+
+by Zamphatta (1760346)
+This reminds me of April 1st. I highly doubt anyone using malware to slow down or halt the Iranians nuclear efforts, would do it in a way that makes them clearly realize they're infected with something. That's more of a newbie prank or a troll ("unverified email" should keep this story from being news), than a real attempt to stop anything. The whole reason Stuxnext & Duqu were so successful is because of their ninja-like quietness in the systems.
+
+by Phrogman (80473)
+
+from the RIAA over the money due each time this virus strikes, I mean sheesh, that could amount to a lot of cash right? And the recording industry is hurting what with the trillions of dollars they say they are losing every year to piracy.
+Or maybe thats the idea, they will sic the RIAA on the Iranians and save the US military the effort :P
+
+by organgtool (966989)
+
+    randomly starts to play AC/DC's 'Thunderstruck'
+
+Doesn't that violate the Geneva Convention's policy against torture?
+
+by Severus Snape (2376318)
+Idiots.
+
+by Culture20 (968837)
+The dude's trying to convince the morality police that he wasn't blasting AC/DC. Remember to plug in the earphones next time!
+
+by Cosgrach (1737088)
+
+is the R.I.A.A. going to be pissed. Good luck with that lawsuit.
+
+by TimothyDavis (1124707)
+
+What? What?
+
+I can't believe that we tricked their accountant into installing the virus.
+
+by Nyder (754090)
+
+The U.S. Government and Isreal Government for illegal performance of copyrighted materal.
+
+   
+    by Anonymous Coward
+
+    I'd still go for Wagner
+
+    
+    by SJHillman (1966756)
+
+    And if all else fails, it goes to "The Final Countdown"
+        
+        by MickyTheIdiot (1032226)
+
+        how about Two Suns in the Sunset?
+
+    
+    by ackthpt (218170)
+
+    It sounds like Tony Stark may have had a hand in this one.
+
+    What happens when Tony Stark/Iron man becomes infected by a virus?
+        
+        by Hsien-Ko (1090623) on Tuesday July 24, @11:23AM (#40750119)
+        Too many women with too many pills?
+         
+              
+         
+            by TWX (665546) on Tuesday July 24, @11:26AM (#40750163)
+            I think the parent comment meant the result, not the cause...
+             
+                  
+             
+        by AragornSonOfArathorn (454526)
+
+        It sounds like Tony Stark may have had a hand in this one.
+
+        What happens when Tony Stark/Iron man becomes infected by a virus?
+
+        Didn't you see Iron Man 2? Granted, it wasn't Tony Stark, but it was one of his suits.
+        
+        by Nom du Keyboard (633989)
+
+        What happens when Tony Stark/Iron man becomes infected by a virus?
+
+        Her name is Jocasta and she's a wonderful AI.
+    
+    by RaceProUK (1137575)
+    But did he build it in a cave?
+
+    by vlm (69642)
+
+    Hey government, so it's illegal when I share Thunderstruck with my friends, but it's OK for you to spend my tax dollars giving it away to douchebag weapons scientists who don't even like AC/DC? Whatever!
+
+    There's a pretty good analogy with automatic weapons in that I'm not allowed to "permanent loan" a buddy something shiny and fun without the tax stamp and going thru a FFL dealer, but foreign aid regularly delivers weapons to foreigners for free, even if the locals don't like the dictators thugs to be better armed. Its not all that unusual of a situation.
+
+    by Anonymous Coward on Tuesday July 24, @12:03PM (#40750813)
+
+    Indeed. I wonder how long until the RIAA and Co. will take until they send their regards for each computer playing to a group of people without licensing rights.
+     
+          
+     
+        by penix1 (722987)
+
+        My thoughts exactly... Well played sir!
+   
+    by icebike (68054) * on Tuesday July 24, @12:57PM (#40751797)
+
+    Actually, playing the music, and calling attention to the exploit is a sign of kiddies at play, and nothing to do
+    with any professional or state backed efforts. Why would you reveal your exploit?
+
+    Its possible this is a diversionary tactic to hide something serious going on at different workstations. But I doubt it.
+    It could also be an inside prank, because unless you are there to see the panic ensue, why play music. But I doubt that as well.
+
+    The story is just as likely to be totally bogus: Unverified email form a nuclear scientist, Really!?, Like these guys get to send mail unguarded, un-scanned, un-censored?
+     
+          
+     
+        by icebike (68054) *
+
+        Oh, and here's an apostrophe for the punctuation police: '
+

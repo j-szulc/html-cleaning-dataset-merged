@@ -1,0 +1,63 @@
+They Were Laid Off From Their Game Company. Now They Want To Change The Way We Play.
+Jason Schreier	
+
+Jason Fader and his team were sitting in a bar, drinking. Commiserating.
+
+Earlier that day they'd all been laid off from their jobs at Obsidian Entertainment, where they helped work on games like Fallout: New Vegas and an unannounced project called North Carolina. When North Carolina was axed, Obsidian had no choice but to let the team go. It was grim. Job opportunities were limited. Some of the team—particularly artists and designers—were worried they'd have trouble finding gigs.
+
+Five months later, they've all got gigs—and an ambitious plan that promises to give us a new way to play video games.
+
+"I wasn't planning on starting up a studio again," Fader told me. He's a longtime veteran of the industry. He's worked on games like World of Warcraft and helmed production on the DLC for New Vegas, Obsidian's excellent post-apocalyptic role-playing game.
+
+"I was just going to call it quits at Obsidian, maybe go back to Blizzard or something," he said. "[But] everybody's kinda turning to me... they all looked to me, asked if I was gonna start up a studio."
+
+So he did. He re-launched Iocaine Studios, the indie company he had started before Obsidian, and brought the majority of his team aboard. (Fader says he can't pay them yet, but he takes them out for pancakes every weekend.)
+
+Now they've got big plans. They're simultaneously developing three games. One is a SimCity or Civilization-like town builder called Steam Bandits: Outpost. The second is sort of an action-RPG inspired by games like Privateer and League of Legends. The third is a flight simulator not unlike Crimson Skies.
+
+Here's the catch: all three of these games will take place in the same persistent universe. You'll be able to interact with people who are playing the other two games. And you'll be able to team up to make your characters better.
+
+"If my girlfriend loves town-building games, she can play Steam Bandits: Outpost on her iPad, build up a town and stuff," Fader said. "I'm playing the other game... one island I visit and trade with could be her island. I can link up with her and she's on my friends list. I can visit her island at will. I can link my captain up to her island as my port of call. Any time I go on a quest, she gets a reward as well since she's sponsoring me. And any time she produces stuff, that gives me a little boost."
+
+There will also be quests that span multiple games, Fader says. "Let's say in my captain game I'm on a quest. I pick up a really weird item, a crafting recipe. Now there's no crafting in the captain game; it's RPG and combat focused. I can take this [recipe], hand it off to my girlfriend who's playing the town-building game. She can build it up. I can equip it on my airship... We're taking quests a layer above an individual game and spanning it across an actual game world."
+
+Sounds neat, right? It also sounds ambitious. And like most ambitious game makers nowadays, Fader has started a Kickstarter for his project, asking gamers for $30,000 to help him release the first game of this three-pronged series by November. Right now they've raised around $10,000. They have 11 days to go.
+
+(I asked Fader what he'll do if he can't meet his Kickstarter goal. He says he's been approached by publishers and angel investors, and that he'll figure out a way to fund this project either way. He's passionate about this. "No matter what, I will find a way to make this game," he said. "This game has to happen.")
+
+They're avoiding Facebook. The first game will be released on Steam, iOS, and Android. The second game, just Steam. The third is slated for digital release on the Xbox Live Arcade and PlayStation Network. All three games will cost nothing to play.
+
+Diet Civ
+
+Fader describes Steam Bandits: Outpost as "kind of like a diet version of Civilization." It's got shades of SimCity and Tropico too.
+
+Here's the premise: You're working for a major company that controls all of the steam in the world. (In this lore, steam is a rare and precious resource.) They're investing in you to settle on an island, build it up, populate it, and turn a profit. To do this, you can construct different types of buildings: inns to hold people, for example, or taverns to get them drunk. Power generators to keep everything running.
+
+You're also in charge of an army of captains that you can send out on various quests. Fader says they're inspired by companions in BioWare's online game Star Wars: The Old Republic. You can level up these captains, give them equipment, and boost up their stats and skills as they go from mission to mission doing things for you.
+
+(Fader, laying out some not-so-subtle Firefly references, gives me an example named Captain Melvin (or Mel) Reynolds of the ship Tranquility. Who eventually gets himself a brown coat.)
+
+As you keep playing, you'll be able to train captains, collect resources, and grind out large amounts of money. And you can eventually amass an entire empire of floating islands. All without paying a thing.
+
+Free-To-Pay
+
+Steam Bandits: Outpost is a casual game, but it's not a Facebook game. It will be free-to-play, but not exploitative. It will have microtransactions, but it won't keep you jailed until you spend money on them. And it definitely won't ask you to spam your friends with notifications.
+
+"That is not playing together with a friend," Fader said. "That is just bugging the shit out of them... I'm calling us the anti-Facebook game company. That model just needs to die a horrible death."
+
+So when Fader calls Steam Bandits: Outpost casual, what he means is that it can be played in short doses. He compares it to Puzzle Quest or even Torchlight, games you can enjoy during both quick and lengthy sessions. He has the lofty goal of making Outpost appeal to just about everyone. Especially those of us with long work hours and not as much time to play games as we used to have.
+
+"I'm making this game for the hardcore player that does not have time to be hardcore anymore," Fader said. "The part-time hardcore player. I grew up playing games like Civilization and SimCity and Tropico and it pains me that I don't have time to put so many hours into them. I can't sit in front of my computer and just play."
+
+The key to keeping it appealing, Fader says, is not limiting the amount of time that we can spend playing it. Steam Bandits: Outpost is free-to-play, a term that has been stigmatized by companies like Zynga that use "energy" systems to restrict your playtime. Fader can't stand it. He calls it "gaming paralysis."
+
+"It's dumb. It's business-driven design," Fader said. "When these guys were designing their games, the first question was 'How can we get players addicted and then take away their addiction so we can get money from them?'"
+
+Not that Fader and his team don't want to make money. But their microtransactions are more like League of Legends or Team Fortress 2. You'll be able to spend real money on outfits and accessories, not playtime.
+
+"[Steam Bandits] is pay-to-style," Fader said. "Not pay-to-win or pay-to-continue-playing."
+
+And if Fader has his way, Steam Bandits won't just be a set of good casual games. This will be a set of good casual games that changes what casual games bring to the table for people who like video games. These will be the type of games that wash out "the bad taste Facebook games are making on the gaming industry," Fader says.
+
+It's passionate. It's ambitious. And maybe it won't work. But it'll be a fun experiment to watch.
+

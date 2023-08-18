@@ -1,0 +1,29 @@
+November 06, 2012
+Update: Verizon to shut down app store by January
+Verizon will start removing the Verizon Apps application from Android and Research in Motion devices in January
+
+Verizon Wireless is closing down its app store by January 2013, it said in a notice on its developer community portal.
+
+The operator said it will start removing in January the Verizon Apps application from all compatible Android and Research In Motion devices. It anticipates completing the process by March 27.
+
+[ Get the skinny on the current state of the cloud with InfoWorld's special report, "Cloud computing in 2012." Download it today! | Stay up on the cloud with InfoWorld's Cloud Computing Report newsletter. ]
+
+The U.S. mobile carrier's app store, launched in March 2010, has been overtaken by popular online app stores from tech companies like Google, and Research in Motion.
+
+Verizon said it was closing the app store as most of the apps available through Verizon Apps can also be found in other stores, including the Verizon tab of Google Play. "Closing Verizon Apps simplifies your purchasing and downloading experience, while continuing to allow us to help developers get their apps to you quickly and efficiently," it said in a FAQ document for users.
+
+"Customers have many options now when choosing where to purchase apps for their mobile devices. Similarly, developers have many options for distribution of their applications," a spokesman for Verizon said via email on Tuesday about the company's decision to close down its consumer mobile applications store front.
+
+The operator reassured developers that they had "no need to fear," as most apps on Verizon Apps are already available on a number of other app storefronts, such as Google Play, Amazon.com and BlackBerry App World. "There's now a whole new tech landscape in which both consumers and developers can interact like never before," it said.
+
+Business applications submitted to Verizon's Private Applications Store for Business will however continue to be available for purchase and download to enterprise customers, the operator said.
+
+Verizon unveiled its apps store with the brand VCast Apps, which was later changed to Verizon Apps. The store was focused on apps running on Android devices and RIM's BlackBerry.
+
+Starting this month, Verizon will inform its customers that Verizon Apps is closing its apps storefront in January, and has also stopped taking new app submissions. Final billing for subscription apps will be done in November, according to a timeline from Verizon. The customer will receive his full month of use and access, before Verizon begins removing the Verizon App client in January.
+
+The majority of apps, both paid and free, offered by Verizon Apps will continue to work until the app is deleted or the customer changes the device, Verizon said. Some paid apps will however stop working once the Verizon Apps application is removed from the device, between January and March next year. In-app purchases from the store front will also be affected, according to the FAQ document. "When Verizon Apps is removed from your device between January and March 2013, you'll no longer have access to apps which included in-app purchases," it said.
+
+The Verizon Developer Community portal will continue to operate as a developer's gateway to all Verizon tools and application programming interfaces (APIs), platforms, and third-party partner tools, Verizon said.
+
+The community will continue to work closely with developers "to bring new and innovative mobile applications to our customers through one of the many available distribution channels," the company spokesman said.

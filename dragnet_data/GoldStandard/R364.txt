@@ -1,0 +1,49 @@
+November 6, 2012, 1:43 am
+Nov. 5: Late Poll Gains for Obama Leave Romney With Longer Odds
+By NATE SILVER
+
+Mitt Romney has always had difficulty drawing a winning Electoral College hand. Even during his best period of polling, in the week or two after the first presidential debate in Denver, he never quite pulled ahead in the polling averages in Ohio and other states that would allow him to secure 270 electoral votes.
+
+But the most recent set of polls suggest another problem for Mr. Romney, whose momentum in the polls stalled out in mid-October. Instead, it is President Obama who is making gains.
+
+Among 12 national polls published on Monday, Mr. Obama led by an average of 1.6 percentage points. Perhaps more important is the trend in the surveys. On average, Mr. Obama gained 1.5 percentage points from the prior edition of the same polls, improving his standing in nine of the surveys while losing ground in just one.
+
+Because these surveys had large sample sizes, the trend is both statistically and practically meaningful. Whether because of Hurricane Sandy, the relatively good economic news of late, or other factors, Mr. Obama appears to have gained ground in the closing days of the race.
+
+The national polls now range from showing a 1-point lead for Mr. Romney to slightly more than a 4-point advantage for Mr. Obama. The FiveThirtyEight forecast of the national popular vote is within this range, projecting Mr. Obama’s most likely margin of victory to be two or three percentage points, approximating the margin that George W. Bush achieved in defeating John Kerry in 2004.
+
+Averaging polls together increases their sample size — making them much more powerful statistically than any one poll taken alone. But the errors in the polls are sometimes correlated, meaning there are years when most of them miss in the same direction. Mr. Romney remains close enough to Mr. Obama that he could fairly easily win the popular vote if there is such an error in Mr. Obama’s favor this year.
+
+Mr. Romney’s chances are less, however, of winning the Electoral College. The large majority of polls in battleground states over the past three days have shown leads for Mr. Obama. On Monday, for example, 19 battleground state polls found leads for Mr. Obama, as compared with just three for Mr. Romney.
+
+Ohio remains the largest problem for Mr. Romney, where he has been behind in most polls all year. Mr. Romney might ordinarily take some solace in the fact that Ohio is slightly Republican-leaning, but the auto bailout may have changed its character this year, as there is evidence that Mr. Obama is performing more strongly with working-class voters in Ohio than he is elsewhere in the country.
+
+Mr. Obama could secure the Electoral College by winning Wisconsin, Nevada and Pennsylvania, along with Ohio.
+
+A win for Mr. Romney in Wisconsin would now qualify as a substantial upset. He has not led in a poll there since August, and an increasing number of surveys there instead show Mr. Obama five or more points ahead.
+
+Mr. Obama’s margins have been narrower in Nevada, but Mr. Romney has a different type of problem there: perhaps 70 percent of the state has already voted, and Democrats have locked in roughly a 7-point advantage over Republicans from the vote so far. This margin is down for Democrats from 2008, but Mr. Romney would nevertheless need an exceptional turnout on Tuesday to make up enough ground.
+
+This has led Mr. Romney to make a last-minute play for Pennsylvania, and there is some evidence that the state has tightened slightly. But the gains for Mr. Romney may be too little and too late, or they may have been counteracted by a national trend toward Mr. Obama. With the exception of one Republican polling firm, public polls of the state still have Mr. Obama leading by three to nine percentage points.
+
+Moreover, Mr. Obama has a number of backup options were he to lose one or more of these states. In Iowa, Mr. Obama leads by about three percentage points in the average of polls, and by a similar margin in New Hampshire. Recent polls also suggest movement toward Mr. Obama in Colorado and Virginia, and he now appears to be favored in each one.
+
+Florida remains too close to call. The FiveThirtyEight forecast has the race there within two-tenths of a percentage point, which would be close enough to trigger an automatic recount.
+
+Only in North Carolina, among the battleground states, has Mr. Romney had a reasonably consistent polling edge over the final week of the campaign.
+
+If the national popular vote winds up roughly tied, instead of favoring Mr. Obama by two points or so, then Mr. Romney could claw back to win Florida, Colorado and Virginia, and perhaps Iowa and New Hampshire. But Mr. Obama’s lead in Ohio, Wisconsin, Nevada and Pennsylvania is clear enough to withstand some underperformance in the polls, and his margins in the polling averages there have converted into a victory on election night a very high percentage of the time historically.
+
+In order for Mr. Romney to win the Electoral College, a large number of polls, across these states and others, would have to be in error, perhaps because they overestimated Democratic turnout. It’s this possibility, more than the chance of a successful hail-mary in a state like Pennsylvania, that accounts for most of Mr. Romney’s remaining chances of winning the Electoral College.
+
+There is also the chance that Mr. Obama could finish toward the higher end of the polling range in most states. If Mr. Obama has gained a point or two nationally because of Hurricane Sandy or other factors, then polls taken before it may underestimate his standing in the individual states as well.
+
+The FiveThirtyEight forecast accounts for this possibility through its trendline adjustment, which is why our forecasts now are slightly more optimistic for Mr. Obama in some states than a simple average of polls. Had there been evidence of late movement toward Mr. Romney, the trendline adjustment would instead have worked in his favor.
+
+But Mr. Romney’s chances of winning the Electoral College have slipped, and are now only about 8 percent according to the forecast model — down from about 30 percent 10 days ago.
+
+The most notable recent case of a candidate substantially beating his polls on Election Day came in 1980, when national surveys had Ronald Reagan only two or three points ahead of Jimmy Carter, and he won in a landslide instead. That year is not comparable to this one in many respects: the economy is much better now, there is not a major third-party candidate in the race, and Mr. Obama’s approval ratings are about 50 percent rather than 35 percent for Mr. Carter. And in 1980, Mr. Reagan had late momentum following the presidential debate that year, whereas this year the momentum seems to favor Mr. Obama.
+
+All of this leaves Mr. Romney drawing to an inside straight. I hope you’ll excuse the cliché, but it’s appropriate here: in poker, making an inside straight requires you to catch one of 4 cards out of 48 remaining in the deck, the chances of which are about 8 percent. Those are now about Mr. Romney’s chances of winning the Electoral College, according to the FiveThirtyEight forecast.
+
+As any poker player knows, those 8 percent chances do come up once in a while. If it happens this year, then a lot of polling firms will have to re-examine their assumptions — and we will have to re-examine ours about how trustworthy the polls are. But the odds are that Mr. Obama will win another term.

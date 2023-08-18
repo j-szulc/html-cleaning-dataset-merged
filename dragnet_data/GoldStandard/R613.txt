@@ -1,0 +1,17 @@
+iOS app promoters can now measure downloads with AdWords
+
+Wednesday, October 24, 2012 | 7:21 AM
+
+Labels: Mobile
+
+Apps are a powerful way to keep your most loyal users engaged, and can also be a real driver of revenue for marketers big and small. When advertising apps, the key is to know what’s working and what’s not. While advertisers have already been able to measure their Android app downloads within AdWords, we’ve now launched the ability to track iOS downloads that were driven by in-app display ad campaigns.
+
+To set up iOS conversion tracking, advertisers need to create a single code snippet in their AdWords account and install it in their app. This snippet is accessible in the AdWords interface in the same place where advertisers have been able to codelessly track Android downloads. With iOS conversion tracking, marketers can better understand which campaigns are most effective at driving app downloads. These enhanced insights help marketers iterate on app promotion strategies to reach their return on investment goals, with the help of features like the Conversion Optimizer for apps.
+
+Figuring out what ads are working is key for marketers like Sho Masuda, Vice President of Player Marketing for GREE, a leading mobile social game app developer. GREE has used click to download and in-app advertising solutions with AdWords to promote their app, and Masuda says, "Google’s host of tracking and optimization tools help us quickly iterate and maximize ROI across our app promotion campaigns. iOS conversion tracking will help us gain even deeper insights into our Google app promotion efforts for our iOS apps.
+
+If you’d like to learn more about how to track value beyond the app download, you can watch a
+recording of our Learn with Google webinar “Understanding your App Users with Google Analytics” here.
+
+Posted by Morgan Hallmon, Product Manager
+

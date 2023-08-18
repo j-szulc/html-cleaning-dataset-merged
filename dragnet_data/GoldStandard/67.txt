@@ -1,0 +1,230 @@
+
+Why I’m a Conference Whore
+
+by randfish on December 29, 2010
+
+Mark Suster, whose blog and tweets I enjoy and whose investments strike me as innovative and smart wrote a blog post in October, Be Careful Not to Become a Conference Ho, that’s been grating on me. The central tenet seems wrong, or at the least, myopic.
+
+via XKCD
+
+Granted, the Internet is filled with content I find disagreeable. But, in this case, it came from a source I nearly always agree with and one who’s clearly influential. Thus, I felt presenting an alternative viewpoint could help those considering the choice and possibly even change Mark’s perspective (though, the chances of him reading this post are probably slim).
+
+In case you didn’t read Mark’s post, here’s a relevant snippet:
+
+In the industry they’re known as “conference ho’s.”  OK, they’re known as conference “whores” but that sounded too harsh for a blog post.  Inevitably a certain number of entrepreneurs feel compelled to attend every conference.  I think I know the root cause.  It can be magnetic being at conferences especially when you’re on a panel, you’re invited to a speakers’ dinner, you’re getting to meet so many new people and you’re getting so much attention.
+
+And for all of these reasons it’s smart to selectively go to a few events here and there – particularly those that you’re likely to have the highest hit rates of connecting with people who can change your business.  But there has to be a limit.  In the same way you wouldn’t spend all of your day in front of your computer at the expense of customer interaction, there has to be a limit to attending conference.
+
+I’ve heard all of the excuses from these CEOs.  ”How else could I get so much BD done?  I work hard on my flights and in my hotel room?  I have a really productive head of products cranking out code.”
+
+Bullshit.
+
+When you’re not in your office on a regular basis you’re not showing leadership.  You’re not setting the agenda.  You’re not establishing culture, inspiring people or resolving conflicts.  When you’re on the road all the time you’re not as productive.  You reach diminishing marginal returns of the next person you met in relation to all that you’re sacrificing by not being in the office working.
+
+Clearly, I’m one of these “conference whores.”
+
+I used my Google calendar to analyze the past 12 months and put together some metrics for 2010: 27 speaking events, ~100 business meetings, 114 days on the road (~90% for work) and 56 flight segments.
+
+That’s a lot of events, a lot of travel and a lot of slide decks to prepare (especially since I’m often on multiple panels/sessions at a single conference). There’s no doubt this takes away from my day-to-day management and means that I’m not as permanent a fixture in the office. But, does it mean that it’s an irresponsible or unwise use of my time?
+
+As CEO, my primary duties to the company are, in order of importance:
+
+1) Creating, spreading and embodying the company’s strategy and culture internally and externally
+2) Recruiting, managing and mentoring the executive team and individual team members (where necessary/helpful)
+3) Evangelizing our brand/products and the broader brand of “SEO” to potential customers and those who influence them
+4) Influencing/Reviewing tactical level work – wireframes, design, functionality, etc. – of our software, content and marketing strategies.
+
+It’s certainly plausible that I’m wrong about what should be on that list, many others have their own opinions of what CEOs should do. And, there’s a long tail of less mission-critical items that I’m responsible for (blogging, weekly videos, monthly webinars, research projects, etc.) which consume plenty of time themselves. Of the essential elements of my job, conferences (and, more broadly, speaking to and meeting with customers, potential customers, partners, industry leaders, et al.) play a substantial role in #1 and #3, a moderate role in #2 and a detracting role in #1.
+
+Thus, the right question to ask is: Do conferences/speaking materially add the most value possible for the effort/time cost?
+
+It’s a hard question to answer and one where I’d struggle to use numeric metrics given the inexact nature of the problem (how many people attend each event, how many pay attention, how does engagement change between watching me speak vs. reading a blog post/watching an online video, what’s the value of having an industry influencer gain/maintain a positive relationship with SEOmoz, how much business development couldn’t be done without an in-person meeting, etc.). What I can do is apply intuition and experience.
+
+Here’s where I see value in speaking at industry events:
+
+• In-Person Branding: Once an event reaches ~150 potential users of our software (or influencers of those potential users), I view the increased engagement to outweigh the limited reach. My goal is to have the audience leave knowing what we do and having a positive impression of our trustworthiness, quality and knowledge of the field. In my experience, this makes them much more likely to buy/subscribe to our software or influence others on their team to do likewise.
+
+• Getting Feedback: In the past couple years, nearly every event I attend has a substantive quantity of attendees who are already our customers. These folks often have excellent feedback about how they use our software, what they want, what else they’re currently using and what they dislike. This isn’t the type of feedback you get over a web form, and while it’s likely rose-colored, it’s still immensely valuable to make sure I’m not getting “out of touch” with real customers.
+
+• Inspiration for Content/Research/Features: Our blog, videos, webinars, tools and research drives tens of thousands of visits to our site each day, but if I’m not active in the industry, particularly in the speaker rooms, bars and lobbies where marketers congregate and discuss their work, my edge is lost. I feel that these types of interactions were fundamental in making SEOmoz an influential resource in its field – allowing that to wane as we grow feels dangerous.
+
+• Business Development + High Level Marketing: During our consulting days, conferences were the primary method of attracting new business (referrals accounted for most of the rest, but never eclipsed events). This has become true once again as our API business ramps up and we attract more premier accounts (the highest tier of our software offering). It even extends into the standard $99/month product – when I glance down the list of our most loyal subscribers, I can honestly say I’ve met and interacted with 7/10 of them at an event (whether this is correlation or causation is hard to say).
+
+• Stay on the Cutting Edge: As many in the search marketing field know (and have observed in numerous blog posts), the speaker rooms, hotel lobbies, bars and parties after a show are prime territory for hearing the latest industry developments. I can point to nearly every piece of content I’ve ever written about SEO and find a direct or indirect influence from conversations conducted at events. A Q+A series after a talk, a dinner with industry colleagues or a bit of banter while walking between lunch and the speaker room have all been geneses for content that’s gone on to bring tens of thousands of visits to our site and dozens to hundreds of potential leads (as measured by our conversion tracking).
+
+• Serendipity that Lead to Funding Events or An Exit: My company has received a few informal offers for acquisition, a handful of pro-active investors (who’ve come to us asking whether we’re interested in funding) and a large number of influencers who’ve helped to connect us when we sought venture financing. I’d estimate that less than 4/5 of all my contacts in the professional world have come via event participation, and I’d say it’s extremely likely that any positive sale outcome for the company will come via those channels. Out of 500 people I meet, maybe 400 will be potential customers, 10 will have a measurably positive impact on the company (beyond a sale) and only 1 will be a true game-changer. With odds like these, how can I refuse?
+
+Given the value I extract (and I’m surely not the best example), I find it perplexing that Mark would argue against participation of this kind. I’m certain there’s a limit to the value achieved from the “road warrior” efforts (and I’m likely hitting up against that limit), but his post is uniquely one-sided.
+
+My recommendation isn’t completely counter to his, though. I encourage you to apply the same discipline in metrics and data that you would with any other marketing / business development channel, add in a pinch of extra weight for the value serendipity might bring and then judge it against the other things you can do with your time.
+
+Who knows – if I were a competent engineer who could crank out code to achieve our vision faster, that might take precedence. But, since I’m a marketer by background, I’m going to continue to hit the speaking circuit, make time for coffees/lunches/dinners and use what I learn to generate more scalable content for our site.
+
+p.s. I wonder if Mark’s post might have been directed to consumer startup CEOs vs. B2B CEOs. The former makes much more sense to me; the latter seems counter-intuitive.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+I think Mark is correct on this issue (abbreviated here)
+When you’re not in your office, you’re not showing leadership, setting agenda, establishing [or maintaining (my words)] culture, inspiring people or resolving conflicts.
+
+Mark has a point. On the other hand, if you have already hired a team you can absolutely trust to do that for you at least 50% of the time, you are freed to spend your time on higher level, strategic activities.
+
+Perhaps asking your key people whether/how your presence affects the culture, morale, work ethic, team interactions, and other KPIs would give you the intelligence you need to make a decision about the % of time to spend in and away from the office.
+
+by Gillian on December 30, 2010 at 12:10 am. 
+
+Rand – that’s a lot of travel for sure. But I totally agree with Gillian – it’s the metrics and team feedback that matter. If it’s working (as I suspect it is) then all is well.
+
+I know I hit the conference circuit pretty hard too, but we measure everything (time, expense, opportunity costs, etc.) and so far feel it has been worth it. Not necessarily each event, but in aggregate, over the course of the year it has definitely paid off.
+
+by Arnie on December 30, 2010 at 12:23 am. 
+
+“p.s. I wonder if Mark’s post might have been directed to consumer startup CEOs vs. B2B CEOs. The former makes much more sense to me; the latter seems counter-intuitive.”
+
+from my point of view this is the main point
+
+by Matteo on December 30, 2010 at 12:40 am. 
+
+I’m with you on this, Rand. 68% of your time in the office is a solid presence. Unless your door is mostly closed, you’ve definitely got your one hand on the wheel.
+
+What you gain from a signifcant presence at conferences is like the hunter-forager who returns home with valuable trophies.
+
+by Ted Ulle (Tedster) on December 30, 2010 at 1:45 am. 
+
+It totally depends on your company and its vision. If your role is partly to promote and build PR, then as CEO you can travel all over and help the company grow. If your role is to lead projects and take care of clients, then you can’t travel as much. Which is the only reason I’m not a conference ‘ho myself.
+
+by Ian on December 30, 2010 at 1:45 am. 
+
+I agree with Ian…not that I’m a CEO or anything of course, but having managed people, clients, and projects, I feel that I am most effective when I’m around my coworkers. With the small amount of speaking and evangelizing that I have done (very small), I’ve felt that I am much much more effective when I’m not around my coworkers.
+
+Being the head of a company and not being in the office, I think you have to rely much more on your head/s of ops to ensure that everything is on track, the vision of the company is being embraced and lived out by employees, and so on. If you don’t have staff that you can rely on for that, then you might be a little irresponsible letting yourself be a conference ho ;-)
+
+by Eric Pratum on December 30, 2010 at 12:59 pm. 
+
+I think one big difference is that when you, Rand, are at an SEO conference the audience is full of your potential customers. When a regular SEO is at an SEO conference, the audience is full of competitors. Thus, it better be really good to offset the lost time in the office.
+
+by Clark Mackey on December 30, 2010 at 2:13 am. 
+
+That is true, but not totally.
+In fact, as Rand also wrote, it is at conferences and with networking that you – as a professional SEO/Marketer – can stay tuned with the last news and discoveries. More over, if you have in your business strategy to build pro active collaborations with other SEO companies (as it is in my case) in order to expand your geo market, then to assist to events it is almost an obligation.
+The important is to choose the rights ones, looking more for the workshop/seminar models than the “huge” ones.
+
+by Gianluca on December 30, 2010 at 5:35 am. 
+
+I suspect that the truth, as so many times, is in the middle.
+To be present in the office is essential in order to maintain the centrality of your figure as CEO and strategic guide of the company. But just to be present is not enough, you must be an active presence, an engaging one. In this sense, the “open door” imagine is perfect.
+Quality of the time spent in the office and not the quantity counts.
+I have learnt with time that is attention what your exec demands. If you are ready to pay attention and listen to them, even though you finally have the ultimate decision, is essential in order to avoid “governments in the darkness” or the “coffee break conspiracies syndrome”, which are the premise of a company internal crisis.
+As far as your case: yes, SEOmoz is a business that operates in a market where is needed to show physically to its customers, also because it lives 99% in a virtual world (website, web app, twitter, Facebook, e-mails…) and customers (also SEOs) need physical presence to really feel being part of a Brand philosophy.
+
+by Gianluca on December 30, 2010 at 5:48 am. 
+
+Hi Rand, interesting post – in my previous job (before moving into SEO, ostensibly in offline marketing) I used to spend 30+ weeks a year travelling – whether it be going to conferences, meeting distributors, or just doing field research.
+
+I left that job to work fulltime in SEO, as it was something I was passionate about, and the travelling made me, well, a bit jaded.
+
+I’m surprised that (if) you aren’t already in that state, where every city seems pretty much the same, every hotel melds into the next and so on.
+
+Postscript:
+Funnily, after 6 years off the conference circuit, Im looking forward to attending quite a few next year!
+
+by MOGmartin on December 30, 2010 at 11:58 am. 
+
+I’d guess part of the value (add/loss) depends on the individual attending these conferences and how that person engages with customers/potential customers/influencers.
+
+Your points are quite correct, though I suspect much of it has to do with your drive, personality and trust in your team back at the office.
+
+SEOmoz appears to have a particular type of environment which many other businesses do not.
+
+I also suspect that if you attended a string of conferences with diminishing value you’d begin to re-evaluate the time and effort against the productivity/value before attending the next few.
+
+I’d also like to know whether you speak with your team after the conferences to give them a recap. I suspect being able to see/hear many of the conferences online helps your team feel you’re out there working, hard.
+
+Many CEOs may attend conferences and become invisible to the home base. If the CEO is out of the office most days and not engaged with the team when he/she is back, eventually those who are trudging away in their cubicles will become resentful (why do I have to be here working when he/she isn’t?).
+
+Visibility, transparency, work environment all must be considered when evaluating the “costs” of being on the road.
+
+I suspect you, Rand, are well-known to be a hard worker regardless of whether you’re in office or abroad.
+
+That makes all the difference.
+
+by Kristen on December 30, 2010 at 2:04 pm. 
+
+@rand….great posting and I too agree that the 68% that you spend “in” the office is most likely very functional and efficient to “guide” the firm in it’s operations….the only thing I didn’t like at all was the 13% spent travelling….that’s gotta be a drag on you and the firm too…..to a degree at least…
+
+one more thing – a big Happy Canuck New Year to you and yours and SEOmoz too, eh….2011 is coming and so are new challenges, trials and tribulations too! I can’t wait….
+
+:-)
+
+Jim
+
+by Jim Rudnick on December 31, 2010 at 3:29 pm. 
+
+Hey, Rand. Thanks for the post and not such a slim chance I would read it!
+
+Listen, it’s a difficult topic for sure because there are people who CAN make it work. I’ll surmise that you’re one of them. People who make it work are very disciplined about their attendance, their objectives, their follow-up afterward and their ability to be “present” when they’re back in the office so that decisions aren’t delayed.
+
+The problem is that the negative effects are much more common:
+- leaders who are seen by their staff on yet another boondoggle
+- people who enjoy the conferences because they build such amazing relationships that enrich them personally (at the expense of company performance)
+- people who are in it for the late night boozing & schmoozing that makes it hard to be as productive as they should be
+- teams that feel decisions get delayed because “the decider” is on the road again
+- and VERY common is the staff who sees the “trophies” that the leader brings home from the conference as “another fucking wild goose chase for some guy my boss met at his last event but he’s now at his next one so I’m left holding the bag trying to figure out what to do with this lead!”
+
+I promise you I hear the teams below CEO who are far more negative than your article suggests. Rand, I have no doubt about your effectiveness but I believe you’re in the minority. I was deeply concerned that my post upset you (when I saw it originally on Twitter) because I value what you write and respect you. I know that my post can’t be a blanket indictment of everybody who goes to conferences and I’m sure you should keep on doing whatever you’re doing – it seems to be working!
+
+by Mark Suster on January 4, 2011 at 8:51 pm. 
+
+I wonder if we might both be experiencing some selection bias. I see and know founders/CEOs who really have built their businesses through conferences/events (this is probably because I go to quite a few and see many of the repeat-attendees who have successful, growing businesses).
+
+Certainly, as a consultant, or the CEO/head of a consulting firm, nothing I’ve seen brings in better leads.
+
+My situation is a bit different in that we have no sales team, sales cycle or sales process – all “leads” are over the web and the funnel exists solely through our site (nice for scaling, hard if we were focused on high-priced, enterprise customers). That could also be a differentiator.
+
+As for my own effectiveness and motivations, I must admit, there are likely a few events I attend that add less business value than I perceive or hope. Your post will certainly have me think a bit harder about that and about the perception of my team / decision delay issues, too.
+
+by randfish on January 5, 2011 at 6:24 am. 
+
+Rand,
+
+I agree that in your case the conferences are key and you have built up a great brand by being at them all. As a not so direct competitor as we are after the companies you’re not targeting (enterprise) in the board room is where I will win additional business and not at events.
+
+Just to let you know, when I do go to conferences first question from my team is always did you learn anything second is any interesting people? Since I know my team is watching I only go to a select few events a year in my area that I can be back in the office by early afternoon.
+
+Your team is watching but in your case with admiration.
+
+by Mayer Reich on January 5, 2011 at 6:42 pm. 
+
+Very interesting post and “discussion” with Mark Suster. I would like to inject some observations:
+
+- As previously stated, your particular type of business is clearly making social engagements more relevant. The vast majority of business have requirements closer to those identified by Mark (imho).
+
+- It would be interesting to see how much of the time “at the office” you spend on activities that support your conference attendance (e.g. booking travel & meetings, preparing presentations, following up on contacts, maintaining social media profiles, etc.). All that time is really subtracted from the leadership function of a CEO – whether you do it at the office or on the road.
+
+Lastly, and maybe most importantly, I would propose a very simple check for CEOs: Could this activity be done by a (current or new) subordinate with similar results? If so, then you are likely wasting your own (CEO) time.
+
+Not knowning your business, it would seem to me that “yes” might be the answer to this. A good VP of Marketing/SEO should be able to achieve all the results on your list but he generally cannot lead, cannot develop senior staff, cannot set strategic vision, and cannot make major decisions (unless you have some very non-traditional role-sharing and delegation mechanics). That’s the unique role of a CEO and his contribution to the value of the company.
+
+Of course, I know nothing about the circumstances and the current model seems to work for you. This is all more directed at all those for whom it doesn’t work.
+
+by Helge Seetzen on January 5, 2011 at 7:53 pm. 
+
+[...] As CEO, it’s my responsibility to embody all of our core values and represent them visibly both internally and externally. This means doing a lot of sharing with the team not only about the direction we’re going but why and how we arrived at those decisions. It also means spending a lot of time facing externally, sharing our learnings and getting feedback from customers and marketing professionals. It’s one of the reasons I’m on the road so much. [...]
+
+by Seattle Interview #2: Rand Fishkin, CEO SEOmoz - digitalCMO.com on January 24, 2011 at 7:53 am. 
+
+As the CEO of your company it is your decision to do what you think is best. You get a huge return from conferences and missing out on these can cost your company money!
+
+One thing I would like to point out though is the new header on seomoz.org. The orange/yellow is awful. Did you sign off on that?
+
+by Brian Greenberg on May 6, 2011 at 7:09 pm.
+
+I don’t do official sign-offs on everything, but the new colors/layout seems to have a positive impact on user/usage metrics so I can’t complain much.
+
+by randfish on May 7, 2011 at 5:42 pm. 

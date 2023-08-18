@@ -1,0 +1,20 @@
+Turn CAPS Lock into a Dedicated Windows Key
+
+The Windows key is probably the most important key in Windows 8 since it is part of so many new keyboard shortcuts.
+
+Now if you have been using an old keyboard that doesn’t have a dedicated Windows key or if you would like to add another Windows key to your  keyboard for ease of access, what you can do is remap the rarely-used CAPS lock key and turn it into a Windows key. Here’s how:
+
+Remap the CAPS Lock Key in Windows
+
+To remap any key in Windows, you need to make certain changes to the Windows registry. Since this can be intimidating to most users, there are tools available that let you map one key to another without fiddling with the registry.
+
+Sharpkeys and Microsoft Keyboard Layout Creator are popular programs that perform key remapping but I prefer ScanMapSet since it requires no installation and once the required keys have been mapped, you can just delete the utility.
+
+     Download the scanmapset.exe file and put it in, say, c:\temp folder.
+    Open the Command Prompt in Windows as an administrator (video tutorial).
+    Switch to the temp folder (using cd) and run the following command.
+
+scanmapset.exe -s capslock=lwindows
+
+Restart your Windows computer and the CAPS lock key will now function as a Windows key.
+[*] If you are trying to map a key in Windows 7 or Vista, see this tutorial on how to open the Command line as an administrator.

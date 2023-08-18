@@ -1,0 +1,43 @@
+
+Could the Next Planetary Rover Come from Canada?
+
+by Evan Gough on October 29, 2012
+
+Want to stay on top of all the space news? Follow @universetoday on Twitter
+
+Prototype of the new Juno rover, a 300 kg rover for a mission to Mars or the Moon. Credit: CSA 
+
+The Canadian Space Agency is well known for its robotics but they’ve recently expanded from robotic arms to building prototypes for five new rovers, designed for future lunar and Mars missions. They range from microrovers to full-sized science missions and range in size from 30 kg up to 900 kg. The largest of them, the Lunar Exploration Light Rover, is designed to carry a scientific payload and can be fitted with a robotic arm. It has a range of 15 km, can be operated remotely, or can be used to carry astronauts across a planetary surface.
+
+A version of the Juno rover with tires. Credit: CSA
+
+The two Micro-Rover prototypes, at 40 kg and 30 kg., are designed to be operated in conjunction with larger rovers, and can be tethered to them and lowered into otherwise inaccessible areas.
+
+“On the Moon, permanently shadowed craters provide many interesting areas to find water and other volatiles, Jean-Claude Piedboeuf, Director of Space Exploration Development at the Canadian Space Agency told Universe Today. “These craters have steep slopes making it difficult and risky for a large rover. Therefore, sending a micro-rover tethered to its mother one gives us the ability to explore the bottom of these craters with a minimum risk. Sending only a micro-rover could be an option. However, they are very slow so it is more efficient to have them on a larger rover to cover long distance and deploy them when needed.”
+
+The micro-rovers can also be used to work alongside astronauts, to gain access to small spaces like caves.
+
+The rovers should be mission-ready by about 2020, and NASA is already interested. Most missions to Mars and the Moon involve geology, and sometime in the future, mining. For instance, NASA has an experiment under consideration that entails digging up soil on the Moon and making hydrogen and oxygen out of it. These designs are intended to fit in with those types of activities.
+
+Space robotics technology has long been a point of pride for Canadians, Canadarm was a fixture on the Space Shuttles and made it possible to do things like deploying satellites like the Hubble Space Telescope and was instrumental in building the International Space Station. CSA also built the huge Canadarm 2 and Dextre, the highly dexterous dual-armed robot, both of which reside on the International Space Station. More recently, CSA contributed a robotic arm and other equipment to Curiosity, the newest NASA rover to land on Mars.
+
+Artemis is a light-weight terrestrial prototype that can either be operated by a human nearby or at a remote location, or use its onboard sensors to scan its environment and navigate without the need for a human operator. Credit: CSA
+    Remove this ad
+
+The new rover designs will add to the fine lineage of Canadian space robotics. Once they are deployed on missions to the Moon or Mars, they may end up elbowing the Canadarm and Dextre out of the spotlight. If they do take centre stage, no feelings will be hurt. Many of the same people who worked on the Canadarms and Dextre are involved in the development of the rovers.
+
+“MDA (MacDonald, Detwiler and Associates) was the prime contractor for Canadarm and Dextre and is prime on three rover prototypes,” said Piedboeuf.
+
+With these rover prototypes, CSA has avoided the one size fits all approach to rover design.
+
+“The fleet developed by the Canadian industry for the CSA covers the range of applications we envisage and that will be welcomed by our international partners,” said Piedboeuf.
+
+Though the CSA doesn’t anticipate any other rover designs, these 5 prototypes could be focused “on more specific applications such as in-situ resource utilization or science,” explained Piedboeuf.
+
+If you find the unveiling of 5 new rover prototypes exciting, you’re in good company.
+
+“People in industry, academia and within the CSA were excited to develop these rovers that could be one day on the Moon or Mars,” said Piedboeuf. “The opportunity of working on prototypes of space rovers with challenging requirements and advanced autonomy was a great motivation.”
+
+See more images and information on the fleet of rovers at CSA’s website. 
+
+

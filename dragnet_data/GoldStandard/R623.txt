@@ -1,0 +1,52 @@
+
+
+November 2, 2012 7:39 pm AEST — By Long Zheng
+BUILD 2012: Pay attention to Windows 8 app performance on ARM devices 
+
+As thousands of BUILD attendees unboxed their Surface RT devices, one of the first things they did was to try out how their Windows 8 apps ran. Unfortunately for many of them, including us the MetroTwit developers, we witnessed notable performance issues.
+
+It turns out this is to be expected, especially since Windows RT devices will be flooding the market with relatively low-powered ARM processors and graphics processors (compared to grunty x86 dev machines). It is recommended developers target and test their apps on the lowest common denominator which at the moment seems to be the Surface RT.
+
+In one of the most useful presentations at BUILD 2012, “Performance tips for Windows Store apps using XAML“, the presenter Kiran Kumar gave out many tips that C# XAML app developers can utilise to address several key performance issues that he sees plaguing most Windows 8 applications.
+
+Startup loading resources
+
+One of the first problems that might plague an app’s perceived performance is the startup time stuck on the splash screen. As Kiran explains, a lot happens in the few seconds that occurs after tapping on the Start tile including loading and parsing all the referenced XAML page resources.
+
+Two tools that can help debug exactly what is going on in the background (and two of the ugliest developer tools) are XPerf and Windows Performance Analyser. When their powers combine, they produce a visual timeline of all the loading events that might be unnecessarily bloating the startup process.
+
+A common issue in many apps is loading all of the resource styles inside App.xaml which is convenient from a developer’s perspective since it’s available application-wide, but unfortunately it also means the resources have to be loaded at startup, instead of loading what is absolutely necessary for the page.
+
+Fill rate
+
+A significant factor to the rendering performance is overdraw which is affected by the relatively low fill rate of Windows RT devices which can only draw each pixel on the screen around 3-4 times.
+
+What this means is that if there are a lot of overlapping elements that render on top of another, it may not have enough time to draw the pixel to reach the desired 60 frames per second for a smooth animated interface experience.
+
+Bizarrely and to many developer’s surprise, even the default templates that Microsoft ships with the Visual Studio 2012 project templates (Common\StandardStyles.xaml) are actually not optimised for fill rate.
+
+Specifically the “Standard250x250ItemTemplate” style has multiple unnecessary layers which overlap one another. Removing these and ensuring elements are split by rows and columns will avoid pixels from rendering on top of one another.
+
+Direct Manipulation hardware acceleration
+
+Last but not least, another significant factor of Windows RT app performance is touch since it is the primary form of input for slates. To address this specifically, Microsoft has “Direct Manipulation” which uses hardware acceleration that makes touch panning much better than mouse.
+
+With that in mind, there are a few gotchas that may inadvertently disable or affect Direct Manipulation’s acceleration for panning which includes hooking into “Pointer” events for moving objects and currently, and the ScrollViewer control is the only method to take advantage of Direct Manipulation.
+
+The notes above are just the tip of the iceberg to what Windows 8 C#/XAML app developers should be aware of when making performant applications. As the app ecosystem is still in its infancy, it’s not unexpected that many apps, including my own, are still learning the tricks of the trade.
+
+No doubt as the ecosystem matures, there will be more tips from Microsoft and third parties that will help shape the best practices for developing performant Windows RT applications for low-powered ARM devices.
+
+
+!@#$%^&*()  COMMENTS
+
+
+Soup Waiter
+November 2, 2012 at 10:46 pm	
+
+So if a developer is pushed for time and money by marketing and accounts goons, as usual, he’ll skip the documentation and quickly launch something that looks ok. Then the windows 8 AppSphere will be quickly filled with tons and tons of software that sort of works but it’s a bit annoying but we put up with because it’s free.
+
+Well they got one thing right, it’s an epoch making moment just like Win95 was, despite the fact that it’s 2012 now.
+
+I’ve always used Microsoft stuff, and Android, anything but Apple really. Now I need a full Android desktop pc capable of running windows based software. And I mean Software not “Apps”.
+

@@ -1,0 +1,23 @@
+November 06, 2012
+Mobile networks nearing normal coverage after Sandy
+Verizon Wireless reported 99 percent of its cell towers in the Northeast are now online
+
+Cellular coverage for some carriers approached normal levels in the northeastern U.S. a week after Hurricane Sandy made landfall, but some areas remained cut off from mobile service because of ongoing power and telecommunications outages.
+
+Verizon Wireless said on Monday that 99 percent of its cell towers in the Northeast were online, up from 97 percent on Friday, while AT&T reported that more than 98 percent of its cell sites were operating. New York City and New Jersey remain the epicenter of cellular woes, though carriers continued to improve coverage there. AT&T said 95 percent of its sites in the city were up and running.
+
+[ Get expert advice about planning and implementing your BYOD strategy with InfoWorld's 29-page "Mobile and BYOD Deep Dive" PDF special report. | Keep up on key mobile developments and insights with the Mobilize newsletter. ]
+
+T-Mobile USA said on Sunday that it had restored service to almost 95 percent of the city and was still sending generators to cell sites in New Jersey that it could reach. Meanwhile, Sprint Nextel said its network was 85 percent operational in New York, New Jersey and Connecticut but had been fully restored in several other states.
+
+Carriers made progress over the weekend through around-the-clock work and the deployment of portable cell sites and generators. AT&T said it had rolled out more than 3,000 generators to power wireless and wireline facilities and used more than 70 fuel trucks to keep generators and service trucks operating. A network-sharing arrangement between AT&T and T-Mobile in parts of New York and New Jersey is still in effect.
+
+Monday's report from the U.S. Federal Communications Commission zeroed in on 76 counties hardest hit by the storm in New York, New Jersey, Connecticut and Pennsylvania, a smaller area than it gave statistics on last week. In that smaller zone, 9 percent of cell sites were down at 10 a.m. Eastern on Monday. That was an improvement on the nearly one-third of sites there that were down last Tuesday, just after the storm's main impact. Many of the cells are out because of ongoing power or wireline network failures, the agency said.
+
+One consumer advocate said carriers could have done more to prepare for the disaster. They should be required to set up network-sharing arrangements ahead of time, and to tell government agencies where they have emergency infrastructure such as batteries and generators, said Harold Feld, senior vice president of the advocacy group Public Knowledge. Feld believes carriers should have formal coordination plans in place with state and federal agencies rather than just establishing points of contact.
+
+"There are a lot of things that we could do that could improve emergency performance," Feld said. "It's time for a much more systemic approach."
+
+Asked whether it could be better prepared for such disasters, Verizon Wireless defended its record. "Throughout the year, Verizon Wireless works to keep its wireless network the nation's most reliable, so we're ready for any natural disaster that may affect our customers and communities," spokesman Tom Pica said in an email interview.
+
+Stephen Lawson covers mobile, storage and networking technologies for The IDG News Service. Follow Stephen on Twitter at @sdlawsonmedia. Stephen's email address is stephen_lawson@idg.com.

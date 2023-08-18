@@ -1,0 +1,27 @@
+Google Earth Outreach launches in Australia and New Zealand
+Monday, November 5, 2012 at 7:53 AM
+(Cross posted from Google Australia Blog)
+
+Great Barrier Reef coral health, fire management, and depleting forest cover are some of our nation’s greatest environmental challenges. But up until now it has been a challenge to bring large-scale environmental issues (that might affect hundreds of thousands of acres) to life in a meaningful way. To help address this, we’re bringing Google Earth Outreach to Australia and New Zealand.
+
+With Google Earth Outreach, nonprofit organisations can use Google mapping tools to visualise their causes and tell their stories to millions of people around the world. 
+
+See how nonprofits and researchers are using Google mapping tools.
+
+Across the globe, nonprofits have used Google Earth Outreach to help clear landmines in Cambodia and Angola, and to demonstrate forest and wildlife loss in Sumatra, Indonesia. At last night’s official launch event at Macquarie University, we announced new projects with three Australian partners.
+
+Dr. Elizabeth Madin from Macquarie University demonstrated how her team is using Google Earth to further her work in investigating coral reef landscapes; they integrate ecological theory and the high-resolution satellite imagery available in Google Earth to identify “grazing halos”, which may be able to tell us more about coral reef health.
+
+The Great Barrier Reef Marine Park Authority launched an interactive map, which will shows how their Reef HQ Aquarium is bringing the Great Barrier Reef to students around the world. They also launched a Google Earth narrated tour following the track of Torres the Green Turtle as he swims along the Great Barrier Reef and meets incredible marine life along the way.
+
+The Australian Wildlife Conservancy also unveiled two Google Earth tours. The first tour flies through their 23 sanctuaries which cover more than 3 million hectares to bring to life their fight to save Australia’s unique wildlife from extinction. The second tour overlays AWC geospatial data on top of Google Earth to demonstrate the impact of their EcoFire Project in the Kimberleys over the last six years. 
+
+Take the new Google Earth tour from AWC
+
+If you’re a nonprofit interested in learning more about the Google Earth Outreach program, check out our website. There you’ll find tutorials and a showcase of nonprofit success stories, and you can also apply for grants for Google Earth Pro, Google Maps Engine, Google Maps API for Business, and Google Maps Coordinate.
+
+We hope that by bringing this program to Australia and New Zealand, many more organisations will be able to tell powerful visual stories about the important work they do, to both help them raise awareness and funds and further their scientific goals.
+
+Posted by Raleigh Seamster, Program Manager for Google Earth Outreach
+
+

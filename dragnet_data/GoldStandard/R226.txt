@@ -1,0 +1,25 @@
+
+Could Plasma Jet Thrusters Kickstart Interplanetary Travel?
+
+by Nancy Atkinson on November 1, 2012
+
+Want to stay on top of all the space news? Follow @universetoday on Twitter
+
+A great offshoot from commercial space companies getting a foothold in real missions to orbit is that the old entrepreneurial space spirit seems to have been revived. People are attempting to develop and build what could be breakout space technologies, sometimes in their garages or basements. A new Kickstarter project is especially exciting, as it is looking to build a prototype electric pulsed plasma jet thruster, and the engineers behind the project say this could be used for reliable, high performance, low cost interplanetary space transportation.
+
+A group plasma physics researchers started a company about 8 years ago called HyperV, and they have come up with a new design for basic pulsed plasma jet technology. It runs on superheated ionized particles, and the engineers envision it could be used for orbital maneuvering, asteroid/comet rendezvous, orbital debris cleanup and interplanetary transportation.
+
+They say that using this kind of electric propulsion would significantly reduce the mass and weight of spacecraft, resulting in more affordable missions. Although there are other types of electric propulsion systems that have been used for space travel – with mixed results — the HyperV team believes their new design offers solutions to problems in previous designs, and will ultimately provide cheaper and more robust space travel.
+Remove this ad
+
+The team describes their project:
+
+    We believe our thruster technology has the potential to be just as efficient as existing electric thrusters (such as ion and Hall effect thrusters) and with similar specific impulse. But our advantages will be derived from a thruster that is less complex (and much more robust), which can use a variety of propellants including gases, inert plastics, and propellants derived from asteroids, Mars, the Moon, etc., It will also be far cheaper to build, and can be more readily scaled to larger sizes and very high power levels than current electric propulsion systems. Our plasma thruster technology should be scalable from a few kilowatts all the way up to megawatts of average power. The electricity which is needed to power electric thrusters would most likely come from new high performance solar panels, but could also utilize other compact energy sources. From a practical viewpoint for satellite design, our thruster will have much higher thrust per unit area than ion or Hall thrusters, thus taking up less room on the rear of the spacecraft. 
+
+They predict their prototype could produce a specific impulse (Isp) of 2000 sec, which is an equivalent to an exhaust velocity of 20,000 m/s.
+
+They are looking to raise $69,000 by November 3, 2012 to get their project started. At the time of this writing, the team has just over $54,000.
+
+Here’s a video from HyperV:
+
+“We invite you, the citizens of Earth, to join with us as we design, construct, test, and execute this demonstration,” the team wrote on their Kickstarter page. “The culmination of this project will be an all-up, laboratory demonstration of our prototype thruster.”

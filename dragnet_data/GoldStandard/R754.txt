@@ -1,0 +1,52 @@
+Keeping Your Files Secure: What Obligations Does a Freelancer Have?
+
+    Thursday Bram |
+    Tips & Tricks
+    | November 9th 2012
+
+
+The day you start freelancing, you’re running a business. That means that you have certain obligations to your clients to ensure that their information is secure. Depending on the clauses in any contracts you sign, you may take on additional obligations — an NDA, for example, can turn into a lawsuit if you don’t take adequate steps to protect any information you’ve been provided.
+
+Exactly what constitutes adequate security is hard to define. For some professions, like lawyers or accountants, there are fairly strict guidelines as to how client information is to be handled. It’s less clear for most creatives.
+Physical Access
+
+Whether you work at home, at a coffee shop, or in an office, it’s important to think about who physically has access to anything you’re working on. If you leave papers around, who can pick them up and read them?
+
+    Cultivate some healthy paranoia.
+
+At a bare minimum, you need to take steps to limit that sort of access to anything you’re working on. If friends are often over at your house, you need a place to put your work away that’s at least marginally secure: a locking file cabinet or a locked office is generally a good idea. Cultivate some healthy paranoia. For those visitors to your home or office who are unwelcome, a security system may be in order.
+Computer Security
+
+Of course, there is such a thing as too much paranoia. It’s unlikely, for most freelancers, that anyone would break into your home or office just to get their hands on the details of a project you’re working on. It’s not impossible, though, that someone might break in to get their hands on a nice laptop and some other computer equipment. The ramifications may not be so very different, at least from a client’s point of view, though: if someone else gets a hand on details of a client’s project, even unintentionally, it can be concerning.
+
+Password-protecting your system will stop anyone who isn’t particularly technically savvy, though there are more and more ways to get around passwords and other basic security measures on computers. But if you don’t have those measures in place, a client will assume you’ve done practically nothing to protect their information.
+
+Just how far you want to go in terms of encrypting files and adding more advanced security measures is a matter of your own preferences. It’s a rarity to find a client with specific computer security requirements for vendors, so you have to decide what you can work with and manage without a full cyber security division to support you.
+
+To give you an example of what you might want to start thinking about in terms of security, here are some of the measures that I’ve taken:
+
+    I have set up any site that I use on a regular basis for https access and two-factor authentication, where possible.
+    I review the security policies of any site or service I use to handle anything that touches on client work, looking for details like SSL encryption.
+    I use robust passwords — usually impossible to remember, but there are a lot of good tools for managing passwords — and I set regular appointments on my calendar to change my passwords.
+
+If you’re responsible for a server, social media accounts or other projects that might be targets of hacking, you’re going to need to be thinking about even more specific issues.
+
+Staying up to date on current vulnerabilities in your area of expertise is a must, as well as educating yourself on your security options. You do have an obligation to care for your clients’ accounts as if they were your own
+Starting with Security
+
+If you’re not sure where to start with all the different elements of computer security, CryptoParty.org offers a primer and events geared to educate people on different aspects of security. It can get you up to speed on the jargon and give you some ideas on what’s practical to do on your own.
+
+You might also consider asking around among freelancers and small business owners in your area to see what steps they take in terms of physical security. You may find a company offering basic security systems for businesses, or even find a resource to teach you how to set up a security system of your own.
+
+Photo credit: Some rights reserved by olivier26. 
+
+
+!@#$%^&*()  COMMENTS
+
+
+Brandon Nater
+November 10th
+
+http://random.org/passwords has a password generator. I use this just about every time I create a new account for a client that requires a password, like setting up hosting or analytics or 3rd party backup… I’ll save the password to a spreadsheet, which is password protected.
+
+It’s worth noting that, #1, people tend to use the same passwords across multiple apps, so if a hacker gets one, he may just try it across all platforms. #2, most people that get hacked use the same 10,000 easy to guess passwords. Don’t be a do-do by creating an easy password.

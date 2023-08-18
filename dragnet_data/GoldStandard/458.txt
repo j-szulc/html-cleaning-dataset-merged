@@ -1,0 +1,96 @@
+
+Fault-tolerant systems are faulty
+
+by John on July 13, 2012
+
+Richard Cook wrote an excellent article How Complex Systems Fail. The author packs a lot of ideas into four pages, divided into 18 points. Here Here are his first five points.
+
+    Complex systems are intrinsically hazardous systems.
+    Complex systems are heavily and successfully defended against failure.
+    Catastrophe requires multiple failures – single point failures are not enough.
+    Complex systems contain changing mixtures of failures latent within them.
+    Complex systems run in degraded mode.
+
+Cook (no relation) elaborates his fifth point:
+
+    A corollary to the preceding point is that complex systems run as broken systems. The system continues to function because it contains so many redundancies and because people can make it function, despite the presence of many flaws.
+
+Complex systems are necessarily fault-tolerant. If they weren’t fault tolerant, they likely wouldn’t survive long enough to become complex. Unfortunately, the down side is that fault-tolerant systems are always faulty.
+
+We want our software to be fault-tolerant, but it is very difficult to tolerate faults without encouraging and concealing faults. (Think of badly formed HTML, for example.) Fault tolerance can work smoothly if you have a well-defined range of faults that your system is designed to tolerate. But misguided attempts to tolerate errors can mask problems, delaying but not preventing failure, making the failure harder to diagnose and repair.
+
+Some systems must be complex and fault-tolerant. But when we decide to make something fault-tolerant, especially if there is a realistic alternative to make it simpler, we should be aware of the consequences.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+David Janke 07.13.12 at 07:34
+
+    Wait… so i should or should not use empty Catch blocks to prevent exceptions? :)
+
+    Seriously though, good error logging is key. The system should be able to hide problems from the end users, but the developers need to see the errors… if only to be generally aware they are happening
+
+
+John 07.13.12 at 07:38
+
+    John Robbins has a great war story about an empty catch block. He flies around the world to help companies find and fix bugs. He tells in his book about one case where he was brought in to fix a problem that was masked by a catch(…) statement.
+
+
+rdm 07.13.12 at 08:59
+
+    I would change the thesis here to “fault tolerant systems which conceal faults are faulty”.
+
+    It’s quite possible to build a system which makes faults known. The trick here is that knowledge of their existence is more important than knowledge of their details. Once we know that they exist we can decide to look into them, but if we discard knowledge of their existence to keep from being overwhelmed by their details?
+
+    …
+
+    One of the oldest systems for monitor complex systems failures would probably be our “pain” mechanisms. Here we have “slow nerves” and if the sensory data from our slow nerves does not correspond to the levels of activities we had already received from our fast (sensory) nerves, we feel pain.
+
+    Another such system is double entry bookkeeping, where we compute sums in several ways, so that if someone doctors the numbers we can detect the problem.
+
+    In a computer system, counting how much activity a particular chunk of code is experiencing can be invaluable. This is the basis for spam detection, for efficient JIT compilation, for code coverage analysis and…
+
+    Anyways, I think you are onto something, but I think that we cannot overlook issues related to observation here.
+
+    That said, there are plenty of signs that [for example] our current electronic financial infrastructure was not built with enough attention to detecting failures. (And apparently people with control over large sums of money are using Black-Scholes — which rates an exchange value based on the assumption that it is not risky — as if it meant that risky transactions were risk free.)
+
+
+Richard 07.13.12 at 10:52
+
+    “make decide to make”
+    typo?
+
+
+John 07.13.12 at 10:54
+
+    Thanks. Typo fixed.
+
+
+Dave Tate 07.13.12 at 15:14
+
+    Here’s an orthogonal view on the same phenomena:
+
+    Complex systems display emergent behavior.
+
+    Emergent behavior cannot be predicted.
+
+    ‘Engineering’ is the art and science of preventing emergent behavior.
+
+    Therefore, complex systems cannot be engineered.
+
+
+Nathan 07.16.12 at 11:43
+
+    I observed axiom 5 as a young(er) engineer. Professionally, I am a software developer creating high-availability digital storage solutions (fancy-talk for fault-tolerant file servers).
+
+    I was debugging one of those lovely problems where it seems like we never should have wound up in the part of the code we were in. I eventually determined that we were always going down the failure path–in the words of the original post, that we were constantly in degraded mode. This also explained why I was seeing the error, because it was in essence a double failure (which wasn’t handled) rather than the single failure I had thought it was.
+
+    This led to a conundrum: do I simply handle the double failure, or fix the bug which caused us to be in degraded mode to begin with? The former was clearly an incomplete fix, but it’s easy to schedule and involves little code churn. The latter could potentially have a much greater impact on the schedule and could end up changing a lot more of the code, potentially introducing even more subtle bugs.
+
+    As I recall we went with option 1 for the immediate fix and then did option 2 for the next major release…
+

@@ -1,0 +1,20 @@
+Letting Bluetooth Shift Your Bike's Gears For You
+Orion Jones on November 8, 2012, 12:43 PM
+
+Article written by guest writer Kecia Lynn
+
+What's the Latest Development?
+
+Designers at Cambridge Consultants Limited have created a Bluetooth-enabled bicycle gearshift that communicates with an iOS app to calculate and shift up or down to the most optimal gear. The Shimano electric gearshift has been modified to accept wireless signals and works in both manual mode (by accepting commands from the rider via the iPhone) and automatic mode (by sending data from sensors on the bike itself). The app can also analyze a cyclist's performance, and will eventually be able to use GPS to anticipate road grade changes that may require gear shifting.
+
+What's the Big Idea?
+
+Automatic gearshifts already exist, but mechanical ones wear out quickly and previous electric versions relied on cables between the switches and gears. The inclusion of Bluetooth means that the cables are no longer needed. However, Joel Natale, a head buyer at a UK bike shop chain, sees a couple of potential issues, including the simple fact of getting the average cyclist to let a machine do the gearshifting. He does see one potential market, though: "Triathlon riders...[They] like to ride at constant [pedaling speed] and power."
+
+Photo Credit: Shutterstock.com
+
+Read it at New Scientist
+
+Related Content
+
+

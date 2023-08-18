@@ -1,0 +1,17 @@
+
+The Future of C++: Live broadcast this Friday
+
+2012-10-29 by Herb Sutter
+
+In my talk on Friday, there will be announcements of broad interest to C++ developers on all compilers and platforms. Please help spread the word.
+
+    The Future of C++
+
+    Friday, November 2, 2012
+    12:45pm (U.S. Pacific Time)
+
+    This talk will give an update on recent progress and near-future directions for C++, both at Microsoft and across the industry, with some announcements of interest in both areas. The speaker is the lead language architect of Visual C++ and chair of the ISO C++ committee.
+
+The talk will be webcast live, and available soon afterwards on demand.
+
+If you know people who are interested in C++, on any platform, you’ll want to let them know to tune in.

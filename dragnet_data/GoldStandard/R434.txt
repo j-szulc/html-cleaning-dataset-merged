@@ -1,0 +1,395 @@
+133. Depth Compositing
+• Use a Z-pass render to combine 2D stock footage
+• Use most 3D programs like 3D max, C4D & even Element 3D
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Nash
+10/31/2012
+Could someone please answer this! I have bought all of video copilot's products so far and i am still learning as much as i can. I am now stepping in 3D as well and would like to know the following before i buy element 3D too. I understand some of its functionalities like particle replicator, animating 3D models etc. But apart from importing those 3D files made with other programs, can element 3D itself create basic 3D stuff from scratch, for example the rocks in the tutorial above? Or the 3D debris material from the meteor crash tutorial? Referencing the epic shatter tutorial, can element 3D shatter that same 3D ball? Anyways keep up the good job guys! I hope we can see a 3D package with some form of vehicles like a car and a chopper sometime as well. Will definitely buy that and also looking forward to 3D buildings and skyscrapers pack!
+
+leon
+10/31/2012
+i like it so nice
+
+Majd
+10/30/2012
+simply ... you are amazing ..
+I adore all of your works ... to death
+keep it up sir.
+
+Gaurav Nema
+10/26/2012
+Cool . . !! :) Nice thing to use frequently with the 3d renders ;) awesum
+
+Warren
+10/25/2012
+thank you very much! I will really be using this technique a lot, it shows more possibilities with element and ae, and I can add real rocket jazz to my current project. nakushukuru bwana!
+
+nacer abd el rahman
+10/21/2012
+thx for this cool lessons in AE I' from algeria 15 year old worl whith AE CS4 I have some fun when I do effect in this programe
+
+MathewHD
+10/19/2012
+NICE
+
+logesh
+10/19/2012
+Great one man, thanks for sharing.
+
+Daniel Donkor
+10/19/2012
+u are to much
+
+KUSH
+10/05/2012
+Sir You Are Owsome, I M Great fan Of Yours, And i want to be a VFX artist ........!
+
+KAntonio
+10/01/2012
+You're crazy man, You're crazy (Deep Slow Motion Voice)
+
+Ono
+09/26/2012
+I Need this?
+
+Dorian
+09/25/2012
+Thanks Andrew, very much appreciated!
+
+Adnan
+09/24/2012
+Hi,Andrew.
+I like u.And u r the best teacher in this field.i have learnt many things from You.Thats why I Love u.not like girl friend but as your student.and this is my first mail to u.thanks.
+
+coolas44
+09/18/2012
+i cant find the gun sound can someone help me!
+
+Ali Shabab
+10/12/2012
+ok i find gun 4 u
+IgorStar
+09/19/2012
+You can use one from the sounds folder in Contre Strike)))
+Rodrigo Sbardelini
+09/17/2012
+Hello, Andrew would ask him to do more tutorials on camera movements thanks ....
+
+frank
+09/13/2012
+And here i've been, trying to mask out individual particles. Huge time saver!
+
+Ivan fernando Delgado
+09/13/2012
+Hola
+
+Nick .F
+09/13/2012
+Andrew, is it too late for me to propose to you?
+
+Nathan R.
+09/12/2012
+Hey Andrew,
+Great content! One more thing that separates VCP from the others. Hey, are you responsible for the titles on the new show "Revolution", it just really reminds me of something you would do.
+Cheers
+
+
+Søren Nowakowski
+09/11/2012
+Great tutorial! At first I was like "Hmm, this doesn't seem so "cool" as all the other tutorials" but I take it all back... :) The epiphany came to me last night when I watched Avatar. And in one of the earlier scenes, you see a tower on pandora with a man walking around in it. Now, I'm quite sure the tower is 3D, and I wondered how it was possible to put a piece of (I assume) green screen footage WITHIN that 3D tower, so the footage is not just in front of the tower, or behind it... Well now I know ;) Thanks Andrew!
+
+y.g
+09/10/2012
+Hi Andrew
+I'm from Iran and this tutorials was really useful for me.
+you are a talented and very good guy for sharing your knowledge for free.
+pls share more gun and action tutorials.
+
+malkom_x
+09/10/2012
+thanks superrrrr tutorials
+
+AE + 3DS super......................
+
+George Laird
+09/10/2012
+I was thinking if Sam had acted like he caught it and went down, it would look like a horror flick
+
+marcin
+09/09/2012
+Andrew, you are great your tutorials are perfect greet marcin of Polish
+
+ionut
+09/09/2012
+Hi,how i can render a object with shadow in cinema4d with transparent background,i know how i can make this,but i dont know how i can make this with shaddow on floor.
+
+Wizzaygrafix™
+09/09/2012
+Thank You Brother Andrew For Sharing Your Knowledge With The World. God Bless You A Lot. Greetings From Wizzaygrafix™.
+
+gabe
+09/08/2012
+great tut..but what about putting sam in? was that shot on a greenscreen? did you zpass him inot the comp?
+
+Amr
+09/08/2012
+thinx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+No Name
+09/08/2012
+Man I love you so much
+
+Ramon
+09/08/2012
+Andrew is awesome, I love the way he teaches! Thanks for sharing your knowledges, they're helping me a lot!
+
+Theoss
+09/08/2012
+Great tutorial !! Thanks to spend time teaching us for free !
+Otherwise, does anyone know the title of the music of the sample video (00:16) ??
+Thanks
+
+Anderson
+09/08/2012
+Prarabéns ao Andrew eo ator Sam, muinto legal.
+bom sou de brasil. e um pais que tambem gosta de seus tutorias.
+
+Greg Frewin
+09/08/2012
+For us element owners can you explain how you get the second element layer as a z pass do we do this in element you never showed how to set this up with element. Thanx Andrew great meeting you at NAB hope you are going again oh and met Sam too he is cool... Cheers greg
+
+Luke
+09/08/2012
+Absolutely Amazing
+
+vfxpraveen
+09/08/2012
+super brother
+
+Paul-Emile
+09/08/2012
+Hey !!
+Thanks Andrew, I love you.
+But I have a question, somebody know what is the frangmentation category used in rayfire ???
+Voronoi, Proboolean, uniform ??
+Thanks, (and sorry, I hope my english is good :) )
+
+Namemonu
+09/07/2012
+helo
+
+giloz
+09/07/2012
+hey andrew thanks for you tutorial but why didnt you talk about the shadows thanks :D
+
+Edgar
+09/07/2012
+This one has to be one of the more useful tutorials Andrew has made.
+
+Rogerio Nobre
+09/07/2012
+Hi Andrew! Very nice tutorial, you're the best! Thank you so much.
+
+AlexShulga
+09/07/2012
+Dear Andrew - you will be a billionaire!
+
+Samwelito
+09/07/2012
+Ha ha haaaaa. Forever u'll stay Andy.
+
+RAJ
+09/07/2012
+hello Andrew sir,
+very nice tutorial could this effect done with blender
+
+Jack
+09/07/2012
+Please can you do an indepth tutorial on how you created the broken piece and how you got it to that realistic quality
+
+NesAn
+09/06/2012
+I think it's fake! Not real video.
+
+Amar rao tailong
+09/06/2012
+thanks sir
+amazing
+
+siNINails
+09/06/2012
+I've been following your tutorials for a few years now and I simply want to say "Thanks".
+
+John
+09/06/2012
+The BG could use some sky replacement....
+
+Kamru
+09/06/2012
+Very very thanks you teach us.you are great for us
+
+HPS
+09/06/2012
+Awesome Blowsome Andrew Kramer :)
+
+rathpiseth
+09/06/2012
+Wow...2 tutorials . Thanks so much ...!
+
+Bobby radical
+09/06/2012
+The project files are .mov's not png's
+
+jake
+09/06/2012
+you rock!!
+
+Chris Francis
+09/06/2012
+Wow 2 tutorials in one week! thanks andrew! this is another learning for us thanks for your endless learning Andrew! god bless you! or Aliens bless you or what ever!
+
+dean
+09/06/2012
+thanks a lot, very useful tip to use with ELEMENT.
+
+Jad
+09/06/2012
+Great tutorial ! inspiring !
+
+Ben
+09/06/2012
+Can blender do the physics simulation?
+
+Luke
+09/08/2012
+Yes it can - look up a few tutorials on Youtube :)
+Reziko
+09/06/2012
+Amazing Andrew Kramer.. you are king of motion graphics
+
+Travis Wade
+09/06/2012
+This was a very useful tip, thanks for sharing..
+
+wil
+09/06/2012
+Very easy to use! really good, thank you!
+
+Rodrigo Sbardelini
+09/06/2012
+OMG video copilot in HD, liked this....it's amazing, Andrew return uhul....
+
+David
+09/06/2012
+Very, very cool tutorial.
+
+I thought I knew about Z passes, but it turns out I knew nothing! I use them to mess around with focus, nothing like as cool an application as this.
+
+Real behind the scenes of Motion picture effects stuff, thank you \^^/
+
+Ty
+09/06/2012
+Wow. That is infinitely helpful. Never even thought of that haha!
+
+Dominic
+09/06/2012
+Wow i use z depth all the time but i use it for blurring the background, i never new i could use it as a alpha :D this will save me allot of time thank you.
+
+Kristoffer
+09/06/2012
+Damn... i think you have made many tutorials latey and that super awsome thanks agian man.
+
+Steve
+09/06/2012
+awesome thanks Andrew, this is exactly what I was hoping for in one of your tutorials.
+
+roger
+09/06/2012
+hey Andrew can i used this work flow to get depth of field :)
+
+fernandosuebre
+09/06/2012
+Only apply the zdepth in a lens camera blur effect mask option, and that's it!
+Isaac
+09/06/2012
+I Was Wonder the same thing, hopefuly Andrew can answer that question.
+Ben
+09/06/2012
+Does blender have the ability to render out a Z-pass?
+
+brum
+09/06/2012
+Yes. Every 3d program has it.
+Even some engineering programs.
+antde2001
+09/06/2012
+http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Post_Process/Passes
+behzad
+09/06/2012
+yes ;)
+Nicke
+09/06/2012
+Lovely Andrew.
+
+Sam
+09/06/2012
+Clever! I never thought of using zpass and exposure to make mattes for slices... Great tutorial! Also, I'd still love to cook you that burger, Andrew.
+
+Bruno
+09/06/2012
+Very Good Andrew,Tanks!!
+
+Tim
+09/06/2012
+First I was like: Why is he using a 3dmax element an not an ELEMENT??? But then it was clear. This is really taking things to the next level like always.
+
+Chad
+09/06/2012
+Very nice!
+
+khalid khalid
+09/06/2012
+thanks
+
+lakekover
+09/06/2012
+Absolutely amazing. Never knew this but it totally adds so much more to the realism of things - thanks; incredible tutorial and great cool techniques! :)
+
+vaurilex
+09/06/2012
+Awesome, Sam Loya is a very good actor!
+
+Chris
+09/06/2012
+Thanks, that definitely filled in some blanks for me.
+
+MYURAN
+09/06/2012
+HEYYYY andrewww :) :) .... thaaanxxx alottt :D
+
+Dann
+09/06/2012
+awesome !!! although I love when you provide a bit of footage as well for following along hint hint hahahaha
+
+Jasper
+09/06/2012
+Gee, you're on fire, Mr. Kramer!!
+
+Alex
+09/06/2012
+Exactly what I was just looking for! Thanks Andrew
+
+Twister
+09/06/2012
+Amazing! Yet another incredible tutorial by Andrew Kramer:)
+
+hafid ait mhand
+09/08/2012
+thanks you are the best .good tutorial 

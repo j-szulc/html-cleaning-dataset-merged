@@ -1,0 +1,331 @@
+
+1,400 Rectangles
+
+October 25th, 2012 by Dan Meyer
+
+Some math teachers were sharing dinner following last week's Northwest Math Conference when Marc Garneau said something truly implausible:
+
+    If you have a class of students draw a rectangle, they'll combine to create the golden rectangle.
+
+Truly implausible, but Marc stood by it, along with at least one other member of our party. Dave Major set up a web page so we could collect data. You all obliged us with 1,400 rectangles, about a third of which I'll show you in this video:
+
+Mean: 6.16; Median: 2.087; Standard Deviation: 18.296. So, no, not the golden rectangle. And now Marc owes me a new car.
+
+a different dave wrote:
+I predict that the shape of the rectangles is going to be very heavily influenced by the shape of the canvas provided.
+
+Not that either. Now a different dave owes me a new car too.
+
+Here's all the data. Tell us something interesting about them we don't already know.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+dy/dan » Blog Archive » [Help Wanted] Draw A Rectangle
+
+[...] 2012 Oct 25. The purpose and the results. [...]
+on 25 Oct 2012 at 7:20 pm Timon Piccini
+
+I am pretty sure $20 American can no longer buy a new car, even up in Canada.
+
+That being said there is this.
+
+Thanks for that Dan! Also apparently it’s as Chris Hunter said, the wooden ratio!
+on 25 Oct 2012 at 7:25 pm Audrey
+
+I confess: I had to wikipedia “golden rectangle.” What I’d be curious about — and gosh, I have no idea why a math person would care — is how people drew their rectangles. Did they start at top left and then put the dot lower right (that’s what I did)? Were their rectangles long or tall?
+
+I’m also curious if this experience conducted offline would reveal different results — particularly re: the dimensions and layouts of our screens vs the dimensions and layouts of a piece of paper.
+
+Also (and I don’t think you captured this data), who refined their rectangle? And who just submitted the one based on the first two dots they placed?
+
+[added a link to "golden rectangle" -dm]
+on 25 Oct 2012 at 7:25 pm Rosemary
+
+Your readership may just have outwitted you. I guessed that this was about crowd sourcing the golden rectangle, so I deliberately picked one that wasn’t particularly close.
+on 25 Oct 2012 at 7:43 pm David Lippman
+
+LOL, me too, Rosemary :) Or more correctly, I deliberately drew an atypical rectangle.
+on 25 Oct 2012 at 7:47 pm Marc Garneau
+
+Purposefully atypical – I’ll add that to my list of good reasons why I lost the best. Admittedly I’ve got some bad reasons (excuses) too. But the ratio of good to bad is approaching the golden ratio, which I guess only goes to show that I am irrational!
+on 25 Oct 2012 at 7:47 pm Tyler
+
+Does the median aspect ratio just compare long side to short side, or height to length? My rectangle was tall and skinny, and I definitely consciously resisted making my rectangle similar to the screen. Like Audrey, I’d be interested to see the split.
+
+I think this aspect ratio is pretty close to the rectangles we encounter in school when we first learn our shapes.
+on 25 Oct 2012 at 7:54 pm Bruno Reddy
+
+Interesting results but I have a different hypothesis.
+
+I predict the aspect ratio is influenced by the kind of people taking part.
+
+I wonder how many of your sample
+a) knew about the golden ratio
+b) suspected this was what you were interested in
+
+I’m guessing you would have a lot of maths teachers in your sample and fell into the b) category.
+
+If they were like me, they could play all sorts of havoc with the experiment. I made a few rectangles…one square, one golden rectangle and one with an aspect ratio of about 20:1. That way I could smugly tell myself “Ha! I knew it!” whatever your findings!
+
+Obviously this was for a bit of fun and not up for peer review but before Marc gives you a car, I would support the idea that certain groups of people will tend towards a particular aspect ratio. Asking the ‘right’ people could well have given an average ratio around the golden ratio.
+
+For my undergrad thesis I compared the preference for rectangle ratios of a group of architects with a group of non-architects. I basically found that the longer students had been in architecture school, the more exaggerated the ratio they seem to prefer. As if they were trained to prefer things that stand out, that make you stop and look, that challenge convention. Which I guess architects are trained to do.
+
+Non-architects on the other hand generally preferred the square. Balanced, recognisable, dependable.
+
+Maybe if you took a whole load of school pupils, who hopefully don’t know anything about the golden ratio and who still appreciate conformity, Marc might get the results he predicted.
+
+Just a thought. :)
+on 25 Oct 2012 at 7:57 pm GregT
+
+I also tend to play with expectations. Once I realized I couldn’t make one on a diagonal (so I did drag a bit), I went with long and thin (so also, I suppose, making it unlike the screen). Had no idea what it related to though; guess the results may depend on the crowd you get? (Wonder if size of browser window was relevant.)
+on 25 Oct 2012 at 11:34 pm cb1601ej
+
+I just did a lecture on sampling ;-)
+And: would you say this is ‘a class of students’?
+Still, interesting.
+More educated people want to feel more special and non-conformist. Devlin has a lecture online debunking this myth.
+
+PS. Love how the apps Dave and you make prove the point that educationalists and designers should work together. A bit like the Freudenthal Institute…
+on 26 Oct 2012 at 1:43 am Nathan Kraft
+
+Admittedly, I first drew a golden rectangle, thought it might be what you’re looking for, and then drew a rectangle with a huge aspect ratio. Back to the drawing board.
+on 26 Oct 2012 at 2:34 am Chris Robinson
+
+It would be really interesting to try this same task with a group of adults and/or students who do not have the presumptions of what you were trying to do here. You know, those that were trying to “outwit” you and the experiment. Perhaps people that are outside of your blog/Twitter audience. I’ll volunteer my classes.
+on 26 Oct 2012 at 2:52 am Shawn Cornally
+
+I did this with lines a while back. Turns out the position of the line (left, center, right) affects the position chosen WAY more than anything else. We humans, we gestalt, yo. http://shawncornally.com/golden/
+on 26 Oct 2012 at 3:05 am Zachary Brown
+
+Another confession: I deliberately drew an atypical rectangle on the far right side of the page, starting with the lower right corner.
+on 26 Oct 2012 at 3:47 am Marshall Thompson
+
+We are predisposed to draw what is considered the “typical” rectangle. The greater revelation here is how close we got to a 2:1 ratio.
+
+Bottom line: the golden rectangle is too fat!
+on 26 Oct 2012 at 3:53 am Bob Lochel
+
+Fascinating. I tell my statistics students that doing a survey project is usually a bad idea, as participants will sometimes try to sabotage your data. In this case, I removed the goofballs at the far end of the histogram (assuming their aspect ratio is exactly 21, and that there are 90 of them). The mean does in fact fall……to 5.14.
+
+But I think there is something out statistically amiss here, but I am having trouble putting my finger on it. Keep in mind that the domain for this “aspect ratio” calculation is from 1 to infinity (or, realistically in this case, 22) . So, it seems unreasonable that we would get that to average out to 1.618, no matter what the task. BUT, then I am also surprised that few people provided an aspect ratio between 1 and 2, so clearly we are wired to define a rectangle as non-regular.
+
+Yeah, I’ll be getting a lot of work done today……thanks a lot….
+on 26 Oct 2012 at 3:54 am Robert Berkman
+
+Keith Devlin did this last spring at a Momath Encounter, but instead of having us draw rectangles, he had us pick out our “favorite” from a sheet of about 30 different rectangles of various proportions. I suspect he does this when he talks about his book on the golden rectangle and Fibonacci. Perhaps he can supply you with the results of his sample.
+on 26 Oct 2012 at 4:09 am Cliff Sayliss
+
+As a music teacher I’m interested in the relationships between studying music and spatial reasoning in math.. Were you able to determine if there was a pattern to how the rectangles were being drawn (ie bottom left corner, up and across..or top left corner across and down)?? I would predict that those two choices would be the most common..with musicians perhaps deferring to the first!?! Just wondering.. And no I’m not willing to put a car on the line for the answer!
+on 26 Oct 2012 at 4:40 am Michael Buescher
+
+I think Bruno Reddy (comment #8) is dead-on: because a large part of your sample was math teachers, who had an inkling that there was a Golden Ratio task hiding here, there was some messing with the data.
+
+Evidence: the spike with rectangles that have an aspect ratio greater than 20:1
+
+Also curious on your histogram: the spreadsheet shows 662 rectangles with 1 <= [Aspect Ratio] < 2 and 377 with 2 <= [Aspect Ratio] < 3, but your histogram appears to be off by one on the x-axis, showing everything between 1 and 2 on the "between 2 and 3" bar. That definitely gives a misrepresentation of the data. Probably just a mislabeling based on letting Excel choose your categories, but definitely worth addressing.
+on 26 Oct 2012 at 5:20 am Russ Hayward
+
+I think the canvas size is the key, but taking the edge to edge values is misleading. Have a look at this and let me know what you think:
+
+https://dl.dropbox.com/u/599673/DM_Rectangle_Icky_Edges.png
+on 26 Oct 2012 at 5:36 am secretseasons
+
+“a different dave” said the rectangle would be *influenced* by the canvas, not that the aspect ratio would be the *same* as the canvas. I still suspect his hypothesis is true — if you gave people different canvases you would get out different aspect ratios. The fact that the rectangle isn’t just the same as the canvas is interesting and we could maybe figure out what the relationship is from this experiment.
+on 26 Oct 2012 at 6:24 am Mary
+
+From the rectangle app, I thought it was about thinking outside the box. I let some of my more advanced elementary school students experiment with the app. They came up with several variations – the most interesting was the train tracks. To make train tracks (with no dots) you had to “throw” the dots off the border.
+on 26 Oct 2012 at 6:27 am Not the golden ratio « Work in Pencil
+
+[...] on 1400 rectangles from Dan Meyer. I just wanted to look at it this way. Categories [...]
+on 26 Oct 2012 at 7:22 am James Key
+
+Bruno wrote @8:
+
+“I predict the aspect ratio is influenced by the kind of people taking part.
+
+I wonder how many of your sample
+a) knew about the golden ratio
+b) suspected this was what you were interested in
+
+I’m guessing you would have a lot of maths teachers in your sample and fell into the b) category.”
+
+Exactly my thinking.
+on 26 Oct 2012 at 7:24 am Michael
+
+How about a quartile range of area, perimeter and diagonal. I am assuming the units are pixels, the area units would be pixels squared, etc.
+
+, Area, Perimeter, Diagonal,
+Min, 31, 58, 21.9317122,
+Q1, 38590, 980, 377.0026106,
+Median, 73455, 1262, 487.6474136,
+Q2, 124110, 1590, 621.590291,
+Max, 429935553, 82948, 29329.53409,
+on 26 Oct 2012 at 7:24 am ecvulic
+
+I just have to say this is all way more interesting than I originally thought, and so want to give Marc his props. I think this is a perfect idea of “what if…” in math. Thanks so much to Dan and Marc and Dave for your work!
+on 26 Oct 2012 at 7:29 am Chris Goedde
+
+There’s an alternate way to analyze the data that brings the average closer to the golden mean.
+
+If you look at the data, you’ll see that Dan rotated the rectangles as necessary so that the width/height ratio was always greater than 1 when calculating the aspect ratio. So a tall skinny rectangle was given the same aspect ratio as a short wide rectangle. This is certainly one way to talk about aspect ratios, but it’s not the only way.
+
+Consider a distribution of two rectangles, one with width/height ratio of 20, and one with width/height ratio of 1/20. Dan’s method would count both of these as an aspect ratio of 20, so the mean aspect ratio would also be 20. That’s one way to think about the average aspect ratio. But you can also consider the “average” aspect ratio of these two rectangles to be 1, a square, since they deviate equally from square in different ways (vertically versus horizontally). You can reach this result by calculating the log of the width/height ratio, which gives 3 for one rectangle and -3 for the other, for an average of 0. Then exp(mean(width/height)) is 1, so the average is a square.
+
+If you do this for the 1471 rectangles in sample Dan collected, you get
+
+exp(mean(log(width/height))) = 1.75.
+
+Not exactly the golden mean, but closer. (If you use the median, you get 1.88.)
+
+Also, if you look at the histogram of log(width/height) for the data, you’ll see that it’s fairly symmetrical about the mean. So just as many people were making tall skinny rectangles as short fat ones.
+on 26 Oct 2012 at 7:43 am Chris Goedde
+
+Oh, i forgot to put the punchline on my comment. I think we have to call this myth plausible rather than busted. The value I calculated for the mean aspect ratio is close enough to the golden mean, and the standard deviation is large enough (the standard deviation of log(width/height) is 1.3) that this result is consistent with Marc’s claim.
+on 26 Oct 2012 at 7:46 am Amir
+
+46 squares (including those who have a aspect ratio of 1.0 rounded to 1 decimal place).
+
+It would be interesting to see what the median aspect ratio would be like for a sample of junior school students.
+
+I also don’t think that the aspect ratio of the screen would influence the shape of the rectangle.
+on 26 Oct 2012 at 8:49 am Dan Meyer
+
+Couple of big questions raised here:
+
+One, how bad was the sample? How many math teachers fudged with our program and did that skew the results?
+
+Two, we decided at the dinner table to calculate the aspect ratio by dividing the longest side by the shortest. This resulted in a minimum aspect ratio of 1. Chris Goedde has analyzed the same data by dividing the width by the height, which means that tall, skinny rectangles can have an aspect ratio that’s way below 1. Does that alter our conclusions here?
+
+Three, secretseasons points out that a different dave only said the results would be influenced by the size of the screen, not that they’d match the size of the screen. This is a much lower bar to clear, and maybe a little less interesting to me, but certainly true.
+
+Taking those questions in reverse order, my gut reaction is that secretseasons poses an interesting experiment where we randomly resize each participant’s browser window and then regress the results. Of course, people hate having their browser window resized and I’m not interested enough in the results to sweat it out. I do think it’s an interesting idea, though.
+
+I’m glad Chris ran the results assuming a different definition of aspect ratio. I just don’t think that definition serves us very well. Historically and mathematically, we consider both these rectangles “golden” but Chris’s analysis only treats one of them — the left one — as golden. That messes with our results. If Marc Garneau were right, we’d see a bimodal distribution at 1.618 and .618.
+
+To the final point, I realize there’s a fair amount of monkey business in my sample. I just can’t find a way to carve up the data (removing outliers) such that we find anything of significance around the golden ratio. You may not be convinced, which is fine. I totally admit the weakness of the study. I’ll just say that I’m satisfied, or at least I think the burden of proof has been pushed well into the court of Marc, et al. Has anybody done this with a class yet? What were the results?
+on 26 Oct 2012 at 8:55 am ecvulic
+
+Dan, here are my ratios. The average was 2.49, the median was 2.
+
+[clarifying, those are Eddie's classroom ratios, FWIW. I asked for them on Twitter. -dm]
+on 26 Oct 2012 at 10:43 am Tim McCormack
+
+If you take the geometric mean of the ratios, you get 1.74, which is quite a bit closer:
+
+https://www.refheap.com/paste/6165 (uses arithmetic mean in logspace)
+
+As with Chris Goedde, I’m not forcing aspect ratios to be > 1.
+on 26 Oct 2012 at 11:17 am Dan Meyer
+
+I dunno, fellas. It seems like you’re starting with the answer and working your way backwards to whatever statistical analysis will get you there. Can you guys defend your use of the geometric mean or your treatment of the aspect ratio some more?
+on 26 Oct 2012 at 11:41 am Chris Goedde
+
+I was thinking in terms of human psychology, which (I think!) regards horizontal and vertical differently. E.g. TV screens and movie screens are landscape, not portrait. (Though I generally like to hold my iPad in portrait mode for reading, go figure.) So that’s why I was thinking that a tall skinny rectangle should be considered different than a short fat rectangle. I wasn’t trying to game the result, honest! But I also see the other POV.
+
+I was initially intrigued by the fact that the means and medians you reported were so different, and was wondering what accounted for that. At first I thought you had just averaged all the width/height ratios (without rotating so that the ratio was greater than 1) and that’s what was responsible for the difference. So I was just thinking of different ways to define the “average” aspect ratio, and how that might affect the statistics.
+on 26 Oct 2012 at 11:54 am Chris Goedde
+
+Dan/Dave,
+
+There’s something I don’t understand about the data.
+
+If I throw out all the points that have negative values for x or y (per our twitter conversation), then I see that the range of x values is 0 to 1528, and the range of y values is 0 to 1731. I can’t reconcile this with the reported value for the aspect ratio of the canvas, which is x = 1.55 y. I would expect the data to reflect this, because I would expect at least one edge of one of the rectangles to be close to all four borders of the canvas. But that seems not to be the case, so ???
+
+I was looking at this because I had an idea to investigate about how the shape of the canvas might affect the results.
+
+BTW, this gives yet another way to calculate the “average” aspect ratio, which is to find the average positions of the four corners, then calculate an aspect ratio from that. If I do that, I get a mean of 2.4.
+on 26 Oct 2012 at 12:33 pm Taylor
+
+I’m going to echo a lot of posts that are already here…I suspected the Golden Rectangle and skewed mine on purpose.
+on 26 Oct 2012 at 12:33 pm Dan Meyer
+
+Wish I had some kind of badge for Chris’s “Most Persistent Data Analysis.”
+on 26 Oct 2012 at 12:55 pm Dan Meyer
+
+Taylor:
+
+    I’m going to echo a lot of posts that are already here…I suspected the Golden Rectangle and skewed mine on purpose.
+
+I’m gonna echo myself previously and say I don’t think it matters. That’s the magic of the median.
+
+Plus: why? Honestly, what’s the motivation for doing something you wouldn’t ordinarily do just to mess with someone else’s program? Isn’t that like definitional trolling?
+on 26 Oct 2012 at 1:02 pm Chris Goedde
+
+Dan, it’s your fault for doing this experiment.
+
+But here’s one last question. Why doesn’t my method lead to a mean aspect ratio of 1? Presumably it doesn’t because more people drew horizontal rectangles than vertical rectangles. (Or the horizontal rectangles were more elongated on average than the vertical ones.) What is that telling us? Is it strictly due to human psychology, is it due to the aspect ratio of the canvas, or something else?
+on 26 Oct 2012 at 1:09 pm Dave Major
+
+Chris: Technically you can drag a corner beyond the canvas – I didn’t think too much about this when I quickly put it together, with enough screen resolution (looking your way retina macbook owners) you could reproduce the numbers you are seeing. Chalk it down it lazy coding.
+
+BTW, if anyone wants to run this with a class, get in contact and I’ll see if I can set you up a private instance.
+on 26 Oct 2012 at 1:12 pm Tim McCormack
+
+Dan: I don’t have any formal reasons to use the geometric mean, but it just feels more correct to use a scale-based mean for dealing with ratio data. If I was looking at coordinate data (upper-left corner, for instance) I would use the arithmetic mean.
+on 26 Oct 2012 at 2:37 pm Tim McCormack
+
+Dan: I just tried to enter a rectangle, and the lower left corner jumped way off screen:
+
+http://i.imgur.com/RAMLC.png
+
+…so the data may not be that great. :-/
+on 26 Oct 2012 at 2:53 pm josh g.
+
+“Plus: why? Honestly, what’s the motivation for doing something you wouldn’t ordinarily do just to mess with someone else’s program? Isn’t that like definitional trolling?”
+
+It might have been slightly trolling, but whether you meant to troll or not, the problem is that once you’re conscious of what the experiment is probably after, it’s awfully hard to “just pick something” without deliberately choosing or avoiding the golden ratio. (Or, what you think is the golden ratio.)
+
+But, right, totally this is enough to win the bet. :)
+on 26 Oct 2012 at 3:38 pm Mike Caputo
+
+I’ve done this experiment by hand in my classroom to get data for a scatterplot. Though I thought I might get near a golden rectangle, after looking at the data and asking kids why they drew what they did, they said I told them to draw a rectangle.
+
+To kids, draw a rectangle means don’t draw a square and don’t come close to drawing a square. A golden rectangle isn’t really close to a square, but if kids are drawing their version of a rectangle, the data will skew quite a ways from the square preventing the golden rectangle from being the center of the data.
+
+Still, the data does make a good scatterplot and students understand where the data came from.
+on 26 Oct 2012 at 5:15 pm Sean Wilkinson
+
+To test if rectangle aspect ratio correlates to browser window aspect ratio, we wouldn’t need to forcibly resize people’s windows.
+
+We could just take advantage of the fact that different people are naturally using different-sized screens, and log their window dimensions along with their response.
+on 26 Oct 2012 at 7:01 pm Taylor
+
+Dan, I expect the problem is that as math people we all think we are cleverer than we really are. Something to the effect of “Ha-HA! I know what you’re up to, Meyer!” That’s not what exactly what went through my head, but I’m guessing its that kind of sentiment that led a lot of us to purposely make a rectangle we knew wasn’t golden.
+
+As for whether it matters, I would say it does. It seems to me the implied part of the bet was that people would naturally choose a rectangle that is most pleasing to them, something close to the Golden rectangle. But I–and others–weren’t choosing that natural rectangle. It’s probably unfair to test math teachers.
+on 26 Oct 2012 at 7:39 pm Dan Meyer
+
+Sean Wilkinson:
+
+    To test if rectangle aspect ratio correlates to browser window aspect ratio, we wouldn’t need to forcibly resize people’s windows.
+
+    We could just take advantage of the fact that different people are naturally using different-sized screens, and log their window dimensions along with their response.
+
+Nice!
+on 27 Oct 2012 at 12:09 pm Mrs G
+
+Thought I’d stop being a lurker and be clever, but many people already commented on the fact that you have many MATH people who are reading this – and those who participated probably WANTED to skew it away from the golden rectangle. I tried to draw a ‘line’ – wondering if that “450″ aspect ratio is mine ;-) One time I get to be more than two-standard-deviations from normal.
+on 27 Oct 2012 at 4:50 pm John Lee
+
+I think there are some external factors at play here. You may get different results if you ask people to draw rectangles on paper on on a tablet. On a computer, it is much easier to move the mouse horizontally (which usually happens — not by everyone, of course — to involve moving the wrist) than it is to move it vertically, which (for some) requires extending the fingers inward and outward. In fact, with the ubiquity of widescreen monitors, users might actually slowly be getting trained to have faster horizontal motion than horizontal motion just from everyday computer use.
+
+I don’t have any hard evidence for this, obviously, but I did want to point out the possible constraint imposed by the physical device. One question I might have is, how many people adjusted their rectangle after drawing it? What if you only look at the data from people who adjusted their rectangles?
+on 27 Oct 2012 at 4:52 pm John Lee
+
+Just to clarify why I asked my question: if the theory about the golden ratio has some truth to it, then maybe the people who adjusted their rectangles are less affected by the fact that it is (or might be) easier to move the mouse horizontally than vertically. I wonder if their median ratio is lower than that of those who didn’t adjust their rectangles.
+on 28 Oct 2012 at 12:27 pm James C.
+
+If the shape of the canvas is a factor, wouldn’t it make more sense that the rectangles would converge to something like a *silver rectangle* (http://en.wikipedia.org/wiki/Silver_ratio#Paper_sizes_and_silver_rectangles)? I know North American standard paper sizes are different, but it might be something along the same lines.
+on 28 Oct 2012 at 7:16 pm Matthew
+
+I’m curious what percent of the rectangles were within a reasonable margin of the Golden Ratio. I don’t what a “reasonable margin” would be, so I’ll let someone else figure it out! Cool data Dan!
+on 28 Oct 2012 at 7:17 pm Matthew
+
+*** I don’t KNOW what … ***
+

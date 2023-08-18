@@ -1,0 +1,80 @@
+The New Facebook & iOS6 Integration Crosses a Privacy Line
+September 28, 2012
+By Bobbi Newman
+
+There has been much discussion over the failures and disappointments of iOS6 on the iPhone but this is one I haven’t come across before.  The integration of Facebook contacts and iOS6.
+
+I updated to iOS6 a day or two after it came out and I turned on the Facebook integration option. I only recently switch to an iPhone from Android and Android has been syncing phone contact with Facebook contacts for some time now so this was no big deal for me. After double checking some privacy setting I pretty much forgot all about the upgrade until tonight.
+
+I plugged the phone into the computer to sync with iTunes for the first time since the upgrade. I have iTunes set to sync my contact with Google. When it was done iTunes notified me there were some discrepancies in my contacts and wanted me to choose the correct information for about 20 people. Mostly this was matching Facebook photos with the Google account information   As I clicked away I noticed something – there were photos for contacts that I am NOT Facebook friends with. Now I didn’t read the fine print but this seemed odd. I thought I was syncing with MY Facebook contacts not all of Facebook. For one contact I only had a first name and a telephone number, for the other one I had a first and last name and a telephone number. I couldn’t find either of them by searching for name but when I searched for the telephone number – bam! There they were.
+
+After some poking around on Facebook I discovered this.
+
+Under “Privacy Settings” is “How You Connect” with a nice description “Control how you connect with people you know.”  Note it says nothing about apps or third parties scraping Facebook for your information and taking your photo to use.
+
+Under that is a setting  an option for “Who can look you up using the email address or phone number you provided?” if it set to “everyone” you can find people by searching for their phone number. I was able to locate both of these contacts by searching for their number.
+
+Ok I get it. I’m not even going to point a finger at Facebook for making this default to “everyone” I don’t know if it does or not. I can understand why someone would choose to set this to “everyone” after all if someone has your email or phone number chances are you know them and might want them to find you on Facebook. Plus email and phone number are grouped together, which only complicates matters.
+
+But my issue is this – selecting “everyone” allows a third party, in this case Apple iOS6, to locate you by phone number and then to take your image and use it. Checking “everyone” so people can find you – which is what that setting says it is for – is not the same as saying an app can find you and use your image.
+
+It is not MY privacy I’m concerned about it – it is that of the contacts iOS6 and Facebook have provided me photos for.  I also know neither of these people have an iPhone and I doubt they know ( I doubt anyone knew) that allowing people to find you by searching for your phone number or email meant you were giving away permission to use your image to a third party.  I feel weird and creepy having a contact image for them on my phone that they didn’t give me or give me permission to have.
+
+I realize this is minor and 90 percent of the time it is no big deal – after all you know the person well enough to give them your number. But it is the principle of the matter – your image is being used in a way you did not agree to or intend by selecting “everyone”.  This is a minor transgression, but it is one foot down a potentially slippery slope of privacy violation.
+
+Thanks to Jim Peterson whose comments on my original Facebook post prompted me to work through the technicalities and why it bothers me so much. 
+Similar Posts:
+
+    Do you understand Facebook’s privacy settings?
+    How Far Do You Go to Reduce Drama and Protect Your Privacy on Facebook?
+    Google’s Social Circle & Social Search May Not Violate Any Privacy Laws But It Gives Me The Creeps
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Jim Peterson
+September 28, 2012 at 9:58 pm
+
+Thanks for the credit, Bobbi. I really enjoy talking through things like this, especially if it helps someone connect some not-so-obvious dots into a clear picture. Great post!
+
+
+
+    Bobbi Newman
+    September 29, 2012 at 8:45 am
+
+    Thank you Jim for prompting to me to figure out exactly how those photos were retrieved and to articulate why this bothers me so much.
+
+    
+
+David D
+September 29, 2012 at 4:29 pm
+
+I can see why this might creep you out, but it doesn’t actually cross a line. Facebook profile pictures are always public:
+https://www.facebook.com/help/?faq=121088224639443
+
+Something people should be aware of regardless of whether they or anyone they know has an iOS device.
+
+
+
+    Bobbi Newman
+    September 29, 2012 at 5:00 pm
+
+    I disagree David. Just because the photos are public does not make it ok for a third party to take them and use them even in what is a pretty benign way. It is the first step down a slippery slope.
+
+    
+
+John
+October 7, 2012 at 9:03 pm
+
+Have to agree with David on this one. Facebook isn’t using anything I couldn’t use myself and add as a contact image. They are simply automating the process. That said, they are still evil ;)
+
+
+Corinne
+October 8, 2012 at 11:48 am
+
+Apps are people too? Kidding. I tend to agree with you Bobbi. “Everyone” is misleading and while the result might not be a big problem, no one (should) like to be mislead.
+
+

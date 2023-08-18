@@ -1,0 +1,27 @@
+Company wins $368M from Apple, immediately files brand-new lawsuit
+iPhone 5, iPad mini targeted in VirnetX’s latest patent lawsuit.
+
+by Jon Brodkin - Nov 9, 2012 4:45 pm UTC 
+
+Three days ago, Apple was ordered to pay $368.2 million for infringing domain name security and virtual private network patents for its FaceTime service. Now, it turns out the same company that beat Apple in that case—VirnetX—filed a new lawsuit against the iPhone maker on the very same day.
+
+The suit, filed Tuesday in US District Court in Eastern Texas (PDF), repeats the same allegations but updates them to target Apple’s latest products. Those include the iPhone 5, fifth generation iPod Touch, fourth generation iPad, iPad mini, and all Macs using OS X Mountain Lion. FaceTime, iMessage, and Apple's use of VPN On Demand technology are the culprits, VirnetX says. The plaintiff is demanding monetary damages and a permanent injunction preventing Apple from continuing to infringe its patents.
+
+VirnetX says it is building a secure domain name registry based on its patented technology, but makes its money today by licensing patents and filing lawsuits. VirnetX says Apple “refused to pay fair value” for patent licenses, and has also targeted Microsoft, Cisco, Avaya, and Siemens, with a trial against the latter three scheduled for March 2013. The company won a $200 million settlement from Microsoft in 2010; in addition to Microsoft, VirnetX has struck licensing agreements with Aastra, Mitel Networks, and NEC.
+
+As noted in our story on the $368.2 million judgment, the VirnetX patents asserted against Apple include ones for an "Agile network protocol for secure communications with assured system availability"; "Agile network protocol for secure communications using secure domain names" another patent of the same title; and "Establishment of a secure communication link based on a domain name service (DNS) request."
+
+The brand-new lawsuit asserts these same patents that Apple has already been found to infringe. Apple is likely to appeal that ruling, but if the company can't get it overturned, Apple may just have to pay the damages or strike a licensing deal of its own with VirnetX.
+
+Editor's Pick: Promoted Reader Comment
+
+    g0m3r619Wise, Aged Ars Veteran
+    jump to post
+    deet wrote:
+    Maybe THIS time, the comments can focus on the technology in dispute.
+
+    Because I'm still baffled how the jury came to its decision on the last case.
+
+
+
+    I'm guessing you have never sat on a jury before. Because if you had then you'd know this is not a shocker. I have sat on a few and let me tell you it opened my eyes to how crappy the whole trial by jury thing is. On each jury I sat on I had to fight with other jurors about sticking to the facts and the law and forget about their "gut feeling." Others just wanted to end it quickly and get out of there and were willing to vote any way they felt would make that happen soonest. I remember one case where this kid was being charged with theft even though there wasn't a shred of evidence linking him to the crime. Not even an eye witness. the kid was blamed for simply looking suspicious and being in the area. If I ever find myself standing before a judge as a defendant I would ask that the judge decide the case and not a jury. 

@@ -1,0 +1,47 @@
+October 30, 2012 @ 6:27AM
+Call your phone to trigger your camera
+All you need is a Triggertrap Mobile Dongle and a special ringtone
+By Haje Jan Kamps 
+
+One of the most awesome things about working on the Triggertrap is the community we've built up already. And, like any great community, we keep getting fantastic ideas via our Get Satisfaction forums.
+
+As soon as Triggertrap Mobile launched, we had a fantastic idea from Travis, who wished he could trigger his camera by calling his iPhones... The big dirty secret, however, is that this is already possible, if you have a Triggertrap Mobile Dongle! The little trick is to choose the top secret special triggering sound we use in the Triggertrap App as your ring tone, and then to turn the ring tone sound to maximum. Here's how
+
+WARNING - It's worth pointing out that if you're planning to do this, make sure you keep your Triggertrap dongle plugged in the whole time, and switch the special Triggertrap tone for another ring tone before you unplug it. The tone is meant to be listened to by the Triggertrap Mobile Dongle only; It isn't great for human consumption (For exterior use only; do not swallow; consult a doctor if you spill this sound in your eye socket, etc). Anyway.
+How to trigger your SLR by calling your telephone
+
+To be able to call your iPhone or Android phone to trigger your camera:
+
+Plug your Triggertrap Mobile Dongle into the headphone socket of your iPhone.
+    Download the Triggertrap Mobile Ringtone for your iPhone as a .zip file.
+    Unzip the tone (it's a .m4r file; Apple's special m4r ringtone format.)
+    Install the tone to your phone2
+    Choose the Triggertrap Tone as your ring-tone3
+    Set up your camera using Single Shot1 and preferably manual focus, too
+    Call your iPhone from another phone to take a photo.
+    When you're done, choose your old ring tone3 again, before un-plugging your Triggertrap Mobile Dongle from your iPhone
+
+Brilliant, eh? 1) You could also set it to Continuous mode, but we'll be sending a very long shutter signal to your camera (5 seconds in total), so it would be like pressing and holding your shutter button for 5 seconds. Try it now; press and hold your shutter button. If it takes 30 photos in quick succession, that's what'll happen when you use this trick to trigger your camera. If you'd prefer to just take one photo, use single shot mode!
+Additional help and assistance
+
+2) How do you install a custom ring tone to your phone?
+
+Set your computer's sound to mute.
+    Drag the .m4r ringtone file to your iTunes. If you forgot to set your computer to mute, you'll now get a horrible sound playing through your speakers. Trust me; you don't want this sound: It's bad for your computer and for your ears.
+    Plug your iPhone into your computer with the USB lead
+    Click on your iPhone within iTunes
+    Select 'Tones' from the bar across the top (this is also where you select what music, movies, and apps you want to sync to your phone)
+    Either choose 'all tones' or just 'Selected Tones' and then tick the Trigger Tone box.
+    Click 'Apply'
+    Click 'Sync'.
+
+3) How do you choose a ring tone on your phone?
+
+    Go into the Settings app on your iPhone
+    Choose Sounds
+    Click Ring Tone
+    Choose the ring tone you want as your ring tone. In this case, Trigger Tone. If you've only just uploaded it to your phone, it'll show up right at the top.
+
+Stay in touch!
+
+On Twitter and Facebook, I post (mostly photography-related) things that I think are interesting. Join the fun:

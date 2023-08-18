@@ -1,0 +1,64 @@
+October 11, 2012
+Transparency. EMC Partner–Q4 “Backstage Pass!”
+
+As always, I think there should be no air gap between EMC and our partners.   I’ve said it before, but it’s worth repeating (IMO) don’t spend much time thinking about EMC competitors.   It’s not a matter of a lack of respect or humility – we have many very respectable competitors.  Rather, my view is if we do our job right, be willing to cannibalize ourselves (after all – the most material competitor are wholesale industry changes), innovate organically and inorganically, and always, always, always serve our customers and partners – it almost doesn’t matter what competitors do.
+
+So… Once again – the EMC Systems Engineering (aka “Technology Consultant") Q4 accreditation training is open to our partners via the “Backstage Pass” (thank you Scott Crossman + team!).  We still have a ways to go on opening up ALL tools (just like we did with vLab), but know I’m working it (like a maniac!).   This is an AWESOME resource – as it has all the training we push to our field BEFORE product GAs.
+
+Login here!
+
+(one note – EMCers, you will get an error – ironically :-)  This is the same content you get in your Q4 accred, so just go there)
+
+One part I haven’t been able to figure out is how to push out my internal EMC “SE all” quarterly memo.  So… I’ll just post it here.
+
+Obviously not the usual technical stuff people come here to look for – but hey – this is the other part of my job :-)
+
+If you’re interested (perhaps to get a peep into the inside of EMC – and heck, my day job leading the 3000+ people working to help our customers and partners) – read on!
+
+Team,
+
+At the beginning of a new quarter, I think it’s important to take a minute to reflect back, and 5 minutes to look forward.
+
+I want to sincerely thank each of you for your hard work and dedication. While this message is directed to the EMC Presales technical folks in the Storage Go-To-Market, it’s good to stay close with our brothers and sisters in BRS, Greenplum, and RSA – and my “Thank You!” goes out to them also!
+
+We are lucky to work in an industry where the dynamics can shift overnight. Our team’s ability to help EMC customers make sense of the changes is truly amazing.
+
+We’ve had a productive year transforming the organization. As we turn the corner into Q4 and then Q1 we will start to reap the benefits of the changes put in place and begin to manage our business with the operational precision required to monetize those investments.
+
+Q3 transformational milestones:
+
+    Filling out the Specialty TC Manager (STCM) roles. With the ATC organization in place and structural changes complete, the STCM role is the next vital component that will enable us to gain added leverage.  In Q3 we’ve made solid progress towards implementing our globally consistent specialty model having defined, posted, and filled STCM roles in almost all divisions and geos.
+    More in-person TC training. Required web based training is now a much smaller part of the workload – with a rich optional curriculum.  Throughout Q3 we leveraged the time regained to start executing boot camps (open to partners too!) in the Americas, EMEA, and in APJ during the Conference Roadshow. The feedback has been phenomenal and this will remain a key part of the strategy going forward. Some of you will also start to see an exciting pilot for a mobile version of accreditation training along with IDP/boot-camp roadmaps… stay tuned! 
+    Investments paying off. We're starting to ramp usage and track metrics for the key investments we’ve made to help gain Scale & Leverage - along with working with our Velocity partners – these have a huge effect on how effective we can all be:
+        ~40% of quotes are being generated through Shared Services
+        Over 70 GSAP graduates have joined the ranks, with another 30 expected in Q4 – the largest single infusion to our presales line capacity ever.
+        vLab usage was up 188% y/y.  In September we performed 6967 vLabs - 1600 vLabs more than August, and 230 labs every day.  It’s a great way to learn and persuade our customers and partners!
+        MiTrend saw a more than 2X increase in # of users and a 3X increase in # of assessments monthly (Dec 11 – Jun 12)
+
+Q3 Big events:
+
+    The APJ Presales Conference took place in July. It was terrific to see the momentum and continuity of our conference experience around the globe. Huge thanks to the entire APJ team for your enthusiasm and hospitality. It was a learning experience for all.
+    Equally as exciting were VMware and EMC announcements at VMworld.  If you missed the coverage or are looking for information on what it means to EMC, the vSpecialists put together an overview that they can present locally.  Also make sure you read the blog posts of the event (google “virtual geek VMworld summary”).  I’m also happy that many of your TC brothers/sisters across the organization were selected to go to VMworld.  Opportunities to cover industry events like this for the broad TC ranks is now “part of how EMC Presales works” – and manager selection based on what YOU do.
+    At VMworld we also launched the vCa$h contest (which encourage you to brief customers on what happened at VMworld). The contest is open through Q4 and there is still time to get involved. Check out the leader board posted to the vCa$h at VMworld Contest group for current standings. You’ll see more of these contests to ensure maximum return from our investments in these kinds of events.
+    It’s important to remember the EMC Presales Manifesto represents our shared values.  The EMC Presales mission is equally clear: securing the technical win - with the right solution (with delighted customers, high TCE, and do it as fast and with as much leverage as possible).  A solution includes technology and services.  The EMC business units strive to bring us the best technology for our mission – and we must know them inside and out.   Likewise our Global Services brothers/sisters are working to help make services things simpler for us:
+        Simpler migrations with Level 1 Services for Federated Tiered Storage and Unified Migration Framework (Block, File and Unified), along with new Level 1 services for De-duplication for TSM, Networker and NetBackup environments
+        New Residency Services for Database Performance Tiering, Isilon Residency, and EMC Out-Tasking Service.
+        New Backup Infrastructure Assessment AND Partner Services that deliver high-value services that accelerate profitability by supplementing their existing skills and investments with EMC Proven Service expertise.
+        Effective January 14, 2013, Isilon customers will begin using the EMC Customer Support infrastructure and processes. This transition will provide Isilon customers with a consistent “One EMC” support experience across all EMC products.
+        Significant progress on continually improving the customer support experience for all our customers.
+         
+
+Looking ahead to Q4 we have a new set of "Big Rocks" on our plate. In addition to continuing to focus on linking the specialty roles and leaders into your daily operations we want you to focus on four things:
+
+    Contribute to the 2013 plan.  Exiting 2012 with the transformation behind us – 2013 is all about execution, and we started planning 2013 in June and completing that plan is a core Q4 task.   While this is mostly a challenge for the Global Presales Leadership team - each of us plays a part of building the plan and budget.   As an example, your Q3 survey input was one part.  Don’t hesitate to talk to your management (and me!) if you have ideas/thoughts that can help EMC through 2013!
+    [note – this is redacted – partners, when you take the backstage pass, you’ll get the picture] Understand the impact of the Q4 releases. Q2 brought VMAX/Enginuity, VPLEX, BRS updates, VPSEX and more.  Q3 brought VNX Inyo, VFcache 1.5 and of course, vSphere 5.1.  Q4 is filled with new awesome technologies – it’s great to be at EMC or an EMC partner!   In Q4_____ becomes GA.  There will be a ______ refresh along with the ____ release for the family which brings more “familiness” ____ along with new goodies.  VPLEX Metro Express Edition simplifies building solutions with VPLEX and Recoverpoint – at an awesome price point for every customer. The SRM Suite is something we need to be sharp on, knowing what it does and doesn’t do – it delivers value our customers need.   And of course, _____  release.   _______  is an important release for EMC as a whole, and _______  fit with our customers into more ______.    These are all part of Q4 accreditation for everyone, and your _____ and ______ specialist brothers and sisters can help locally with bootcamps and workshops.
+    Focus on Skills and Performance Management.  This has been a year of transformation, as we head into Q4 it is important that each of us reflect on our own performance through you self-evaluation in ePAS and the performance of our teams in the form of Performance Reviews.  This reflection pushes us forward to new goals and helps us understand where we need to invest.  Going into 2013 – “Ratings Matter” – early attention to ePAS will ensure our performance is well represented.  Also, to help understand our current skill-sets there will be a set of “Skills Assessment” surveys stay tuned for more details on that soon.
+    Ensure we make our Q4 goals everywhere in the world. Leverage is how we scale, and leverage is just as much about working smart and having fun as it is about working hard. So make sure you are using everything you know and taking advantage of all the tools at your disposal as we sprint toward a strong finish for Q4 and the year.
+
+One last point – I’ve said it before, and will say it again:  applications will be a key to EMC’s future success.  As we sprint toward Q4 and turn the corner into 2013 you will see even more Applications focus. The first step will be the posting of Application Global Functional Lead roles for Microsoft, Oracle and SAP.  These roles mirror the structure of all the specialties – aligned globally and locally with the STCMs.   They will drive a much tighter alignment alongside the EMC Solutions Group (ESG) just like other specialists align with other Business Units.  This will build out a foundation for all of us to expand our knowledge through every one of us selecting “minors” as noted above.  We plan to formalize Applications as a defined Presales Specialty in our field around the globe in 2013.
+ 
+As always I will end this note as it began, I want to THANK YOU for everything YOU do for our customers and EMC.
+ 
+Let’s close out Q4 strong and together!
+ 
+Chad

@@ -1,0 +1,36 @@
+Taking The Power Back: Reviewing Royal Revolt
+
+It's hard to be a free to play app in the Google Play Store. With so many games throwing in-app payments into the faces of their players, it's tempting to follow along with them - if the money's good, why not? However, in the pursuit of cash, gameplay might suffer. On one hand, you want people to pay money, but on the other, you (ideally) don't want to ruin the experience they have if they don't. Thankfully, Royal Revolt avoids that last problem.
+
+The Concept
+
+Royal Revolt is a reverse tower defense game: instead of protecting against hordes of enemies, you are the horde that is looking to wreck everything. Instead of acting in waves, you'll travel through a linear level with the aim of destroying the castle at the end. You won't just be facing stationary objects, though: the CPU will send waves of minions against your troops, hoping to stall or kill you.
+
+In the process of sacking castles, you'll recruit followers from an ever-refilling gauge: each unit costs a certain amount of meter, and has its function within your army. For instance, Warriors can take more punishment than Archers, and Mages can throw fire spells to sow discord in enemy ranks. This brings a lot of strategy to each level, and your army makeup dictates how well a sortie can go.
+
+Extra soldiers are spawned at the beginning of the level, and take time to catch up to your warband. For instance, I find thatgenerating a large amount of warriors at the start as my initial wave, if maintained through spells like Heal, can last you the entire level. After that, archers or mages follow depending on my meter management, and how far away I am from my goal. Especially if your hero decides to take spells geared towards offense rather than buffing your party, you may need more bodies to protect you from dying.
+
+This presents a unique problem, though: if your initial block of troops is wiped out, it can be difficult to stop the conga line of death, as your troops march forward regardless of the threat. This, of course, is keeping with the tower defense theme and forces the player to think carefully - this is not a game-breaking annoyance, but more of a harsh way to deal with people who think mashing the buttons for reinforcements will win them levels.
+Practically Sound
+
+The levels themselves are gorgeous, and rendered in a cartoon style that allows for bright colors and ease in determining different objects. Enemy objectives are color-themed (usually red), and have easy-to-read health bars. The game looks downright beautiful, and for a free-to-play game, some may not be used to this level of quality.
+
+The game's animations and graphics work seamlessly during actual gameplay, and the game feels polished overall. Royal Revolt's "click to move" controls can take a bit to get used to, but after a while they become second nature. Like other "management" games such as Battleheart, Royal Revolt takes a simple concept and then expands it: you will need to become skilled at managing many different things at once, but the game never becomes tedious in its quest to get you to do so.
+
+Making a player want to play a game is a skill not every developer has, and Royal Revolt seems to have navigated that hurdle by putting out a high quality title despite the free price tag. It's easy to be skeptical about this, but there's actually a fully-featured, playable game here.
+Surprising Depth
+
+Eventually, we're going to have to come to the reason why the game is free to play, though (otherwise known as "the catch").
+
+While Royal Revolt has ads, it also has micropayments based on in-game gold. This is fine, because while the gold is essential to upgrading your troops and hero, it actually flows quite well from the levels you complete.
+
+Unlike other games which might give you a fraction of what's actually feasible to keep advancement happening at a comfortable pace, Royal Revolt feels rewarding to play, and goals seem achievable.
+
+The being said, there are a ton of things you can spend money on: heroes, spells, and troops can all be upgraded multiple times, and in the case of the latter, their models will change as they advance through the character classes. Archers become Rangers and Warriors become Knights, all looking more capable.
+
+This is even reflected on the title screen, where you can see all the troops your army is capable of producing; it's a nice little touch that reminds you of the work you've put into your account, and that the gold you've spent has a tangible function.
+Wrapping It Up
+
+Frankly, when I first looked into reviewing this game I was quite pessimistic: on top of it being another entry into the tower defense genre, the free-to-play model had me skeptical. This came from reviewing numerous titles who thought that not charging an initial fee was a license to squeeze dollars out of users.
+
+However, I was surprised to find that Royal Revolt was the opposite; it feels like a game that looks to be playable first, rather than a money-printing machine for its developers. It focuses on polish, good controls and a solid concept, and that's something that should be respected. On tablet or phone, you won't find yourself disappointed by this game: after all, you don't really have any cash to lose by trying.

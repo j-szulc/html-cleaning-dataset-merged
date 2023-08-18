@@ -1,0 +1,57 @@
+
+Updating entitlements in Notes/Domino 8.5.3
+November 7 2012
+Tweet
+
+When IBM Connections 4 shipped eight weeks ago, I was frequently asked, "When will the Connections Files and Profiles entitlement in Notes/Domino be updated?"
+
+Based on what I knew then, the answer was, "When we ship Notes/Domino Social Edition in Q1 2013."
+
+With all credit due to my colleagues on the IBM WebSphere Portal product management team, I have good news. Next week, on November 13, we plan to update the entitled version of Connections Files and Profiles to IBM Connections 4. Two weeks after that, on November 27, we plan to update the entitled version of Tivoli Directory Integrator to version 7.1.
+
+These updates will appear automatically as part of a Passport Advantage customer's available downloads. The license agreement for each of them remains the current shipping 8.5.3 Notes/Domino license, though, like everything in Notes/Domino Social Edition, there are expected changes when that release ships.
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+    1  Stuart McIntyre http://Http://stuart-McIntyre.fom | 11/7/2012 11:57:57 PM
+
+    Thank you Ed. I have a feeling this wasn't the easiest change to achieve within IBM's licencing structure, so I really appreciate the efforts that you and your team put in to get it done.
+
+    2  Patrice VIALOR  | 11/8/2012 1:04:41 AM
+
+    Thanks Ed. That's really a great news and a great starting point for our Customer.
+
+    3  Paul Withers http://www.intec.co.uk/blog | 11/8/2012 2:57:06 AM
+
+    Great news indeed. Thanks for your efforts in pushing this through.
+
+    4  Mat Newman http://www.matnewman.com | 11/8/2012 6:57:53 AM
+
+    Fantastic news mate - just what the doctor ordered!
+
+    5  Marie Scott http://crashtestchix.com | 11/8/2012 7:28:38 AM
+
+    Ed - great news about TDI 7.1 - thanks!!
+
+    6  Brett Hershberger  | 11/8/2012 10:23:37 AM
+
+    Yes indeed good news. I too am especially excited about TDI 7.1. Thanks again Ed!
+
+    7  Matthieu Louvrier-Saint-Mary  | 11/8/2012 12:40:25 PM
+
+    this news comes just on time for one of our costumers which planned to deploy Profiles 3.0 next week ! Christmas in november, thanks 'Santa' Ed ;)
+
+    8  Djalma Britto  | 11/8/2012 2:02:18 PM
+
+    Thank you add... Specially the TDI to 7.1....
+
+    9  Pierre Passin  | 11/8/2012 6:39:34 PM
+
+    Wouldn't it be easier for all if entitlements were not referring to a particular version ?
+
+    10  Ed Brill http://www.edbrill.com | 11/8/2012 6:48:50 PM
+
+    @9 it probably would. However, part of the idea is to ensure that the versions are supported together. We don't want to ship a product and have it incompatible with another.

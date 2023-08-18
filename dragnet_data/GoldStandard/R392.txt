@@ -1,0 +1,20 @@
+November 01, 2012
+Thinking of stretching your vSphere cluster? Now–2x further, 2x lower entry cost!
+
+The topic of stretched clusters is HOT.   While a few years back, this was not for the faint of heart (unclear support model), mutually exclusive with VMware SRM, and relatively rare – fast-forward to today:
+
+    Clear support model in VMware’s vMSC
+    there are thousands of customers that do it, all around the world in all shapes and sizes.
+    Solutions that incorporate the “non-disruptive mobility”, “simple HA” of a stretched cluster with the “robust DR including testing/failover/sequencing” of VMware SRM.
+
+And… as we demonstrated at VMworld – lots of investment and R&D in this space – with very long distance being made (potentially) possible with VMware vVols and EMC VPLEX.
+
+But – hey, we could make it even more accessible – today!
+
+Starting now:
+
+    EMC VPLEX is supported in longer latency configs (matching the enhancements in VMotion that increased the max distance to a latency of 10ms round-trip) – up to 200km (really that same 10ms RTT latency).   This and the introduction of RAPIDPath – a new technology addition that improves multipathing over long distances – helps increase the number of use cases.
+    We discovered that a ton of customers love the unique active/active scale out model that VPLEX represents, but protect a relatively small amount of “active/active” data (and perhaps use it to virtualize more in a single datacenter) – so we created a bundle of EMC VPLEX Metro called “Express Edition” that includes 40TB of Metro active/active storage and Recoverpoint for local continuous protection and 3rd site DR (integrated with EMC VPLEX) – with a crazy low-entry cost.
+
+Great stuff for customers!   Read more here…
+

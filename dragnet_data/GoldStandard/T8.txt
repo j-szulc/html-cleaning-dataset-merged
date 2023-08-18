@@ -1,0 +1,67 @@
+Aug 09 2012
+DUST 514 Update Adds EVE Online Integration, Keyboard and Mouse Controls, And More
+
++ Posted by Brandon Laurino // Executive Producer, Dust 514
+
+Greetings from Shanghai and the DUST 514 development team! I’m Brandon Laurino, Executive Producer for DUST 514, here to let you know what’s going on in development, and bring you a sneak preview of the improvements coming to the DUST 514 Closed Beta with our “Precursor” release on August 21st. Whether you’re a hardcore beta tester or just casually interested in the game, next week’s update marks another significant milestone as the game moves towards Open Beta.
+
+
+The first live DUST 514 / EVE Online integration
+
+Linking the intense front-line combat of DUST 514 with the galactic ship warfare of EVE Online has always been our keystone to building a vibrant community, and now that keystone is coming into place. With the Precursor release, we move DUST 514 from its standalone testing server over to the long-standing EVE Online test server, Singularity (aka “Sisi”). This means DUST 514 on PlayStation 3 and EVE Online on PC/Mac will be officially running on the same server.
+
+When the Precursor Closed Beta build goes live, players on the Sisi server in DUST 514 and EVE Online can chat in real time and send in-game mail between games. We can’t wait to see what happens when these games collide in the same shared universe, and we’ll bring you more info on additional interconnectivity features as we move towards our next releases.
+
+Orbital Strike Framework
+
+The first framework for Orbital Strikes goes live in the Precursor build. These powerful, space-based attacks help link DUST 514 and EVE Online, letting squad leaders call in Orbital Strikes from the War Barge flying overhead when their squad achieves certain conditions in battle.
+
+This is just the first level of Orbital Strike capability. In the near future, players on the ground in DUST 514 will be able to request strikes from ships piloted by EVE Online players. These strikes have the potential to do far more damage than the War Barge, their accuracy and power determined by factors like your DUST 514 Merc’s skills and what turrets the EVE Online pilots have trained and fit to their spaceships.
+
+But Mercs on the ground won’t be helpless. We’ll soon add the Orbital Artillery outpost on the ground, which they can use to attack EVE Online ships in space.
+
+Instant Battle Matchmaking
+
+The Precursor update also implements several matchmaking features. Players will be able to find their friends, form squads and jump quickly into battles together using “Instant Battle.” In addition, the matchmaking system has been implemented to intelligently place solo players and squads into matches based on skill, creating a more inviting shooter experience, especially for new players.
+
+
+New Environments
+
+We couldn’t put out a major new release without adding tons of new game content. Precursor brings our Galaxy system online, which assembles maps from components based on planetary attributes and what is built on the planet, for tons of potential combinations. Closed Beta users will be able to help us test out a substantial array of new environments to battle in utilizing this new system.
+
+Keyboard and Mouse Implementation
+
+That’s right, with the Precursor release, you can use a USB keyboard and mouse to play DUST 514. We’re looking forward to seeing how this impacts play styles, and will be watching closely to see how keyboard/mouse players match up against Dual Shock and Move gamers. We are also working to add controller-based filters into Instant Battle/Matchmaking for a following update.
+
+Tons of Other Great Stuff (including lots of polish, graphical enhancements, and bug fixes)
+
+Everything mentioned above is just a small subset of what we’re adding to DUST 514 next week. All of these features are just the latest improvements to an awesome massively-multiplayer first-person shooter that will be free to play for every PlayStation 3 owner.
+
+In addition, we’re launching a free companion app on the Vita, DUST 514: Neocom, to augment your gameplay experience and let you customize your fittings, train skills, use the market, browse the starmap, and much more, on the go anytime and anywhere.
+
+Log In and Check it Out
+
+The DUST 514 Closed Beta update launches on August 21! We’ll be announcing new events very soon that will give more PlayStation 3 owners a chance to test DUST 514, but if you’ve already gotten a beta key, you can check it out as soon as Precursor goes live.
+
+If you’d like to sign up for a chance to test DUST 514, head over to the beta site.
+
+We invite you to log in, check out the Closed Beta, and let us know what you think. We’ve made a ton of improvements to DUST 514 since Closed Beta testing started. CCP is committed to making this revolutionary game and service a success, just as we’ve done with EVE Online, and we will continue to improve your experience constantly for years to come.
+
+I hope you enjoy the Precursor update to DUST 514, and I’ll see you on the battlefield!
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+
++ C98976 on August 9th, 2012 at 10:16 am said:
+
+sounds good
+
+

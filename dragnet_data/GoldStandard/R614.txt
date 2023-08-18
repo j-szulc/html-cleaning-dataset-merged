@@ -1,0 +1,22 @@
+Upcoming Improvements for Conversion Optimizer and Enhanced CPC Users
+
+Monday, October 22, 2012 | 12:30 PM
+
+Labels: ad rotation, Conversion Optimizer, Enhanced CPC
+
+Using AdWords Conversion Optimizer or Enhanced CPC can help you get more conversions at lower cost, and reduce the time required to manually optimize your bids. When using either one, changing your ad rotation from “Optimize for clicks” to “Optimize for conversions” increases conversions by an average of 5%. That’s because “Optimize for conversions” shows your higher-converting ads more often.
+
+To help you get better performance with AdWords, we’ll be linking these options more closely together in a series of changes that we plan to roll out during the week of November 12th, 2012.
+
+What’s changing
+
+    New ad rotation default when using Conversion Optimizer or Enhanced CPC. When you first activate Conversion Optimizer or Enhanced CPC in a campaign, your ad rotation setting will change to “Optimize for conversions” by default. We recommend this setting to get the most conversions, but you’re free to change to a different option.
+    Eligible campaigns will switch to “Optimize for conversions.” As we announced last December, all campaigns using Conversion Optimizer or Enhanced CPC which are set to use “Optimize for clicks” will be switched to “Optimize for conversions.” You can opt out of this update via this form up until November 9th, but you may miss out on getting more conversions by doing so.
+    “Rotate evenly” change for campaigns using Conversion Optimizer or Enhanced CPC. As we announced earlier this month, campaigns set to “Rotate evenly” automatically begin to optimize for clicks when ads in an ad group are unchanged for 90 days. Similarly, when using Conversion Optimizer or Enhanced CPC, campaigns set to “Rotate evenly” will automatically begin to optimize for conversions when ads in an ad group are unchanged after 90 days.
+
+After these changes roll out, you’ll still have control over your ad rotation settings and can make changes at any time.
+
+More information
+
+To learn more about the Conversion Optimizer and Enhanced CPC, you can watch the following short videos. For more details on ad rotation, please visit the AdWords Help Center.
+Posted by Wilfred Yeung, Product Manager

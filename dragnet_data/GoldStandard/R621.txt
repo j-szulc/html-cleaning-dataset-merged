@@ -1,0 +1,57 @@
+
+
+November 8, 2012 10:22 pm AEST — By Long Zheng
+Hands on with HTC 8X and Windows Phone 8 
+
+
+Just as I was leaving Seattle at the conclusion of Microsoft BUILD 2012, a HTC 8X fell off the back of a truck and into my hands. I’ve been keeping it in my pocket over the last couple of days, doubling my dosage of radiation with the iPhone 5, and it’s a Windows Phone 8 phone with a lot of potential.
+
+Hardware
+
+It’s hard to single out any one phone from the Windows Phone 8 launch lineup – they’re all quite impressive with a slew of pros and cons. Last week I played with the Nokia Lumia 920, the Nokia Lumia 820, the HTC 8S (briefly) and of course the HTC 8X.
+
+For the most part, most people will be comparing two flagship phones as their first Windows Phone 8 device, the Nokia Lumia 920 and the HTC 8X, and it’s not an easy choice by any stretch of the imagination. If only you could morph the two together, but within the laws of physics I prefer the HTC 8X.
+
+One of the major differentiators between the 8X and the 920 is the size and weight, although neither is “optimal” in my opinion. I find the 920 uncomfortable to hold and use in one hand and even the 8X barely makes the cut. Although I can comfortably grasp the 8X in my palm, it’s irritating to stretch a thumb to the far corner of the screen without regrasping.
+
+The next major point of contention, the camera, is not the 8X’s strong point by any stretch of the imagination. You’d have to be living under a very very dark rock to not have heard about the 920′s PureView camera which I found to be near equal to the iPhone 5 in normal conditions and a generation-ahead in low-light.
+
+In contrast, the 8X is fairly typical current-generation mobile camera with the typical tendency to overexpose and mis-calibrate the white balance. THe photos you take with the 8X will still be nice to look at but won’t be accurate most of the time.
+
+Overall, the 8X has very solid build quality with a matte backing which is much more comfortable to grip and the choice of different colours is a nice touch. The screen is rich and bright to show off the new tile accents of WP8 and also takes advantage of the new 16:9 aspect ratio which makes photos, websites and long lists easier to browse.
+
+It would be hard to find fault with the hardware except one gripe I have with the 8X, the hardware buttons. Small in both thickness and depth, the buttons are designed for ants. Arguably the most important button, the power button, is hard to both locate and press.
+
+Windows Phone 8
+
+Windows Phone 8 is a natural evolution over Windows Phone 7. With more under-the-hood changes than end-user features, the new release is much more refined, responsive and practical in pretty much all the same area that made Windows Phone an interesting mobile OS in the first place.
+
+Taking advantage of the dual-core chip in the 8X, multi=core support in WP8′s new shared kernel appears to deliver a much more responsive usage experience with considerably faster app loading, snappier animations and transitions, and butter-smooth scrolling and pivoting in many day-to-day apps like Facebook.
+
+Other nice enhancements like the vector maps which can be cached by entire regions and countries for offline use, downloadable keyboard languages, autocompletion alternatives for any tapped word, over-the-air updates, and SkyDrive backups for SMS text messages are all cherries on top of what is already a very sweet and tasty cake.
+
+The OS also sets the groundwork for many exciting innovations such as DataSense, NFC Tap+Send and digital Wallet which has rudimentary support at launch from carriers and software developers, but has the potential to be key platform differentiators if the required pieces of the puzzle fall into place.
+
+Software ecosystem
+
+Having said all that, some of the most exciting aspect of WP8 are yet to materialize. Even though the OS is designed to be backwards compatible with all WP7 apps, I am still holding my breathe for a plethora of new and updated apps that will take advantage of the new 16:9 aspect ratio, lock screen background, new APIs and capabilities (ex. VOIP).
+
+The apps which are on my radar but yet to materialize at the time of writing are Skype for Windows Phone 8 which will feature extensive integration into the People hub and background connectivity, as well as the OEM-agnostic free Nokia Drive app to substitute the out-of-box (and practically useless) turn-by-turn experience.
+
+Apps which has already been updated to take advantage of WP8 like Facebook for Windows Phone v4.0 is a prime example of how an app with a few tweaks is much more fun to use including but not limited to the lock screen image and full/mini tile support.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+rino19ny
+November 8, 2012 at 10:38 pm	
+
+specs wise, i tend to favor the lumia 920 however both phones, rather all Win8 phones, have yet to come up with something close to the Samsung Galaxy S3, hardware and software.
+	
+
+    Rom
+    November 9, 2012 at 12:59 am	
+
+    Samsung has the Ativ S

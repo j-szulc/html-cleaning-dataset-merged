@@ -1,0 +1,120 @@
+The Endeavour
+
+The blog of John D. Cook
+Ancient understanding of tides
+
+by John on July 15, 2012
+
+In his essay On Providence, Seneca (4 BC – 65 AD) says the following about tides:
+
+    In point of fact, their growth is strictly allotted; at the appropriate day and hour they approach in greater volume or less according as they are attracted by the lunar orb, at whose sway the ocean wells up.
+
+Seneca doesn’t just mention an association between lunar and tidal cycles, but he says tides are attracted by the moon. That sounds awfully Newtonian for someone writing 16 centuries before Newton. The ancients may have understood that gravity wasn’t limited to the pull of the earth, that at least the moon also had a gravitational pull. That’s news to me.
+
+
+
+!@#$%^&*() COMMENTS
+
+
+
+Chris Nahr 07.15.12 at 11:59
+
+    Secondary source, John. :) The original Latin has the verb “elicuit” for “attracted” which primarily means the human action of goading, enticing, teasing out, etc., no doubt used poetically here. The English translation implies a connection to modern gravitational theory that does not exist in the original text, in my opinion.
+
+
+John 07.15.12 at 12:43
+
+    Even if the language is poetic, it seems to refer to the moon pulling on the oceans, which I find remarkable. That people would make any causal connection between the moon and the tides surprises me.
+
+
+Matthew Wyatt 07.15.12 at 12:58
+
+    @Chris – see, this is why Latin should still be mandatory. :)
+    -Matt
+
+
+Michael Watts 07.15.12 at 13:09
+
+    But the association between the height of the tides and the position of the moon is very strong. As soon as you go looking for any relation at all, it shouldn’t be difficult to conclude that the tide is highest when the moon is directly above it, and that as the moon moves, so does the tide. It’s even less of a stretch to go from that to the idea that the tide is drawn forth by the moon.
+
+
+Shivaram S 07.15.12 at 18:34
+
+    Fascinating discussion on knowledge of Lunar cycle in ancient India, and its impact on tide, humans, fiddler crabs, and blind squirrel monkeys http://www.ece.lsu.edu/kak/plan.pdf
+
+
+Brendan Dowling 07.15.12 at 20:25
+
+    Of Providence is worth reading or re-reading in its entirety. http://en.wikisource.org/wiki/Of_Providence
+
+
+Marco 07.16.12 at 01:39
+
+    Curiously, Galileo Galilei was wrong about tides while the Church (following Aristotle) scored a point against him. However, the difference is between critical evidence-based thinking and dogmatic thinking. The Church believed the fact ‘tides are attracted by the moon’ because it was written in a book while Galileo was looking for a piece of evidence or a proof. Regarding ancient thinkers, I doubt that Greeks (and so Romans) understood Newtonian gravity. Probably, they observed a correlation between tides and moon cycles (as Michael said in a comment) and this was a great discovery by itself. Maybe you could find interesting this book, I have not read it, but looking at the table of contents there is a chapter about the idea of gravity (and Seneca is cited).
+
+
+Will 07.16.12 at 10:17
+
+    It at least says the Moon attracts the tides rather than the other way around.
+
+
+Mike 07.16.12 at 21:12
+
+    The Greeks knew of the lunar influence on tides from at least the 2nd century BC; Aristotle mentioned the lunar influence on tides, sort of: “ebbings and risings of the sea always come around with the Moon and upon certain fixed times.” (Quoted from this historical chapter,/a> on tidal science.)
+
+    Note, by the way, that Mediterranean tides are small, about two feet between maximum and minimum; it was only after Greeks ventured into the Atlantic that the phenomenon of tides became important to Greek thinkers. Indeed, it was the explorer and geographer Pytheas, who traveled through the Straits of Gibraltor about 325 BC, who both first paid close attention to tides and claimed they were caused by the Moon.
+
+
+Thony C 07.17.12 at 04:01
+
+    What we have here is a classic example of the difference between correlation and causation. The ancient Greeks were well aware of the correlation between the tides and the moon but their concept of causation was very different from that of Newton’s theory of gravity. Chris Nahr says that the Seneca translation quoted by John is inaccurate and that the word is not ‘attraction’ but should be better rendered as “the human action of goading, enticing, teasing out”. This is consistent with the then ruling world view which was essentially animistic and view the moon as having a life force, which acted on the tides.
+
+    At the beginning of the 17th century Kepler accepted the lunar tide theory whilst at the same time, as the first natural philosopher, rejecting the animistic view of nature introducing the concept of force as we know it, although his definition is a long way from ours. Galileo rejected the lunar tidal theory because it depended on occult (hidden) forces, that he couldn’t and didn’t accept, replacing it with a mechanical theory dependent on the movement of the earth. This theory was in fact horribly false and contradicted the empirical evidence.
+
+    Newton attributed the tides to the pull of the moon’s gravity replacing Kepler’s very vague concept of force with his own force of gravity (which he steadfastly refused to define). Interestingly both the Cartesians and the Leibnizians rejected Newton’s gravity because it re-introduced an occult force into the dominant mechanical philosophy of nature.
+
+
+Mike 07.18.12 at 20:22
+
+    Thony C: “What we have here is a classic example of the difference between correlation and causation. The ancient Greeks were well aware of the correlation between the tides and the moon but their concept of causation was very different from that of Newton’s theory of gravity.” It seems to me that there’s a step missing here. Causation vs. correlation is a different matter than having a different concept of causation; presumably you mean that their different concept of causation was such as to make them see correlations as evidence of causation where we moderns wouldn’t. In fact, I’d say all of that is true, but it seemed worthwhile to expand on this.
+
+    However, I think it inaccurate to write “their concept of causation” rather than “concepts”–deep down I suppose there might be very abstractly a basic view of causation the ancient Greek philosophers shared, but when you get into detail the differences are important. Aristotle, for example, argued that causation requires a mover directly touching the things it moves, in rather mechanical fashion; the Stoics tended to believe in a system of “sympathy,” much closer to “the then ruling world view which was essentially animistic” that you mention. However, because tides are sublunary phenomena, I suspect the Aristotelian view of the causation of tides would have been less clear cut than his views of the celestial motions.
+
+    And in any case, it’s the views of the later Stoics that are important here, since such thinkers as Seneca and Cicero were indebted to the writings of (or Apamea); from that link: “In Stoic physics, Posidonius advocated a theory of cosmic “sympathy” (sumpatheia), the organic interrelation of all appearances in the world, from the sky to the earth, as part of a rational design uniting humanity and all things in the universe, even those that were temporally and spatially separate.” At the same time, it’s important to keep in mind that Poseidonios was able to use the knowledge of his day that both the sun and the moon influence the tides (first realized by Dikaiarkhos of Messina) to explain the regular variations in their height, such as spring and neap tides. So, it would appear from what I’ve read that Seneca’s remark combines Poseidonios’ work on tides with his view of sympathy.
+
+    And some interesting background for the curious. Besides Pytheas’ bringing the tides of the Atlantic to the attention of the Greeks, the tides of the Indian Ocean were remarked on about the same time by the Greeks in Alexander’s army; the fact that the tides in the two were correlated suggested to Eratosthenes that all of the oceans were connected and surrounded the land known to the Greeks. The tides also played a role in the arguments of Seleukos, a Greek thinker from Hellenistic Babylonia, who followed Aristarchus in the belief that the Earth moves: “We know from Strabo, that Seleukus was an observer of the tides, and that he also had his own theory as to their origin appears from the following passage of the doxographers. ‘Seleukus the mathematician…himself letting the earth be in motion, says that the revolution of the moon is opposed to its (i.e. the earth’s) rotation, but that the air between the two bodies being drawn forward falls upon the Atlantic Ocean, and the sea is disturbed in proprtion.’ Evidently Seleukus supposed the atmosphere to reach to the moon if not further; from another passage we learn that he considered the universe to be infinite.” (J.L.E. Dreyer, A History of Astronomy from Thales to Kepler (1905, quoted from the 1953 Dover edition); the passage quoted by Dreyer is from Aetios.)
+
+
+Mike 07.18.12 at 20:50
+
+    Michael Watts: “But the association between the height of the tides and the position of the moon is very strong.”
+
+    Except that where you have diurnal tides (two high tides a day), one of the high tides occurs when the Moon isn’t visible.
+
+    “As soon as you go looking for any relation at all, it shouldn’t be difficult to conclude that the tide is highest when the moon is directly above it, and that as the moon moves, so does the tide.”
+
+    But the high tide lags the Moon by a couple of to several hours (varying widely by location and regularly on top of that by about half an hour during the year), the lunitidal interval, due to the speed of the Earth’s rotation and the relative shallowness of the oceans:
+
+    http://en.wikipedia.org/wiki/Gravity_wave?vm=r#Lunitidal_Waves
+
+    So there’s an association, but how the moon might cause it would not have been so obvious to a person first observing it.
+
+
+Mike 07.18.12 at 21:12
+
+    As a follow-up to the preceding, one of the major accomplishments of 19th century science was to tease out all the compnents of tidal motion–it was certainly possible to predict broadly the timing and height of the tides at a given location given earlier records, but the connection between the timing and hieght of tides at two different locations was much harder; the details were devilish indeed. A major figure in this was William Whewell, who’s one of the four subjects of an excellent book, The Philosophical Breakfast Club by Laura Snyder. Here’s an example of a cotidal map showing how the times and amplitudes of the tides are correlated:
+
+    http://en.wikipedia.org/wiki/File:M2_tidal_constituent.jpg
+
+    A short and very interesting squib on “singularities of the 1830s” includes Whewell’s work:
+
+    http://www.phy.bris.ac.uk/people/berry_mv/the_papers/Berry314.pdf
+
+    Note that besides the term “physicist,” as Berry mentions, Whewell was also responsible for coining the term “scientist” in 1833–interestingly enough, this was in response to Samuel Taylor Coleridge himself, who attended a meeting of the British Association for the Advancement of Science and in response to Whewell’s address attacked such practical men with their hands dirty from experiments for calling themselves “natural philosophers” (Coleridge was tiresomely, tediously wedded to idealistic philosophy), to which Whewell responded by suggesting the term “scientist” on the analogy of “artist.” (This story opens Snyder’s book–it’s quite a good story for that too.)
+
+
+Darius Bacon 07.22.12 at 23:48
+
+    I’ve read the book by Russo that Marco linked to. It draws together fragments like this to try to reconstruct what Hellenistic scientists knew about all kinds of things — it’s fascinating and frustrating. Here’s another (perhaps related) tidbit I hadn’t known of: the first proposition of Archimedes’s _On Floating Bodies_ was a proof that, in modern terms, an ocean under gravity assumes a spherical shape. Russo points out out naturally you might apply that to the spheres of the sun and moon, and offers this quote from Plutarch: “Just as the sun attracts to itself the parts of which it consists, so does the Earth…”
+
+    There’s more, but without the background I can’t evaluate all this with any confidence. Imagine if so little had survived about 21st-C. science it was worth trying to piece more together from fragments of commentaries by religious fundamentalists.

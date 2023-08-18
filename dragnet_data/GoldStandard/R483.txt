@@ -1,0 +1,17 @@
+Hospital Quality Reporting in Italy
+Written By: Jason Shafrin - Nov• 05•12
+
+In the U.S. patients can use Hospital Compare to evaluate the quality of care individuals receive at each hospital in the U.S.  In Italy, there is P.Re.Val.E.  A paper by Renzi et al. explains:
+
+    A Regional Outcome Evaluation Program (P.Re.Val.E.) was launched in the Lazio region of central Italy starting in 2005 (Fusco et al. 2012). Lazio has ~5,700,000 residents who are mainly concentrated in the city of Rome (Italian National Institute of Statistics 2010). During the pilot phase in the years 2005–2007 only very limited information on the collected data was occasionally communicated to specific hospitals…The P.Re.Val.E. program evolved over the years from including a small number of indicators to comprising 54 indicators of hospital care in various clinical areas, including cardiology, orthopedics, obstetrics, gastroenterology, respiratory, and cerebrovascular diseases…In February 2008 hospital-specific information was also publicly released on an open access website and through meetings with patient and citizen associations.
+
+How successful was the quality initiative?  Quality measures improved more in the Lazio region than elsewhere in Italy but the results were not overwhelming.
+
+    In Lazio PCI within 48 hours changed from 22.49 to 29.43 percent following reporting of the P.Re.Val.E results (relative increase, 31 percent; p < .001). In the other regions this proportion increased from 22.48 to 27.09 percent during the same time period (relative increase, 21 percent; p < .001). Hip fractures operated on within 48 hours increased from 11.73 to 15.78 percent (relative increase, 34 percent; p < .001) in Lazio, and not in other regions (29.36 to 28.57 percent). Cesarean deliveries did not decrease in Lazio (34.57–35.30 percent), and only slightly decreased in the other regions (30.49–28.11 percent).
+
+It is even unclear how much of this limited quality improvement is real.  Part of the improvement could be due to “risk-avoidance creep,” where hospitals select lower risk patients and, in particular, avoid higher risk ones to ensure that they can more readily follow standard protocols without risk of complications due to extensive patient comorbidities.
+
+Source:
+
+    Renzi, C., Sorge, C., Fusco, D., Agabiti, N., Davoli, M. and Perucci, C. A. (2012), Reporting of Quality Indicators and Improvement in Hospital Performance: The P.Re.Val.E. Regional Outcome Evaluation Program. Health Services Research, 47: 1880–1901. doi: 10.1111/j.1475-6773.2012.01401.x
+

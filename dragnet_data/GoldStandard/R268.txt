@@ -1,0 +1,14 @@
+KDE 4.9.3 Has Been Officially Released
+
+The KDE Project has announced a few minutes ago, November 6, the immediate availability for download of the third maintenance release of KDE Software Compilation 4.9.
+
+KDE SC 4.9.3 is the third of four point releases for the KDE 4.9 desktop environment, and it brings fixes for 86 submitted bugs.
+
+Among the improved apps in KDE 4.9.3, we can the Kontact email and groupware client and the Kate editor.
+
+The KDE Development platform has also been improved in this release, as well as updated translation, which are now over 55.
+
+"4.9.3 updates bring many bugfixes and translation updates on top of the latest edition in the 4.9 series and are recommended updates for everyone running 4.9.2 or earlier versions."
+
+"As the release only contains bugfixes and translation updates, it will be a safe and pleasant update for everyone." was stated in the official announcement.
+

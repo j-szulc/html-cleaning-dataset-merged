@@ -1,0 +1,19 @@
+Deploy a SharePoint 2010 Server Farm on AWS Cloud in 6 Simple Steps (All Scripts and Templates Included)
+
+One of the key differentiators of the AWS cloud is its flexibility. It allows you to not only choose the programming models, languages, operating systems but also deploy enterprise-grade packaged applications that have been already battle-tested by the industry. You can run the business applications that you already know how to use and developers and other IT professionals can bring their existing skills and knowledge to the cloud.
+
+Microsoft SharePoint is a one such widely-adopted enterprise packaged application, common in many organizations as a platform for public-facing websites and intranet portal for team collaboration, content management, workflow, and access to corporate applications. Recovery.gov and Lionsgate are few examples of how companies are deploying SharePoint-powered public websites in the cloud.
+
+Deploying an enterprise-class highly-available SharePoint server solution in a best practices way that involves multiple components and tiers can be time consuming and error-prone. AWS cloud not only provides the on-demand resources (compute, database, network etc.) you need to run this solution but also provides a way to script the provisioning and configuration steps so you can deploy it easily. By using AWS CloudFormation, you can mention what AWS resources, configuration values and interconnections you need in a template (JSON file) and then let AWS CloudFormation do the rest with a few simple clicks in the AWS Management Console, via the command line tools. You can use these templates repeatedly to create identical copies of the same stack (or to use as a foundation to start a new stack).
+
+Today, we have published an article – Deploy a Microsoft SharePoint Server 2010 Farm in the AWS Cloud in 6 Simple Steps – which includes easy-to-launch AWS CloudFormation sample templates and steps to create custom AMIs so you can launch a fully functional multi-tiered SharePoint 2010 server farm on AWS in 6 simple steps.
+
+In 6 simple steps, you will be able to launch a sample deployment as shown in the figure below that includes web, app, database and Active Directory tiers in a VPC spanning 2 Availability Zones fronting a load balancer with all the necessary Security Groups settings.
+
+This article is reference implementation of public-facing website scenario which is discussed in our SharePoint 2010 Server on AWS: Reference Architecture whitepaper (released in April 2012). Whether you are existing SharePoint developer trying to learn about AWS and Cloud Computing or existing customer trying to deploy SharePoint workloads in the cloud, this article (and resources) should serve you as a great starting point for your proof of concept.
+
+We understand that no two architectures are alike and based on the business and IT requirements, you might want to customize the provisioning and configuration steps to suit your needs. Hence, we also provide these resources (sample templates) in download form, and have published an advanced reference guide so you can customize the templates as per your needs and deploy them in the cloud repeatedly and reliably using CloudFormation and other tools such as the Windows PowerShell or the Command Line Tools.
+
+Hear more about this directly from Ulf Schoo, AWS Solution Architect, who worked on this project:
+
+This is first time we have published a reference implementation of multi-tier solution that involves multiple CloudFormation templates, instructions on how to customize an AMI and an enterprise packaged application (Microsoft SharePoint 2010). Hence, we are looking for your feedback and suggestions. Give it a try and let us know if you would like us to build similar content for other solutions.

@@ -1,0 +1,107 @@
+Case Study: Why You Should Never Stop Link Building
+by Ben Hunt
+
+Here’s a quick – but very important – lesson in online marketing.
+
+If you’re going to invest in promoting your website (SEO), you must see it as an on-going process. It isn’t something you can do for a few months to get higher rankings, and then cease.
+
+Case Study
+
+I won’t tell you the name of the site, but here’s a small website that one of my team worked on last year.
+
+The site was getting a steady (and low) stream of traffic: consistently between 600-800 visits per month.
+
+One of my team did some good promotional link building work over a period of a couple of months, and you can see the impact.  As their rankings improved, traffic grew steadily peaked at 1887 visits in February 2012. That’s well over twice as much traffic as the site had been getting previously.
+
+In case you’re wondering, the increase in traffic is all from non-paid organic search. Direct and referral traffic are both relatively flat. (See below.)
+
+What’s important here is what happens after February.
+
+Our short-term contract was over, and the client sat back to enjoy their boost in visitors.
+
+But the traffic has slid back to just 963 visits last month  (August 2012), still better than it was, but now only 50% of the previous baseline, before we started.
+
+Why?
+
+Well, put yourself in Google’s position.
+
+    There’s a site that doesn’t seem to be well thought of by the rest of the world (not many inbound links). So you don’t rank it high.
+    Then it starts to get attention. Other sites start linking to it. That’s a sign that the site is offering what people want, so you rank it higher.
+    But then suddenly the site doesn’t get any more new links. That will suggest that either a) They’ve had a link-building campaign (true); or b) They were doing something interesting, and have now stopped being interesting. Either way, if the rest of the world is losing interest, it seems we shouldn’t rank the site higher than other sites that are more highly thought of.
+
+It’s as simple as that.
+
+What you and I need to take from this is a simple lesson…
+
+Don’t stop doing SEO. It is an on-going marketing process that, for many of us, is at least as important as any other.
+
+That’s why, these days, if someone asks me to help them with SEO, I say I’ll only take them on if they’ll sign a 12-month contract. I find the case study above is disappointing. No one likes to see the results of their hard work bleed away like that.
+
+It may not take much. For some sites, a few hours per month is enough; for others, it’s a full-time job. But whatever you do, keep it up.
+
+Think of it like tending a garden, if you leave it for long, you’ll find it overgrown. Keep on top of it, and you’ll keep enjoying the benefits season after season.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+steve says:
+September 28, 2012
+
+Ben great article. However how is link building possible now after Panda? Well what I mean is how to do a proper link building campaign? Do you still do article marketing? How about 3rd party social site (ex: squidoo, hubpages, etc)
+
+I’ve read your book and totally agree on the best linking strategy is none. Great content will be spread by itself. In this case, why do link building above?
+
+What type of backlinking do you recommend as article marketing, blog comments, forum sigs are to spammy nowadays.
+
+
+
+    Ben Hunt says:
+    September 29, 2012
+
+    Great question Steve.
+
+    Here’s what we do.
+
+    1. Great content
+    2. Personal outreach to relevant sites and publications
+
+    That’s it.
+
+    
+
+Doug Roberts says:
+October 5, 2012
+
+Ben, interested to dig a bit deeper! What happened to the rankings over this time, did certain keywords stop ranking completely or did all keywords just gradually start to slide down the SERPS.
+
+Out of interest, what was the nature of the link building that was done?
+
+For instance, were these links in articles that have drifted off the linking site’s front page into the article archive over time as new content has been published?
+
+I’m assuming that the links that were build still exist (and haven’t been devalued following penguin…)
+
+Steve, I’d look at building “relationships” rather than just links for SEO value. Where do your target audience hang-out online? What sites do they visit and what can you do to plumb yourself into that network…
+
+
+
+    Ben Hunt says:
+    October 6, 2012
+
+    Hi Doug. Great questions. Sorry not to have answers. JD did the link building, and did a great job. I have a record of the links on email. I think we can assume a causal relationship between ranking and traffic, and say the rankings slipped, but I don’t have proof.
+
+    
+
+Lexi says:
+October 27, 2012
+
+Kinda makes me wonder what effects linkbuilding still has now that Google updated its algorithm. From what I gather, old school SEO won’t be as effective as it once was.
+
+
+
+    Ben Hunt says:
+    October 27, 2012
+
+    It’s still important to promote pages. Just a few inbound links can make a big difference early on, but manual link building is not a long-term strategy.

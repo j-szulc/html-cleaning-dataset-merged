@@ -1,0 +1,31 @@
+Rolling Jubilee: can a crowdsourced bailout of personal debt work?
+
+A new spin-off of Occupy Wall Street wants to cancel debt. Can it?
+
+This is an interesting thing. The Rolling Jubilee:
+
+    A bailout of the people by the people.
+
+    We buy debt for pennies on the dollar, but instead of collecting it, we abolish it. We cannot buy specific individuals' debt - instead, we help liberate debtors at random through a campaign of mutual support, good will, and collective refusal.
+
+So how does this work? Distressed debt – debt which is in default – is frequently more trouble than it is worth for banks. Those institutions specialise in making money from money they hold, not recovering money they are owed. So if they have too much trouble getting that debt repaid, they sell it on. Someone pays less than the full value of the debt, and hopes to profit by recovering it and pocketing the difference
+
+For really troublesome debt, sometimes that value can shrink to pennies in the pound – hence the Rolling Jubilee's plan, to buy $16,000 of debt for every $500 they raise (that is, $32 for $1).
+
+That's how it works. But will it work? Maybe.
+
+The legal mechanics of what they are doing are pretty clearly in their favour. Debt collectors really can cancel the debt if they want.
+
+The problem is that if you try to actually do that, you may find very quickly that people stop selling you debt.
+
+A similar idea was proposed a while back by an organisation called American Homeowner Preservation. It also deals with distressed debt, but focuses exclusively on mortgages, buying up pools of bad loans, and restructuring them to make it easier for the homeowners to pay them off.
+
+But the original plan was simpler still. Felix Salmon explains:
+
+    Investors would buy a house in a short sale at the market price, and then lease the home back to the homeowner until the homeowner had the ability to get a mortgage and buy it back at a pre-set price.
+
+    The idea might have been elegant, but it didn’t work in practice, because the banks wouldn’t play ball: they (and Freddie Mac) simply hated the idea of a homeowner being able to stay in their house after a short sale, and often asked for an affidavit from the buyer saying that the former owner would certainly be kicked out.
+
+There's not really any cold hard economics at play here. The banks have no reason to care what happens to a house after they've sold the mortgage for it, but they do. The best explanation for their stubbornness is that they fear that organisations like American Homeowner Preservation are creating a sort of moral hazard by reducing the penalties for defaulting on mortgages.
+
+Will the debtholders be similarly reluctant when it comes to playing along with Rolling Jubilee? We'll see, but I don't have high hopes for a change in tactics any time soon.

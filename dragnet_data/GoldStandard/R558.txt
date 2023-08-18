@@ -1,0 +1,86 @@
+Tuesday, August 07, 2012
+London Day 10: 400m success, gene pools and training, and a DQ debate
+
+London Day 10: 400m success for the islands, and disqualification (doping?) debate
+
+Quick thoughts on last night's action:
+
+1) The 400m events were a Caribbean parade. As were the 100m sprints.  Is it the genes? Or the training?
+
+Last night saw both 400m events - the flat and the hurdles, and both were dominated by Caribben islands.  Add this to the 100m sprints for both men and women (where Jamaica won four of the six medals - gold and silver for men, gold and bronze for women), and it's clear where the epicenter of world sprinting now lies.
+
+Here's the finish results for the men's 400m, for example:
+
+The same was true of the 400m hurdles final later, won, amazingly, by Felix Sanchez eight years after his Athens triumph.  That race had a strong American presence (three men), whereas the 400m race was the first time in the history of the Games that the USA did not have at least one runner in the final.
+
+
+Then here's a graph (source: Sporting Intelligence) showing gold medals won per million people (on the y-axis) and per billion GDP dollars (x-axis) back in 2008, in Beijing.  Zimbabwe did well GDP-wise (thanks to Coventry, who won all four of their medals, but Jamaica and the Bahamas feature well in both categories.  Grenada now have their first gold, the Dominican Republic won two last night, with Sanchez's gold complemented by Santos' silver.  These Caribbean islands made up nine out of the 16 finalists in the two events, winning five of the six medals.  The same debate can of course be had for distance events, with a focus on Kenya, Ethiopia and Uganda as your main protagonists.
+
+Of course, this invites the common debate about training vs talent.  Are these tiny nations, like the Bahamas and Jamaica, so successful because of a deep gene pool, which is somehow related to an accelerated "survival of the fittest" concept, as was discussed in a recent documentary featuring Michael Johnson?  Or is their success a function of their excellent school sports systems, their "culture" for sprinting, their investment into the sport and excellent training programmes?  David Epstein of Sports Illustrated described some of these factors in his report on Shelly-Ann Fraser-Pryce after her 100m gold.
+
+I won't go into the whole discussion of training vs talent, and the 10,000 hour concept of deliberate practice.  Rather, I'll refer you to these two articles I wrote a while back, for those interested in more and who feel like a longer read:
+
+    A review of the 10,000 hour concept: Is it valid, even for non-sport activities?
+    Some of the evidence for genes, and why they matter
+
+
+Unnecessary polarization
+
+But for now, I will say that the polarization of this debate is unnecessary and wrong.  Why does it need to be one or the other, rather than both?  Why do we insist on discounting the role of genes?  I am sure that most of you reading this already agree, and probably wonder what the fuss is about.  Well, in popular media, in particular, the likes of Malcolm Gladwell and Matthew Syed have propagated the idea that genes don't matter, that it's all in the training, as I described in those previous posts linked to above.
+
+So no, it's not just the genes.  And no, it's also not just the training.  We know that genetic factors influence performance, both in terms of the starting physiology, the adaptations that occur in response to training, and in all likelihood the ultimate ceiling that can be reached.  There's evidence from Bouchard et al, for example, that 21 distinct single nucleotide polymorphisms (or SNPS) affect how our VO2max changes in response to endurance training - if you have 19 or or more of the "right" SNPs, you respond well, whereas if you have 9 or fewer, you are a non-responder.  If you want to be an elite athlete, it's a pretty sure bet that you need to be on the high responder side of that spectrum.  That's just in terms of VO2max, and we know that endurance performance is made up of far more than just VO2max.
+
+The point is that genetic factors clearly affect performance.  More in some sports than others - the "physiologically limited" sports like rowing, running, cycling etc may be more affected than say table tennis, archery, or even sports where a greater range of physiology can succeed (think football, and Messi vs Drogba).  But genes matter, and for speed and endurance, dismissing them is to dismiss scientific evidence
+
+What has NOT been found is a single gene that explains it.  There was a prospect, when a specific variant of the ACTN3 gene was found to be associated with sprint/power ability in a group of European athletes.  That same gene is not associated with sprinting ability in other populations, but that's because of interaction effects and genetic differences between populations that I won't claim to be able to explain to you in sufficient detail.  But this failure to find the gene is often cited as evidence that there is no gene.  I'd argue that the scientific approach to the question is wrong, for two reasons.  First, it's far more complex than just being one gene - if 21 SNPs explain training response of VO2max, then you won't explain something so complex using a single gene approach.
+
+And secondly, the question should not be whether there is a specific gene that some groups have that others do not - this is why geneticists and anthropologists get worked up and annoyed, because this kind of question leads to generalizations that are almost certainly wrong.  If you try to argue that Grenada, or Jamaica, or people of West African descent have a gene that makes them faster, then have a problem when someone NOT of that descent wins.
+
+(As an aside, this discussion also opens a can of political correctness that I've never truly understood - I'd have thought it would be complement to be identified as "superior" in some task.  Obviously, if you're accused of being inferior, it's different, but that's not what's happening when we celebrate the world's fastest sprinters and distance runners.  I guess for every winner there is a loser, but it's funny that the "winners" are the ones who usually pull out the PC-stick! And it certainly doesn't diminish the achievement - it's not to say it's 'easier', because the training is still absolutely vital.  Anyway...)
+
+For example, when Galen Rupp wins a medal in the men's 10000m race, you have to explain why he did, when clearly he isn't of east African descent.  If your position of "it's all in the genes" was based on heritage, it now looks weak.  But it was, in my opinion, the wrong position to adopt to begin with.  It shouldn't be about this population or that population, this descent or that descent.  I would say there is still a chance that some genes that affect performance ARE linked to descent, but for now, that's not even needed to explain why genes matter.
+
+It should be whether the prevalence or frequency of the "favorable genes" is higher in some groups than others.  When you try to find a gene or SNP that you think Jamaicans may have that no other people do, you doom yourself to a negative finding, because that gene might be present everywhere.  You're asking the wrong question.  You should rather be looking to find whether that gene might exist in more people in certain groups, and thus whether the probability of producing a champion athlete there is greater.  This scientific question has yet to be answered, but may hold the key.
+
+If this were the case, then the end result would an enormous difference in final performance because of the additive effect of having more to choose from, plus the system applied to choose it.  Does South Africa possess athletes who could challenge the Kenyans or Jamaicans?  Yes, of course.  But I'd hypothesize that we have a lower probability to begin with, and we don't maximize what we do have.
+
+Based on this, I'd conclude that it is the application of the training system and culture to the right population, where the prevalence of whatever genetic factors determine success, that enables such dominance by a small population group.
+
+That's my conclusion, for today.  The rest is the explanation, but here is a paper I co-authored with a geneticist, Prof Malcolm Collins, recently, where we explain how BOTH genetic and training factors are crucial for success.  Bottom line is that while Gladwell and Syed's fairy-tale that you can achieve anything if you practice sounds good, the reality is far more complex.
+
+2) Track gets its own version of Ye Shiwen in Taoufik Makhloufi
+
+Last week, the action in the pool produced a side debate on the Chinese swimmer Ye Shiwen.  The 16-year old won the 400 and 200m Individual Medley, and because of her age, her world records and the fact that she is Chinese, was deemed suspicious as a possible doper.
+
+That story has no resolution, but now athletics has its own case, in the form of Taoufik Makhloufi of Algeria.  He won his 1500m semi-final, beating defending champion Asbel Kiprop and a host of other athletes, in pretty amazing fashion.  His last lap was 52.5s, with a final 800m of around 1:49.  He also improved substantially in the last year, about five seconds for 3:30.8 this year.  And he comes from a nation that is regarded by most within the sport as being 'suspect'.  In the same way that China is deemed suspect in swimming (and track, for that matter), North African nations have the same stigma.
+
+Apparently, commentator Steve Cram said "That's unusual to see the Algerian run this well. ... I'm not sure what I'm watching with Makhloufi there ...", and the forums on athletics sites kicked off with debate and accusation over the possibility that he was doping.
+
+So once again, you have a debate where some will say it's an unfair generalization (which it probably is), but others will point to history and how we've been fooled before.  Learning lessons from history is often the basis for generalizations, but applying them correctly is a difficult concept!  And once again, as was the case for Ye, looking SOLELY at performance leads to all kinds of conclusions that ARE certainly not fair.  For example, it soon emerged that there have been a few performances where the final 800m have been quite a bit faster than Makhloufi's, and they've often been in faster races.  Big improvements are also not unusual
+
+So judging someone as a doper based on performance is just not feasible.  It was the same for Ye.  Some would say "she's young", but others could easily point to other young swimmers who were not suspicious.  They'd say "she improved by 7 seconds in a year", and others can point to even bigger improvements in non-accused swimmers.  Ultimately, performance doesn't cut it.
+
+The performance does however ask the question, and given the history, it's right.  It's unfortunate for the individual, but history means it's his turn in the spotlight.  The only way to answer those questions is through testing, comprehensive and long-term.  Then, if the athlete doesn't get caught and doesn't slow down, then we must accept it.  If they don't get caught and slow down, we have a hint of an answer.  And sometimes they get caught.  If the testing is done properly, then time will provide the answer.  Of course, the problem is that the testing is not trusted either, because we've learned that it's too easy to get away with doping and not get caught.  But the more the better, it's the best one can hope for.
+
+3) Makhloufi finds himself in a second, unrelated controversy
+
+Then amazingly, the same athlete whose performance was hotly debated, found himself in a second, totally unrelated controversy when he was first kicked out of the Games and then later re-instated, after he was found to have deliberately under-performed in the men's 800m heats.
+
+You'll recall the badminton players who got expelled for deliberately trying to lose to set up more favorable draws in the quarter-finals.  You'll also recall that Japan's women were instructed not to beat South Africa to get a better draw, and you may remember that a British cyclist confessed to crashing on purpose to force a race restart in the men's pursuit (he later retracted the 'confession').
+
+So this has been the Olympics of "slower, lower, weaker", in some respects.  In the case of Makhloufi, he lined up in the heats, the morning after his 1500m semifinal, and presumably wanted to save himself for the final.  So he jogged slowly for 200m, stepped off and was done.  In response, the IAAF expelled him from the Games.
+
+It was a bizarre sequence of events. Three quick thoughts:
+
+    There's no consistency in the sanctioning of athletes for "not trying hard enough".  Some are expelled, others are not.  At least get the same method for all.  I realize they're subtly different, in the same way that an athlete who jogs in to qualify in fifth place in a 5,000m heat is different from one deliberately losing a heat like Makhloufi allegedly did.  Playing a weaker team to rest key players, or playing at 90% because you don't care to win a match, is different from deliberately manipulating the result to lose or draw, I'd argue. When you pre-determine the outcome, you're fixing the result, but the format of competitions and the rules sometimes facilitates this.
+
+    I can't believe his federation would make him run the 800m heats knowing that he is a realistic medal chance in the 1500m.  The final is a day later, he's already limped off after his 1500m heat (unless he was laying the groundwork for his excuse a day early, that is), and so why push him to run a race that compromises his chances?  I presume the athlete didn't want to run the race, and that the Algerian Federation refused his request to withdraw.  We had a similar case in the swimming, where Chad le Clos had actually qualified for the final of the 200m IM, but withdrew because he wanted to focus on the 100m butterfly event as a better medal chance.  That was not sanctioned (rightly), and seems the common sense approach.
+
+    Why does the Olympic programme not enable the 800m-1500m double by at least separating them?  Remember Coe and Ovett?  Their double attempts were a highlight of the Games.  Kelly Holmes won the same double in Athens.  Did those heats overlap with the finals of the other event?  They have done, in which case, I'll take this one back (no time to check, sorry!).  But it seems that it would be reasonable to enable the double with a schedule change.
+
+In any event, he has now been re-instated for the 1500m final.  If he can produce the same 250m as he did in the semi-final, maybe that will provide more 'fodder' for debate on the forums, and another "Is he doped?" debate.
+
+Should be interesting. That final is later this evening!
+
+Ross
+

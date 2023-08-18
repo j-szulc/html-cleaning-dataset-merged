@@ -1,0 +1,35 @@
+Some More Answers around Windows 8
+
+I also did a little Q&A with Microsoft India which is shared below:
+
+Q. I am planning to assemble my own PC from scratch. Where do I get a full license (System Builder Edition?) of Windows 8?
+
+A: You can buy a retail copy of Windows 8 for Rs. 11,999.
+
+Q. If I buy a Windows 8 machine, can I downgrade to Windows 7 or Vista later?
+
+A: PCs purchased preinstalled with Windows 8 Pro will have the option to downgrade either to Windows 7 Professional or Windows Vista Business.
+
+Q. I have a laptop computer and a desktop computer at home. Do I need to buy separate Windows 8 licenses?
+
+A: Yes, you need separate licenses.
+
+Q. Can I deactivate my Windows 8 license and transfer it to another computer?
+
+A: Yes – by completely formatting your drive.
+
+Q. If I buy a TechNet / MSDN license, am I allowed to use them on a personal computer?
+
+A: The TechNet/MSDN license is for the developers only and can be installed on a machine used for coding.
+
+Q. I am a student and don’t have a Credit Card or PayPal. How do I buy an Windows 8 upgrade license?
+
+A: If you have VISA or Master Debit card, you can pay through that. Alternately, if you are a current Windows user, you can buy a retail copy of Windows 8 Pro for Rs. 3,499 at retail stores. The promo is available till 31st January 2013.
+
+Q. Windows 8 ships with Windows Defender. Would you recommend installing any other anti-virus program to better secure the computer?
+
+A: Windows 8 provides enterprise-class security capabilities that help keep PCs more secure against malware intrusion and better protected with easy-to-deploy data encryption as well as strong access control to resource. If you wish, you can choose to install your own third-party anti-malware products with the ability to turn off Windows Defender. That said, if Windows 8 senses that the device is unprotected for a length of time, Windows Defender will automatically start to ensure the device is protected.
+
+Q. Is Surface coming to India anytime soon?
+
+A: Currently, Surface is only available in eight markets including Australia, Canada, China, France, Germany, Hong Kong, the United Kingdom and the United States.

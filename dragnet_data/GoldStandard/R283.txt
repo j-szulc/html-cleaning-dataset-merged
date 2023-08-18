@@ -1,0 +1,70 @@
+Tech Support Internship: Student-led support for Leyden’s Chromebook initiative [guest post]
+
+Part 4 of a 5-part series on 1:1 with Chromebooks at Leyden High Schools.  This post was written collaboratively by the four teachers who work with the Tech Support Internship program:  Jason Cartwright, Adam Labriola, Lauren Martire, and Tony Pecucci. More information is available at the East Leyden and West Leyden TSI Websites.
+
+Overview
+
+The Tech Support Internship (TSI) is a year-long course that supports Leyden’s 1:1 technology initiative.  Students in the Tech Support Internship get experience working in a real life tech support environment.
+​
+The Tech Support Interns have three main objectives:
+
+    To support students’ Chromebooks
+    To support the faculty and staff with technology needs
+    To pursue independent learning pathways
+
+When students are not supporting students’ and/or faculty/staff technology needs, students work on a variety of independent pathways.  These pathways allow students to explore and develop skills in a variety of technology subjects including computer programming, networking, app development, web design, etc.  The students also are given the opportunity to become certified in multiple industry recognized certifications.
+
+Pathways and Why Students Chose Them
+
+Certification
+
+Students in this pathway pursue industry certifications.  Students may choose one or more of the following certifications:  Internet and Computing Core Certification (IC3), Microsoft Office Specialist, Google Apps, and/or CompTia A+ Certification.
+
+“I chose certification as my pathway because I wanted to learn more about computers.  There will be many benefits gained from completing this pathway. If I get my A+ certification next semester, I can have more job and internship opportunities in college. I want to get as many certifications as I can this year.” - Karolina Moniuszko
+
+Computer Programming or Networking
+
+Students in this pathway gain hands on experience in computer programming or networking.  For computer programming, students may choose between two programming languages: C++ or JavaScript.
+
+“The reason why I chose programming was because the whole entire concept of it was so cool. Studying programming is like studying a whole new language, it’s hard but when you finally understand you feel a sense of accomplishment. In programming you will learn the fundamentals of where all the current apps and programs you use come from and how they were made, while at the same time interacting with developing codes yourself. Other than that it’s a high demand job in the real world that pays a lot of money.” - Clint De Leon
+
+Communications
+
+Students in this pathway implement new communication technologies for Leyden students and staff.  Students create websites, podcasts, blogs, tutorials, and workshops related to Leyden’s technology initiative.
+
+“I chose the Communications pathway because I liked the idea of being able to inform teachers and students about different technologies in a creative way.  I also get to learn about and use a variety of multimedia tools that will benefit me in my school work and my future jobs.” - Dulce Lopez
+
+App Development
+
+Students in this pathway build and develop apps for the Chrome Browser, iOS, and Android devices. Students will gain experience developing applications using a web browser and either a connected phone or emulator.
+
+“Through curiosity of viewing the app store and the unlimited apps provided for download, I thought more and more on how to do certain apps and the difficulty involved. I chose this Pathway so I can make apps that people my age can use and find to be important or entertaining in their everyday lives. To have a well known app would give me the confidence to build more and to do that, my first step was to join this class and follow this Pathway.” - Zaid Alaraj
+
+Interaction Between Students and Tech Department
+
+Level 1: Students
+
+In TSI, students are the initial point of contact on any and all technical issues.  Students work with students, faculty and staff to determine exactly what their issue is and determine how to address it.  These requests all come through a work ticketing system (Spiceworks) and are handled by the students on a rotating basis.  Most commonly, students work on Chromebook issues/repairs, projection screens, Google Application support, and many other common issues.  If an issue can be handled completely by a student, these tickets are considered Level 1.
+
+Level 2: Students Working with Tech Department
+
+When students are addressing issues, they may derive that the issue is in need of administrative access.  For these types of cases, they would need to bring in a member of the Tech Department to assist.  These issues would then be considered Level 2.  Typically, these issues would involve the wireless network password, accessing network printers or handling software downloads for computers labs.  The students have a close relationship with the Tech Department and often come along to see how Level 2 tickets are handled for learning purposes.  Again, all tickets are filtered through our work ticketing program to ensure they are being addressed in a timely manner.
+
+Benefits
+
+We believe the benefits of TSI are many.  Throughout our conversations with computer professionals, they would continually stress the need for students to not only have certifications in various areas – but also to have the soft skills and hands on experience to work in a job environment.  This is where TSI is an extremely good fit as it provides all of those skills … and more.
+
+TSI students at Leyden interact with students, faculty and staff on a daily basis.  They sharpen their communication skills by answering phones, handling incoming issues and going out in the “field” on various tickets.  TSI students never know what they will be working on next and no day is like the day before!  We feel this is a replication of what they will be facing once they leave Leyden and prepares them in a way no other class does.
+
+In addition, students can choose the various pathways to work on when not assisting our school.  Particularly, the certifications they can attain will increase their ability to secure a position directly out of high school.  Leyden TSI students will be more qualified than many others in the workforce for entry level positions in computing.
+
+Overall, Leyden TSI students are getting much of the “real world” experience they need to succeed post high school.  TSI provides enormous benefits for students and can give them the edge they need to start their careers, wherever they may start!
+
+Previous posts in the series
+
+    Why 1:1? Why Chromebooks?
+    The logistics of 1:1 Chromebooks at Leyden
+    What can you expect when moving learning to the Web?
+
+ 
+You might also like

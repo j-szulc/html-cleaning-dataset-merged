@@ -1,0 +1,85 @@
+How Memory Works: 10 Things Most People Get Wrong
+
+"If we remembered everything we should on most occasions be as ill off as if we remembered nothing." ~William James
+
+It's often said that a person is the sum of their memories. Your experience is what makes you who you are.
+
+Memory, then, shapes the very core of human experience. Despite this, memory is generally poorly understood, which is why many people say they have 'bad memories'. That's partly because the analogies we have to hand—like that of computer memory—are not helpful. Human memory is vastly more complicated and quirky than the memory residing in our laptops, tablets or phones.
+
+Here is my 10-point guide to the psychology of memory (it is based on an excellent review chapter by the distinguished UCLA memory expert, Professor Robert A. Bjork)
+1. Memory does not decay
+
+Everyone has experienced the frustration of not being able to recall a fact from memory. It could be someone's name, the French for 'town hall' or where the car is parked.
+
+So it seems obvious that memories decay, like fruit going off. But the research tends not to support this view. Instead many researchers think that in fact memory has a limitless capacity. Everything is stored in there but, without rehearsal, memories become harder to access. This means it's not the memory that's 'going off' it's the ability to retrieve it.
+
+But what on earth is the point of a brain that remembers everything but can't recall most of it? Here's what:
+2. Forgetting helps you learn
+
+The idea that forgetting helps you learn seems counter-intuitive, but think of it this way: imagine if you created a brain that could remember and recall everything. When this amazing brain was trying to remember where it parked the car, it would immediately bring to mind all the car parks it had ever seen, then it would have to sort through the lot.
+
+Obviously the only one that's of interest is the most recent. And this is generally true of most of our memories. Recent events are usually much more important than ones that happened a long time ago.
+
+To make your super-brain quicker and more useful in the real world you'd have to build in some system for discounting old, useless info. In fact, of course, we all have one of these super-brains with a discounting system: we call it 'forgetting'.
+
+That's why forgetting helps you learn: as less relevant information becomes inaccessible, we are naturally left with the information that is most important to our daily survival.
+3. 'Lost' memories can live again
+
+There's another side to the fact that memories do not decay. That's the idea that although memories may become less accessible, they can be revived.
+
+Even things that you have long been unable to recall are still there, waiting to be woken. Experiments have shown that even information that has long become inaccessible can still be revived. Indeed it is then re-learned more quickly than new information.
+
+This is like the fact that you never forget how to ride a bike, but it doesn't just apply to motor skills, it also applies to memories.
+4. Recalling memories alters them
+
+Although it's a fundamental of memory, the idea that recall alters memories seems intuitively wrong. How can recalling a memory change it?
+
+Well, just by recalling a memory, it becomes stronger in comparison to other memories. Let's run this through an example. Say you think back to one particular birthday from childhood and you recall getting a Lego spaceship. Each time you recall that fact, the other things you got for your birthday that day become weaker in comparison.
+
+The process of recall, then, is actually actively constructing the past, or at least the parts of your past that you can remember.
+
+This is only the beginning though. False memories can potentially be created by this process of falsely recalling the past. Indeed, psychologists have experimentally implanted false memories.
+
+This raises the fascinating idea that effectively we create ourselves by choosing which memories to recall.
+5. Memory is unstable
+
+The fact that the simple act of recall changes memory means that it is relatively unstable. But people tend to think that memory is relatively stable: we forget that we forgot and so we think we won't forget in the future what we now know.
+
+What this means is that students, in particular, vastly underestimate how much effort will be required to commit material to memory. And they're not the only ones. This leads to...
+6. The foresight bias
+
+Everyone must have experienced this. You have an idea that is so great you think it's impossible you'll ever forget it. So you don't bother writing it down. Within ten minutes you've forgotten it and it never comes back.
+
+We see the same thing in the lab. In one study by Koriat and Bjork (2005) people learned pairs of words like 'light-lamp', then are asked to estimate how likely it is they'll be able to answer 'lamp' when later given the prompt 'light'. They are massively over-confident and the reason is this foresight bias. When they get the word 'light' later all kinds of other things come to mind like 'bulb' or 'shade' and the correct answer isn't nearly as easy to recall as they predicted.
+7. When recall is easy, learning is low
+
+We feel clever when we recall something instantly and stupid when it takes ages. But in terms of learning, we should feel the exact reverse. When something comes to mind quickly, i.e. we do no work to recall it, no learning occurs. When we have to work hard to bring it to consciousness, something cool happens: we learn.
+
+When people's memories are tested, the more work they have done to construct, or re-construct, the target memory, the stronger the memory eventually becomes. This is why proper learning techniques always involve testing, because just staring at the information isn't good enough: learning needs effortful recall.
+8. Learning depends heavily on context
+
+Have you ever noticed that when you learn something in one context, like the classroom, it becomes difficult to recall when that context changes?
+
+This is because learning depends heavily on how and where you do it: it depends on who is there, what is around you and how you learn.
+
+It turns out that in the long-term people learn information best when they are exposed to it in different ways or different contexts. When learning is highly context-dependent, it doesn't transfer well or stick as well over the years.
+
+I had a friend at University who swore that standing on a chair or up against a wall helped him to revise. I used to laugh at him but there was method in his madness.
+9. Memory, reloaded
+
+If you want to learn to play tennis, is it better to spend one week learning to serve, the next week the forehand, the week after the backhand, and so on? Or should you mix it all up with serves, forehands and backhands every day?
+
+It turns out that for long-term retention, memories are more easily recalled if learning is mixed up. This is just as true for both motor learning, like tennis, as it is for declarative memory, like what's the capital of Venezuela (to save you googling: it's Caracas).
+
+The trouble is that learning like this is worse to start off with. If you practice your serve then quickly switch to the forehand, you 'forget' how to serve. So you feel things are going worse than if you just practice your serve over-and-over again. But, in the long-run this kind of mix-and-match learning works best.
+
+One explanation for why this works is called the 'reloading hypothesis'. Each time we switch tasks we have to 'reload' the memory. This process of reloading strengthens the learning.
+10. Learning is under your control
+
+The practical upshot of these facts about memory is that we often underestimate how much control we have over our own memory.
+
+For example, people tend to think that some things are, by their nature, harder to learn, and so they give up. However, techniques like using different contexts, switching between tasks and strenuous reconstruction of memories can all help boost retention.
+
+People also tend to think that the past is fixed and gone; it can't be changed. But how we recall the past and think about it can be changed. Recalling memories in different ways can help us re-interpret the past and set us off on a different path in the future. For example, studies have shown that people can crowd out painful negative memories by focusing on more positive ones (Levy & Anderson, 2008).
+
+All in all, our memory isn't as poor as we might imagine. It may not work like a computer, but that's what makes it all the more fascinating to understand and experience.

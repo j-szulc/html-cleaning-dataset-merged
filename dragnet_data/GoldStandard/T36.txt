@@ -1,0 +1,268 @@
+
+17 Experts Weigh in on How to Do Quality Link Building in Volume
+
+by Miguel Salcido
+
+
+
+Google, the leading search engine in the world, has been trying to filter out many websites with trash content (I mean trash website owners, #sarcasm) from its SERPs. Many updates have come since 2011, which mostly killed websites that have spammy content and link profiles. From Panda to the recent Penguin update, Google is trying to segregate the true diamonds from the pile of marbles. And this made SEO practitioners’ and online marketers’ heads spin.
+
+Yet, people have been coming up with new ways to rank higher in the SERPs. Link building has always been one of the most powerful SEO methods out there, and technically, it still is. But due to the recent changes, link building has been hard for every living SEO soul out there, and their old tried and true methods have been fading out, especially when it comes to doing large scale link building. Figuring out how to scale link building is very difficult, especially given all of the recent updates. Every agency and consultant has to try to figure this out at some point. I personally have gone through many iterations of scaling link building and I can tell you first hand that it is extremely difficult. I believe that is what Google wants though, to make you REALLY have to work hard to earn it!
+
+So how to do it? I have gathered the experts and asked for their insights on link building in volume for you. I would love for you to join the party by commenting with your best tip for link building at volume too.
+
+THE QUESTION: How do you do quality link building in large volume or how would you approach it this year, given that a lot of changes have occurred this past few months that relates to link building?
+Rand Fishkin
+
+Rand Fishkin of SEOmoz
+
+Rand Fishkin is CEO of SEOmoz
+
+“Produce amazing content and/or provide amazing things and spread the word to a link-likely community. I don’t think that practice has changed much in the past decade, though with the growth of social media and the strange, weird ways the web has grown (memes, tumblr, interactive infographics, short-form videos, etc) creativity and uniqueness can win hearts, minds and links like never before.”
+
+ 
+James Agate
+
+James Agate of Skyrocket SEO
+
+James Agate is the Founder of Skyrocket SEO
+
+“There is little doubt that lower quality link building is certainly on the way out. There is this common misconception that there is no way to get high quality links in large volumes and whilst I accept that it isn’t as easy to get 100 decent links as it was to outsource getting 1000 article directory submissions, the point is that 10 or even 10 really decent links will more often than not trump any number of junk links.
+
+Anyone familiar with myself and my company will know that we do a great deal of guest posting for links and brand visibility. We deliver these kinds of services on a fairly large scale by continually “chunking down” what appears to be a complex and drawn out process into a production line of much smaller and more manageable tasks. There was a time when, we had one team member completing a post from start to finish including finding opportunities, outreach, writing and so on. We then moved to sourcing freelance writers to fulfill content as this greatly improved the depth and quality of each article. We’ve now migrated to a process which is much more robust, flexible and scalable which involves each individual playing a small part in the process whether than be finding opportunities, evaluating prospects, checking the quality of the content or building the relationship with the website owner.
+
+Let’s not forget also that developing linkworthy content on your own site and ensuring intelligent promotion of this content through outreach and social seeding for example can be one of the most potent and passive ways to generate significant volumes of links.”
+
+ 
+Dan Petrovic
+
+Dan Petrovic of DejanSEO
+
+Dan Petrovic is the Director at DejanSEO
+
+“I would completely focus on linkable content in tandem with manual outreach. The main mistake companies do is hire link building companies and don’t supply linkworthy content to go with that. Asking people to link to you and not giving them a reason is not a very good approach. All your link building efforts will amplify greatly if you back them up with great content. As far as outreach goes social media platforms and personal connections are the key.”
+
+ 
+Ross Hudgens
+
+Ross Hudgens of Full Beaker Inc
+
+Ross Hudgens is the SEO Manager at Full Beaker, Inc.
+
+“Link building at scale should never be done through public funnels – it’s really a recipe for algorithmic eradication. I think a lot of what occurred is basically a warning flag and not a algorithmic move forward, but it’s clearly a sign that investing in networks like this can be a highly risky proposition for your business – whether or not they are actually functionally effective for ranking your websites. I can’t give advice for how to “do things at scale”, or that would bring us full circle to the advice I suggested against – but there are several routes to doing this in a sustainable and risk free way – that’s all glistening and white as well. Most verticals have exploits you can take advantage of in terms of what’s acceptable or what can get you tons of links – I don’t have those answers for you, though, because we have somewhat moved from ‘do this everywhere’ to ‘there are still scalable, ethical solutions on case by case basis’.”
+
+ 
+Cyrus Shepard
+
+Cyrus Shepard of PlaceFull Inc
+
+Cyrus Shepard is former SEO at SEOmoz and now the Director of Marketing for PlaceFull Inc.
+
+Hopefully the lesson of the past few months gives Webmasters pause before buying tons of fast, easy and cheap links. I wouldn’t be concerned with creating links in volume, but perhaps in micro-volumne. The bigger challenge is creating linkable assets at scale – or even on a regular basis. The biggest mistake I see folks make is trying to create links without first creating something worthy of linking to. And you’re not going to hit a home run every time. But if you try 10 times, with 10 pieces of linkable content, you’ll at least hit a couple doubles and maybe even a triple. Link building, for me, is an area where ‘steady’ always wins the race over ‘volume’.”
+
+ 
+Jon Cooper
+
+Jon Cooper of Point Blank SEO
+
+Jon Cooper is the Owner of Point Blank SEO
+
+“I’ll talk more about it in the future, but 2012 will be the year that I go from “fixing” to “improving” in terms of the way I build links. In the past, I’ve preached broken link building, and in general, helping webmasters whenever I could by fixing site issues (very scalable and broad because almost all sites have an issue or two that needs to be fixed). This year, I’ll be focusing more on improving others sites. Here’s what I mean: for example, everyone loves talking about content marketing. What if you helped enhance other blogger’s content? Whether it’s suggesting to add a video, image, or even an extra paragraph or two, being able to market other’s content will result in some serious links.”
+
+ 
+Hugo Guzman
+
+Hugo Guzman of HSN
+
+Hugo Guzman is the Sr. Manager, Online Marketing at HSN
+
+“I’m not a fan of chasing the algorithm, so my approach to link-building has really changed that much for years. Focus on building quality “SEO friendly” content that facilitates link-building outreach, target influential sites in your brand’s business niche(s) and focus on varied yet keyword-rich anchor text. Oh, and if you’re an enterprise brand, make sure that you coordinate your efforts with parallel channels like PR, social media, etc.”
+
+ 
+Ann Smarty
+
+Ann Smarty of MyBlogGuest
+
+Ann Smarty is the Owner of MyBlogGuest
+
+“I’ve been link building through guest blogging for ages and I am not planning to change the strategy this year. I believe in guest blogging because your links remain free, relevant and well-deserved (thus safe). The only thing I am going to change: putting less emphasis on ‘keyword-rich’ anchor text because Google does frown upon them as the attempt to fake keyword relevance.”
+
+ 
+Nick Leroy
+
+Nick Leroy is SEO Consultant at FindLaw, a Thompson Reuters business
+
+“Unlike many other link builders i’m not always concerned about building links in large quantities.  Don’t get me wrong, the infographic type ‘viral’ link bait works well but I tend to build links by hand.  I’m a big fan of broken link building, guest post blogging and reaching out to authority websites in my niche to encourage linking to my properties quality sources.  Also don’t forget that there are ways to purchase links and get away with it.  You just have to be smart about your techniques and cover your tracks.”
+
+ 
+Zarko Zivkovic
+
+Zarko Zivkovic of Practical SEO
+
+Zarko Zivkovic is the Founder of Practical SEO
+
+“Well, large volume can be achieved in only two ways, by using a team or creating some sort of link bait that you can pitch to people. A solo SEO consultant cannot hope of achieving large scale movement with link building alone. My suggestions, if using a team then great outreach and social media interaction, which leads to new connections, bloggers to connect with for quality content and many other opportunities. But, with a team or without, creating any sort of link bait is always the main plan. Any type of business can create something for a specific demographic that can become viral and attract links. So my first and best suggestion is great content in any form, posts, apps, design, infographics, videos, you name it. Think creative and promote, that is the best way to link building success.”
+
+ 
+Tom Demers
+
+Tom Demers of Measured SEM
+
+Tom Demers is a co-founder and managing partner at Measured SEM, a search engine marketing firm that offers paid and organic search marketing consulting services.
+
+“While the specific tactics have to evolve over time I think high volume link building is really always about creating useful content and finding leveraged means of distributing it – I think that still means:
+
+Committing time and resources to identifying pain points and biases within specific “linking audience” and then creating content that speaks to those pain points and biases
+
+Promoting that content within that niche in the most leveraged way possible (ie creating processes for scaling outreach and content placement, leveraging social networks to distribute content, etc.)
+
+A lot of the same things people have done will work, they may just require slightly different approaches – for instance it’s generally harder to get a lot of quality links using infographics and some networks like Build My Rank got smacked down, but that doesn’t mean you can’t use a modified version of those strategies to rank sites. If you were pushing out a bunch of mediocre infographics you may need to invest a bit more in coming up with more compelling concepts and creating longer/meatier/more in-depth infographics or you might need to use some of that same time, effort, and budget to create some useful widgets. And if you were pushing a bunch of posts through Build My Rank you might need to move to creating higher quality content and do guest posting the hard way – reaching out to legitimate, relevant blogs in your niche. This may be harder and more expensive but there are still ways to streamline your processes so you can do these things at scale.”
+
+ 
+Wayne Barker
+
+Wayne Barker of Hallam Internet Ltd
+
+Wayne Barker is Online Marketing Consultant at Boom Online.
+
+“It has been shake up city recently with all sorts of crazy stuff happening (for the better in my opinion). As (hopefully) more blog networks start to tumble you need to make sure that you getting more creative with your link building.
+
+Scaling is always going to be tough and if you are link building on your own for your own site you are going to find it hard.
+
+If you take a step back there are always simple ways that you can scale up for your own site – call in favours, hit up your followers on Twitter, Facebook or wherever (they are likely to have sites). Simply getting yourself known in your niche as a thought leader can have a big impact on how many links your content gets.
+
+For those that have more budget, a team or work in agency scaling up still relies on creativity. Spend more time creating the content that you publish but have a real promotion plan attached to it – don’t just go around bookmarking it a and crossing your figures- that just isn’t going to cut it any more. Know what your niche is missing and build it, bring in thought leaders form your vertical to help you build it (who will then go on to promote it).
+
+Whether social shares count as a ranking factor is going to be up for debate – but getting your content or widget shared always has the potential to lead to more links.
+
+Know your niche and start thinking outside of the box!
+
+They were simple but pertinent questions in the current climate. With the shit storm that Google is kicking up regarding paid links and over optimisation people seem to be getting worried but if you SEO tactic involves some shrewd optimisation and a focus on the users of your sites you are onto a win. When it comes to scalability of link building if you invest in creativity and spend time planning them a link building strategy can develop. Too many people have the ‘quick win’ mentality.”
+
+ 
+Jason Acidre
+
+Jason Acidre - KaiserTheSage of Affilorama
+
+Jason Acidre is a Marketing Consultant for Affilorama
+
+“Here are a few things that we’ve been recently doing to acquire solid links in volume:
+
+    Second wave news coverage – we find industry-related news articles from top news sources (ex. Yahoo news, TechCrunch, Mashable, Huffington Post, etc…), recreate/rewrite them (with a different approach or added angle of the story – which can be opinionated), and pitch them as guest blogs on high-traffic relevant blogs (of course, with links to your site from the author bio). This has proven to have high response and approval rate, since it’s a news item, and many bloggers are busy that some of them have no time to cover these topics. It’s also a great way to build relationships with bloggers, as you can eventually leverage this type of content contribution, and perhaps become a columnist on their blogs (which means more linking and traffic generation opportunities).
+    Social link building – reach out to people who already have socially shared your site’s content (you can use Topsy.com to find people sharing your content on Twitter), because you’ll have better response rate for link acquisition on this area, knowing that these people already know your brand and the quality of the content that you provide.
+    Interviews as guest posts – find and make a list of book authors and authority/popular bloggers in your industry. Reach out to them and ask if you can do an interview with them. This will help you generate lots of high quality and expert content – almost effortlessly. Use these interview articles as bait when pitching for guest blogs on your blog prospects, as your link targets will certainly want this type of content published on their site – most of the time – given the value of information it contains. If you can at least conduct 20 – 30 interviews in a month, then that can certainly help boost yourself as an authority brand in your industry (and improve the amount of high-value links you create for your site).”
+
+ 
+Paddy Moogan
+
+Paddy Moogan of Distilled
+
+Paddy Moogan is SEO Consultant at Distilled
+
+“Given very recent Google updates and changes, I’d try to move away totally from volume based, low quality link building which focuses on anchor text.  I’d move my focus to be on branded anchor text and natural variations whilst focusing on higher quality rather than volume.
+
+I feel that link building strategies should be based around content marketing and becoming the best resource in your industry for content.  This will be hard work at first but will be worth it in the long term because you are building the types of links that Google wants and will not penalise.”
+
+ 
+Danny Dover
+
+Danny Dover SEO Consultant
+
+Danny Dover is an SEO Consultant and a writer at LifeListed.com, a bucket list blog.
+
+“The best way to do this is with partnerships (or topic neighborhoods) in combination with pages that provide value to searchers and linkers. I think the changes over the last few months mostly affect people who were ignoring the smart of advice of following white hat link building tactics for long term success.”
+
+ 
+John Doherty
+
+John Doherty of Distilled
+
+John Doherty is an SEO Consultant at Distilled
+
+“Scale is a funny word. If you’re talking about tens of thousands of links, this is easiest done in big corporations. For example, as a big brand having your franchises link back to you from their sites. To scale with link bait though, which is not for anchor text but rather for links to improve your overall domain strength, it’s not just one piece of content. It takes a content strategy usually, with a few pieces of quality on-topic content, to really kick it out of the park and get gobs of links.”
+
+ 
+Kieran Flanagan
+
+Kieran Flanagan of Marketo.com
+
+Kieran Flanagan is European Online Marketing Manager at Marketo.com
+
+“It really depends on how I view this. When working for large brands, it’s really all about content these days and putting together an inbound marketing strategy that drives links to your site. You can read more about one of the strategies I implemented for Salesforce.com in the UK over on SEOMoz (http://www.seomoz.org/blog/socialsuccess-an-inbound-marketing-case-study-for-b2b). Creating remarkable content is a sure way to attract some quality links to your site. But the problem with these tactics is it can be difficult to drive the correct anchor text for the keyword you are trying to target, so you really have to mix it up. Guest blog posts have become the de facto way to really get some anchor text love if you are trying to stay pure white had. With all the changes that are going on at the moment with Google’s updates, it’s difficult to give one strategy that can work across all sectors. You will need to really construct a link building strategy that is applicable for your market. For example, do you have a partner network you can utilize, do you do anything for charities, do you have jobs for graduates that you can cross advertise on university sites.
+
+If I have my affiliate hat on, it’s carnage out there at the moment. I really can’t say what gray hat technique I would be confident of maintaining on my own sites. I think you hear a lot of screaming from people who are getting hit, but there are still people who are ranking sites using techniques Google may be looking to punish. I have no idea how this is going to play out, it’s really a case of analyzing as much data as you can to make informed choices. I am not sure affiliate marketing (for those who build sites targeted at organic keywords) will be the same after these updates are finished.”
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Matt Evans July 17, 2012 at 12:48 am
+
+    This is a really great resource, especially to agency SEO’s.
+
+    In my opinion, it’s becoming very hard for smaller agencies and businesses to compete with big budget campaigns, which is kind of sad. Sometimes the guys offering the best products/services and also some of the best concepts are the small budget companies with fresh ideas.
+
+    Love to hear if anyone has a follow up or advice for smaller budget campaigns that can’t afford big advertising to back up their awesome content.
+
+    Thanks for putting this together though Miguel, really awesome resource!
+
+    -Matt-
+
+     
+
+    Miguel Salcido July 17, 2012 at 9:26 am
+
+        Hi Matt, I’m glad you found the post useful! And you are right, its tougher for SMBs to get results. It is part art and part science, link building that is, and its tough to find people that are good at it. And once you do they charge alot for their services because the market says they can. I think that its also tough for the majority of people because usually people that are very creative struggle with being organized and detailed. And you really do need all of those qualities to be a good link builder.
+
+         
+
+Ricardo Figueiredo July 17, 2012 at 9:59 am
+
+    Very cool to see what some of the most prominent voices in the matter have to say.
+
+    In my experience, it’s all about building relationship with real bloggers, publishers, editors, webmasters, and so on. When it comes down to is, links should be useful and relevant – duh right? Still, we run into campaigns that have been mismanaged and I have seen businesses come to us after being annihilated after being hit with Panda, or some penalty for hiring companies that are out there spamming the web.
+
+    An active link building campaign needs to have a certain edge to it, but it’s about producing content that people want to read / watch / click on / and share. Then tap into those relationships to make sure it is being shared in relevant communities and getting to the right audience. The side effect tends to be not only the natural benefit of having your content shared by real people, but you also please the search engines in the process.
+
+    Easier said than done, but then again, that’s why people like us have jobs, cause we know how to get it done right! :)
+
+     
+
+    Miguel Salcido July 17, 2012 at 10:27 am
+
+        Yes Ricardo, very true, it is easier said than done. Hopefully this post can inspire people though.
+
+         
+
+Jomer July 18, 2012 at 4:52 am
+
+    This is very applicable to someone like me who optimize client’s site in volume. Anyways, from what I understood on the article, guest posts and branded anchor text are the way to go in the post penguin update. I also like the idea of building team and segregating the tasks to each one of them. As a solo SEO I found this very good concept to implement in the future (although I already had this in mind). Real expert voices are such a good motivation specially if they agree in one of your ideas.
+
+     
+Tauseef Alam July 18, 2012 at 9:36 am
+
+    Really an inspirational post, But writing great content is very difficult because you never know which content people will like to link.
+
+     
+Brian Crouch July 18, 2012 at 2:38 pm
+
+    Thanks for the post. If there’s ever a revision/update of this, hope you’ll include Eric Ward and Michael Martinez among your industry experts. Then again, I suppose this could have gone on for pages, there are lots of talented and experienced pros to learn from.
+
+     
+Brent Rangen July 19, 2012 at 12:16 pm
+
+    Word up homies.
+
+     
+Silex Solutions July 30, 2012 at 12:29 am
+
+    Very interesting article..thanks to all to share views !!
+
+     
+

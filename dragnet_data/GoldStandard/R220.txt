@@ -1,0 +1,425 @@
+
+The biggest blogging mistake I ever made …
+Published on August 28th, 2012 
+
+For a list of all the posts on ERE, see the automatically generated sitemap.
+
+It began back in 2007 when I was writing small essays on random topics on one of the larger web2.0 sites at the time (no, it wasn’t facebook). I don’t know how, but after getting an article published in an e-zine for creative writers, I somehow stumbled on the concept of blogging. Soon after I found a personal finance blog (huh, what, you can blog about a single topic?!) and immediately thought that, hey, I could write something like that.
+
+At the time my biggest hobby was quant finance(*) and investing. I had started investing three years earlier (in 2004) and was quickly increasing my passive income. Before that I had simply saved my money in a savings account (being from Europe where stock investing occupied somewhat of a niche, I didn’t know any better) while learning self-reliance skills in preparation for a post-peak oil era. Anyone who is preparing for a world with scarce resources is going to learn ways to “do more with less” and at the same time save a ton of money. Especially once it’s learned how to substitute brain-power for shopping.
+
+(*) I now get paid for doing my hobby. Nice!
+
+So I gave it a financial angle and put two and two together: low spending plus high saving equals fast financial independence. And then I made the biggest mistake of my blogging career: I decided to call my new blog “Early Retirement Extreme”.
+
+Yes, I picked the wrong name for my blog.
+
+Oh, what little did I know of the eventual problems this would create!
+
+In the beginning I wrote about the usual little tips and tricks of personal finance (like, “don’t use milk in your coffee”, cute, huh?), but eventually the thoughts began to condense into a systems theoretic framework. Going from the description of individual and separate tips, the focus shifted to what they had in common. Instead of looking at marginal improvements of separate parts, the focus shifted to what synergies could be obtained by picking and chosing things according to the most efficient and optimal structure. In many ways, ERE is similar to permaculture because they both use systems thinking. ERE is built directly on systems theory (mainly from operations research) but most people are more familiar with permaculture which also has a systems thinking foundation. Therefore I am I going to use permaculture as an analogy.
+
+In permaculture, one tries to understand how different plant and animal species interrelate with the goal of creating an arrangement with the highest possible production using the least amount of effort. The idea is to replace doing with thinking. Permaculture is brain-intensive rather than pesticide and fertilizer intensitive. You locate one plant (your job) close to a second beneficial plant (your home) which automatically fertilizes the first so you save on fertilizer (transport). You arrange plants (things you do) to minimize evaporation (wasting) so you no longer have to water them (spend). Eventually, your life will be so optimally designed and arranged in such a way so as to get paid for participating in your hobbies, get free food (from the garden) and exercise and eliminate unhealthy sideeffects like illness and stress.
+
+Conversely, a non-permaculture way of thinking focus on increasing yield (income) of a single crop (your job) by increasing the amount of fertilizer (effort), using genetically modified seeds (technology and gadgets). You see the analogy, right? Actually a lot of the comments I get about ERE being “too extreme” and “too much sacrifice” is from those who do not see the analogy. You can imagine how an industrial farmer sees permaculture before understanding it: “Wow, your production (standard-of-living) must be low (austere) given the amount of fertilizer (money) you use (spend).
+
+After the framework began to take form, I made a second mistake: I did not change the blog name.
+
+Curses! But I think I can be excused because it was never really an issue at the time. Nobody complained. Blogging was fun as it allowed for many creative interchanges between me and a group of very smart readers (if you ever decide to read all 993 posts, please make sure to read the comments too!) and I was synthesizing the ideas into the book I was writing.
+
+Then the blog started to get popular. I finished the book and published it and since ERE at the time was rather well-known with 100,000+ monthly pageviews (ultimately to peak at over 300,000 per month), I decide to use the same name for the book title.
+
+What I didn’t foresee was the problem with the word “retirement” in the blog name. This became all to clear to me when I decided use my ERE-lifestyle to accept a job offer even as this is mentioned as one of the many things one can leverage ERE into (in chapter 1 of the book) and even as turning your hobby into an income source is measured as a desirable goal (in chapter 4).
+
+Those who had followed along reading the blog and the book easily understood this. Not so with others.
+
+Apparently, for some, the word retirement really does mean moving to Florida, taking one’s medicine at regular intervals and ABSOLUTELY not accepting money although consulting is okay(!) I’ll spare you the details other than pointing out that everybody who found it objectionable to take a job (also known as the Internet Retirement Police) seemed to have their own rules for what was allowed.
+
+I think the problem can best be described in terms of how we think about words. Please go and read about the Kohlberg stages. It’s important. Read all of it. I’ll wait. Observe that each stage is predicated on graduating from the former. In short, as people mature, they move from one stage to the next but they never jump stages. Each stage is necessary to understand the next one.
+
+I described a similar progression in the ERE book (chapter 5) in terms of the ability to both think (which is separate from morals) and to do things.
+
+Here it is:
+
+
+    Copying
+    Comparing
+    Compiling
+    Computing
+    Coordinating
+    Creating
+
+
+Similar to Kohlberg’s stages, these can be grouped with 1-2 belonging to the “technician”-class, 3-4 to the “mechanic”-class, and 5-6 to the “designer”-class. Certainly, in terms of skills, one can be in stage 1 in one area (my ability to speak Klingon for example), stage 3 in another area (my ability to handle a sword), and stage 6 in yet another (my ability to analyze data).
+
+In terms of blogs a similar division in focus is seen. Some blog about level 1 stuff doing roundups. This is actually the original purpose of a blog (=web log, that is, “a description of the sites I visited today”). Some write about level 3 stuff, the latest tips and tricks for this and that. A great number of bloggers write about level 4, namely how they use the various tips in everyday life. They show you how to combine tips and tricks. A few write about level 5 and 6 which can be called lifestyle design blogs. It’s not that bloggers writing at higher levels are necessarily better or more evolved. Clearly blogs written at all levels are necessary to increase understanding. It would be extremely hard to write in a way which teaches something all levels.
+
+Most of the best posts (in my opinion) on ERE are designer posts. Sometimes there are mechanical posts, that is, how to tweak this or that, but there are few “tips and tricks”. I’ve never written much about technician issues so I never really thought about it. It seemed to me that everybody eventually developed into mechanics or beyond(***).
+
+Why is using the word retirement such an issue? Because it confuses those whose comprehension is at the “copying”-stage. They have only one understanding of a given word. In their mind, one word can not possibly cover more than the one meaning this particular person has for it.
+I have seen such people insist that if a word doesn’t have the exact meaning it has in the dictionary, everybody will be confused. I’m not making this up! However, consider that under such assumptions, it would be impossible to have a philosophical discussion. It would never be possible to discuss anything whatsoever that didn’t already have a word for it.
+
+(***) In general there’s a drift of readership from reading level 1 blogs to level 6. When I was still blogging _regularly_, many told me that they had drifted in from certain other blogs and now only read ERE. However, exposing ERE to the mainstream meant a sudden exposure to level 1 understanding.
+
+Compare this to level 2, where a word can have two different meanings or level 3, where a word can have many different meanings. Level 4 where the differences between the words can be understood (e.g. what’s meant by the word freedom?) Level 5 where the differences can be evaluated (e.g. what’s the difference between a terrorist and a freedom fighter?) Level 6 where new concepts are ascribed to words (this is when you start philosophizing).
+
+So yes, I get it. I see the problem now. “Retirement” is a bad-bad-bad word to have chosen. By choosing such a loaded word, I essentially painted myself into a corner by not being comprehensible to level 1 who are still beyond pedagogical reach when it comes to design-thinking.
+
+The best replacement suggestion on the forum which describes ERE much better is “emergent renaissance ecology” (thanks Maus!) or “extreme renaissance ecologist”. However, I bet that would cause similar problems (“How can you call yourself an ecologist when you invest in the stock market?!” or “How can you call yourself a renaissance anything when you don’t wear tight trousers?!”), so maybe overall to avoid level 1 complaints (or is that level 1 complainypants?) it would have been better to choose a completely nonsensical or noncommital name for a blog.
+
+Is penguinmukluk.com taken—I want to write about diesel engine repair but also maybe gas engines so just in case… I want to preempt the complaints.
+
+So what’s the lesson here…other than “think really carefully about your chosen domain name if you ever start a blog”? It is the following: If you ever bring up ERE or any other kind of conceptually advanced lifestyle design to a random person (like your BFF or spouse), be very careful about the words you choose so as not to trigger any preconception. Use what they value. If they want to travel talk about how it works for that. If they want FU money to get more freedom at work, talk about that. IF they want early retirement, present it that way but otherwise it would be wise to refrain from using the R-word.
+
+ERE works in lots of different settings. A friend of mine is “selling” the ERE book as a way to quit the dayjob and become entrepreneurial without going into debt. He also thinks, like many others, that all I have to do is to rebrand ERE in 10 different ways: one for entrepreneurs, one for new parents, one for aspiring beach combers, one for late retires in panic mode, one for intellectual gunslingers (=me), one for permatravellers, one for survivalists, and so on. But but but, I don’t want to be the Ramsey, Orman, or Kioysaki of ERE with 10 books and workshops and motivational audiocourses. It wouldn’t be fulfilling to me. So I don’t.
+
+You know, “just because I invented a car doesn’t mean I want to run a car company or even teach people how to drive.” Got it?
+
+And there you have it.
+Related Posts with Thumbnails
+Be Sociable, Share!
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Progress Trap said,
+
+There is one benefit of the domain name you chose though and it’s that you rank #1 in Google for the term “Early Retirement”. I, like many, was stuck at level 2-3 for a long time, so I wouldn’t have even known the search terms to use to arrive if it had been named differently. If the blog had been named “The Philosophy of Financial Independence”, I may not have ever found it. Think of it as baiting with a title that everyone can understand and makes people sort of uncomfortable and then switching with some real substance.
+Jacob said,
+
+@Progress Trap – This was actually kind of how I thought in the beginning. The bait was extreme early retirement and in the process of achieving that one would also become resilient towards peak oil and economic depressions, … I think in retrospect, maybe it would have been better simply to be linked in from “level 4 sites”. Currently, I have a large “footprint” in the personal finance community, but a ironically a rather small footprint in the peak oil/transition community.
+Nikos said,
+
+Many have mistaken the forrest for the trees.
+This has never been a blog/book about retirement but about philosophy.
+Going mainstream was a blessing and a curse.
+dragoncar said,
+
+Of course, this website didn’t always rank #1 in a Google search for “early retirement,” right?
+
+I would like a link to the blog entry about milk in your coffee.
+Jacob said,
+
+@dragoncar – Fixed.
+
+I that ERE still outranks SSA.GOV when it comes to early retirement.
+Michael Crosby said,
+
+Jacob, sorry but I’m just not getting it.
+
+I looked at your site for what it is, and that’s ideas that can make my life more manageable by looking at it in different ways. When I first started to read your blog, I thought you were a wee bit crazy, but after awhile I realized your ideas were sound.
+
+ERE is a winner. It’s only through you that I found MMM and from there some other great blogs. But ERE is the daddy of them all.
+
+When I first started my business 24 years ago, I had a simple name. As time went by, I thought it was too simple and didn’t cover what my business was about. It was the biggest mistake I ever made. To make matters worse, I changed the name again.
+
+So stupid me went from a successful well known business to where I now give my customers receipts with my business name on the receipt and they ask, “who do I make the check out to?”.
+
+Forgive me, but I think you have something of value. 300K page views a month? And you’re worried about the complainy pants?
+
+Regarding peak oil: You may be right. But again sorry, I think you couldn’t be more wrong.
+Executioner said,
+
+This is why so many companies now go by acronyms only when their original name no longer describes their business model — IBM for example.
+
+You should change your blog name to an unpronounceable sign, and reference it as “the blog formerly known as Early Retirement Extreme”.
+Debbie M said,
+
+Sorry, I still like the name. A lot.
+
+And I don’t think it’s that people don’t get what “retirement” means, but that they don’t get that just because you CAN retire doesn’t mean you HAVE to.
+
+And frankly, you did retire from your original job that you were getting tired of, and you are still retired from that job. You didn’t have to find another job to be able to support yourself. Instead, retiring let you find more fun things to do with your day, and one of those things happened to be a more satisfying job. And when it’s no longer satisfying enough, you can quit again.
+
+For people who hate all jobs and want to retire from all jobs forever, going back to work would mean failure for them. So maybe it sounds like failure coming from you. You didn’t need more money, so that’s not a cause for failure. I can’t remember if you got too bored, though (which could be seen as a kind of failure).
+
+I use the term “financial independence” instead of “retirement” for what I want to do, but “early financial independence extreme” does not have any ring to it at all.
+
+I think whatever you write about, when you get popular you will have some kind of naysayers. I don’t think there’s any escaping that. So if this is the biggest blogging mistake you ever made? Wow.
+slowth said,
+
+Jacob, thank you for being a financial independence Sherpa. Whatever you would want to call it, this is the only philosophy that’s ever made sense to me. It doesn’t rely on magical thinking or blind luck, so the end game is attainable by almost everyone. Whoever is ready to understand the message will do so regardless of the name. My whole point is…thank you.
+Marlene said,
+
+First of all – it seems you´ve made peace (by understanding) with the people who had quibbles about the retirement-wording. I´m glad for you!
+
+The Inernet Retirement Police – struck me as some people the author of “Playing to win” described as “scrubs” – people that make up additional rules to a play, that the play doesn´t have (e.g. I absolutely have to use a dashing move in a fight, even if that game does not require it). Maybe another sign of being on one of the earlier levels of handling life.
+
+Being a nitpick: to my mind web-log could also mean: the log of my life but online
+
+300.000 views per day – well, small wonder that _some_ are complainypants/ other-level readers
+Three Pipe Problem said,
+
+Why not rebrand as..
+
+Early Retirement X
+
+..where x is, of course, a variable.
+teewonk said,
+
+“To avoid criticism, say nothing, do nothing, be nothing.” Your criticisms of personal choices, environmental impact, and the prevailing wisdom of the age strike a lot of nerves. These are personal and political issues, and the moniker becomes a convenient scapegoat. Unfortunately, your life also becomes a convenient straw man.
+
+The biggest draw to ERE is that it’s a system of living that will allow you to retire extremely early. It makes a lot of sense to put the biggest selling point right into the name. That was a good choice.
+
+The backlash means that people are wrestling with it at different levels. A lot of people wrestle and lose, but a lot wrestle and come away changed. The Wheaton Eco Scale might point out that people think you’re crazy, but the existence of extreme examples also stretches perceptions in a good way, showing them new possibilities. Someone who derides ERE now might lose a job or get divorced, and then they’ll already have the concept in the back of their mind because the ERE name made the system popular enough to become well-known.
+Mr. Everyday Dollar said,
+
+Great post Jacob. I like designer posts the best and I believe that the level 1-4 posts basically roll-up to the 5-6 designer posts. They are a culmination of all the little things that create a new lifestyle for an individual.
+
+As far as the definition of retirement, I, too, historically had the vision of shuffleboard, white shoes, Florida sunshine and pants hiked up well past the waist. And dinner at 16:00.
+
+But once I realized that I could leave the workforce early (early retirement) by becoming financially independent (producing income outside a 9-5 to cover my expenses) is when the definition of retirement changed for me.
+
+And when I retire I won’t be waking up at noon, sweeping the driveway in my pajamas and watching TV the rest of the day (but I have that option!). I will probably be as busy as I am now if not more-so. And I may even be doing things that I get monetary compensation for.
+
+But the major difference is that I have the *choice* to work or not, to produce income or not, to dictate what I spend my life energy on.
+Chad said,
+
+The levels example strikes me as valid. Unfortunately, most people don’t make it very far up those levels.
+
+I know, I eliminated all other financial blogs a few years ago, as they were just rehashing the same stuff without going very deep. How many blog articles on “comparing insurance rates” or “taking your lunch to work” are needed? Your blog provided a nice deep pool.
+Maus said,
+
+@Jacob
+OMG, a shoutout from Dear Leader. I am deeply gratified.
+
+This essay really boils down to the realization that words matter. I suspect that many scientists and engineers, who operate in a field where words frequently refer to defined relationships, e.g., F=Ma or PV=nrT, are troubled by the nuances that liberal arts folks tease out of any given word. And many a lawyer could tell you how a poorly chosen word rendered a contract ambiguous enough to spawn big-dollar litigation.
+
+I hope that you understand (not just know) that your contributions to the ERE philosophy have been extraordiarily valuable to many, many people. At its root, I sense that some of your frustration is related to the difficulty of reaching those mired in the earliest stages of copying and comparing. The challenge of pedagogy has always plagued great teachers. Might it also be that you want a wider audience? I seem to recall that one of your realizations with your field of enquiry in astrophysics was that so few other scientists could really follow your work. Perhaps you are expecting a greater order of magnitude from the field of personal finance and lifestyle design?
+
+At any rate, no one expects you to be the Henry Ford of an ERE industry, particularly if that’s not your cup of tea. But you might consider incorporating and trademarking your system; then franchising it or licensing it to those who actually have a yen for speaking to audiences in hotel conference rooms. Win-Win!
+Carl said,
+
+How about http://www.retire-early-or-do-what-you-what.com?
+
+The extra words give credibility and clarity ;-þ
+Standard Oil of New Jersey said,
+
+Jacob, would you be so kind as to provide a more usable way to access your archives? MrMoneyMustache has a page with every article ever posted on it, arranged chronologically. Right now, you have to select a month and go through the articles three at a time, unless there’s a better way and I’m ignorant of it (the December year end roundup posts do a reasonable job but that’s a small subset of all posts and isn’t available for all years)
+
+Thanks
+dragoncar said,
+
+The milk post is awesome.
+Dragline said,
+
+This kind of reflection puts you on a higher plane of consciousness. Congrats. But don’t close the door on re-branding some day! ;-)
+BeyondtheWrap said,
+
+@Standard Oil of NJ – I agree that the blog archives are not reader-friendly.
+
+What I find bothersome about it is that the system of automatically resurrecting old posts puts them out of order, making it impossible to start at the beginning and read through all the posts in order.
+Surio said,
+
+On one level, I genuinely feel the ‘predicament’ you find yourself in. Being an early-mover on this space has made you into both a) an (unwilling) flag-bearer for some of us, as well as b) the “Coconut shy” for a few others.
+
+As some of us have mentioned before on the blog and the forums, the concept of ERE is not rocket-science in itself and can be arrived at independently, given sufficient independent reading of the various resources available out there. Most of your long time readers (myself included) seem to have understood the idea on their own. Indeed, it was on a whim to discover if there are other ‘kindred souls on board’, that many of us managed to find your blog (from 2008 onwards) by using intelligent keyword searches, while SEOs were actuallly throwing up TSD, GRS, FinSam, etc., regularly on the front page. Oh well!
+
+Anyway, back on topic, i.e., “Systems Theory”, here is a new report by David Korowicz called Trade-Off — Financial System Supply-Chain Cross-Contagion: a study in global systemic collapse. that discusses the inherent complexity of how modern societies are constructed. It also captures how this complexity comes at the cost of non-resilience. Have you had a look at it? Interesting enough to keep you going for a few sleepy afternoons. Feel free to spread this cheer like I just did ;-)
+
+TL;DR
+
+Orlov and Jason heppenstall have written excellent summaries of the report in their respective blogs. :-)
+
+Ciao.
+JasonR said,
+
+My favorite part of this post is that Surio is still alive.
+
+I’ll dissent. I see a thinly veiled insult more than any “come to peace” or “higher plane of consciousness”.
+
+So your biggest blogging mistake is that people who disagree with you are Morlocks. Since they only have one definition of a word they’re retarded, but unfortunately too retarded to have this explained to them. Plus we can’t call people retards because we’re too smart. So we’ll use our smarts to shoehorn them into the bottom of an arbitrary ranking system that takes the messy and complex business of human moral development and gives it a D&D level system whereby you can go from level 1 Slathering Berserker to level 6 Holy Paladin in 3000 ethics experience points. They’re so dumb they won’t know they’re be condescended upon. Self-congratulatory hi five!
+
+But, I don’t have a popular blog and a *very small* contingency of nitpickers constantly annoying my quality of life, so maybe I’d get riled up too. You remind me of the guy who nailed 99% of the test questions, yet keeps perseverating over the 1% he got wrong. This isn’t the first time you’ve focused on the naysayers as a source of frustration. I guess it’s easy to say “let it go” but harder to do.
+jennypenny said,
+
+@SO & BTW–Marlene is working on archiving the blog posts on the Wiki. Some of it is already done.
+jacob said,
+
+@Standard Oil & BeyondTheWrap – Only nontimely posts recycle, so the sequence of the recycled posts doesn’t really matter. Unless listing can be automated (and I don’t know how to do that), figure spending 1 minute to get the URL and title of each post and put them into a list. That’s 1000 minutes or 16:40 hours of very mindnumbing work. If someone wants to do this, I’ll post it, but personally I’m not too inclined to do it myself. To read posts sequentially, there are previous/next buttons at the bottom of each post.
+
+@Surio – Indeed, it seems historically that “escape the system through simple living” books and movements pop up a few years after major stock market crashes throughout history or at least back to 1840. It’s not rocket science so it’s semi-easily possible to discover it oneself. In my back of the envelope estimate about 1 in 1500 is a writer and will write about their particular view on it.
+
+@JasonR – Yeah, something like that. I’m not convinced it’s insulting to have a development system where it’s very hard to look forward but easy to look back. I mean when children are put into the school system, should first graders feel insulted about the existence of third graders? Perchance, should a discussion develop on the viability of multiplication with first graders claiming that it’s practically impossible to compute 57*45 because adding 57 to 57 45 times over is practically intractable, while third graders know the multiplication trick… would it make sense to dismiss the discussion as “retarded” because the first graders simply lack understanding?
+
+I think it does. Maybe political correctness means great care should be taken to not call ignorant people ignorant, but nevertheless, that’s what they are. Doesn’t mean they can’t learn. Just means they need to learn first.
+
+I think the test analogy of getting 99% correct doesn’t capture the problem. I think the climate change debate is better. We have a situation where more than 99% of climate change scientists agree. Then less than 1% disagree. However, because the 1% are vocal nitpickers, and the 99% are busy doing the actual science, the airtime between the 99% and the 1% is split 50-50. Consequentially, people who are uninformed about climate change think the issue isn’t settled. That’s problem number 1. Problem number 2 is that when you look at naysayers (and their fans) it’s also clear (by ranking) that their understanding is lacking in terms of their knowledge of atmospheric science, hydrodynamics, radiation physics, and so on.
+ERE is similar. I wouldn’t be so frustrated if every naysayer immediately got a response from 99 people who understood the concept. Or if the naysayers actually appeared to offer some rational critique—something which I’d find highly useful.
+
+TL;DR: The discussion is polluted by a few people who don’t get it.
+
+The thing I’m trying to come to terms with is, like with climate change, whether or not to care that newcomers are lost to the misinformation of the 1%. Putting the blog on the backburner (and not starting a climate change blog for that matter) seems to suggest that I don’t care that much (anymore). If some are going to miss an opportunity because they chose to listen to loud nitpickers, it’s their loss.
+Matt said,
+
+Some folks see retirement as an exclusive club with certain requirements(e.g. no earned income from a job, you MUST travel). You joined the club for a while, but now you don’t qualify anymore by their definition. Maybe you should do the quant job for free, that way it would still be just a hobby!
+Surio said,
+
+> “escape the system through simple
+> living” books & movements pop up
+> a few years after major stock
+> market crashes
+
+No, I did not quite mean it that way. It is more of a queasy feeling one has about something “not quite right” with “status quo” even when things seem to be going well. E.g., Ivan Illich’s works come to mind.
+
+On second thoughts, you yourself were talking about ERE in 2007 when there seemed to be no end to the housing/stocks rally in sight. Ha! ;-)
+
+So, basically, what I was talking about earlier is a “connect the dots” approach, of reading very many independent (seemingly unconnected) domains/subjects/etc., and synthesising them all into one coherent framework. (RDPD’s 4-quadrants, simple-living, earth+5%, anti-consumerism, YMOYL, environmentalism, climate change, peak-oil, etc., etc…) And that is how some of us old-timers did find out about the ERE blog, and you. :-)
+
+Ciao.
+—
+Jpsilver said,
+
+Jacob: “But but but, I don’t want to be the Ramsey, Orman, or Kioysaki of ERE with 10 books and workshops and motivational audiocourses. It wouldn’t be fulfilling to me. So I don’t.”
+
+This reminds of a Benjamin Franklin’s quote:
+
+(Franklin’s response to a man who wished to pay to publish a piece in Franklin’s newly established newspaper, The Pennsylvania Gazette:)
+
+I have perused your piece, and find it to be scurrilous and defamatory. To determine whether I should publish it or not, I went home in the evening, purchased a two penny loaf at the baker’s, and with water from the pump made my supper; I then wrapped myself up in my great coat, and laid down on the floor and slept till morning, when, on another loaf and a mug of water, I made my breakfast. From this regimen I feel no inconvenience whatever. Finding I can live in this manner, I have formed a determination never to prostitute my press to the purposes of corruption, and abuse of this kind, for the sake of gaining a more comfortable subsistence. -From The History of Printing in America, 1874
+Monevator said,
+
+This was why I made up a name for my blog. I could then fill the hole.
+
+However:
+
+(a) I’ve got a long way to go before I’ve got as systematic (and novel) a message as you, and…
+
+(b) Nobody searches for Monevator on a whim. So you’ve brought a lot of people your message who wouldn’t have otherwise found it, while carrying your cross… (Apologies for the messianic overtones!)
+darkk2b2 said,
+
+@jacob
+Did something happen to your old posts? Because this one http://earlyretirementextreme.com/exercise-for-the-reader.html says that it was originally posted December 11 2007 but in your archives it is not listed in December at all. (same thing with your milk post)
+
+I too would like to go through the old posts but it seems that some of them are inaccessible except when the site regurgitates them.
+Jacob said,
+
+@all – Here’s a list of all the posts
+
+http://earlyretirementextreme.com/sitemap.xml
+Marlene said,
+
+@Jacob: Thanks for the sitemap! Really great.
+
+Thanks also for the blog/book/forum and your work in it! I´m on the lower rungs of applying ERE but with the outlook of what is possible I´m motivated. So thank you very much – it changed my life already.
+brian said,
+
+Love the Benjamin Franklin quote!
+Carol@inthetrenches said,
+
+I just love the work you have done and enjoyed every step. Thanks and the name does work…retirement is just as much a state of mind as it is a financial condition or a trip to Florida. You have not misused the word but rather expanded the meaning in the minds of many.
+Finance Viking said,
+
+The ERE name is an asset, because it draws a strong reaction from readers. Tons of websites talk about retirement, personal development, or self-employment but ERE is something most people haven’t heard of. Is it a perfect name? No. Does it work well for this site? Yes. Anyone who reads most of your blog and your book will understand the limitations of the name.
+
+Most criticism of your work is founded on knee-jerk reactions instead of thoughtful disagreement. I appreciate your writing and philosophy. Others do too.
+Kathrine said,
+
+I don’t see it as being a mistake. 1) The name works, 2) It served as a milestone through your blogging journey. You have produced a new perspective and I like your use of the permaculture analogy.
+MB @ 12 Year Career said,
+
+I started my first class in ops research last week and this past weekend as I was doing some basic linear programming I already had ideas percolating about how I could apply it to personal finance. I think when you study that way of thinking in other applications, what may seem “extreme” to the layperson in terms of personal finance is all of the sudden simply optimization of resources, given a self-imposed constraint of funds. Of course, I wouldn’t expect the layperson to look at it that way, but, because I now do, it’s almost difficult for me to describe something like financial discipline because it is no longer something I struggle with or even really think about.
+Dan @ Casual Kitchen said,
+
+You picked exactly the right name. After all, look at all the hundreds of thousands of readers who found you. And that tiny percent of uncomprehending readers who can’t stretch their personal definition of “retirement”? They may seem vocal and distracting to you, but they are invisible and silent to me and the other readers who get it.
+
+You can’t control those who misunderstand your work. But the rest of us are grateful for what you’ve written here.
+
+Dan
+Dmitry said,
+
+Even if you consider that a mistake, I am so grateful I found your blog, Jacob! You’ve been my mentor (although, honestly, in some things you’re covering I’m not even trying to get, they go over my head – like different stock market things, for example).
+
+So thanks a bunch to you!
+
+P.S. On a different note, I wonder how you came about those ads on your site? Earth4energy is a scam. I am all for people generating some $ for you by clicking the ad, but I hope nobody will take the damn bait. ;)
+BeyondtheWrap said,
+
+Re: the ERE name…
+
+More like the BEST blogging mistake you ever made!
+David said,
+
+I know you don’t like to publish dissenting views, but doing what you like and getting paid for it is not the same as being an employee, who, really, has to trundle off to work every day as someone’s helper. Every day. If this was going to be where it ended up then why not live like a normal person and change jobs? Has the whole thing been a whole exercise of the ego, and ultimately unsuccessful? Really, what’s the difference between someone with a job who gets a job they love and yourself, except you live in a trailer park? Would you be going to work every day with your packed lunch if you were work 100 million dollars? Really? Honestly? I doubt it. What billionaires go off to work someone else every day. None. Who would. It just casts a shadow over things. Makes your work look academic and naive, which is a pity as we want to believe.
+Lurker said,
+
+To ERE is superhuman, to retire, divine!!!!!
+Jacob said,
+
+@David – You’re the one who wrote this review, right? While I don’t like the petty sensationalism often seen on the internet, I do publish dissenting views. What I don’t publish is personal attacks and abuse.
+
+During the blog’s existence it has changed the lives of more than a hundred people (I’m counting those who have a journal in the forums but in reality, the number is probably higher—not everybody writes a journal) and helped thousands more become less dependent on consumerism. I’d consider that a success. Those numbers would be amazing for anyone who been in the teaching profession for a lifetime and the blog has only existed for half a decade.
+
+This year, five years after the blog started, there have been several people reaching the crossover point where their passive income from savings exceed their expenses. Go to the forum and see for yourself. They credit this to ERE. I have also received emails from other people who independently figured out how to reduce their expenses and become FI years ago.This shows the concept works and is anything but academic.
+
+No “belief” is required. If you want it, just go ahead and do it. Others do. Financial independence is basic math. Frugality is a time-tried lifestyle. Just add the two together. However, don’t fall for the silly mistake of concluding that if Jacob bought a bus ticket and decided to go to the museum.—That all bus tickets are therefore “academic or naive” because you think museums are boring. Because the bus also goes to the beach or a ballgame or whatever you can imagine. Just because I’m not doing conventional baby boomer retirement activities like beach-sitting or traveling doesn’t mean I couldn’t if I wanted.
+
+The difference between someone who has a job they, for whatever reason, love and financially independent people, like me, is the balance sheet. The latter can leave whenever they want and thus do not have to put up with management more than management has to put up them—they become colleagues. They don’t have to “trundle” or “be someone’s helper” or “pack their lunch”. Conversely, the former better keep loving their jobs or their small business, because they’re stuck. They need to keep their job or business running because they need to the money.
+
+Some of my fellow employees are millionaires and they still go to work as employees because they like it. Not everyone wants to spend the rest of their life vacationing. Not everyone wants the headaches that come with managing or ownership. In short, it’s the fundamental difference between _needing_ a job and _wanting_ a job. You’re effectively saying that nobody _wants_ a job unless they _need_ it. However, it’s not unusual for wealthy people to work because it in some way fulfills them.
+RMcD said,
+
+“They have only one understanding of a given word.”
+
+Well, I admit to not having read your books, but none of your stages are apparent with the examples you gave using any common definition.
+
+So you most certainly think that to punch someone means offer to drive them to the shop.
+
+“It would never be possible to discuss anything whatsoever that didn’t already have a word for it.”
+
+Okay, well, that’s blatantly not true.
+
+Even assuming a concept does not have a word, you can always either a) refer to it in abstract without ever defining it (for example: the philosophical nothing) b) describe it using, you know, other words.
+
+So if I was talking about a plane then I could say flying mechanical device where all the individual words still have only one meaning.
+
+And if you want to refer to the object without using a description you just make up a new word.
+
+Life would be much simpler if a word never had more than one meaning, but that’s impossible to do. It’d also demolish literature.
+
+“Compare this to level 2, where a word can have two different meanings or level 3, where a word can have many different meanings. Level 4 where the differences between the words can be understood (e.g. what’s meant by the word freedom?) Level 5 where the differences can be evaluated (e.g. what’s the difference between a terrorist and a freedom fighter?) Level 6 where new concepts are ascribed to words (this is when you start philosophizing).”
+
+Are you seriously redefining the structure of language for a blog on how to live suitably without required working?
+
+Terrorist and freedom fighter are two different words, they are also two different meanings.
+
+Also, how does “Computing” equate to “different words have different meanings”.
+
+Adding concepts to words is not philosophizing… Just because I invented AND NAMED a vacuum cleaner or Norton Antivirus does not mean I philosophised.
+
+“By choosing such a loaded word, I essentially painted myself into a corner by not being comprehensible to level 1 who are still beyond pedagogical reach when it comes to design-thinking.”
+
+What an absurdly complex way of feeling superior. Retirement means to quit working. Someone said “You can’t retire” and your counter is “I have redefined retirement to be above your understanding.”, admit you made a mistake.
+
+You’re not even in the wrong, this is a blog for extremely early retirement, you had that, your blog tells you how to achieve it, it doesn’t fucking matter if the person who writes it unretires, it’s inconsquential.
+
+That should have been your reply to them, but yes, choosing Finacial Independence would have been a more accurate title, but most people I imagine are looking how to retire, not how to be financially independent.
+RMcD said,
+
+Also I should append that I’ve been reading your blog for, wow, probably a year now, maybe more. So if you want to dismiss me as a level 1 when you state in the article that long time readers are not level 1 then that’d be a bit silly of you.
+
+Why you would call it retirement if your goal was not retirement but financial independence (which is THE COMMON FACTOR between all of the groups you mention) is simply beyond me. If it was for hits then that would make sense.
+
+But again, the absurdity of you having to raise yourself and your blog to high above others is so defensive and arrogant. Your blog is not this amazing systematical way-of-thinking that idiots espouse in their self-help books. It’s about being frugal and smart.
+financialYu said,
+
+This is the first time I have come across your blog and I found the post to be honest and self reflective.
+
+The description of trigger words particularly stuck out to me. I re-trained as a teacher late in life. I didn’t pursue it as a career as it didn’t fit in with looking after my own child but one thing that I remember was having to choose words very carefully when introducing a new topic.
+
+If you didn’t, and one of your words triggered a different meaning in the recipient, then they would really struggle to move beyond.
+
+I came to see it as an examlpe of the native “problem solving” nature of the human brain. The brain tries to allocate known schemas to input coming in … so when it hears certain words it drags up a whole schema as an associated frame of reference.
+
+Schema’s are pretty complete and therefore, once loaded, the brain has problems at all levels if the schema is not the one you were intending the recipient to load.
+
+End result – I learnt to avoid trigger words!
+
+So good post, spot on.
+

@@ -1,0 +1,53 @@
+Stuff The Internet Says On Scalability For October 26, 2012
+Friday, October 26, 2012 at 9:15AM 
+
+It's HighScalability Time:
+
+    1.5 Billion Pageviews: Etsy in September; 200 dedicated database servers: Tumblr
+    Quotable Quotes:
+        @rbranson : Datadog stays available where it counts (metrics injest) by using Cassandra, combined with an RDBMS for queries. Nice. 
+        @jmhodges : Few engineers know what modern hw is capable of, in part, because the only people that see the numbers are in orgs that had to care or die.
+        @tinagroves : Storing the brain in the cloud might cost $38/month asserts Jim Adelius at #strataconf in talk on #bigdata and thought crimes.
+
+    Why is it hard to scale a database, in layman’s terms? on Quora. Some really good answers. My answer would involve a cookie jar filled with all different kinds of cookies and a motley crew of kindergartners all trying to get cookies at the same time while keebler elves are trying to fill up the jar, all at the same time.
+
+    Rackspace now has their own cloud block storage product, competing with Amazon's EBS. It looks like they are positioning their offering against both Amazon and GCE with a simple pricing model and both fast and consistent performance. It may be a bit more expensive. A possible plus for the future of Open is that they are using OpenStack Cinder APIs. Given that we are still talking about shared block storage system, it will be interesting to see if we see some of the same large scale failures that we have seen with EBS. Plan accordingly.
+
+    AirBNB AirBNB didn’t have to fail. Sean Hull with a really good discussion on how you can survive future Amazon outages: use redundancy, use redundancy, have a browsing only mode, use feature flags, test with simian armies, use multiple cloud providers, and use redundancy.
+
+    James Hamilton dissects what makes good Google Mechanical Design. 
+
+    Amazon's EBS Provisioned IOPS (PIOPS) are an interesting new architecture capability in the decision matrix. Is it better? Garantia Data (Redis Cloud) performed a benchmark and found: using the right standard EBS configuration can provide equal if not better performance than PIOPS EBS, and should actually save you money.
+
+    Jetpants is an automation toolkit from Tumblr for handling monstrously large MySQL database topologies: 200 dedicated database servers, 5 global (unsharded) functional pools, 58 shard pools, 28 terabytes total of unique relational data on masters, 100 billion total unique relational rows on masters.
+
+    Datadog in Amazon hiccups, mayhem ensues has an excellent write up on their experiences dealing with EBS failures, what they use EBS for, and what they are planning to do in the future. Lessons learned: shared storage is hard; Publicly shared infrastructure suffers from occasional run-on-the-banks. A really interesting point is the one about how "Residual use of EBS in a function that is easily overlooked." You may be using EBS even if you think you aren't.
+
+    Excellent list of steps for surviving the zombie apocalypse, wait, that's not right, it's really Surviving AWS Failures with a Node.js and MongoDB Stack. 
+
+    Great discussion on What does ReadRepair exactly do? 
+
+    MySQL Performance: Linux I/O and Fusion-io. If you like graphs then you'll love this very detailed article by Dimitri "about I/O limitations on Linux and also sharing my data from the steps in investigation of MySQL/InnoDB I/O limitations within RW workloads." Findings: make sure write activity is not focused on a single data file; XFS filesystem (mounted with "noatime,nodiratime,nobarrier" options) and your storage device is managed by "noop" or "deadline" I/O scheduler; use O_DIRECT within your InnoDB config.
+
+    A complex logic circuit made from bacterial genes: “We’re not trying to build a computer out of biological logic gates,” Moon says. “You can’t build a computer this way. Instead we’re trying to make controllers that will allow us to access all the things biological organisms do in simple, programmable ways.”
+
+    Living in a mediated world means it's the mediators that have control: Rights? You have no right to your eBooks.
+
+    StorageMojo on DRAM errors soft and hard: It’s a matter of scale. Google appears to have plans for this: they refused to release their server data from the study. The paper suggests both hardware and software strategies that would improve error handling and reduce costs, so why give the competition free data?
+
+    Yes Virginia, Riak is suitable for s small-record write-intensive billion-records application. That's what it was designed for.
+
+    The way Pinterest grew had little to do with Silicon Valley wisdom: It was about marketing — mostly grassroots marketing — not better algorithms.
+
+    Distributed Locking With DynamoDB: This article unpacks information supporting DynamoDB as an excellent choice for a distributed locking service while briefly exploring the what, why & how of locking.
+
+    Improving Cassandra's uptime with virtual nodes: even though individual cluster outages are more likely for Virtual Nodes, the rebuild time is sufficiently faster so that the total cluster outage time will actually be lower. The key to this is distributed rebuild, which only becomes an option with Virtual Nodes. This more than counteracts the increased likelihood of a cluster outage.
+
+    Whole Rack Servers: A Data Center Alternative?: Density aside, the project's real value is in what the design team calls component disaggregation: decoupling and modularizing server components that have very different useful lifespans.
+
+    Interesting thread on Coprocessor end point vs MapReduce? Some of the thoughts: If you're going to be running this weekly, I would suggest that you stick with the M/R job; I look at Coprocessors as a similar structure to RDBMS triggers and stored procedures. You need to restrain and use them sparingly otherwise you end up creating performance issues.
+
+    Supersonic is an ultra-fast, column oriented query engine library written in C++ designed to support scenarios where amount of data exceeds the RAM of machine. It's a streaming engine assuming only a single pass can be made over the data. Via Four Short Links.
+
+    Geeking with Greg serves up some more good Quick Links for you. 
+

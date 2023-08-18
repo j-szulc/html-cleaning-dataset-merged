@@ -1,0 +1,280 @@
+
+Just Keep Going
+
+by randfish on May 23, 2011
+
+In 1997 I was just graduating from high school and started to design small business websites using Microsoft Frontpage and a variety of amateurish HTML hacks. In 2001, I dropped out of college, two classes away from graduating to work full time at a tiny web consulting business with my Mom. That didn’t go very well.
+
+Approx. debt load from credit cards, personal loans, lines of credit, etc.
+
+ 
+
+From 2001-2003, we took out nearly $150,000 in loans, mostly from credit cards and a few equipment lenders, ostensibly to help “grow the business.” Instead, it made us foolish investors in low ROI projects, contractors, office space and a variety of too-good-to-be-true salespeople.
+
+By 2004, we could no longer pay the minimum dues on our bill and our debt skyrocketed. Credit cards with $30,000 limits quickly ballooned to $75,000 in “total owed,” thanks to nasty penalties + fees. After 4 years of attempting to make our consultancy work, the only logical move was to quit.
+
+But, of course, we didn’t do that.
+
+I’d love to say that we had simply believed so strongly in our own ability to make it work that we kept going, but that’s a lie. The reason we didn’t declare bankruptcy, suffer 7 years of bad credit scores and try something else is simple; we’d never told my Dad we were in debt.
+
+Instead of nobly fighting on against increasing despair-filled odds, we were actually just working to cover up a lie of omission, and one that might have had disastrous consequences for our family. The weird part is that it worked.
+
+From 2004-2007, we shifted from building small websites (and spending a fortune on outsourced contractors, non-pay-upfront projects, expensive office space and the interest on our debt) to growing a small SEO consultancy based on the notoriety of our blog. That shift helped us earn press, paying clients and a renewed sense of purpose. By the middle of 2007, we were debt-free (not by paying them off completely, but by settling with each lender for between 10-30% of the total sum owed – be forewarned, this screws your credit history for even longer than 7 years). At the end of 2007, we raised a small round of venture capital for our nascent software business and the rest is history.
+
+These past few weeks, the software business that sprouted from the seeds of our near-destruction had its first ever $10mm+ run-rate month. We had our backs to the wall with no other way out, and eventually, it paid off.
+
+Two recent articles highlighted the value of tenacity in achieving great things in the startup world. The first, on Reid Hoffman at LinkedIn, details the not-so-sexy, but ultimately remarkably rewarding story of a decade-long struggle to make the professional social network into something great.
+
+The second is on Octopart, a Y-Combinator backed venture that “hung in there.”
+
+Octopart
+
+I don’t mean to suggest that the key to every business is blindly pushing ahead even when failure seems certain. But I would say, as someone who’s been down a deep, ugly fiscal hole with their company, that refusing to quit brings a strange and special power.
+
+In my opinion, it’s impossible to build that into a business at a later stage. Founders either have some internal or external motivator driving them to succeed in the face of any odds, or they don’t. Being devoid of that motivator won’t necessarily result in failure – in fact, I know plenty of entrepreneurs who’ve given up on project (or company) A, B and C only to have a breakout hit with D.  But I do see something special in those whose tenacity makes them unable to give up. Folks like Dave Schappell of Teachstreet, Don Charlton of theResumator, Will + Duncan from Distilled, Dave Snyder from Blueglass and Chris Savage of Wistia (along with many more I’ve met) embody this quality.
+
+I wish, in my case, that it was solely intrinsic passion, but in the end, I’m just amazed and thankful that we found a way.
+
+
+
+
+!@ $%^&*()  COMMENTS
+
+
+
+
+
+
+Thanks for sharing your story. I needed it today :)
+
+by Andrew on May 23, 2011 at 12:12 am.    
+
+hey Rand a big fan. I admire you that you didn’t give up. I was under the same situation but I had to end up giving up because I was left all alone. Now I am trying to get it together.
+
+Please continue sharing your entrepreneurial experience on this blog because there are those like me out there that could use both guidance and motivation and inspiration.
+
+Thanks
+Al Sefati
+
+by Al Sefati on May 23, 2011 at 12:47 am.    
+
+Why do you think the consultancy didn’t work? Thanks for sharing Rand…your story is an inspiration.
+
+by Ryan Evans on May 23, 2011 at 2:51 am.    
+
+Hi Ryan – the SEO consultancy did work, but the design/development/usability one really didn’t. I don’t think we really understood the mechanics of how to effectively build a business at all in those early years, but over time, we failed, learned and tried again until we could make a go of it.
+
+by randfish on May 23, 2011 at 6:01 am.    
+
+Great post. Both honest and inspiring.Should be a series.
+
+by Kevin Burke on May 23, 2011 at 3:55 am.    
+
+Rand, very interesting story – something I think at the surface most people didn’t / don’t realize. As I’ve followed you/SEOmoz since those early days, it was impressive to see many of your accomplishments and the seemingly successful business you were growing, all the while you were almost on the brink of bankruptcy. And when faced with the same challenges, many others would have chosen another direction. Your drive and confidence in your business ultimately paid off in the end – with risk comes reward!
+
+I’m curious as to A: how did you not freak out at the peak of it all? And B: looking back, was this debt necessary to achieve the results that you have? Or where there other alternatives that looking back you could have avoided the debt while still accomplished your goals (at the time)?
+
+by Kevin on May 23, 2011 at 4:03 am.    
+
+A) To be honest, I tried not to think about it. I worried about delivering good results for clients, finding good links, making content that would get the attention of web communities – SEO + organic marketing tasks. It’s just a case of partitioning my brain to not not really consider it. The only really bad day was when a debt collector came to the office and harassed me in person, then was waiting for me at home, too – I think that’s the only time I really considered giving up, but thankfully, the SEOmoz blog was already showing some promise, so I could pour all my anxiety into working hard at that instead.
+
+B) Definitely not. We made so, so many dumb moves. The debt was a result of inexperience, poor decision making and trying to be a “fat startup” rather than a lean one. Choosing our expenses and our clients more carefully could have saved us from a lot of heartache.
+
+by randfish on May 23, 2011 at 5:59 am.    
+
+thanks for the feedback – staying lean is the most common thing I hear from entrepreneurs in looking back – but is also difficult to achieve while growing. In my own startup, we’ve been fortunate to not carry any significant debt and stay lean while growing to 20 people. Without any funding, or outside loans, it is a challenge to scale quick enough so that revenue can rise while costs rise quickly during periods of rapid growth and NOT need to tap into additional resources.
+
+I think one thing many entrepreneurs fall into a trap of is getting caught up in the excitement of things and not having a “check” to validate decisions. I can attribute our focus on analyzing numbers as a big factor for not needing the capital, so long as we can project accurately and plan for what our costs are going to be through the growth, and what are revenue needs to be to support that, we’ve been able to navigate those waters while maintaining a healthy balance sheet. It all boils down to numbers and math – focusing on the numbers that we have defined as goals, with a high level of confidence before the internal investment is made that those goals are readily achievable based on existing demand alone – can (what I believe) lead to more intelligent decisions from entrepreneurs – would you agree?
+
+by Kevin on May 23, 2011 at 3:48 pm.    
+
+Great article man. I have some understanding of how difficult it is to be thrashing with no clear path in front of you. In fact, I’m in that situation a little bit now with a company I am running. My problem is not money (at least not directly), but time. I’m 20 now and I’ve all these brilliant ideas and a project I really want to move on to, but I’m stuck setting up a driving school that I know will make me money, but I find it only mildly interesting compared to what I want to be working on.
+
+I don’t want to quit, but I want shit to hurry up so that I can move on to other things – I’m hustling SEO now and it is the main roadblock that I have to overcome, but it’s getting there. Putting my passion on hold is hard.
+
+Anyway, thanks for the enlightening story Rand, and though I agree that you have to be lucky to climb out of debt with no clear path ahead of you, Seomoz is a truly solid company and I think the transparent model that you spearheaded is one of the big reasons behind Seomoz’s success.
+
+Kudos from Brisbane, Australia!
+
+by Matt Williams on May 23, 2011 at 7:09 am.    
+
+My advice to you, Matt…
+Continue with the driving school during normal work hours and follow your passion during nights/weekends.
+
+It’s hard, because in order to carve out enough time to make both work you’ll need to give up on leisure activities like watching tv, partying on Friday night and sleeping in on Saturday.
+
+Soon enough though, you’ll have built up your passion’s income enough to support you full time and you can move off the driving school for good.
+
+Dan Cristo
+
+by Dan Cristo on May 23, 2011 at 6:01 pm.    
+
+Hi Dan, thanks for the advice man. I haven’t watched TV in a very long time :) but there are many other distraction that pop up, i.e. freelance work to cover living expenses (rent+food), hanging out with the girlfriend, exercising, cooking… nevertheless, I am basically following what you outlined – hustle the driving school 9-5 and work on World Builders in my spare time.
+
+Thanks again mate.
+
+by Matt Williams on May 24, 2011 at 4:00 am.    
+
+Matt: Don’t worry bro you will get there!!
+
+Rand you rock.
+
+Ps Matt you rock as well
+
+by Duncan on March 14, 2012 at 6:18 am.    
+
+Thanks Rand.
+Your story keeps my spirit alive…
+
+by Tony Stark on May 23, 2011 at 7:29 am.    
+
+Nice story. I would like to read more of these stories, so keep them coming :-)
+
+by Edwin de Vries on May 23, 2011 at 9:08 am.    
+
+I love your story Rand; each time I read or listen to more of it, I get more bewildered by the sense of pain and struggle you went through to “make it happen”.
+
+But you can’t keep going at everything…
+
+Seth Godin wrote a book on ‘strategic quitting’ (The Dip, 80 pages long. Go read it: ) and how you’ve got to quit what you’re average at in order to focus the time on what you’re best at.
+
+My question is, you can’t have kept it all going. Sure, its heroic to be making money still in high school, and quitting college to muck in with a business… but what did you sacrifice? What didn’t you keep going? And how on earth did you choose where to quit and where to stick?!?
+
+by Ed Fry on May 23, 2011 at 3:27 pm.    
+
+Cash flow is probably one of the largest killers of small business and entrepreneurs. It takes a small miracle for most to survive the cash crunch. On the flip side, it’s almost like a slingshot, the lower and tighter it got the further it launches you, assuming the bands don’t break.
+
+by Bulwark on May 23, 2011 at 6:02 pm.    
+
+oh… and thanks for sharing. Optimism helps propel us all.
+
+by Bulwark on May 23, 2011 at 6:03 pm.    
+
+Did you told your Dad about the debt later on?
+
+by Sameh on May 23, 2011 at 10:05 pm.    
+
+Not really, but it mattered much less once it was gone :-)
+
+by randfish on May 23, 2011 at 11:13 pm.    
+
+Great story Rand and $10M/mo is awesome! Resigning a 6+ figure job to start my own business in 2009 seemed like a leap of faith (or insanity) amid the economic turmoil, but if you believe in yourself and are blessed enough to have family that believe in you (the best gift a loved one can give) then anything is possible. I loved the fact that it was your blog that was a cornerstone to your success. Now back to the grindstone to get to our business to $10M/mo run rate!
+
+by Rick Noel on May 26, 2011 at 7:30 pm.    
+
+Your honesty is so refreshing and inspiring! I’m so glad that things worked out for you :)
+
+by Alice Stratton on May 31, 2011 at 6:55 am.    
+
+Thanks for this, Rand. We’re at the very early stages, carrying credit card debt etc accrued when starting out and have made a few silly investments on contractors and offices we didn’t need at the time, but we have learnt from others mistakes… and our own… and we’re still making mistakes, but things are definitely on the up.
+
+3 years in since quitting my job, so I guess another 3 years and I’ll be buying my house here in Silicon Valley :-)
+
+by Ralph du Plessis on June 16, 2011 at 12:19 am.    
+
+[...] Rand is the co-founder of SEO software SEO Moz and as well as an active Twitter account, also maintains a great blog that you can follow through his account. He is an active member of the SEO community. He often generates good discussion on SEO through his account and keeps followers informed of the latest SEO news and events. Definitely one to follow! Follow @randfish Latest blog post [...]
+
+by 100 Social media resources and people that you simply have to follow on June 19, 2011 at 8:29 pm.    
+
+Ah I needed to read that today… I’ve decided not to give up, but there are days when you want to sit there and cry!
+Thank you for this great post.
+
+by Ruby on July 4, 2011 at 1:22 pm.    
+
+[...] too good to pass up. For years, I’ve been watching enviously as SEOmoz has grown from near failure to one of the fastest growing tech companies in Seattle. Now, I’ve got a chance to be apart [...]
+
+by My Next Big Move: I'm Joining SEOmoz | andrewjdumont.com - A Peek Into The Startup Life on July 19, 2011 at 5:07 pm.    
+
+Rand – good stuff. I enjoyed the story and candor. I’m currently in the process of starting an SEO/SEM, ePR, Social Media, Internet Marketing/Online Brand Management service.
+
+I’ve been blessed with a situation where getting new clients has been pretty easy. Now, it’s time to get to work on the operations side, and I’m finding that some delegation is imminent, which is a challenge for those who are inclined to think that in order to get something done ‘right’ it must be done by oneself.
+
+It’s an adventure, at any rate. Thanks again!
+
+Karl
+
+by Karl on July 29, 2011 at 9:54 pm.    
+
+This is an amazing blog, Rand. Your story is inspirational.
+
+As I’ve read a few of your post now, along with the great response to your other post on http://onstartups.com/, I would really encourage you to take a little more money out of the business for yourself.
+
+I think I know what you are thinking… that you don’t want to be this “fat cat” CEO. But you need to do it for your company.
+
+There have been times in my own company when I stopped taking a paycheck to keep things moving along.
+
+If you don’t have enough money set aside you can’t do that.
+
+You are actually making your company weaker and more vulnerable by not having a bit bigger rainy day fund.
+
+But keep up the awesome! You are an inspiration.
+
+by Sage Lewis on August 2, 2011 at 1:57 am.    
+
+500 k USD debt? Oh man and I thought that lack of revenue growth might be a problem :D
+
+by Uncle Demotivator on August 23, 2011 at 7:53 am.    
+
+In 2007 I was being introduced to SEO at school, Full Sail. I was given a book called SEO, The Bible. I read an article in there of your interview and have following you and SEOMoz ever since. I have learned more about SEO from you than any other person or method. This was quite the inspirational story, and I had no idea of this struggle you just overcame as I was inducted. Kudos
+
+by KJ Rodgers on August 23, 2011 at 8:31 pm.    
+
+Great story – it sounds like a pretty tough graft to get where you were. One thing that puts me off is that surely this whole period played havoc with your social life, or perhaps you just didn’t really have one?
+
+by James Carson on August 24, 2011 at 10:30 am.    
+
+I was rejected from a cushy leadership course in college (only a few years younger than you) because instead of quoting back to the board that i presented to I spoke of the need to have a spine, to be tenacious and to fight for the business you believe in. and that this was the most important quality of a leader. the answer of course was “approachable” or some other dribble. Those who go to be in the course took more hands on courses that they described as “simple”, attended seminars for grades instead of taking exams and were given scholarships. Instead I had to be tenacious, bit down and work hard just to get through the marketing program. I’m only one of a few who graduated right into the field we wanted to be in.
+
+by Joe Youngblood on August 24, 2011 at 9:42 pm.    
+
+Rand,
+
+Thanks. This is refreshing. You reminded me tonight that I’m not alone. There aren’t enough entrepreneurs out there telling the real story.
+
+by Alex on August 31, 2011 at 4:33 am.    
+
+Thanks for sharing this Rand, quite an amazing story; I always wondered how SEOMoz got its start. I own a small consultancy as well and I’ve scrapped the bottom before so it’s nice to hear that a little elbow grease and “stick-to-it-ness” can actually pay off.
+
+by Calin Daniel on September 9, 2011 at 1:37 am.    
+
+Rand, The story of your and your mom’s tenacity and perseverance is indeed very very inspiring for every aspiring entrepreneur. Feeling motivated and energized after reading it.
+
+by Vishal Vivek on September 29, 2011 at 9:17 am.    
+
+I’m reading this story for maybe 5th time (not counting your posts and interview on other blog) because it motivates me every time I have some business problems. Every time others (and part of myself, too) tell me there is no big future in SEO, better get a decent job without business risks, people will never get true SEO serious, your story give me a strength to keep going. Hope we’ll meet on some conference in my country I plan to organize in future, if I get on that phase. :)
+
+by Aleksandar on November 20, 2011 at 1:16 am.    
+
+I’ve been where you are…just not as deep. Had many of those ‘maybe I’ll just quit’ moments. But we both know that they are fleeting demons and worth ignoring.
+
+With determination and enthusiasm, truly nothing is impossible.
+
+by Dan S on November 23, 2011 at 10:36 pm.    
+
+I just read about how much OSE is costing you guys to maintain each month and it reminded me of this post… I hope OSE is proving to be as beneficial for SEOmoz as as it is for SEOs. :)
+
+by Michael on February 29, 2012 at 3:29 pm.    
+
+Hi Rand,
+
+I once had the opportunity to take part in a 30 minute Q&A session with Gurbaksh Chahal. I asked him “Do you have recommendations for scaling a one man SEO company to an huge firm quickly?”
+
+He replied:
+“Pivot if you think it can’t scale.”
+
+I can see you clearly did that transitioning from web dev to SEO. And then once again from an SEO consultancy to SEO software.
+
+What was your mindset/what was going through your head when you decided to make those two transitions?
+
+Why do you feel that each prior business venture couldn’t scale? The web dev one in particular.
+
+Do you think it is possible to quickly scale a business without having a team of talented programmers, such as SEO Moz or Facebook?
+
+I sincerely appreciate your time, and I understand if you do not have time to response. I know you have a huge influx of messages.
+
+Regards,
+Ben Spak
+Stadvert
+
+by Ben Spak on June 24, 2012 at 6:42 am.    
+

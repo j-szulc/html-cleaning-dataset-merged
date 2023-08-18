@@ -1,0 +1,11 @@
+DIY Virtual Reality for Skyrim using Kinect
+
+If you’re a fan of Skyrim and you want to immerse yourself deeper into the game, this is the project for you.  Learn how to build your own virtual reality setup which captures head and body movement and map them to your character in the game.
+
+Some of the equipment you will need is a Sony HMS-T1 head-mounted display, a Trackr5 for tracking head movement, a speech recognition set up, and a Kinect for tracking body movements.   Overall, it’s a pretty complex system which integrates a multitude of hardware and software systems.  See the full details of the project to build your own.
+Similar Virtual Gaming Simulator:
+
+    Incredible Battlefield 3 Gaming Simulator
+    Kinect Finger Tracking = Minority Report Style Control
+    DIY Virtual Reality Helmet Rig
+

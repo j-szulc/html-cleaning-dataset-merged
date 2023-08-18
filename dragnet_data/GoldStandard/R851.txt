@@ -1,0 +1,13 @@
+November 6, 2012, 6:10 pm
+Q&A: Photos from Camera to iPad
+By J.D. BIERSDORFER
+Q.
+
+I want to load photos directly from my camera to my iPad, but I hear the Camera Connector device sold by Apple only fits SD cards and not Compact Flash. Is there another way to copy images directly from the camera?
+A.
+
+One model of Apple’s iPad Camera Connector adapter is indeed designed to fit the smaller Secure Digital format used by most point-and-shoot cameras. However, the company also sells an adapter with a USB port on one end — for connecting the camera’s own USB cable to the iPad to copy photos from the memory card to the tablet.
+
+Most of Apple’s camera adapters cost $29, including the iPad Camera Connection Kit (which has both the SD card and USB adapter) for the first three generations of the iPad and the Lighting to USB Camera Adapter for the new fourth-generation iPad and iPad Mini.
+
+If you have an older iPad with the bigger Dock Connector jack on the bottom, you can also find third-party adapters that fit Compact Flash cards, like the M.I.C. CF Card Reader or those sold at Photojojo.com.

@@ -1,0 +1,17 @@
+Create a Playlist from Music Directly on the iPhone
+Oct 30, 2012 - Leave a Comment
+
+You no longer need to create music playlists in iTunes and then sync them to an iPhone, iPad, or iPod, because the entire process can be done easily directly in iOS itself. The next time you leave home without creating a playlist, just make one quickly on the go by doing the following:
+
+    Launch Music in iOS and tap the Playlists tab
+    Tap on “Add Playlist…” and give the playlist a name
+    Now sort through the song list and tap the blue (+) icon on each song to add to the playlist
+    Tap “Done” when finished, and enjoy the playlist
+
+You can also edit playlists and change the playlist order of songs, clear the contents of playlists, or delete the playlist completely.
+
+If you do connect to a computer later, these playlists should sync fine with iTunes on a desktop PC or Mac. If it doesn’t happen automatically because of your management settings, you can always export the playlist manually to transfer it over to your computer too.
+
+This feature has been around since iOS 5, so just about all iOS devices should be able to do it.
+
+

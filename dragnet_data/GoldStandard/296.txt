@@ -1,0 +1,171 @@
+
+What I Learned About Sales But Foolishly Forgot When Raising VC
+
+by randfish on November 13, 2010
+
+I hate selling – both the players and the game. But, for the first 6 years of my career, I ran a consulting company. That meant making sales or going home hungry. I did plenty of the latter before I found a tolerable way to do the former.
+
+Early on in our consulting business, we found clients the traditional way – networking, pitching and responding to RFPs (Request for Proposals). If you’ve ever watched the television show “Mad Men,” you’ve seen this process in relatively accurate detail.
+
+
+A pitch on the television show "Mad Men"
+
+
+But in 2004, I started blogging about our business, the process we used, the discoveries we’d made and the successes, failures and advice I wanted to share with others. This proved to be a turning point for us – within a year, we weren’t pitching, responding to RFPs or “selling.” We merely had to answer the phone and reply to emails – Inbound Marketing (coined by the Hubspot founders) had shifted the playing field.
+
+As those with an interest in online marketing (and, specifically SEO) read my posts, they’d find value in the writing and, through osmosis, rather than advertising or sales, were imbued with a proclivity for wanting to work with us. Both the concrete value of the advice as well as the tone and voice of the author were judged and, in a few cases, found to be a perfect match. These matches would then initiate conversation and a client/consultant relationship was born.
+
+My wife finds the same thing, as editors and web publishers who stumble across her blog will get in touch and offer her paid writing gigs for websites and magazines. The power of organic demand is remarkable and, more importantly (at least for me), it means not having to do “sales.”
+
+In the summer of 2009, I developed a case of amnesia, forgetting entirely the lessons of my early consulting years. As a result, I spent 3 months pitching 40 venture capital firms without success. The process was massively challenging, occasionally demoralizing and ultimately, fruitless.
+
+Here’s how most of the pitches went:
+
+• An introduction was made by a CEO who had taken funding from (or previously worked with) the VC partner.
+
+• We’d have an initial phone call to discuss SEOmoz’s business, growth to date and the SEO software market.
+
+• If there was interest, we’d schedule time for an in-person meeting, usually at their offices on Sand Hill Road.
+
+• After an initial meeting, if interest persisted, we’d meet again, often with more partners or additional team members.
+
+• A third and final meeting would happen where we’d present to the entire partnership (5-12 folks).
+
+• We’d get a phone call or email in the next 2-4 weeks saying thanks but no thanks. The reasons weren’t very consistent, but the answer was.
+
+Here’s how it worked out:
+
+In hindsight, I was an idiot.
+
+Our first round of investment came from Ignition Partners & Curious Office, neither of whom I pitched – they found SEOmoz, thought it was interesting, got in touch, and took a chance. The deal moved fast. The terms were excellent. And we used the money to build something pretty remarkable.
+
+But in this second round, I forgot the lessons of my consulting past, and thus, was doomed to repeat it.
+
+Here’s my advice to other entrepreneurs, particularly in these irrationally exuberant times: Don’t start pitching until you’ve been pitched.
+
+If VCs, angels and other investors aren’t knocking at your door (read: emailing you to ask how it’s going and if they can grab coffee or a phone call), you shouldn’t be knocking at theirs. Yes – you CAN potentially raise money through the classic door-to-door pitch process, but it’s ugly and hard and you’ll have to fight tooth and nail for every line in the deal. But, if you can generate inbound interest, the power dynamic shifts and everything gets easier.
+
+The time I spent trying to raise a B round was the most wasteful 3+ months I’ve had at my job. Product was ignored; vision went unfulfilled; opportunity went unexecuted.  Don’t make the same mistake – generate buzz with your success, your traction and press (PR is invaluable in the VC process – another big misstep we made). And let the investors come to you.
+
+p.s. The company did not end up raising a second round of capital, but has been profitable and growing since Dec. 2008 (so we didn’t “need” the money).
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+Interesting post Rand.
+
+Tell me if I am wrong, but what you are substantially saying is the Inbound Marketing principles (and a great product/service) are the right key in order to receive that long waited call from Angels and VC?
+
+And, finally, that the rule (simple after all) should be: develop your business ideas, spread them, make people use them and talk about them, and probably you will reach your long term objective (aka: funds).
+
+by Gianluca on November 13, 2010 at 11:42 pm. 
+
+Excellent advice. If in a good market with good product, the VC can find you. Still a bit confused at why the VC didn’t see SEO Software as a viable market.
+
+by Puppet SEO on November 14, 2010 at 12:10 am. 
+
+I remember that SEOmoz post quite well Rand (about the 3 months pitching 40 venture capital firms.)
+
+It’s funny. Although the process turned out to be a total bust for y’all, it made for one of the better posts you’ve written. You have an amazingly humble and open way of communicating that makes even your failures gems.
+
+by goodnewscowboy on November 14, 2010 at 12:28 am. 
+
+Gianluca:
+I get what you are saying– but “getting funded” shouldn’t probably be the goal. Ever.
+
+But building a great product with a great following. There is no other way.
+
+by Berry on November 14, 2010 at 12:43 am. 
+
+@berry Oh yes, you are totally right :) That should not be an objective per se, but i was meaning it as “that something that can make give the “security” to develop all your business ideas”
+
+by Gianluca on November 14, 2010 at 8:55 am. 
+
+Rand,
+
+Fine piece. Too bad it took so long for the obvious to hit you in the head. It’s all about positioning. Your obviously well-written posts told your story better/cheaper/faster than you could in short meetings. This is marketing 101 (for some).
+
+Too bad all the previous VC’s in your experience can’t or won’t read. I guess the effect is the same, right?
+
+BTW, SEOmoz ROCKS!!
+
+by Mweiss1031 on November 14, 2010 at 2:28 am. 
+
+Great post! After we closed our seed round earlier this year I made a similar post (http://bryanguidohassin.blogspot.com/2010/06/fundraising.html) about how my inbound efforts were so much more effective than my “selling” the deal.
+
+Now that we’ve opened our next (and larger) round, it is a challenge to remember the lesson and resist the temptation to spam everyone with our pitch deck. Posts like yours provide support to stay the course.
+
+by Bryan Guido Hassin on November 14, 2010 at 3:08 am. 
+
+I think you raise a really interesting point with letting VC’s come to you via inbound marketing. Take a look at startups prior to the internet bubble. Companies that weren’t creating value and who weren’t generating any revenue were getting funded through VC firms. There’s no way that they received funding from simply calling investors and asking (at least without a solid track record..or the investor wasn’t too logical). They got funding because somehow the investor came across their company and expressed their interest.
+
+By using inbound marketing techniques you’re also increasing your chances of getting found by your ideal customer. 37signals has a pretty decent philosophy on this, and it’s that they don’t want tons of customers; they just want the right ones. Great post!
+
+by Tom Kline on November 14, 2010 at 3:48 am. 
+
+Insightful post. Question, which was more beneficial in sales when you were a consultant, blogging about what you do (SEO) or writing about your business from an owner’s perspective (the process we used, the discoveries we’d made and the successes, failures and advice I wanted to share)?
+
+Best!
+
+by Stephan Barrett on November 14, 2010 at 4:09 pm. 
+
+Nice post.
+
+And nice photo ;)
+
+by Erik on November 14, 2010 at 10:25 pm. 
+
+Generating enough inbound interest to snag a deal is definitely better. While raising money in 2009 was tough for any company, you were making it harder on yourself with a minimum valuation and maximum dilution. For all but a late-stage investor, you were offering too little control over SEOMoz. And since you weren’t a year or so from an exit, a late-stage investor wouldn’t be interested.
+
+In pre-meltdown 2008, we raised $1.2 million from local angel investors. We also received another term sheet from a Boston VC for _twice_ the valuation, but the sticking point was that they needed to own 25% of the company AND our existing seed investors wanted to preserve their stakes by participating in the second round. That would have diluted all of the employees by half, taken an exit for less than $100 million off the table, and forced us to raise more money than we would have been able to allocate effectively. I saw over-investment at Jobster kill the company, so we took the lower offer from our existing investors. The lower valuation has given us leeway to focus on the areas we have passionate users instead of trying to boil the ocean by competing against every skin care products website.
+
+You can see the minimum ownership issue at stake on the great show Dragon’s Den (http://www.cbc.ca/dragonsden ). Almost every founder offers to part with 10% – 20% of their company, but the successful deals almost always give the investors 30% – 50% of the company.
+
+by Eric Kennedy on November 14, 2010 at 10:29 pm. 
+
+Indeed very good advice.
+And i will surely follow inbound marketing principle for my site
+Thanks…
+
+by Jayesh on November 17, 2010 at 1:41 pm. 
+
+Interesting. While completely true, not sure how practical this advice is as a method to raise money. I would venture that there are plenty of sites/companies that have a good product, a good blog and market awareness but I don’t know that they get pitched by VCs regarding funding. So what’s the course of action there ? They probably need to do the whole dog and pony show.
+However, I think its awesome that it worked for you though. And I must admit, the best services I have received are from people who got in touch with me either due to my blog or Tweets rather than the service providers that I reached out to. Thx for another insightful post!
+
+by Akshay on November 18, 2010 at 6:36 am. 
+
+[...] enthusiastic about working with you, someone who comes to you as opposed to the other way round - Inbound Marketing as I have learned it is known. I HATE expending my energy chasing down service providers, but [...]
+
+by Its all slowly coming to me now… « The Startup Chronicles on November 19, 2010 at 3:20 pm. 
+
+“…most lileky because it has a bad reputation.”I don’t believe that SEO has a bad rep. Often times when people don’t understand something they fear it, or even go so far as to vilify it. Quite frankly, anybody with an online presence not practicing SEO is foolish. SEO best practices go hand in hand with proper web development.
+
+by Edison on February 6, 2012 at 2:36 am. 
+
+Not getting the money was a blessing in disguise, methinks. You’ve learned to run a profitable larger company instead, Rand. That’s a much better business and human skill than firecracker VC deals which in the end implode a company.
+
+My pledge to myself is that I would always run my company for the staff and for the clients (in that order). I figure that if the staff are very happy and able to work well and stay, the clients will be very happy too. Of course it’s somewhat more complex than that simple rule, but it’s a good starting point. Trying to run a company for the VC’s sounds like a diabolical prospect.
+
+In the first year of Foliovision, one of my staff actually gave me Wayne McVicker’s book Starting Something: An Entrepreneur’s Tale of Corporate Culture a cautionary tale if there ever was one. Highly recommend it.
+
+How on earth can one ever make a better world with VC’s on one’s back? And if we’re not making a better world, what is it then that we are doing with our lives?
+
+by Alec on November 22, 2010 at 6:11 pm. 
+
+[...] back on this process, I can only draw similarities between Rand Fishkin’s (Co-Founder SEOmoz) post about his VC fundraising process: Here’s my advice to other entrepreneurs, particularly in these irrationally exuberant times: [...]
+
+by Startup Fundraising is a Time Sink — PaulStamatiou.com on December 21, 2010 at 8:19 pm. 
+
+[...] yet, despite my prior advice to myself that this situation is a potentially ideal one in which to take venture capital, I’m leaning [...]
+
+by Sometimes VC Just Ain’t Enough « Rand's Blog on May 7, 2011 at 8:47 pm. 
+[...] getting nowhere. We went the opposite route – letting investors come to us (a strategy I wrote about last year). This is the story of that experience – being “pitched” by investors, the [...]
+
+by Misadventures in VC Funding: The $24 Million Moz Almost Raised « Rand's Blog on August 29, 2011 at 8:42 am. 

@@ -1,0 +1,66 @@
+Copywriting: How to Ditch Marketing for Product Knowledge
+November 12th, 2012 by Linda Bustos
+
+Product knowledge is a key to selling in the “physical world” — a good salesperson knows the product in an out, its strengths and weaknesses and can answer customer questions.
+
+But online, product knowledge is often restricted to what the manufacturer feeds the retailer. Creative, unique descriptions may be written, but they’re typically still based off the manufacturer’s description. And understandably so, it’s near impossible to get a bulk of products in the hands of your professional copywriter and have reviews written from an ownership perspective, or from the point of view of a customer with a desire or need for every product he or she writes about.
+
+So, what appears on the majority of ecommerce product description pages is not product knowledge, but product marketing.
+
+Customer reviews are influential on online consumers, even to a 20% boost in conversion rate, not because people love reading what others have to say. It’s a selfish reason – we want to avoid buying something we hate, avoid wasting the time and money involved in buying the wrong thing.
+
+Customers don’t want to be unhappy with their purchase.
+
+But when our product pages are marketing spiel, we’re not really speaking to the underlying motivation of the customer, and customers are left to read through reviews to get an understanding of the
+
+Here’s an example. Vodafone carries the Huawei Ascend, a device recommended as an affordable alternative to premium Android smartphones.
+
+It’s got a decent product description, but reading through the customer reviews, I learned a few more things about the device:
+
+    Many bought this phone on the advice of a Vodafone rep as a good quality, budget alternative to pricier phones. The reviews confirm its value, with some expressing they wish they bought this before the [brand] phone they owned before.
+    Most experienced low ringer and text alert volume, this was a common complaint. Not all reviewers were aware of the easy firmware upgrade fix, but those who upgraded were satisfied.
+    Ice Cream Sandwich is coming to this phone in the future, which customers are excited about.
+    Customers were impressed by the processor speed.
+    Customers were not so impressed by the camera quality.
+
+All these insights could be woven into the product description. Not everyone pours through each and every review. Highlighting the promise of Ice Cream Sandwich, being open about the firmware upgrade for the volume issue and suggesting alternative devices for those who value a strong camera feature reflects a deeper product knowledge. Those who do read reviews will find the description points reinforced by customers, building trust with your entire brand.
+
+The result of more informed descriptions is fewer returns and customer service calls. It may also pay off in returning customers who find your information to be more accurate and helpful than your competitors.
+
+Tips: Read and re-read your own product reviews, and those of your customers. Re-visit product copy and look for opportunities to inject true product knowledge into your descriptions. Look for frequencies – things commonly mentioned in reviews. Use the “most helpful” sorting feature to begin with the reviews customers found most insightful.
+Sidebar
+
+Amazon has introduced a summary of customer sentiment feature on its Prime Instant Video pages:
+
+Amazon has the luxury of natural language processing technology to automate this summarization process. Pluribo was a hopeful startup in the “sentiment analysis” space that would have been a gift to online retailers, but unfortunately didn’t make it. Perhaps this technology will have a renaissance. But remember, reading through reviews yourself is the best way to acquire deep product knowledge for copywriters, brand managers, conversion optimization specialists and merchandisers.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+Matthew Tarpy
+    November 12, 2012 at 5:49 am
+
+    Hi, I may have missed it, but I’m not seeing an attribution to xkcd (http://xkcd.com/1098/) for the star ratings chart.
+    
+    Max
+    November 12, 2012 at 8:51 am
+
+    While this is a good article, with some interesting tips for retail copywriting, I think it would have been nice of you to credit XKCD for using that Star Rating image.
+
+    http://xkcd.com/1098/
+    
+        Linda Bustos
+        November 13, 2012 at 11:14 am
+
+        Thanks guys, I typically do credit and missed it in my edits so thanks both for sharing the link.
+        
+    Xkcd Fan
+    November 12, 2012 at 12:00 pm
+
+    You should properly credit the sources of the images you include: http://xkcd.com/1098/
+    
+
+

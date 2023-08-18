@@ -1,0 +1,419 @@
+
+Making Email More Scalable
+
+by randfish on February 8, 2012
+
+UPDATE: This experiment in productivity didn’t work; more details at the end.
+
+If you’ve been referred to this blog post in an email reply, first off, hello! and second, I’m sorry. If I were a less busy or more efficient person, I would have (and should have) responded to your request individually, rather than through this post. You deserve more personal attention, and I’m kind of a butthole for sending you here. That said, I think I can still be a helpful butthole.
+
+Here’s the rub. I receive triple digits of email messages each weekday that require a response (and a considerable amount on weekends, too). I love email as a productivity tool and run as much of my personal and professional life as possible from it, using a modified version of the Inbox 0 philosophy. Those numbers are going up, and I’m worried that I may fall behind and need to have regular declarations of email bankruptcy.
+
+Thus, this blog post exists to answer some of the most common questions I get over email, in the hopes of scaling my efficiency AND helping you by being a more comprehensive, consistent resource than what I might shoot off in a two line response. If your question isn’t one of those below (or wouldn’t be answered by the resources provided), my apologies. You can certainly email me again and hopefully I’ll get to it, but no guarantees.
+
+Here are the most common questions/emails I get:
+
+1) Can You Help with an SEO/Web Marketing Issue?
+2) Will you get Google/Bing’s Webspam/Search Quality Teams to Look at This for Me?
+3) Do You Have Suggestions for Learning Inbound Marketing / SEO / Social Media / Blogging / Etc?
+4) Can You Help with SEO/Social Media/Web Marketing Consulting Services?
+5) Which Conferences/Events in the Marketing World Do You Recommend?
+6) Will You Contribute to my Project / Be an Advisor to My Startup / Help with a Resource I’m Building?
+7) Can You Make An Introduction to So-and-So for Me? 
+8) Can We Schedule Time for Coffee; I Just Want to Pick Your Brain on Some Stuff?
+9) Will You Write About XYZ Latest Major Event in the Marketing World in a Blog Post Soon?
+10) Will You Invest in My Company?
+11) I Have Suggestions / Problems with Moz Software
+12) I Have a Partnership / Business Development Proposal for Moz
+13) People Are Being Mean to Me On The Internet; Any Tips for How to Handle It?
+14) Will You Tweet/Share/Google+ This Link for Me?
+15) Why Are You Such a Butthole? Only Buttholes Make Lists Like This to Pawn People Off from Their Email. Be a Real Person and Write Back to Me!
+
+1) Can you help with an SEO/Web Marketing Issue?
+
+Sort of. In my opinion, the best place to get help on these is Moz’s Q+A. Yes, it’s part of the membership section of the site, but 75%+ of the questions asked there receive an endorsed answer (meaning someone on Moz’s staff verified it) within a week, and many are much faster. If that’s not up your alley, the next best places to ask are on Quora’s SEO section, at Cre8asite Forums and/or on the Moz LinkedIn Discussions.
+
+2) Will you Get Google/Bing’s Webspam/Search Quality Teams to Look at This For Me?
+
+Probably not.
+
+I will, on occasion forward particularly dire/pressing issues over to some folks I know at search engines, but the bar is very high, because those emails need to have a high signal->noise ratio, or they’ll ignore me, too. Let’s use this as a litmus test – if the problem is at least as important as a children’s hospital having the wrong address listed in maps/local search, I’ll send it on (yes, that’s actually happened).
+
+If it doesn’t merit that level of importance, please consider using the standard channels for reporting webspam/search quality issues:
+
+• Google’s Webmaster Tools – reporting spam/issues while logged-in is a preferred method of communication for their teams
+
+• Google Webmaster Central Forums – someone from Google reviews nearly all of these threads, and while very  few have action taken directly, it’s a good way to get it in front of Googlers.
+
+• Bing Webmaster Forums – these often get direct replies from folks inside Bing, and they’re pretty responsive.
+
+Obviously, I don’t actually work for Google/Bing. While I’m flattered that many of you think I can be a resource on this front, it’s a sad reality that due to scalability issues, personal requests can’t often be honored by search engineers and personal relationships are no guarantee of action. Such is the price to pay for services that have billions of daily users.
+
+3) Do You Have Suggestions for Learning Inbound Marketing / SEO / Social Media / Blogging / Etc?
+
+I get this question all the time (which is fantastic, because this is a great field to learn and there’s a lot of demand for good people who have skills). Below are some good resources for learning the ins and outs of inbound marketing.
+
+• First off, it’s good to keep in mind that certification from Google does not exist for SEO. What’s currently available is for AdWords, Analytics and Website Optimizer. These are good programs, but don’t be fooled into thinking they will help you with “inbound” stuff (with the exception of analytics).
+
+• For the basics of search engine optimization, this Beginner’s SEO Guide is still a top-notch resource that’s updated regularly and very comprehensive. I’ve also got a list of recommended blogs to follow here and there’s a nice Quora thread with top SEO folks to follow on Twitter.
+
+• Social media marketing’s a tough one (as there’s a lot of not-so-great content). I’d check out Hubspot’s blog and their terrific Slideshare channel, Dan Zarrella’s blog and Aimclear. In terms of comprehensive resources, this post on Webdoctus links to a number of good ones, though I think we’re still missing the all-in-one guide that the industry really needs.
+
+• For content marketing and blogging, CopyBlogger has a good page linking to a few of the best posts on that site. MarketingProfs’ content marketing category, Conversation Marketing (which covers a wide swath of inbound topics) and Problogger are also solid.
+
+• If you’re seeking certification that’s likely to be accepted in the industry, it’s tough. The best ones are probably Market Motive and Search Engine College, but even these may not be universally recognized. I’d also suggest Inbound Marketing University (which is free).
+
+• Link building tactics is a very common request. I’d suggest checking out this category on the Moz blog, this one on SEER, and this one on Distilled. There’s some good individual articles on the topic as well like this post from SugarRae, this one from Mike King, this webinar/slide deck I gave on link building with tools, and this laundry list of tactics from SEWatch. Finally, some good blogs to follow on link building – Wiep, Ross Hudgens, Debra Mastaler and SEOGadget.
+
+Now, all those are great, but if you want to get to a professional level, you’ll need hands-on experience (this post details how many recognized experts in the field started, and hands-on is present in every case). Luckily, this is easier than in nearly any other field. Start a website – perhaps a blog on a topic you love. Follow this checklist. Work on your traffic and your marketing channels. Figure out what works and doesn’t, but think of it as a process that you’ll need to perform every time (because every site and brand is different). Once you’ve done this once or twice successfully and attracted a real audience, you’ll be more than ready to get most entry-level positions in the field.
+
+4) Can You Help with SEO/Social Media/Web Marketing Consulting Services?
+
+I cannot. Moz dropped consulting from our business in 2009, and I don’t offer it privately, either. That said, I’ve worked with a number of great folks in the industry to develop a Recommended List of providers in this sphere. If you’re seeking consulting services in the web marketing field, I strongly suggest a visit.
+
+5) Which Conferences/Events in the Marketing World Do You Recommend?
+
+I’m going to be picky here and just throw out a few (though there are certainly others that may be worth your time – and new ones are springing up every year):
+
+1) Distilled’s Linklove and Searchlove events are unbeatable from a content quality perspective. The speakers are remarkable, there’s a lot of attention to detail and the tips/advice given is second-to-none. That said, there’s only a few hundred people at any of them, so you have to want more intimacy in your networking. If you’re seeking a classic, large-conference environment, choose something else.
+
+2) SMX puts on very good large conferences in the US and Europe. My two favorites are SMX Munich in Germany and SMX Advanced in Seattle, followed closely by the SMX East/West events in California and New York.
+
+3) Hubspot’s Inbound conference lives up to their high standards and features content on a variety of topics – content, social, SEO, etc. Very much recommended, particularly if you’re in the Northeast.
+
+4) Salesforce’s annual Dreamforce event is on a scale like no other. It’s not exclusively marketing-focused, though you can certainly attend marketing tracks. The raw networking power of having 30K+ attendees, keynotes from the likes of Bill Clinton and the tons of other cool stuff surrounding this make it highly worthwhile.
+
+5)  SES and Pubcon, both centered on search, but broadening, are good shows. They feature larger audiences than any of the above (except Dreamforce), multiple tracks, lots of panels and tracks (like SMX) and a wide variety of attendees. Both are good for networking – though at the very large shows it can be challenging to meet people unless you have already-established relationships.
+
+I won’t put it on the list because it would seem purely self-interested, but our annual customer conference, Mozcon, is pretty damn amazing. We hand select the best and brightest speakers from other shows we attend, have a very high bar for content and throw some phenomenal after-hours events and extras, too. It’s usually between 5-700 attendees, so mid-size in terms of networking.
+
+6) Will You Contribute to my Project / Be an Advisor to My Startup / Help with a Resource I’m Building?
+
+Oh man… I really want to say yes to all of these, but sadly, there’s just too many. If you’ve built a great product, reputation and some notoriety in the space, chances are good I’ll say yes and write back. I really want to contribute and give back after all this wonderful industry has done for me. However, there’s no time, and I have to be picky. Please understand and don’t take offense – I promise it’s not personal.
+
+There’s also tons of other great SEO and inbound marketing folks who may have more time/interest in helping.  A fairly good list is actually on this Quora thread and reaching out via Twitter is a good way to go (if you can explain your pitch/project in 140 chars, that’s also a good sign).
+
+7) Can You Make An Introduction to So-and-So for Me?
+
+This is a tough one, because if we don’t know each other tremendously well, OR if I don’t know the person you’re asking for the intro to well, it becomes an awkward situation. There’s also some folks who are simply too busy and I know from conversations that they wouldn’t appreciate me forwarding on every request I get to connect with them. Here’s a good example: Dear Friend: My Heart Says Yes, But My Schedule Says No.
+
+8 ) Can We Schedule Time for Coffee; I Just Want to Pick Your Brain on Some Stuff?
+
+Unfortunately, once again this is somewhere I need to say “no,” more often. If we don’t know each other or  I’ve not specifically said “please email me, I’d love to get together,” there’s a chance I might not respond (or send you a link to this post). My calendar, even when in Seattle, is getting so full that I have no room for any desk work while in the office, meaning I put in 6+ hours at home on email each night just to keep up.
+
+Nevertheless, I LOVE meeting people in the industry and being helpful when and where I can, so don’t take this as a “don’t call me, I’ll call you.” Just know that I have to make hard choices and it’s not personal. I promise to still take at least some of these, especially those have interesting pitches/come from referrals I trust.
+
+9) Will You Write About XYZ Latest Major Event in the Marketing World in a Blog Post Soon?
+
+Quite possibly – and more likely so if the subject is interesting and/or it fits with other stuff I’m planning to write about. But please don’t be angry if I don’t respond or include you in the post (I will try, though, so please send over your preferred source for citation if you do suggest something). Many times, when a big change in the search/social world occurs, I get a bunch of emails asking if I’ll write about it. My usual policy is to wait a week or two until the dust settles and we’ve had time to analyze/test/play a bit. Moz doesn’t cover “breaking news” typically, but rather tries to provide analysis, insight and strategic/tactical advice for marketers.
+
+10) Will You Invest in My Company?
+
+Ummm… How do I say this… I’m in no financial position to do so. Despite Moz’s relative success, we pour nearly every dollar earned back into growing the business. I make less money than you might think and my wife and I support some family on those earnings, too.
+
+Someday, I do hope to make investments, but it’s probably many years away. Fingers crossed, anyway!
+
+11) I Have Suggestions / Problems with Moz Software
+
+Awesome. I will almost certainly respond directly to these or, at the least, forward them to someone appropriate on the team to investigate. If you want more formal support, though, I suggest emailing help@seomoz_dot_org, where one of our awesome help team members will tackle this personally. Average first response time is 8 hours (much less M-F from 8am-6pm Pacific) and resolutions are usually less than a day.
+
+12) I Have a Partnership / Business Development Proposal for Moz
+
+Thanks for thinking of us! We’ve now got a fulltime bizdev director on board – Andrew Dumont. You can reach him via email directly – andrew at seomoz dot org.
+
+13) People Are Being Mean to Me On The Internet; Any Tips for How to Handle It?
+
+It’s sad that I get this question so often. But in a way, it’s a good thing. It means you are not alone – everyone who achieves any modicum of success or awareness on the web is going to find themselves the target of critics and haters. It means you’re doing something RIGHT!
+
+First thing, take a deep breath and watch this Katt Williams clip (and maybe this one, too). Funny stuff, right? Second, read this great piece on trolls and trolling. If your haters are trolls, you should largely brush it off, especially if other, more reasonable people aren’t engaging in this manner. Remember that trolls troll together – one finds something to hate and shares on social media/email to increase your perception/fear that the controversy is real. Unless your longtime fans and followers are up in arms, too, it’s likely to blow over relatively quickly.
+
+Think through all the comments, interactions, emails, tweets, etc. you’ve received in the past 30 days. As a percent, how many of them were negative? If the answer is 2% or less, use that for perspective. Your mind will naturally dismiss the positive remarks and center on the negative – it’s classic human psychology (and it’s why politicians use negative campaigning). But, that doesn’t make it real. Chances are good that your critics are using ad hominem attacks, which can hurt emotionally, but are logically shallow and many times, designed to simply garner a response so the attacker can feel vindication.
+
+Engaging is the tough part – it often can feel impossible not to respond, but keep in mind that writing something back – in a comment thread, on social media or on your own site – can actually make things worse, particularly if you’re in a heightened emotional state. It can sometimes pay to leave a response like “I disagree, but this has gotten me a bit emotional, and I think it’s best we both wait a few days and see if we still feel the same way before continuing with what could be an unproductive and hurtful conversation.”
+
+Finally, remember that haters don’t actually hate you (or, most of the time, what you’ve done). Their own insecurities, emotional state, lack of maturity and perspective are far more likely drivers. For trolls, it’s even worse – the goal is simply attention (hence, the old saying, “don’t feed the trolls”). Know your attackers, take it in context and keep perspective. Respond only if you’re out of the stomach-in-knots phase, fairly sure you’re not being trolled and show as much respect and candor as possible. You’ll get through it – we all do. And congrats – if you have haters, you’re doing something right!
+
+14) Will You Tweet/Share/Google+ This Link for Me?
+
+If it’s especially amazing, I might, but the bar is REALLY HIGH for this sort of thing. Sharing with me by tweeting it at me is often a good way to go. I’m pretty responsive on Twitter unless I’m particularly swamped or on one of those horribly long trans-oceanic flights.
+
+15) Why Are You Such a Butthole? Only Buttholes Make Lists Like This to Pawn People Off from Their Email. Be a Real Person and Write Back to Me!
+
+I know. I suck. I’m sorry.
+
+The problem isn’t you – it’s me. My inbox is too full, my time demands too many, and my efficiency not what it should be. If I answer every email I get, I’ll have no time left to do much of anything else (including blog or run my company). I have to draw the line somewhere and own my inbox rather than allowing it to own me. But, it’s totally lame that I did it to you. If you see me in person, feel free to give me a hard time about it.
+
+postscript: I sent this email to ~30 recipients over a one week span. There were several no replies, one thank you, and a bunch of very angry people. Lesson learned – folks don’t mind being ignored on a random outreach email, but they don’t want to receive a link to a post like this. I’ll keep working to try getting better at answering email, but I suspect it will simply lead to a lot more archiving/deleting of messages. Ah well, nothing ventured…
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+This makes me so ANGRY!!! oh wait.. nope :-) Nice system you got here!
+
+by Kris Roadruck on February 8, 2012 at 1:26 pm. 
+
+Hi Rand,
+
+As someone who’s emailed you five times and got a great response every time, I appreciate how much time you take to respond to the community. 6+ hours a night for emails is a hell of a lot, so this post is not a “butthole” post at all.
+
+Don’t feel bad for writing this post, if people send you crap they aren’t worth of a reply. Especially when they could find the response easily. Half of them probably just need to be sent to http://lmgtfy.com/ (Let me Google that for you).
+That’s crazy that people ask you to speak to Google etc for them. You don’t do consultancy so they’ve no right to ask you to help them in this way. Don’t these people read blog posts for answers?
+
+Also introduction requests, huh? They should be able to do that themselves – unless you know the person it’s pretty sucky of them to ask for a recommendation. LinkedIn lets you message anyone for $15 a month, it’s not that hard.
+
+Of course to add some context of my own, unexpected emails can be an absolute joy. Media requests, blog post requests, SEO suggestions or new friendships that result from email make me happy every time. Cutting through the junk reveals absolute gems, that helped us grow Koozai and I’m sure the time you point in to emails has clearly been one of the factors that helped SEOmoz grow as a brand, so keep them coming!
+
+Mike Essex
+Koozai.com
+
+by Koozai Mike on February 8, 2012 at 1:36 pm. 
+
+Great post and great answers. And do not feel sorry, because – even though it would be nice to be able to answer to all the emails (and tweets, and Facebook messages and G+ private messages) – to reply to all the people asking for your attention is not possible. And if that is true for someone like me, who receives just a 10% of the emails you receive, in your case that’s almost an inalterable truth.
+At least you are honest and justify yourself. Others simply don’t answer, neither with a link to a FAQ like this.
+
+By the way, you forgot to add the link to the “anti troll” post :)
+
+by Gianluca on February 8, 2012 at 1:41 pm. 
+
+Thanks! Fixed it up.
+
+by randfish on February 8, 2012 at 2:12 pm. 
+
+I think its great you put this post together for people as apposed to just ignoring them or sending them a canned email saying you would love to help but cant
+
+by david konigsberg on February 8, 2012 at 1:52 pm. 
+
+You created a (near) prefect resource list in the process. Kudos Rand! Just what we can expect from you.
+
+No email reply needed ;)
+
+by Arun Agrawal - Webile on February 8, 2012 at 2:22 pm. 
+
+I’ve always wondered how prominent personalities like you handle your mailbox. It’s noteworthy knowing that you check your mails & messages by yourself. I could just imagine how it feels like being followed by thousands of people around the globe. Others would have hired a secretary, or some kind of virtual assistant.
+
+Thanks for turning your all-inclusive reply into a blog post. I’ve discovered a lot of valuable stuff in here.
+
+by wordpressfanboy on February 8, 2012 at 2:25 pm. 
+
+Absolutely loved this post Rand,
+
+I think it is very wise you created a post like this, at least you can now direct most correspondence that you simply don’t have time for to this post. People shouldn’t take it personally, and you shouldn’t think yourself mean for doing so.
+
+It is understandable that you are busy, people have to learn that in this world, we all receive far too much information and content to deal with at anyone time.
+
+Heck, if I received as many e-mails as you, I wouldn’t have time to do all other things important in running a business and still find time to blog. Kudos to you sir, for giving people a nice FAQs list, with some links to some truly great resources.
+
+As an SEOmoz customer myself, keep up the great work and I’ll be sure to say hi if I ever catch you in person.
+
+Illiya Vjestica
+
+by Illiya Vjestica on February 8, 2012 at 2:58 pm. 
+
+There are a few resource pages here, if anyone is looking for various stages of deeper dives into execution, brand content, customer conversations, and the evergreen topic of influence – http://www.conversationagent.com/marketing-that-makes-business-sense.html
+
+Thank you for sharing so generously, Rand.
+
+by Valeria Maltoni on February 8, 2012 at 3:14 pm. 
+
+Rand,
+
+Thanks for the heart-felt article. Many of us feel this similar pain. We want to help and give as much as we can, but it’s just not possible.
+
+It’s hard to say no, and it’s hard when even one person thinks less of you because of your position — but it’s necessary. This article took courage — you’ll be glad you wrote it.
+
+Small suggestion: You need a better title for the article. But, that’s just me. :)
+
+by Dharmesh Shah on February 8, 2012 at 3:18 pm. 
+
+I agree with Dharmesh’s comment above. Perhaps something along the lines of “I’m not a butthole. I’m just busy”.
+
+Really great post. I feel your pain and I probably don’t get half the email you do in a given day.
+
+by Lisa Barone on February 8, 2012 at 3:46 pm. 
+
+I have been enormously surprised with the level of response I have received from you on many of my questions, to the point where I brag to industry friends that Rand Fish answered my questions or responded to my suggestions. I never expected an answer for any of them.
+
+In saying that this post has answered questions I’ve never thought to ask and now won’t. Great post and I wish I had your determination to answer as many emails as you do daily.
+
+by Dan Pacifico on February 8, 2012 at 4:34 pm. 
+
+Hey Rand,
+Tweeted you on this – but I thought maybe a longer comment would help.
+
+I’ll admit I find your post valid and in places amusing. I even wish I could place things like this up myself!
+
+However, it is interesting that you take this stance on the emails, what is your perspective on the fact that this is largely a result of your own self-promotion?
+
+I say this because you’ve been ex-consultancy/agency and promoted yourself on conferences, emails, forums etc as an Industry Expert, answering many many emails and calls. (to great credit)
+
+After all – whilst most of these people emailing you, as you say, are external. The volume of emails is not *that* extraordinary when you consider CEO’s & C-Suite elsewhere, accepted they have PA’s and external communication’s people.
+
+Do you think you would tone down your public visibility elsewhere?
+Is there a tipping point that you see yourself and other similar folk, Will Critchlow, Matt Cutts etc, falling victim to? In that you have to put x effort in networking/communicating, but that at a certain level of fame you have to withdraw somewhat.
+
+Would be really interested to see your reply!
+
+*This is not a criticism but merely thoughts.
+*Disclaimer – as Inhouse I don’t get to voice my thoughts often in public, and certainly don’t get to ignore emails, however annoying! Unfortunately…
+
+by Robert Nicholson on February 8, 2012 at 4:37 pm. 
+
+But what about the 50+ emails I sent you? You’re not going to answer them?!
+
+It’s strange. The more opportunities that present themselves, the more you have to say no. I don’t know, it’s tough to say no, especially when it’s something really intriguing, just because you don’t have time. While it’s getting easier to say no, I actually feel worse each time I do. =/
+
+Thanks for taking the time to crack out this post, Rand. :) With a schedule like yours, I’m impressed you blog AT ALL, let alone consistently on multiple blogs. You’re an inspiration to the industry.
+
+by Mitch Monsen on February 8, 2012 at 4:48 pm. 
+
+Forgive my skepticism, but I’ll believe it when I see it. Right now, I refer to you as “that guy who is sometimes able to eat dinner with me, before rushing off to do more work.”
+
+I love you. I miss you all the time. I suspect that will always be the case. I suspect you’ll always work 14-hour days, and you’ll always get 6 hours of sleep a night.
+
+It’s cool, and I’ve made peace with that reality.
+
+But it sounds like this will free up your time so you can dedicate it more to the company, which is a really good thing. And who knows – maybe I can sneak in there, too, and spend some time with you during conscious hours.
+
+What, a girl can dream, right?
+
+by Everywhereist on February 8, 2012 at 5:01 pm. 
+
+I think… I need to get you to talk to my wife. :P
+
+It’s gotta be tough, married to an entrepreneur. Have you written about that? I’d actually love to read a blog post on how it affects you/how you deal with it. I guess that might be a little too personal for your travel-centered blog, but yknow… just a thought.
+
+I could have my wife read it. Maybe she’d feel less lonesome, heh…
+
+by Mitch Monsen on February 8, 2012 at 5:16 pm. 
+
+Aw, I’d love to meet/chat with her. :) And I’d give you a word of advice, Mitch: You need to be that perfect mix of annoying and awesome, so that she will love seeing you, and not miss you when you are busy.
+
+Rand almost has this down. Almost. :)
+
+by Everywhereist on February 9, 2012 at 10:50 pm. 
+
+G – I think you should write that post. You’d be far better at it than I.
+
+by randfish on February 9, 2012 at 11:21 pm. 
+
+First time I emailed you Rand, it was at about 11pm at night. reply some 30 minutes later – butthole?!? Pffft!
+
+I guess this is one of those posts you wish you’d written sooner, eh?
+
+If I want to talk to you, I’ll save it for the next encounter in person ;) #DoingMyBit
+
+by Ed Fry on February 8, 2012 at 6:33 pm. 
+
+Great post.
+
+I’m sure you’ve already read “The 4-Hour Workweek” by Tim Ferriss, but for everyone else, here’s a link: http://www.fourhourworkweek.com/
+
+It contains a number of valuable life and efficiency lessons (including a personal FAQ to streamline email responses — i.e., this great post).
+
+by Steve Webb on February 8, 2012 at 6:54 pm. 
+
+Rand, this is a great post! I feel your pain, re: emails – but in general, getting a ‘who’s who’ and ‘top resources’ list from an industry expert is incredibly useful.
+
+by Lisa on February 8, 2012 at 7:50 pm. 
+
+Appreciate your email clarifying several things.
+
+Actually, it gives us great insight on how a mind like yours works and what you’ve prioritized and obviously, its great you have laser focus on your business.
+
+You can’t please everyone nor have an answer to everything. Your advice, input on many things SEO is always appreciated.
+
+I must say, the part about being hated on the Internet and embracing it because of doing something RIGHT is great advice.
+
+Additional feedback on that are these two things:
+
+1. In the end, we only have control over ourselves and how we react or not react to external factors/emotions/etc.
+
+2. To achieve success, only requires one thing. The RIGHT attitude.
+
+Sorry for the long comment.
+
+-Rudy
+
+by Rudy Chou on February 9, 2012 at 1:05 am. 
+
+If I sent me as many emails as I send you, I wouldn’t read all my emails either :)
+
+Seriously, I’m about 5% as famous as you are in our industry, and I’m beginning to feel too much of this myself. I do my best to have time for friends, true peers, and people who genuinely need help. At some point, though, your inbox just gets inundated with people who want something for nothing, and like you, I’ve got a day job and a family.
+
+To people who would argue that you should always reply to everyone, I’d have to ask – where does that end? If you get 5 random emails for help a day, sure, you can make it work. If you get 50, you’ll spend half your day on those emails. What about 500? 5000? Just because more and more people can connect to us than ever before doesn’t mean we’re obligated to accept all of those connections.
+
+by Dr. Pete on February 9, 2012 at 3:50 am. 
+
+Rand,
+Your ability to take any difficulty you face and turn it into an opportunity to demonstrate a solution for others remains a continual source of fascination for me.
+
+Sorry to be part of the problem, but I’m sending you an email for the usual reason ;) Apology in advance.
+
+Sha
+
+by Sha Menz on February 9, 2012 at 6:47 am. 
+
+Yes Rand – you are a Butt hole, but you’re OUR butt hole and thank makes it ok.
+
+(hmmm, that didn’t sound quite right…)
+
+by Scott Fasser on February 9, 2012 at 11:51 pm. 
+
+Brilliant :-)
+
+by randfish on February 10, 2012 at 1:51 am. 
+
+heh, I should feel honored I got a response from you :)
+anyway, most of us know when sending a mail to you that we might not get a response because it’s obvious to people who follow your work that you are extremely busy. Part of the job I guess, I get mails by hundreds during the week, I can’t reply to all, hell, I can’t even read all of them, so this is understandable, the fact that you took the time to offer a detailed FAQ why you didn’t reply should be enough for most people.
+
+by Zarko Zivkovic on February 10, 2012 at 12:44 am. 
+
+You should most definitely NOT feel honored that you got a response. Just because my inbox is busy doesn’t mean that I’m necessarily more important/valuable/interesting/better than anyone else. It just means I get lots of email. Honestly, I feel really lucky and thankful that so many people turn to me for help, and I just want to be able to scale that better.
+
+by randfish on February 10, 2012 at 1:53 am. 
+
+Random idea that may help or may do nothing:
+It would be very cool to have a live view of how many unread e-mails you currently have in your inbox. Certain people e-mailing you may just not know how busy you are, and seeing that “Wow, rand has 354 e-mails to go trough before he gets to mine… Maybe I can ask my question to someone else at SEOmoz”.
+
+Some sort of live “E-mail Overload Rating” and “Expected Wait Time for Rand” (with a list of much shorter expected wait times for other Mozzers)
+
+by Alex Czartoryski on March 4, 2012 at 9:12 pm. 
+
+LOVE the section on “people being mean on the internet” because you incorporated the Kat William video!!!
+
+I don’t remember who said it but “haters are just confused Admirers”
+
+by Adam Moore on February 16, 2012 at 10:12 pm. 
+
+Hi Rand,
+
+Thanks for the great post. I noticed that you referenced a checklist but perhaps forgot the link?
+
+Here’s the copy: “Luckily, this is easier than in nearly any other field. Start a website – perhaps a blog on a topic you love. Follow this checklist.”
+
+I’m curious which checklist you were referencing here…
+
+Thank you again!
+-Alex
+
+by Alex Avery on February 19, 2012 at 9:31 pm. 
+
+Rand, you are awesome! I really appreciate that you took the time to explain all of this in a blog post. Personally, I’ve always been impressed with the level of response from you/moz team. You guys are all so helpful.
+
+by Bryant Jaquez on March 6, 2012 at 11:56 pm. 
+
+Oh I am so taking up this method of communication
+
+by Andy Kinsey on March 12, 2012 at 9:56 am. 
+
+I get stuck at handling 150 to 200 mails a day so compliments for trying to handle 3 digit numbers!
+
+You did inspire me to create a standard email for each project we run and operate so i can just call the template, remove the text i don’t need and send it out. After some mail runs we get 50 to 100 people with the same questions .. so that would save me big time.
+
+Keep it up .. and never turn to an auto-responder!

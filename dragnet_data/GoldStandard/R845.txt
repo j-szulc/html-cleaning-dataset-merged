@@ -1,0 +1,14 @@
+
+November 9, 2012, 9:13 am
+Q&A: Removing a Firefox Add-on
+By J.D. BIERSDORFER
+Q.
+
+How do you get rid of an add-on in Firefox? I installed something that I think is slowing down my browsing and I want to uninstall it now.
+A.
+
+Add-ons and extensions can bring all sorts of new features to your browser window like weather radar, soccer scores and playback controls for your music software. Too many add-ons — or ones that cause conflicts — can make the browser crash or run more slowly. In Firefox, you can disable an add-on to see if it was the root of the slowness problem, or remove it completely.
+
+To do so, go to the Firefox tab in the browser window and select Tools; in some versions of Firefox, just go to the Tools menu. In the Tools menu, select Add-ons. On the Add-ons Manager tab, select Extensions.
+
+When you have found the name of the extension you want to disable or completely uninstall, select it in the list and click the Disable or Remove button. Firefox generally offers to restart itself after you disable or remove any software. Restart the browser and see if it runs any faster without the add-on. Mozilla has information about removing plugins and troubleshooting issues with Firefox here.

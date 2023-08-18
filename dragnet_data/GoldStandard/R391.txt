@@ -1,0 +1,18 @@
+November 01, 2012
+vSphere SRM 5.1 - Recoverpoint SRA passes the cert
+
+Just got the internal word – was pushing for this hard when I was in Israel a week back, and glad to see it out…
+
+(thank you to the Recoverpoint team!)
+
+    “Just got the word from VMware that the SRM 5.1 RP adapter is certified and VMware will update their db by Friday.
+
+    Note that for now only the 'fc' cert was completed, the 'iscsi' one will follow in November. This is expected to be a formality only, the exact same adapter will be re-certified in an iscsi-only env (no san switches, RP is directly attached to VNX).
+
+
+    To avoid any doubt, iscsi hosts connected to VNXs, and RP connected through FC, is part of what has just been certified.”
+
+Normally I wouldn’t air this out (I would wait a little longer) – frankly customers should always use the VMware support site for SRAs as the final word – but know that there are more than a few customers eagerly awaiting this…
+
+Psst… I know that many of you have been asking for the “point-in-time” recovery model of Recoverpoint to work with SRM.  The VMware SRM APIs cause a “lowest common denominator” effect – dumbing down something unique like Recoverpoint… But, we’ve found a creative answer.  Stay tuned – working on it.
+

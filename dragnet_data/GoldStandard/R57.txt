@@ -1,0 +1,7 @@
+The Agile Lumberjack: Why Batched Requirements Are Not As Sensible As You Think
+
+by Elena M Yatzeck, 19 October 2012 | The Agile Blogosphere
+
+This post is from Pragmatic Agilist by Elena M Yatzeck. Click here to see the original post in full.
+
+Let's say you're a Business Analyst, and you're okay. You've done your job for years.  You are a subject matter expert in your own right, and you get the job done. Suddenly, a sparkly-eyed Agile Guru (SEAG) shows up at your workplace and asks you to stop writing a "requirements document" that holistically describes the software your developer friends will be building.  Instead, the SEAG...

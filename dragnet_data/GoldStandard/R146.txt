@@ -1,0 +1,16 @@
+Windows Phone 8 gets ‘Data Sense’ and ‘Kid’s Corner’
+October 29, 2012 at 10:45 am by Todd Bishop
+
+Two new Windows Phone 8 features unveiled by Microsoft this morning aim to address some of the biggest challenges faced by smartphone users — mobile broadband data limits, and kids.
+
+To promote the launch of the new mobile platform, and the new features for kids, the company brought out actress Jessica Alba on stage at the Windows Phone 8 launch event in San Francisco,  noting that she has has switched from iPhone to Windows Phone as part of her association with the company.
+
+First, Microsoft is launching a new feature called Data Sense for Windows Phone 8. It’s a companion, of sorts, to the limited and shared data plans that have become popular among some of the major wireless carriers. The feature compresses web pages, shifts data to WiFi whenever possible, adjusts network settings and delivers alerts as users approach their data limits.
+
+The company says the web page compression alone lets users browse 45 percent more web pages on the same data plan. Verizon will be the first U.S. carrier to launch the new feature this holiday on all of its Windows Phones.
+
+A second new feature, Kid’s Corner, creates a separate area on the phone, configurable by parents, that gives kids access to specific features and apps but prevents them from accessing their parents’ apps, email and other features. It’s accessed by swiping from the lock screen to a special “Kid’s Corner” area.
+
+Alba said she has personal experience with the problem that Kid’s Corner aims to solve, after one of her daughters sent out a tweet to her 4 million followers from her phone.
+
+Microsoft is looking to Windows Phone 8 to gain new traction against Android and iPhone. The new mobile operating system shares a common core with the Windows 8 operating system. Windows Phone 8, rolling out on new devices this fall, won’t be available as an update to existing Windows Phone 7.5 devices, but those users will get some of the features, including better customization of the Start screen, in a Windows Phone 7.8 update.

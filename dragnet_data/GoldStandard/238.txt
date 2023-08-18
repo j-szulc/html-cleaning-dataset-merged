@@ -1,0 +1,388 @@
+
+The Algorithm + the Crowd are Not Enough
+
+by randfish on November 29, 2010
+
+In the last decade, the online world has been ruled by two, twin forces: The Crowd and The Algorithm. The collective “users” of the Internet (The Crowd) create, click, and rate, while mathematical equations add scalability and findability to these overwhelming quantities of data (The Algorithm). Like the moon over the ocean, the pull of these two forces help create the tides of popularity (and obscurity) on the Internet. Information is more accessible, useful, and egalitarian than ever before.
+
+But lately, at least to me, the weaknesses of this crowdsourced + algorithmic system are showing, and the next revolution feels inevitable.
+
+
+_
+
+Let’s start with some examples of the crowdsourced, algorithmic advances:
+
+• Netflix – we watch, rate and review. Netflix recommends (they even crowdsourced their algorithm).
+
+• Amazon – we browse, buy, rate and review. Amazon datamines until they know exactly what to recommend (apparently a big part of their business).
+
+• Expedia – we fly, rent, sleep and vacation. Expedia’s machines analyze, set prices and determine how to maximize profit.
+
+• Google – we create content, cite the content of others and share socially. Google crawls, sorts, serves and ranks (based largely on a human-created link graph).
+
+• Facebook - we friend, update and like. Facebook builds systems to perfect ad + content targeting back to us.
+
+• Reddit/Digg/StumbleUpon – we submit and vote on content. They order the submissions and determine how long and to whom they’re visible.
+
+• Yelp – we dine, visit and shop then review and rate. Yelp classifies, ranks and recommends.
+
+We’re not solely beholden to these algorithms – we could dig deeper, search further and collect more input before making a decision (and many times we do). But, with the machines making assumptions about what we want, it’s often easier to embrace that default decision than to choose an alternate path.
+
+Compare this to alternative, pre-Internet methodologies:
+
+• The Video Store – The “staff picks,” “critic’s choice,” and “award-nominated” sections would help us choose what to rent.
+
+• Consumer Reports Magazine – Experts analyzing and testing every aspect of a product would rate and recommend their choices for the best. Cook’s Illustrated‘s “America’s Test Kitchen” is another good example.
+
+• Travel Agents – Travel used to be booked by individuals that had unique access to databases of information about transportation and lodging
+
+• Zagat Survey – These crimson-red guidebooks compiled restaurant reviews and ratings from anonymous raters sending in surveys from dozens of cities.
+
+• Personal Referrals – When no reference resource was available, friends, family, co-workers, and service personnel (concierges, 411, etc.) could provide suggestions; though biased, high relevance and value make them stalwarts even today.
+
+Let there be no confusion – my opinion is that most of the time these predecessors to our modern, crowdsourced+algorithmic solutions don’t hold a candle in quality, reliability or usefulness. Their reach was often too limited, occasionally corrupt and sometimes just plain wrong.
+
+But these predecessors do have advantages – most notably that everyone can understand how the recommendation was made. Compare that to the mystery of our algorithmic+crowdsourced services:
+
+Why does a page rank first in Google for a particular query? Why does one link stay on Reddit’s homepage for hours while another, with a similar number of votes, fall off in just a few minutes? Why does Facebook show me ads for customer service jobs at Comcast? Why did Amazon recommend buying whole milk with this Badonkadonk Land Cruiser?
+
+If we don’t understand why these suggestions were made, couldn’t that bias us against trusting future recommendations from these services?
+
+Fred Wilson recently  made a compelling case that we shouldn’t invest in something we don’t understand:
+
+…sectors of the venture capital market are filling up with investors chasing returns. And some of them do not understand what they are investing in. I got a call a few weeks ago from an individual investor who wanted to invest in one of our portfolio companies. He asked about the company and from his questions it was pretty clear he did not understand the business very well. He went ahead and made an offer to invest. That scared me.
+
+I’ve been visited recently by a number of foreign investment vehicles, many of whom are investing billions of dollars of sovereign wealth. They all want to get into our funds and our deals. When I talk to them about why, they can’t really articulate a cogent argument about the economic potential of the social web. But they see the returns and want some of them too. That scares me.
+
+I’d argue that some people will find it equally hard, and perhaps similarly foolish to trust suggestion/ranking services whose algorithms they can’t understand. These same people might turn to recommendation sources they can easily grasp and results they can logically dissemble.
+
+My point isn’t that Google, Netflix, Amazon, Yelp or any of the others are doomed. But I do think there’s an opportunity brewing for entrepreneurs, websites and companies to add editorial components to the algo-crowd paradigm.
+
+Plenty of startups are already investing in this space:
+
+• Quora / FormSpring / StackExchange – as compared to answers from Google or even Wikipedia, where either the ordering of results or the source of the answer are unknown and free of responsibility, these modern Q+A sites have put the power in the hands of crowds, algorithms and experts.
+
+• Techmeme / Memeorandum / Mediagazer –  a crowd of bloggers produces content and cites each others’ work. The algorithm compiles and sorts while curators (Gabe Rivera’s editorial team) insure quality and timeliness.
+
+• Alltop – Guy Kawasaki’s curated collection of feeds aggregates and sorts content by sector. Currently, the algorithmic portion is missing, but I suspect it can’t be long.
+
+• Oyster / Raveable – Travel review sites are notoriously problematic, either too noisy with user comments and reviews of specious quality or bereft of authenticity by financially motivated affiliates. Oyster solves this pounding the pavement, sending editorial reviewers to hotels and writing their own reviews, then leveraging user data + algorithmic rankings/organization to help users find the ideal choice. Raveable combines light editorial curation with a powerful datamining and sorting algorithm to ease the hotel finding process.
+
+• Groupon / LivingSocial / Gilt Group – Coupon and deal sites have been around the web for a decade, but these three (and  a gaggle of similar ones) revolutionized the industry and are becoming some of the biggest brands online thanks to social features (crowdsourcing their marketing and deals), algorithmic filtering for personalization/localization and editorial curation (so the deals they show are actually worth clicking).
+
+• TheSixtyOne / Pandora / Last.fm / Spotify – Music recommendations have been getting better and better, and the latest crop are all moving toward a mashup of algorithmic, crowdsourced and editorial sources to bring symphonic rapture to users.
+
+I think we’re going to see more of this in the future, possibly even in some of the sites/services I first referenced (Yelp, Amazon, Netflix, et al.). It’s my belief that the algorithm and the crowd can be made even stronger with the addition of a third leg – the opinionated, benevolent editor(s)
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+My favorite aspect of this blog post, Rand:
+
+———
+• Google – we create content, cite the content of others and share socially. Google crawls, sorts, serves and ranks (based largely on a human-created link graph).
+———
+
+I would argue that this IS enough. Links determine popularity, authority, & trust – with the sophistication of the algorithm, wouldn’t you agree? If not, what changes would you “like” to see…
+
+by Kate Klemens on November 29, 2010 at 8:03 am.
+But so much of any particular Google page 1 search page is now just SEO spam sites, so its not working. You didn’t get that in Zagat or Consumer Reoport…..
+
+by alan p on November 30, 2010 at 1:24 am. 
+Great post. Nice articulation of the dominant crowd + algorithmic models and the emergent sites with added “editorial components.”
+
+But I’m confused about a few things. First, much of the editorial input I’ve seen and experienced – benevolent or otherwise – includes an element of mystery (if not outright obfuscation) that is at least as difficult to penetrate as Google’s page rank algorithm. Second, I think one of the comments points out that the accelerating pace of accumulated content seriously outstrips the ability of humans to manage the editorial helm. If that’s true, and I believe it is, how does this axis not break down almost immediately?
+
+Indeed, the dissatisfaction I have is different than what you have expressed here. I’m no fan of closed systems (though I can understand why revealing the details of page rank and allowing anyone to game the system might not be a good thing). But I find crowd + algorithm to be unsatisfying as a system / approach because it’s not able – at the moment – to connect with and process the many facets of who I am as a human being. I understand page rank, and it makes sense to me. I understand the use of my friends (and that increasingly pervasive “Like” button) to filter things that may be of greater interest to me. And I further understand the need for algorithms – in a larger sense – to keep pace with a growing volume, complexity, mass and scale that was set in motion at the start of the commercial Internet. I even understand the idea of a benevolent editor, and appreciate what benefit that might bring. I just don’t know how it scales or whether it remains forever benevolent.
+
+by Tom Higley on December 1, 2010 at 4:23 am. 
+Decent Article. As always. So I just a quick opinion on this.
+
+First: You are the first american native I know (in terms of reading) who uses the word ‘benevolent’. So far I thought I only learned it for no reason in school. So thx for that! ;)
+
+Regarding the benevolent editor: I’m not quite sure if I like the idea. Back in the days I even wondered how things over there at DMOZ used to work. Or just think about the discussions about sphinn or similar sites. As soon as there are people deciding it always has a bitter aftertaste. Even though I belief in the ‘good’ and honesty of people, I think there are to many that can not keep their objectiveness.
+
+Nevertheless – to agree with you on this part – pure algorithmic based suggestions – like we have them now – can not be the future. Actually, when thinking more about it, are algorithms objective? Or can’t we just tell them to not be objective? And if we figure out how algorithms work, wouldn’t it be easy to manipulate them. Hmm…welcome to the SEO scene ;-)
+
+But before getting to far away from the topic and to philosophical. I think that a further development is necessary. So agreed on this! But I am not sure if an editoral ‘leg’ is the right (that’s always hard to say) or a good way. Maybe more diverse algorithms (e.g. combined algorithms of different providers) can help in developing the next step.
+
+Oh and just one more thing: I don’t see how Alltop fits in here. But that’s just another personal issue.
+
+So thanks for the post, made me think. Thumbs up for this!
+
+by Sascha on November 29, 2010 at 8:04 am. 
+Can’t agree more.
+
+> It’s my belief that the algorithm and the crowd can be made even stronger with the addition of a third leg – the opinionated, benevolent editor(s).
+This is one of the main points people learned from the Netflix competition. In the research paper published by the winning team [1], it is more effective to have domain experts to find a few really important “latent factors” rather than letting computers to blindly figure things out. They even include a section about Pandora and the Music Genome project in that 5-page paper.
+
+by Alex Dong on November 29, 2010 at 8:23 am.
+We at PostPost agree with you that it is indeed time to make it simple.
+
+Our social search engine brings back results ONLY from those people you already follow. It’s that simple, and there is nothing algorithmic about it.
+
+Once you’ve found what you’re looking for, you can save those results to your public profile, and then edit them down to what we call a “postpost”. And that, of course, you can share.
+
+In regard to what you might find and then share when you search the people you follow…
+
+Here’s an example of a “postpost” made about a Boston-area ecommerce startup called Svpply: http://postpo.st/bradnoble/svpply
+
+Some interesting people have weighed in on Svpply. And now that I know they’re interested in Svpply, I’m also interested.
+
+Simple.
+
+Great post. Thanks.
+
+by Brad Noble on November 29, 2010 at 12:35 pm.
+Rand – Great points. I too was inspired by Rich Skrenta’s post to blog “Algorithmic Search and Discovery” http://bit.ly/hFztRW
+
+As the title suggests I have issues with discovery limitation around human curation however I think you and I came to the same conclusion that there is a place / need for both. The third leg idea is one I didn’t think of but is very interesting. Would love to hear more of your ideas around this.
+
+Cheers,
+
+Jonathan
+
+by Jonathan Mendez on November 29, 2010 at 2:51 pm. 
+If it works do I have to understand it? Most people don’t understand cars yet we still drive them.
+
+by greg on November 29, 2010 at 2:53 pm. 
+The trick is to scale effectively. Scaling with manual curation is hard and the most difficult part is the quality management. Its more a process problem than really a technology issue.
+
+Good point Rand.
+
+by Vinita Ananth on November 29, 2010 at 3:15 pm.
+Great post and love the title…
+
+IMO the next major player will emerge out of this new social and cloud data market and it will be a company that no one will have predicted…
+
+great market opportunity
+
+by John Furrier on November 29, 2010 at 8:25 pm. 
+Yes and No. What you call “the opinionated, benevolent editor” has been around since the first days of the web. They are called librarians. I’m a content publicist/link builder, but I’m a librarian by training. The type of algorithmic signals (whether human, bot, or a combination) will always depend on the vertical and the information being sought after. If you are researching which skateboard to buy your kid for Christmas then sure, bring on the masses and their “benevolently curated reviews”. But, if you’re looking for pediatric hearing loss help, I’ll take a bot analyzing links and citations curated by a librarian any day. That said, I totally get that no group of people can vet the web. Not possible. But, it’s not a one vs. the other problem. The question to be answered is which signals are the best and most trustworthy for any particular information seeker.
+
+by Eric Ward on November 29, 2010 at 8:35 pm.
+tuscan whole milk – know you meme, dude! http://knowyourmeme.com/memes/tuscan-whole-milk
+
+by peter cowan on November 29, 2010 at 8:43 pm. 
+Enjoyed your reflections and predictions here Rand.
+
+Their is still tremendous value/innovation that can come from more “subjective” forms of review or recommendation… and this represents an opportunity for new entrants into markets online.
+
+Anecdotally, the best “recommendations” I usually get on movies to watch in my NetFlix account still come from friends. Not that NetFlix recommends aren’t valuable – but they still don’t “get me” the way someone whom I personally resonate with often can. I have yet to see any algorithms that capture much in the way of personal taste in an elegant way.
+
+The more effective method still seems to still be a “follow” method of finding a person or site that shares your taste/style and following them.
+
+With that said… the challenge here as an entrepreneur for the purposes of business and profitability is that even at scale, many of these curation/recommendation business models aren’t big money-makers. Or at least not the kind of money-makers that warrant VC money.
+
+What’s most interesting to me is that this space should continue to evolve and become much more robust as sites get better at leveraging social platforms, such as the Facebook Graph API, to group and target and make relevant the curation they provide or enable.
+
+by Chance Barnett on November 29, 2010 at 8:46 pm. 
+Interesting post. But.
+
+:-)
+
+My “but” is … what are the weaknesses? You’ve listed only one … understanding how the choice was made. That’s very debatable – do I understand why the video store has some movies as staff picks and others not? or why Zagat’s rates one beautiful expensive restaurant higher than another beautiful expensive restaurant?
+
+Probably not.
+
+I really think you’re on to something here … and the start-ups in the expert assistance space are manifestations of that.
+
+But more exploration of why it’s better would be great.
+
+by John Koetsier on November 29, 2010 at 8:55 pm. 
+Nice post Rand! Though there was quite a bit of uproar at Sphinn when we announced a few months back that we were adding what you describe as “the third leg” (editorially curated content), we’ve found it has greatly improved the content published, as compared to when it was just an algo and the crowd surfacing content.
+
+As these services evolve, the inclusion of manual oversight and content curation will ultimately be what separates signal from noise in their respective markets.
+
+by Michelle Robbins on November 29, 2010 at 9:15 pm. 
+The beauty of google is there is no human factor involved in their ranking system. Humans are prone to bias and corruption, the crowdsourced solution works because the overwhelming numbers will always filter out the fixed votes as such!
+
+by Mark Asciak on November 29, 2010 at 9:26 pm. 
+Rand, I might quibble with some of your points (e.g., like previous commenters, I’m skeptical about curation at scale), but I absolutely agree that there’s no substitute for explainability. Indeed, explainability is a core tenet of human-computer information retrieval (HCIR), an approach that emphasizes bringing human intelligence–and particularly the user’s intelligence–into the search process.
+
+I think the specific challenge for web search is that transparency (which goes hand in hand with explainability) and adversarial information retrieval don’t always mix well. But in non-adversarial contexts, transparency is key for enabling human and machine to meaningfully interact.
+
+I encourage readers here to look at the research published at http://hcir.info/ — which includes work by Google’s Dan Russell, Microsoft’s Susan Dumais, and many more.
+
+by Daniel Tunkelang on November 29, 2010 at 9:50 pm. 
+Good post. The Globe & Mail had a feature article on the prevalence of the algorithm this weekend. Thought it was quite timely given your post.
+
+by Gord on November 29, 2010 at 9:55 pm. 
+[...] The Algorithm the Crowd are Not Enough, randfishkin.com [...]
+
+by SearchCap: The Day In Search, November 29, 2010 on November 29, 2010 at 10:10 pm. 
+It would seem to me if the crowd plus algorithm are 80% accurate in finding interesting content, ideas, or people… regardless if i know exactly how they work it isn’t relevant to me as long as it provides value. How to make it better… system / administration / theory issues. Over time the assumption is made by most that it will get better. The third leg depending on the system and use case may be required… may not.
+
+At any rate great observation and i believe in many circumstances you are correct that the third leg described will provide additional value and enhance the experience.
+
+by Dan on November 29, 2010 at 10:34 pm. 
+Rand, all of your assertions have validity but the one thing that is the lynchpin to your premise that is anathema to algorithms is transparency. When you report on how or why the item aggregation occured and what the criteria was for measurement, people will be able to analyze the value of that aggregation and treat it accordingly.
+
+The reason it works for news in the Internet age is the fact that conventional journalism has trained us massively and trained us well. When standards of quality are established within the community in question, is when value will be readily awarded.
+
+by Ric on November 29, 2010 at 11:36 pm. 
+
+
+For music, movies, videos, and such, I think algorithms + crowd = ~80% accuracy (for me, at least), which is pretty good. But I don’t like it for Twitter & Facebook. In Social Networks, I want to see everything about certain subjects/topics, from people I follow/friend, but just ignore all the other “noise”.
+
+In most previously-created systems, the crowd tells me what’s popular and the algo tries to guess based on what I’ve clicked on in the past. That helps reduce the noise, but I miss a lot of things just because they were tweeted off-hours, not written by a popular blogger, were too niche, or otherwise fell through the cracks.
+
+That’s why I created Refynr.com for Twitter + Facebook. It simply finds all the tweets and FB items that relate to Keywords Lists. I have 100% control over the Lists. Let’s see if it catches on… ;-)
+
+by Aaron Longnion on November 29, 2010 at 11:37 pm. 
+Rand, I agree that editorial curation can greatly improve the relevance of crowdsourced + algorithmic recommendations. The problem with curation though is scalability. It’s hard for editors to keep up with the volume and speed of information today.
+
+The key is to leverage the respective strengths of the three “legs” in your framework to do different parts of the work efficiently.
+
+At PARC, we have this saying that there are three sources of power for filtering and organizing information:
+
+1) the hard work of the few (curators who provide perspective, organization, and examples of relevant content and sources),
+2) the light work of the many (crowds that help bubble interesting content to the top), and
+3) the tireless work of the machines (AI and data mining to infer topic models from curators’ examples, classify new content, and connect related articles in real-time.)
+
+Through this division of labor, you can create new systems that provide intelligent recommendations and achieve greater scale. We have a demonstration site for news aggregation based on this approach at http://www.kiffets.com.
+
+by Lawrence Lee on November 29, 2010 at 11:50 pm. 
+I’ll just say this: Anyone who makes major purchases without first consulting Consumer Reports is a fool. To this day, you cannot get more trustworthy and reliable product testing anywhere. I’ll take their findings over what my Facebook and Twitter friends say any day of the week. (Actually, I tend to make decisions based on a combination of the two. But I’d never rely on just crowdsourced data/opinions for major purchases.)
+
+by Matt McGee on November 30, 2010 at 2:11 am. 
+Thought provoking and spot on. To build on your point as well as the currency of trust in recommendations it’s worth a trip back to Yelp’s recent controversy. They had an algo to throw out reviews that were deemed to be questionable. This removal of reviews led some to believe there was a conspiracy against non-advertisers. After they opened up and offered a manual way to observe the removed reviews, it wasn’t exactly easy to see any consistency as to why they were removed at all. To this day I find it challenging to trust them.
+
+As a former curator of a (failed) recommendation engine for bars and clubs I can say that it’s very difficult to open up too much methodology. Not for the point of obfuscation, but because in the early days it’s changing quite a lot. We incorporated a number of factors like reviews, social similarity, genre match, etc. but we’d change the weighting all of the time to try and deliver the most relevant results.
+
+A final point. There’s a very strong word used too infrequently in recommendations: “because” I’m no Apple fanboi, but that simple inclusion in genius recommendations at least gives me some belief that the recommendation wasn’t completely arbitrary or created out of esoteric and opaque factors.
+
+by Steven Hammer on November 30, 2010 at 3:35 am. 
+Great topic and post. It reminds me of the quote about Democracy being the worst form of government, except for all of the others.
+
+Any open ranking system will be gamed. Google, Digg and Reddit can only lessen the impact of manipulation.
+
+However, I’d rather have a flawed-but-open system than the kind of self-serving recommendations that we see with Google Health’s #1 ranking for its terms. Mahalo tried human-powered search and it didn’t take off.
+
+In order to find the best match for a constantly changing set of inputs (links, page contents, etc.), ranking algorithms have to test out switching up the rankings to see if a better ranking would drive better usage metrics. In those cases, it would be hard to explain to a user that it was testing out a different and possibly inferior ranking to confirm that it was a bad ranking. Algorithms need to test to get to the best.
+
+by Eric Kennedy on November 30, 2010 at 4:28 am. 
+balance my friends. life is all about balance – and our interaction with technology is the same way. sometimes we will swing more to AI/algos and sometimes we’ll swing more towards the crowd and experts.
+
+i do agree, i suspect (over the short term, ~3 years) there is momentum towards the crowd and experts. but talk to anyone working on data mining technology and they’ll convince you otherwise.
+
+by Michael on November 30, 2010 at 4:29 am. 
+Blekko.com is trying to blend curation by crowds with the algorithm for search engines. Definite step in the right direction. Nice post.
+
+by Jud Valeski on November 30, 2010 at 5:02 am. 
+Amazon has long had a “why was this recommended?” link, which is occasionally revealing and helpful, though it’s not available across all of their crowd-powered features. I wish more companies provided similar views under the hood to explain what’s going on with their rankings / recommendations (especially for those milk + badonkadonk cases).
+
+by David Loftesness on November 30, 2010 at 5:16 am. 
+
+I liked your post, and only to make one comment:
+
+“If we don’t understand why these suggestions were made, couldn’t that bias us against trusting future recommendations from these services?”
+
+lots of these recommenders “tell” you explicitly why they referred something to you; AFAIK Amazon has been doing this for years – i.e., X was recommended to you b/c you liked Y. The problem with pure machine recommender approaches is that they are all effectively one-dimensional in terms of how they treat data; true multi-dimensional systems are rare. That is why it was so easy for the challenge teams to equal/emulate the Netflix performance within a week, but so hard for them to make incremental improvement over a certain margin (10%).
+Pure social graph recommendations are biased and equally deficient b/c of our limited network of friends and acquaintances. In the end, some kind of hybrid is necessary – you can’t succeed purely with one or the other alone.
+
+by JNG on November 30, 2010 at 5:34 am. 
+It would seem the algorithms are getting better all the time – maybe they’ll become more transparent at some point too. I find a lot of these features don’t work because you get gifts – for example I bought a gift for my sister on Amazon. So then it started recommending a bunch of yoga dvds for me – it didn’t make sense. So if there is more transparency and a chance for user’s to edit some of the info, this could lead to even better future recommendations.
+
+by Eric | Starcraft 2 Strategy on November 30, 2010 at 5:54 am. 
+Rand -
+Spot on. I would call it a form of curation. Seeking Alpha as an example as well.
+
+by Michael Eisenberg on November 30, 2010 at 6:24 am. 
+When you get right down on it shouldn’t we be crowd sourcing the evolution of the algorithms themselves, just like any other living organic gene swarm targets in on it’s survival niche, we to should be honing our algorithms into fine tuned social-function memes that serves our collective political and economic survival needs?
+
+by raycote on November 30, 2010 at 7:16 am. 
+Utilizing opinionated, benevolent editor(s) to help determine relevancy works well on smaller controlled websites in a focused niche, such as sphinn but has yet to be proven on large and unruly sites such as digg.
+
+I am very interested to see if twitter can transform itself into a trusted recommendation engine – they just need to find a way to eliminate all the bot users.
+
+by cayley netpaths on November 30, 2010 at 7:54 am. 
+Fantastic. With all the power that programming brings, it is tempting to push out human involvement whereever possible. Smart technology usually makes web applications cheaper and better. But part of what makes us human is our inherently unpredictable tastes and behavior. No one will ever be able to write an algorithm to predict stock market prices or predict what indie music hipsters will be into (though I suspect the later is an easier feat). Sometimes we like something because, well, we just like it.
+
+by Ryan Evans on November 30, 2010 at 12:39 pm.
+It is interesting to see just how much of an impact the community has made on purchasing behavior in a relatively short period of time. I think this trend is going to be an even stronger point in rankings as time moves forward.
+
+by Maciej on November 30, 2010 at 1:18 pm. 
+Great post. I think a lot of people get lost in the discussion of Automated Filtering vs. Human Curation and I’m glad to see you combining the two.
+
+I completely agree with you that we will be seeing lots of new companies emerge that go after this. However, instead of Alltop as an example, you might point to Browse My Stuff and it’s sites like http://www.socialmediainformer.com – it is doing what you describe as where Alltop might be going in the future and combines human curation and social filtering (algorithm).
+
+by Tony Karrer on November 30, 2010 at 3:04 pm.
+The problem I see with the Crowd + Algorithm approach is that it skews towards mediocrity. The “long tail” becomes invisible faster. Particularly in subjects where “taste” matters. For example, millions may own a Beatles album or two, but this tells you little about their music preferences. Conversely, if you know that someone owns EVERY album by, say, Mates of State – you know a tremendous mount about their taste in music.
+
+The Algorithm is fundamentally flawed due to its inability to effectively deal with ‘blockbusters’. Amazon once called this the “Tae Bo Effect”, after the extreme popularity of Billy Blanks’ workout videos skewed their recommendation engine results to the point of uselessness.
+
+Sure, an Editor can cull these offenders from the input data – but then the question is: how far down the list of ‘blockbusters’ does one need to go before the results of the algorithm have real meaning?
+
+by Richard Luck on November 30, 2010 at 5:27 pm. 
+
+I think the editorializing and curation is more alive today than it ever was though blogs. I don’t think the issue is that Zagat or Consumer reports have been replaced by the likes of Google and Amazon’s “People who liked this also liked this”. I think the issue is that Google has injected itself (for better or worse) as the intermediary to finding this content. It used to be the librarian, television or magazine stand.
+
+by Eric Wood on December 1, 2010 at 12:41 am. 
+Kate Clemens wrote “Google crawls, sorts, serves and ranks (based largely on a human-created link graph)…And argues this is enough”.
+
+The key here is “ranks based on a human-created link graph”. Irrespective of whether the human link graph is “crowd-sourced” or “expert-sourced” the real issue is it will reflect the depth of intelligence of the collective. Interestingly the author’s description seems to point to all algorithms having as their base, human predicated choices. This again throws us right back at the mercy of the depth of intelligence of the human collective at this point in time. Maybe the question should be “Do we trust the decision making validity of the collective at this point in time and what primary agenda does it reflect?”
+
+The algorithm based approach on human-link graphs might just have been the easiest implementation, the path of least resistance for businesses. The real objective being profit and not to elevate knowledge, we “pay for what we paid for”.
+
+We assume all successful innovations are right – “if it worked it must be right” – and their creators intelligent. To their credit, winning a seat at the table (the market) is still very difficult.
+
+by Ken on December 1, 2010 at 11:58 am. 
+“Opinionated, benevolent editors” is the way it’s going; ever since the Forrester report at the end of October that more people are getting on the web but content creation is flat, the term “curator” is popping up. The algorithm system, touted as the “virtuous circle,” really is me-too chatting up, that promotes the already-promoted, leaving other options of merit unnoticed. The curator is a promoter who can pick ‘em and knows how to release the kite into the social winds.
+
+by conzatorium on December 1, 2010 at 3:06 pm.
+Your post reminded me of a column by David Brooks from a few years back “The Outsourced Brain”:
+
+http://www.nytimes.com/2007/10/26/opinion/26brooks.html
+
+Some quotes:
+
+“Musical taste? I have externalized it. Now I just log on to iTunes and it tells me what I like.”
+
+“Personal information? I’ve externalized it. I’m no longer clear on where I end and my BlackBerry begins.”
+
+by AKS on December 1, 2010 at 5:22 pm. 
+
+Brilliant – someone is finally valuing the editor and specialist expert.
+Hopefully this is the start of a trend that will create work for brilliant editors who have been spat out by inept media managers who haven’t managed to monetise their content (but seem to keep their jobs).
+
+by Penny Haywood Calder on December 1, 2010 at 7:11 pm. 
+If the editorial component does indeed emerge for sites that have crowdsourced + algorithmic ratings, then we’ll have come full circle. And I, for one, will cheer. While I do value hearing what lots of people think, I also think crowd-sourcing misses the critical perspective that only an expert can provide. Take travel sites, for example. I think a majority of people are moved to write a review only when they are dissatisfied — and crowdsourced reviews weigh too heavily on the negative. Same for restaurants. Also, people tend to enter reviews quickly, with only a few moments of thought. A paid critic, on the other hand, weighs a single review against a wealth of expertise and experience and gives a more qualified, objective viewpoint. Same goes for bloggers vs journalists. I’m not knocking bloggers – I am one myself — but I give far more credence to career journalists and columnists than to the thousands of self-appointed blogging commentators. I’d like to see a return to respect for experts over crowds.
+
+by Cindy Lavoie on December 1, 2010 at 8:29 pm.
+One reason I use Twitter is that I KNOW, at least by professional reputation, almost all of the people I follow and if I get a recommendation I know the credibility of the source.
+
+Just yesterday I needed information on correlates of perinatal hypoxia (when an infant is deprived of oxygen during birth) – the first pages of ads were all lawyers offering to sue my doctor. I found that both unhelpful and distasteful.
+
+by AnnMaria on December 1, 2010 at 8:53 pm.
+Great post Rand. I think it ultimately leads to the log tail in every aspect of our lives. The conflict is the limited number of results on the Google SERP or the 5-8 recommendations on Amazon. Signals are ultimately just signals, whether the driving would be done, still is decided by the person behind the steering (searchers online.
+
+by Ashish on December 2, 2010 at 11:25 am. 
+Agree with you completely, Rand. I’ve long been a believer in the value of a platform for human curation/editorial over simple CF-based recs.
+
+Last.fm and Pandora are both squarely in the algorithm camp, however (I wrote about this 5y back at http://davidporter.wordpress.com/2006/01/25/6/). I’d argue — with strong bias, since I founded it — that the leader in the curation camp is 8tracks (http://8tracks.com/about).
+
+by David Porter on December 2, 2010 at 7:57 pm.
+[...] Even guys like Khoi Vihn have chimed in. Writing about the web more broadly, Rand Fishkin penned an excellent post on the need for what he calls “benevolent editors” beyond just the algorithm and the [...]
+
+by Z.BRYANT • INPUT/OUTPUT » Blog Archive » Rating Vs. Curating on December 3, 2010 at 3:24 am. 
+[...] A recent blog post by John Battelle on Twitter led us to a fantastic blog post by Rand Fishkin of SEOMOZ called “The Algorithm + Crowd are Not Enough”. [...]
+
+by More Than Three Legs On The Stool on December 3, 2010 at 8:26 am. 
+http://www.everything2.com
+It’s a crowd-created encyclopedia/blog with expert editors where users rate content. Came before Wikipedia. It was most active from 2000 to 2005. Ironically enough, the primary reason for its demise is that it tried to do everything: it is very random, and so the rise of single-topic blogs generally replaced it. Still, an awesome idea.
+
+by naroom on December 29, 2010 at 7:10 pm. 
+[...] need for curation was summed up well I thought in a Thanksgiving-weekend blog post by Rand Fishkin, The Algorithm + the Crowd are Not Enough. It included this crucial wake-up call: “I do think there’s an opportunity brewing for [...]
+
+by Big in 2011: Curation and Consultation on January 18, 2011 at 4:29 am. 
+Great insights Rand! The crowd and the algo alone are still a fine solution in my opinion and don’t need a third leg. Just like the government needs to stay out of the free market where the crowd and the businesses struggle and always find a way, so will the internet and online business.
+
+I’m glad that we are a community and country that never settles and always looks to improve. Google will continue to improve. I read a comment that says that page 1 of Google is just SEO spam sites. That is nonsense. Sure they can be found. There are plenty of Adsense bloggers and spammers that get junk to the first page of Google, but overall, page 1 is still very much dominated by relevant results that provide exactly what I am looking for.
+
+by Stu Draper on January 21, 2011 at 4:56 am. 

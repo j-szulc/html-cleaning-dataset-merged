@@ -1,0 +1,29 @@
+November 06, 2012
+How big data will separate haves from have-nots
+The CIO of Dun & Bradstreet says big data represents a corporate turning point this decade as disruptive and revolutionary as the Internet in the 1990s
+
+When the Internet and the World Wide Web first gained momentum in the 1990s, words like "email" and "e-commerce" entered the popular lexicon. (In fact, a lowercase "e" became a symbol of all things electronic.) The dot-com boom and bust cycle played out in what has since come to be known as Internet time. Entire industries were created and decimated in the span of a decade. Today, it's hard to imagine either a business or personal life without the Internet and the Web.
+
+We are now arguably entering a similar historical inflection point with big data, according to Dun & Bradstreet CIO Walt Hauck. He should know. For 170 years, data has been D&B's business. Now Hauck controls how the company gains competitive advantage by wielding this asset.
+
+[ Download the Big Data Analytics Deep Dive by InfoWorld's David Linthicum for a comprehensive, practical overview of this booming field. | Harness the power of Hadoop with InfoWorld's 7 top tools for taming big data. ]
+
+Big data will help you understand your customers
+According to Hauck, the companies that "get" big data and use it to better serve their customers will be the "haves." Those that don't might as well open a corner bookstore.
+
+"I think big data is the beginning of the 'haves' and 'have-nots', Hauck says. "You're either going to be able to take your data, manipulate it, and understand it at scale, or you're going to follow those that do."
+
+Hauck isn't talking about the data that comes from Twitter feeds and Facebook "likes." That grabs headlines, but the real value in big data is better understanding what you already know:
+
+    Why do your customers do what they do?
+    What is it about your products or services that resonates with your customers?
+    What do your customers need, and what do they need more of?
+    How are you going to use what you know about your customers to do what you do better, attract new clients, open new markets and so on?
+
+"How many times do companies build products that don't change the market in any fundamental way?" Hauck asks. The promise of big data, he adds, is avoiding such scenarios. It won't come easily.
+
+"You're going to get a much tighter feedback loop. Your data is going to double next year and double again in six months after that," Hauck says. You can ignore that information and just guess, he continues, or you can analyze the data, test a hypothesis and see what works. "In the broader world, we are awash in data but bereft of insight. I think our value proposition is around creating more and more insight."
+
+CRM is the classic example of this, Hauck says. CRM data is all over the place, and sometimes it's corrupted. The challenge is getting all that information normalized and into a model that gives you a good idea of a customer's propensity to spend. From there, you have to manage that model against what actually happens and fine-tune it. Being able to look across all your data sets to find these answers is one of the promises that big data technology brings to the table.
+
+Most people talk about applying big data principles to Internet data, crowdsourcing, and sentiment analysis, but Hauck says Dun & Bradstreet gets a lot of value from looking at internal systems in new ways.

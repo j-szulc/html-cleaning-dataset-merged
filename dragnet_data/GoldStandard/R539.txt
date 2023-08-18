@@ -1,0 +1,15 @@
+A newly hatched way to tag your news articles
+Wednesday, September 19, 2012 11:10 AM
+Posted by Rudy Galfi, Product Manager, Google News
+
+The day after the historic 1929 stock market crash, Variety bannered their front page with these words: “WALL ST. LAYS AN EGG.” It’s a great headline: pithy, catchy, and expressive of the substance of the story as well as the scale of its consequences. It’s also worth noting that Variety’s editors had a full day to write the headline—millions of readers weren’t trying to search for the story within seconds of hearing about it.
+
+The Web has transformed both how news organizations report information and the way users find it. Imagine if “WALL ST. LAYS AN EGG” were used as a headline today by an online news site. Since the headline is a sequence of text that’s only readily understandable by a human, most machine algorithms would probably attach some sort of biological association to it. In turn, this would make it difficult for millions of curious users who are using Google.com or Google News to find the best article about the stock market crash they just heard about.
+
+To help solve this problem, today we’re excited to announce a news_keywords metatag. The goal is simple: empower news writers to express their stories freely while helping Google News to properly understand and classify that content so that it’s discoverable by our wide audience of users.
+
+Similar in spirit to the plain keywords metatag, the news_keywords metatag lets publishers specify a collection of terms that apply to a news article. These words don’t need to appear anywhere within the headline or body text. Taking the Variety example above, news keywords such as “stocks”, “stock market”, or “crash” would be helpful in allowing Google News to better understand the article content for ranking without forcing the editors to water down the creativity of a great headline. Because the metatag appears only as part of the HTML code of a page, visitors to a site won’t ever see the magic under the hood.
+
+Keep in mind that this metatag will be one signal among many that our algorithms use to determine ranking. The news_keywords metatag is intended as a tool -- but high-quality reporting and interesting news content remain the strongest ways to put your newsroom’s work in front of Google News users.
+
+You can learn more about getting news_keywords set up by reading our Help Center article.

@@ -1,0 +1,43 @@
+
+The Artist’s Guide to GIMP
+
+by John on July 7, 2012
+
+Learning how to edit images has been on my to-do list for a long time. I do some very basic editing with Paint.NET, but I keep meaning to learn to use GIMP.
+
+I heard years ago that GIMP is terribly complicated and that I should learn Photoshop instead. I tried Photoshop — not extensively, but I spent some time with it — and I tried GIMP. My conclusion was that image editing is complicated. Image editing software is complicated, but not unnecessarily so. If you expect image processing to be as easy as word processing, as I suppose I implicitly did, your expectations are unrealistic.
+
+The only way I’m going to learn image editing is by doing it. But a book can help, and I expect The Artist’s Guide to GIMP will help more than other GIMP resources I’ve read. That’s because this book puts a little more emphasis on problem solving strategies and techniques and a little less emphasis on software features. As Michael Hammel says in the introduction,
+
+This is a book about process, not buttons or menu paths. … Don’t get bogged down in the mechanics of the tool. Focus on the task at hand. I’ll point you to the GIMP components necessary to finish the job.
+
+The first chapter is about tools more than process, but I suppose some of that is inevitable at first. The rest of the book really is more about process. And there’s plenty of information about buttons and menu paths, but the book is organized by task and process comes before tool details. This is what I want from a book. I can read online documentation, but that documentation won’t tell me what I ought to be looking up. I look to books to get me started in the right direction.
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Jonathan Mugan 07.07.12 at 20:33
+
+    Cool. I’m teaching my kids how to use GIMP. My son makes comic books, and we are using gimp to clean up his freehand drawings.
+
+Anton 07.08.12 at 01:31
+
+    How can you use GIMP to do image editing? AFAIK it still does not support 16-bit and 32-bit (floating-point) images. 8-bit editing will degrade visible image quality by each operation you perform (except some simplest operations).
+
+    It is the same as to do mathematical calculations (such as solving systems of linear equations) using 8-bit integers instead of floats or doubles.
+
+    Most modern cameras produce 10, 12 and 14-bit image output. We just throw away this additional precision?
+
+    I just found that GIMP is almost there: http://www.gimpusers.com/news/00422-16-bit-goat-invasion-ready
+
+Paul A. Rubin 07.08.12 at 13:51
+
+    Image editing can be complicated, but I find that 90% of what I want to do (format conversions, cropping, resizing, annotating) uses 10-20% of the power of the GIMP. I also find the GIMP menu system a bit unintuitive. In any other program, if I want to draw an oval, I select a drawing tool that draws ovals. In the GIMP, it’s something like doing an oval selection and then using a menu to fill in the boundary of the selection.
+
+    For most tasks, I actually find myself using IrfanView under Wine.
+

@@ -1,0 +1,137 @@
+August 9, 2012
+Redfin Real-Time Home Price Tracker: July Home Prices Up 3% From 2011; Low Inventory Continues to Stifle Sales
+
+The Redfin Real-Time Home Price Tracker is a monthly report on home prices, sales and inventory across 19 U.S. markets, published weeks before any other index, based on the local databases used directly by Realtors to list properties and record sales.
+
+Following is a summary of key metrics across 19 major metropolitan markets:
+
+    Home prices in July increased 3.2% year over year, and were flat month over month (-0.1%).
+    The number of homes for sale declined 28.1% from July 2011 to July 2012, and by 5.0% since June.
+    Home sales increased 6.8% over last year, but fell 12.4% since June, a typical decline for this time of year.
+    The percentage of listings that sold within 14 days of their debut increased slightly in July, from 26.7% in June to 27.8% last month.
+
+The full data is available for free download in spreadsheet format.
+
+As the latest jobs and consumer confidence data begins to signal that the overall economy may finally be coming back to life, real estate continues to show signs that 2012 is likely the beginning of a long, flat bottom in real estate.
+
+The biggest challenge in the market is still selection. Listing inventory is downright anemic. For buyers that have been sitting out the price declines of the last few years, expecting home-shopping at the bottom of the market to be like scooping up candy spilled on the ground from a piñata, 2012 has been one disappointment after another. Unfortunately, this lack of selection will likely continue at least through the end of the year.
+Prices Soften Slightly, Still Up 3.2% Year Over Year
+
+Home prices fell between June and July in nine of the 19 metro areas Redfin measures, and were basically flat nationally. As it turns out, even a market as hot as the one we had this spring in most parts of the country is not immune to seasonality, Still, sixteen cities showed annual price increases.
+
+Despite a 2.1% drop from June, prices had the largest annual gain yet again in Phoenix with another 28.7% increase since July 2011, as San Jose took up second place with an 11.9% increase. In New York’s Long Island, prices continue to fall the most, at 6.6% year over year in July.
+
+Prices usually rise in the spring and begin to fall in the second half of the year, but 2012 has shown more strength than recent years as prices rose much higher and faster in the spring and are only flattening in July rather than beginning to dip as in 2010 and 2011.
+July 2012 Changes in Median $/Square Foot, Single-Family Homes
+
+Metropolitan Statistical Area 	Median $/SqFt 	Yearly Change 	Monthly Change
+Phoenix 	$83 	28.7% 	-2.1%
+Inland Empire 	$105 	6.4% 	1.8%
+Los Angeles 	$253 	1.7% 	1.1%
+Sacramento 	$117 	3.4% 	1.6%
+San Diego 	$215 	3.1% 	1.4%
+San Francisco 	$286 	5.9% 	-2.5%
+San Jose 	$379 	11.9% 	4.0%
+Ventura 	$228 	-1.7% 	-0.2%
+Denver 	$147 	8.5% 	-0.2%
+Washington 	$195 	4.8% 	-1.9%
+Chicago 	$114 	-3.1% 	-1.9%
+Boston 	$216 	0.5% 	-1.5%
+Baltimore 	$171 	0.7% 	0.4%
+Las Vegas 	$73 	6.9% 	1.9%
+Long Island 	$245 	-6.6% 	-1.8%
+Portland 	$141 	3.7% 	2.1%
+Philadelphia 	$139 	3.2% 	0.6%
+Austin 	$105 	4.8% 	-1.5%
+Seattle 	$158 	6.2% 	0.2%
+19-Market Composite 	$182 	3.2% 	-0.1%
+Redfin Real-Time Price Tracker: National Median Price per Square Foot
+Inventory Down 28.1% Year Over Year
+
+As has been the story all year, inventory is down, down, down across the nation, with California still falling faster than everywhere else.
+
+There are fewer bank-owned listings for sale, and fewer conventional sales on the market too. Homeowners can’t afford to sell (or are simply unwilling to) with prices at or near a five-year low in most markets. Stabilizing home prices and low interest rates have slowed foreclosures, and after the robo-signing scandal, banks can’t process foreclosures or short sales as quickly as they once did.
+July 2012 Changes in Number of Single-Family Homes for Sale
+
+Metropolitan Statistical Area 	# of Houses for Sale 	Yearly Change 	Monthly Change
+Phoenix 	15,516 	-20.7% 	5.5%
+Inland Empire 	9,053 	-56.8% 	-19.5%
+Los Angeles 	14,552 	-50.4% 	-13.6%
+Sacramento 	3,885 	-65.5% 	-48.8%
+San Diego 	4,569 	-52.5% 	-11.2%
+San Francisco 	4,045 	-57.3% 	-10.3%
+San Jose 	1,486 	-55.7% 	-5.5%
+Ventura 	1,209 	-60.8% 	-11.7%
+Denver 	7,227 	-38.0% 	-6.4%
+Washington 	11,447 	-28.6% 	-6.7%
+Chicago 	36,791 	-0.1% 	7.1%
+Boston 	11,486 	-34.7% 	-10.0%
+Baltimore 	7,383 	-22.5% 	-3.6%
+Las Vegas 	15,324 	-24.9% 	-0.1%
+Long Island 	16,214 	-12.9% 	-2.8%
+Portland 	8,186 	-23.7% 	-0.4%
+Philadelphia 	23,714 	  	-2.4%
+Austin 	7,005 	-21.5% 	-3.1%
+Seattle 	9,815 	-40.0% 	-6.0%
+National 	208,907 	-28.1% 	-5.0%
+Redfin Real-Time Price Tracker: National Active Listings
+One in Four Listings Is Under Contract in Less than 14 Days
+
+Although price gains may have slowed, the percentage of new listings that went under contract in 14 days or less remains high. Over a quarter (27.8%) of all single-family houses that debuted in the first 3.5 weeks of July were off the market in under two weeks.
+
+Rapid sales are still most common in California, where inventory is falling fastest:
+% of Listings Under Contract in 14 Days
+
+Metropolitan Statistical Area 	% Sold with 14 Days of Debut
+Phoenix 	33.1%
+Inland Empire 	42.9%
+Los Angeles 	39.6%
+Sacramento 	10.3%
+San Diego 	40.6%
+San Francisco 	49.5%
+San Jose 	50.9%
+Ventura 	42.0%
+Denver 	34.5%
+Washington 	30.9%
+Chicago 	9.6%
+Boston 	3.9%
+Baltimore 	23.4%
+Las Vegas 	9.7%
+Long Island 	6.8%
+Portland 	28.2%
+Philadelphia 	6.7%
+Austin 	27.1%
+Seattle 	35.0%
+National 	27.8%
+Redfin Real-Time Price Tracker: Percentage of Single-Family Listings Under Contract in 14 Days or Less
+Sales Volume Up 6.8% Over Last Year, But Down 12.4% Since June
+
+Low inventory continues to hold back any large sales gains. Closed sales posted a 6.8% gain since last year, with 14 of 19 markets increasing between July 2011 and July 2012. Month to month, sales declined 12.4%, with all 19 markets taking the seasonal hit.
+July 2012 Changes in Pending Sales of Single-Family Homes
+
+Metropolitan Statistical Area 	# of Houses Sold 	Yearly Change 	Monthly Change
+Phoenix 	7,286 	-10.8% 	-9.8%
+Inland Empire 	5,079 	-1.8% 	-11.3%
+Los Angeles 	7,720 	20.3% 	-5.5%
+Sacramento 	2,860 	5.8% 	-9.8%
+San Diego 	2,399 	17.9% 	-7.2%
+San Francisco 	3,588 	16.6% 	-6.4%
+San Jose 	1,267 	11.7% 	-13.0%
+Ventura 	629 	10.2% 	-15.8%
+Denver 	2,967 	10.4% 	-21.6%
+Washington 	3,801 	0.6% 	-17.4%
+Chicago 	5,394 	25.6% 	-9.1%
+Boston 	2,883 	17.9% 	-22.0%
+Baltimore 	1,577 	9.4% 	-24.5%
+Las Vegas 	2,793 	-16.0% 	-18.6%
+Long Island 	1,766 	-1.2% 	-12.6%
+Portland 	2,362 	17.2% 	-11.9%
+Philadelphia 	2,749 	-5.4% 	-21.5%
+Austin 	2,051 	13.4% 	-15.8%
+Seattle 	3,810 	19.4% 	-4.4%
+National 	62,981 	6.8% 	-12.4%
+About the Real-Time Home Price Tracker
+
+Redfin’s monthly report on home prices, inventory levels and sales volume is an up-to-date, accurate portrait of the U.S. real estate market, coming weeks or months ahead of other market reports. As a broker with access to dozens of Multiple Listing Services (MLSs) used by real estate agents to list properties and record sales, Redfin gets data within minutes of a sale, pending sale or listing activation, well before any government, media or analytics organization. Using MLS fields, Redfin is able to distinguish houses from condominiums and townhouses — which often sell for less money.
+
+To validate the accuracy of the data and to account for sales not handled by a real estate agent, Redfin compares MLS data with county records as they become available, using sophisticated algorithms to identify and resolve disparities about square footage or price for each address. Data at the local and neighborhood level are available in a spreadsheet, and the report methodology is available as an Adobe document.

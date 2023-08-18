@@ -1,0 +1,13 @@
+Newest DirectX Upgrade Only For Windows 8 Systems
+Kate Cox	
+
+And so the inevitable march of Windows moves onward: DirectX, the software that Windows computers rely on to make games run, is getting an upgrade—but only for Windows 8.
+
+A Microsoft employee confirmed in a (tech-heavy) post to developers that "there is no plan for DirectX 11.1 to be made available on Windows 7." Windows 8 systems, meanwhile, are getting the 11.1 version of DirectX. The only significant difference to end-users between version 11.0 and 11.1 at this time is that the newer version includes native stereoscopic 3D support. Very few users of Windows 7 gaming PCs and DirectX 11 will miss the addition.
+
+However, the fact that Windows 7 will not be receiving the 11.1 update signals a push from Microsoft to get more users upgrading. When DirectX 11 came into being for Windows 7, it was also reworked to run on PCs running Windows Vista, which had originally included DirectX version 10.
+
+Developers of big-budget, high-profile games generally work with the newest, latest version of DirectX available. While Windows XP remained a reliable and accessible OS well into the Windows Vista and Windows 7 era, if Windows 8 continues to receive DirectX upgrades that Windows 7 does not, the resulting fragmentation could force both developers and players to upgrade before they otherwise might.
+
+C++ AMP: CPU fallback, WARP, Windows7, DirectX 11.1 [Microsoft developer forum, via The Verge]
+

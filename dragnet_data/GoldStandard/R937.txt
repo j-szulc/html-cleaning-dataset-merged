@@ -1,0 +1,19 @@
+Five days, two e-mail outages for Microsoft's Office 365
+
+For the second time this month, some Office 365 users in North America are experiencing problems with e-mail.
+
+On November 13, some Microsoft Office 365 customers in North America were reporting (via Twitter and e-mail) that they were experiencing e-mail problems -- just like they were five days ago.
+
+A Microsoft representative provided the following update around 11 a.m. PT today:
+
+"On Tuesday, Nov. 13, some customers served from our North America data centers are experiencing intermittent access to e-mail services. Customers are being updated regularly via our normal communication channels. We sincerely apologize to our customers for any inconvenience."
+
+This tweet was posted shortly thereafter: 
+
+This isn't the first time this month some North American Office 365 users experienced downtime. E-mail issues hit North American users on November 8, as well.
+
+It's not immediately clear what's causing today's issue or what Microsoft is doing to head off more e-mail-centric Office 365 outages. I've asked and will update this post with any further details if and when I hear back.
+
+The latest service issues with Office 365 hit the same day that Microsoft and Hewlett-Packard are touting a big win for Microsoft's Office 365 for Government platform. The pair are moving 600,000 Veterans Affairs users to Office 365 under a five-year agreement announced back in July 2012. The contract is worth $36 million.
+
+This story originally appeared on ZDNet under the headline "Microsoft hit by second Office 365 email outage in five days."

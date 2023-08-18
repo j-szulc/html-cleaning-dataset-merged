@@ -1,0 +1,39 @@
+How to Setup a Wi-Fi HotSpot in Windows 8
+
+October 31, 2012
+Tweet
+
+Have you ever wanted to share your wired-only connection and turn it into a Wi-Fi hotspot? How about turn your wireless EVDO, 3G, or 4G wireless Internet connection into a Wi-Fi hotspot? Well, with Windows 8 you can! Actually, Windows 7 supports this too, though not many people know about it. You can follow my how-to tutorial below for Windows 8 and it will work for Windows 7 as well.
+
+It's a good thing I can share my 4G connection, since Hurricane Sandy took out 5 trees in my yard, ripped the power line AND the phone line (my DSL Internet) from the pole leaving me with just Verizon 4G (via a 4G USB stick) for access to the Internet. Before we get to the step-by-step Windows 8 mobile broadband to Wi-Fi hotspot tutorial, here's some pictures of Hurricane Sandy's aftermath in my yard - starting first with me standing under a tree in my driveway:
+
+Here you can see arrows pointing to a tree, power, and phone line dangling just above or on the ground:
+
+Sure my 4G Verizon USB stick gives my laptop Internet, but after lending my laptop to my wife for the umpteenth time so she could check Facebook and her Labs4Rescue dog adoption site she volunteers for, it was time to find a way to share my mobile broadband Verizon 4G connection!
+
+So here's a step-by-step tutorial that will show you how to share your wired Internet connection or your mobile broadband (EVDO, 3G, 4G) Internet connection:
+
+1. Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings
+
+2. Open Command Prompt in Administrator mode (From Windows 8 Modern UI / Metro, search for 'command' and instead of hitting the Enter key, use Ctrl+Shift+Enter or right-click the 'Command Prompt' icon and then click 'Run as Administrator')
+
+3. Now we need to enable /add the "Microsoft Virtual WiFi Miniport adapter" and set the Wi-Fi hotspot credentials.
+
+Type this in the Command Prompt (change accordingly):
+netsh wlan set hostednetwork mode=allow ssid=keating key=mypassword
+
+This configures a Wi-Fi network with SSID "keating" and protected with the key "mypassword". Also, you will now see 'Local Area Connection2' (or similar name) associated as a 'Microsoft Hosted Network Virtual Adapter' (highlighted) listed under 'Network Connections':
+
+4. Next, right-click, Properties for your wired Internet Connection OR your wireless mobile broadband connection you wish to share. In my case, I right-clicked Mobile Broadband (4G), then Properties:
+
+5. Click Sharing tab, then drop-down box under 'Home networking connection:' and pick the connection associated with Microsoft Hosted Network Virtual Adapter - in my case 'Local Area Connection2':
+
+6. Type 'netsh wlan start hostednetwork'
+
+7. Done! Go to a Wi-Fi-enabled device (iPad, Kindle, iPhone, Android, laptop, etc.) and connect to your shared Wi-Fi hotspot.
+
+Now, if you want to stop this network, at the Command Prompt simply type 'netsh wlan stop hostednetwork'.
+
+Note: You will have to start/stop the hostednetwork every time you reboot your computer. I would advise you to create desktop shortcuts for these commands (or create .bat batch file) and set it to run as administrator.
+
+I should mention Verizon sells their 4G MiFi hotspot device which allows you to share up to only 5 devices. The tutorial I explained above lets me use a standard 4G mobile broadband USB stick and share it with virtually unlimited users. Though you should be aware of any bandwidth overage charges of course. Enjoy!

@@ -1,0 +1,12 @@
+THURSDAY, AUGUST 9, 2012
+
+New Nokia device has been certified by the Bluetooth SIG
+
+The Bluetooth SIG has recently certified a new device created by Nokia and has Bluetooth 4.0 interface . The body that deals with the certification of wireless devices has made ​​available the documentation that proves the existence of the device, but that does not reveal further details about the type of product. The certainty of certification and the fact that Nokia has been made ​​to it were added the inevitable speculation that try to trace the profile of the device. Although it is not impossible that he could be a simple accessory made by Nokia, there have been more suggestive hypotheses that refer to one of the new Windows Phone 8 Nokia devices.
+As you can see by looking at the description at the beginning, the only words found under the heading "Design Model Number" is " Alpha engine controller subsystem . " A definition that called to mind the code name of one of the suspected device WP8, the Juggernaut Alpha, spotted a few weeks ago in the benchmark WPBench. 
+
+At the moment, as you can see the link with a WP8 device is linked to a simple similarity between the alleged code name of the device and the description of the model numer found in the documentation of the Bluetooth SIG. A bond can surely rekindle the interest for new Lumia output, but objectively quite labile.
+
+Of course Nokia World 2012 kicks off on September 4th and 5th and multiple sources have confirmed that Nokia will present the new line of Lumia smartphones based on Windows Phone 8 during the event
+
+Source bluetooth.org ,Via WMPU

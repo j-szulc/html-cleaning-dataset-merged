@@ -1,0 +1,136 @@
+October 28, 2012
+Yet another discouraging GDP report
+
+That's the same title I used to summarize the U.S. 2012:Q2 GDP report released back in July. Doesn't look like there's much need to use any different headline for the 2012:Q3 numbers released on Friday.
+
+On Friday the BEA reported that U.S. real GDP grew at a 2.0% annual rate during the third quarter. That compares with an average growth rate of 3.4% over 1947:Q2-2007:Q3, and an average growth rate of 4.4% if you leave out those quarters in which the economy was in recession. But the latest number is about on par with what we've come to expect during the most recent expansion; the average annual GDP growth rate since 2009:Q3 has been 2.1%.
+
+Nor was there much encouragement to be found in the details underlying the GDP aggregate. Residential investment has finally begun to make a positive contribution, adding 0.3% by itself to that 2.0% total growth, while autos contributed another 0.2%. Strong growth in housing and autos is where we would hope to look for any post-recession bounce back. The good news is that housing should continue to make positive contributions in the year ahead.
+
+The biggest boost to third quarter growth came from federal military spending, which all by itself added 0.64 percentage points to the 2.0% total growth. Possibly this represented spending in anticipation of sequestration to come, in which case it could be more than matched by a corresponding negative entry this quarter or next. Nonresidential fixed investment subtracted 0.1%-- not a huge drag, but a very worrisome development.
+
+The ongoing sluggishness of the growth has been causing the Econbrowser Recession Indicator Index to drift up, and it now stands at 7.9%. For purposes of calculating this number, we allow one quarter for data revision and trend recognition, so the latest value, although it uses today's released GDP numbers, is actually an assessment of where the economy was as of the end of the second quarter of 2012. The index would have to rise above 67% before our algorithm would declare that the U.S. had entered a new recession.
+
+GDP-based recession indicator index. The plotted value for each date is based solely on information as it would have been publicly available and reported as of one quarter after the indicated date, with 2012:Q2 the last date shown on the graph. Shaded regions represent dates of NBER recessions, which were not used in any way in constructing the index, and which were sometimes not reported until two years after the date. 
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+Like I say-- another discouraging GDP report.
+
+Posted by James Hamilton at October 28, 2012 01:23 PM
+
+I'm curious why you didn't think it was relevant that GDP was depressed by an estimated 0.4% by the drought? Is there some reason you don't think that was relevant?
+
+Posted by: matt wilbert at October 28, 2012 02:30 PM
+
+I'm amazed by the GDP report. Amazed in a good way because so many of the signs were for another recession. We've had little good economic news from Asia, where inventories are piling up well beyond the capacity to export or consume. The mess in Europe has only become messier. Britain went into actual recession again.
+
+And yet the US somehow keeps growing. Despite the massive private debt problems. Despite the banks continuing to restrict lending.
+
+The Fed at least has been doing something right. One can argue about the details but consider how bad it would be if Bernanke were Trichet.
+
+Posted by: jonathan at October 28, 2012 04:59 PM
+
+Issue about acceleration in real defense spending is interesting. Presumably this happens to some extent each Q3 with the need to obligate funds before the FY ends, so the seasonal factors should take care of recurring acceleration. The sequestration threat may indeed have made the difference this time. A cynic would point out that accelerating the timing of defense purchases is one way for an administration to affect the measurement of GDP, but that would be far-fetched in my opinion.
+
+Posted by: BenAround at October 28, 2012 05:58 PM
+
+Europe is under a silent revolution, in most countries visited many branches of activities are doing their best to punish their customers. It includes real estates brokers unwilling to follow through any request, real estates prices rentals or purchases prices that are dissuasive, air flights ticketing agents whom are pleased to over bill the fares cost under the umbrella of dynamic pricing system, hotels that will double the cost price of the room through phone bills. Zealous customs agents whom would retrieve a sea polished stone from a passenger back pack, gypsies whom rob wallets at broad day light on the main avenue of Bruxelles.
+Open air antic shop markets sellers destroying silver wares as the weight of silver is fetching more value than its work.
+As for the quantitative the ECB statistical hand book will supply the results of the past management.
+
+On the narrative, one may find consolation in the reviving of European legends.
+
+L’Europe das Gespensterschiff, the Cretese paradox is well in use and has even been acknowledged as the remedy of last resort, the geese that never cackled are still in place and deemed to be so efficient that many of them are breeding species.
+The Augean stables are still to be cleaned, and more than one Ulysse are revolving around Europe to find a better shelter. Economics sciences well applied has produced more than one Romulus and one Remus teetering tax payers money.
+
+This is as well economics.
+
+Posted by: ppcm at October 29, 2012 01:15 AM
+
+The economy is tracking to our models pretty well, which suggest that oil is taking something like 1.2-1.5% off of GDP growth. That's a back-of-the-envelope estimate, at this point, not detailed analysis.
+
+But isn't it time for a bit of serious analysis? Scott Sumner clearly opens the door to that with his UK report (see my comment Friday).
+
+I can accept that a debt overhang causes slower growth, as I can accept that it's hard to re-employ people when your oil consumption has to be in secular decline.
+
+But in my business, when this happens, we sit down with spreadsheets and start to work through the numbers to chart a path forward. I don't see that coming from the economics community. How much of the slowdown can be attributed to de-leveraging? How much to oil? How much to deficits (are these really neutral to positive--or are they a potential drag at this point)? How much is simply normal recovery from a recession? What are the ranges and sources of uncertainty?
+
+Given these, what are our fiscal policy options? Does continued ramping of debt make sense? Or should we pay the piper because we simply cannot count on a recovery of GDP growth to traditional levels? Or maybe we need to expect a different glide path. Again, what are the ranges and uncertainties?
+
+I have to admit to a certain frustration with the economics community. In our business--advising private equity funds on investments and large corporations on energy-related strategy--we don't have the luxury of wringing our hands. We are obligated to take a view of the future (independent of our ideological proclivities) as the basis of action for our clients.
+
+I see plenty of complaining and moaning from the economics community, but very little proactive planning or staking out a direction. Post-hoc analysis is fine, but it needs to be paired with vision and guidance for the future.
+
+Posted by: Steven Kopits at October 29, 2012 06:54 AM
+
+Latest of self-driving cars:
+
+http://www.nytimes.com/2012/10/28/automobiles/yes-driverless-cars-know-the-way-to-san-jose.html?pagewanted=all
+
+Posted by: Steven Kopits at October 29, 2012 07:05 AM
+
+Mini electric car
+
+Those who read my article in Foreign Policy on self-driving electric cars will know that I argued that self-driving technology would allow automobile transportation to be purchased as a stream of services, rather than as an asset.
+
+Here's an example of an electric car that could be viable using self-drive technology.
+
+http://www.digitaltrends.com/cars/hiriko-folding-car-to-go-on-sale-next-year/
+
+This car costs $16,000, has limited range and capacity, and can travel at 30 mph.
+
+Assuming an 16 month payback period (for convenience), the vehicle would have to earn $1,000 per month to be viable as a taxi. If we allow 10 trips per day, that's $100 per "subscriber" per month. That's about as much as my monthly parking at the train station. For local transportation, it's a highly competitive transportation solution compared to private vehicle ownership or buses.
+
+For the elderly, the technology could be a godsend.
+
+We need to fast-track self-driving technology.
+
+Posted by: Steven Kopits at October 29, 2012 07:22 AM
+
+Jonathan,
+
+My premise is that the oil importing OECD countries are trying to keep their economies going, in the face of declining post-2005 supplies of Global Net Exports of oil (GNE*) via massive deficit spending--financed by real creditors and by accommodative central banks.
+
+I frequently refer to the ratio of Global Net Exports of oil (GNE*) to Chindia's Net Imports (CNI), or GNE/CNI.  We have nine years of post-2002 annual GNE/CNI data. 
+
+Note that the rate of decline in the ratio has accelerated, at least through 2011. 
+
+The following chart shows global public debt versus the GNE/CNI ratio for 2002 to 2011, as annual Brent crude oil prices increased from $25 in 2002 to $111 in 2011:
+
+http://i1095.photobucket.com/albums/i475/westexas/GNE-CNI_total-debt_PS1.png
+
+*GNE = Top 33 net oil exporters in 2005, BP + minor EIA data, total petroleum liquids
+
+Posted by: Jeffrey J. Brown at October 29, 2012 07:23 AM
+
+The essence of business is based on trust, very often before any business plan the question that may rise is not with what? but with whom?
+Economies have been crashed, save 2 or 3 scapegoats, no one is guilty.Only responsible bodies and no guilt. The principles of balances have been torn apart, constitutional rules have been violated and it remains to be determined with time if more wealth has been created through chaos,cheating and violation of rules.
+
+The question outstanding before any constructive answers arise with whom?
+
+
+Posted by: ppcm at October 29, 2012 08:12 AM
+
+I'm so old I can remember all the way back to the beginning of 2009 when all the Very Important Economists said that infrastructure stimulus would be wasteful because the recession would be over before the projects could get started.
+
+Posted by: Joseph at October 29, 2012 12:59 PM
+
+I wonder if Krugman will be brave enough to again point out to the uninformed that a disaster like hurricane Sandy can actually boost GDP during a recession. Expect a lot of "broken windows fallacy" hogwash. He was excoriated for speaking the truth after 911. It's tough being an honest economist.
+
+Posted by: Joseph at October 29, 2012 03:04 PM
+
+It would be interesting to have the first graph with blue and red bars showing which party controlled the agenda over that time span. Maybe too hard to define control the agenda. Just a fun idea.
+
+Posted by: dilbert dogbert at October 29, 2012 09:16 PM
+
+"Strong growth in housing and autos is where we would hope to look for any post-recession bounce back."
+
+Doesn't that require more debt? What if there is already too much debt?
+
+Posted by: Get Rid of the Fed at October 29, 2012 09:21 PM
+

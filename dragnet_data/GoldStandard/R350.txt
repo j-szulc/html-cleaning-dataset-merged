@@ -1,0 +1,52 @@
+
+Think Like a Doctor November 2, 2012, 4:36 pm
+Think Like a Doctor: A Terrible Leg Wound Solved
+By LISA SANDERS, M.D.
+
+On Thursday, we challenged Well readers to solve a case of a woman with painful, pus-filled leg wounds that did not respond to antibiotics. More than 400 people wrote in, and a whopping 85 came up with the right answer. The first person to figure out the diagnosis was Heather Chambers, a third-year medical student at Dalhousie Medical School in Halifax, Nova Scotia.
+
+The correct diagnosis is…
+
+    Pyoderma gangrenosum.
+
+In an e-mail, Ms. Chambers wrote, “Having just begun the clinical portion of my training, I’ve certainly never seen pyoderma gangrenosum, and, being quite rare, it’s likely I will never see it over the course of my career. However, I recall learning about it as part of our preclinical dermatology curriculum last spring, and it was the first condition that came to mind that could account for a deep and seemingly infected ulcer that wouldn’t respond to a powerful broad spectrum antibiotic like vancomycin.”
+
+The Diagnosis
+
+    Pyoderma gangrenosum is a rare and somewhat mysterious skin condition that arises when the immune system mistakenly turns on itself, destroying its own tissue as if it were some foreign invader. It is not at all clear why this happens, but the condition is most commonly seen in those with certain inflammatory diseases, including ulcerative colitis, Crohn’s disease and infectious hepatitis, as well as certain blood cancers, like leukemia, and some types of arthritis.
+
+    It’s a tricky disease to diagnose, and yet if a doctor does not diagnose it, the chance of a patient’s receiving the right treatment is small. Affected tissues look infected — the involved skin is red and hot and covered with pus — and yet there are no organisms involved in the disease. Antibiotics are useless in this setting — and yet, because it looks so much like an infection, doctors try one antibiotic after another in search of the right one.
+
+    The terrible ulcers caused by pyoderma gangrenosum often have dark, dead-looking skin at their edges, leading doctors to think that surgery is needed to clear away the dying tissue and give new tissue a chance to grow. Yet surgery makes the lesions worse by unleashing a new round of tissue destruction. The only way to treat the condition is to suppress the immune system — the very opposite of how a patient with an infection should be treated.
+
+    Pyoderma gangrenosum most commonly arises in middle-aged people, slightly more often in women than in men. Although it can be treated, the outbreaks often leave scars and can recur.
+
+How the Diagnosis Was Made
+
+    When Dr. Nadine Stanojevic, the resident on duty, saw that the patient was not improving after receiving vancomycin for more than 48 hours, she grew increasingly worried. Staphylococcus aureus is the classic pus-forming infection, but there are other bacteria that can do this as well and that wouldn’t necessarily respond to the drug. Should she change the patient to a different antibiotic?
+
+    She decided to let the cultures guide her. A virulent infection like the one this woman had would certainly grow well in the nutrient-filled cultures of the microbiology lab.
+
+    But it didn’t. There were no organisms at all in the pus-filled goo she’d removed from the patient’s wound, the lab reported. Nothing was seen under the microscope, and nothing was growing in the petri dishes.
+
+    So maybe this was not an infection, Dr. Stanojevic thought. When the young doctor had first seen the wounds on the patient’s leg, it reminded her of an earlier case she had seen and written up for a medical conference: It involved a man with rheumatoid arthritis who had the same kind of pus-layered ulcers. He had been given antibiotics for weeks, which didn’t help, and was finally given a diagnosis of pyoderma gangrenosum, caused by the rheumatoid arthritis.
+
+    This woman also had arthritis, possibly rheumatoid arthritis. Could she also have pyoderma gangrenosum?
+
+    When the blood tests came back showing that the patient didn’t have rheumatoid arthritis, it seemed unlikely. But after no bacteria were found and the patient wasn’t getting better, it was time to reconsider. Dr. Stanojevic looked up images of pyoderma gangrenosum on her computer. This patient had the same kind of huge, discolored, pus-filled lesions she saw on the screen.
+
+    A quick search through the medical literature revealed that pyoderma gangrenosum can also be caused by infection, and this patient had hepatitis C. She suggested the diagnosis to the attending physician on the team, a young doctor named Jeremy Schwartz, telling him about the other patient she’d seen.
+
+    “She had written this case report of pyoderma gangrenosum,” Dr. Schwartz told me later. “I had never seen a case. So I felt like she was more of an authority on this than I was.”
+
+Lifelong Learning
+
+    In medicine we recognize that although we all have the same core education, each of us also has areas of expertise based on experience. In studies done decades ago, it was shown that the doctor most likely to make a diagnosis is the one who has seen the condition before. That remains true.
+
+    Dr. Schwartz and Dr. Stanojevic decided to stop the antibiotics, which clearly weren’t helping, and get a second opinion from a dermatologist. The specialist agreed that pyoderma gangrenosum was the most likely diagnosis. And because there is no definitive test for the disease, he suggested they get a biopsy from the wound and send it to the microbiology lab to look for any signs of infection and to pathology to look for evidence of pyoderma gangrenosum. Within 48 hours they had a probable diagnosis of pyoderma gangrenosum.
+
+    Once the diagnosis was made, the patient was started on steroids. The response was immediate. By the next day her legs were dramatically better. There was no pus, no redness, almost no swelling. And since there was a good chance that the pyoderma gangrenosum was caused by the hepatitis C, she was referred to a hepatitis specialist. Curing that would prevent further episodes of these painful, ugly ulcers.
+
+    Dr. Schwartz found the whole process of making this diagnosis exciting. Medicine requires a love of lifelong learning, mostly through experience. “Pyoderma gangrenosum is one of these things with long Latin names that you read about, but you don’t really know it until you see it,” he said. “But once you’ve seen it, you’ll never miss it again.”
+
+

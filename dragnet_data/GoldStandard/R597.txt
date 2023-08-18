@@ -1,0 +1,11 @@
+Interactive Magic Mirror Controlled via Android
+
+We’ve seen some neat  interactive mirror projects in the past, and here’s one which integrates bluetooth and multiple external devices.  It’s controlled by IOIO (pronounced yo-yo), an Arduino-type microprocessor. It runs several different apps that can be controlled through an Android phone.
+
+The mirror is actually two-way with an LED matrix behind it.  In addition to displaying basic text, the mirror can also stream video, but the resolution is limited due to the constraints of the LED matrix. Find full details of the project to build your own.
+Similar Interactivity Projects:
+
+    Interactive Touch Sensitive Mirror
+    DIY Virtual Windows using IR LEDs + Wiimote
+    Incredible Personalized Interactive Mirror
+

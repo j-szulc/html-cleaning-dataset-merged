@@ -1,0 +1,39 @@
+Boost your results with Dynamic Search Ads, now available to all
+
+Thursday, October 25, 2012 | 7:14 AM
+
+Labels: Announcements, New features, Success Stories
+
+Last October we introduced Dynamic Search Ads, an efficient new way to target relevant searches with ads generated directly from your website. Now, after a year of refinements and successful beta testing, we’re making Dynamic Search Ads available to all advertisers in the next few days.
+
+Boosting Results, Efficiently
+Dynamic Search Ads (DSA) generate incremental leads and sales by promoting your business on more commercial queries than you’re reaching today. After all, even well-managed AdWords campaigns containing thousands and thousands of keywords can miss relevant searches, experience delays getting ads written for new products, and get out of sync with what's actually available on your website.
+
+If you’re not already familiar with how Dynamic Search Ads work, you may want to read about the targeting controls available, reporting and optimization features, and support for third-party PPC tracking.
+
+Successful Beta Test
+Many of our beta testers set up DSA to run alongside their existing large-scale search campaigns. And DSA delivered.
+
+    Incremental and efficient results. On average, Dynamic Search Ads boosted beta testers’ traffic and conversion volume from AdWords by 10% and outperformed their non-exact keywords by 10% on clickthrough rate (CTR), cost per click (CPC) and cost per action (CPA).
+    Success. A few examples of successful DSA beta testers include:
+        Jonathan Meager, Marketing Manager at Gear4music (.pdf case study)
+        Matt Wilkinson, Director of Search and Media at Rosetta and Steve Baruch, VP of eCommerce at MSC Industrial Supply (.pdf case study)
+        Larry Cotter, GM at Apartment Home Living (video case study).
+
+We also made numerous product improvements during the beta test including:
+
+    Bid auto-optimization. Since one of our chief goals for DSA was more results with less work, we devised a system to automatically ratchet bids downward whenever specific queries for an advertiser produce lower conversion rates or user engagement levels. As a result, your ROI for Dynamic Search Ads can improve over time automatically. 
+    Website crawl frequency. Any indexed page with a matched DSA impression will be crawled at least once daily (update: please see clarification below). Pages with more impressions and clicks may be crawled more frequently. So DSA will now better reflect the latest products and inventory conditions on your web site. That means more clicks, higher conversion rates and better ROI.
+    Mobile and tablet support. Given the growing importance of mobile campaigns, we developed full support for DSA on mobile and tablet platforms.
+    Extension support. Dynamic Search Ads support the same ad extensions as other search ads.  
+    Conversion Optimizer compatibility. Once enabled, many beta test participants reported success using the combination of DSA and Conversion Optimizer to simultaneously expand their campaign reach while automatically optimizing bids to meet their average CPA goal.
+
+Get Started
+Now any business interested in boosting their AdWords results can try DSA. You can find starting points on creating a DSA campaign and setting up dynamic targets in the AdWords help center.
+
+If you’re interested in learning even more about Dynamic Search Ads, please stay tuned to our blog. More information and an invitation to join us for a Hangout on Air will be coming soon.
+
+Posted by Tarun Jain, AdWords Product Manager
+
+Update (10/29/12):
+Because of our own prioritization to crawl pages with more impressions and clicks more frequently, as well as other potential limitations on crawl frequency determined by your web host or internet service provider, there may be some indexed pages with a matched DSA impression that are not crawled each day. We’re sorry for any mixup this may have caused. 

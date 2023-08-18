@@ -1,0 +1,64 @@
+How The Internet Will Change The World
+by Daniel Scocco
+
+I still remember when I got my first modem and Internet access. It was a 14.400 kbps dial-up modem, back in 1993 or so. I used it to explore the first versions of Yahoo!, when it worked like a directory and not a search engine, and to play text based games like MUDs. One thing was clear to me: this new technology was fascinating.
+
+The Internet turned out to be not only fascinating but also pretty useful. As you probably know it affected pretty much every single industry and segment on our society, from music to television, from education to finance.
+
+But what is coming next?
+
+There’s an interesting article over at the Cisco Blog exploring this question. The article is titled How the Internet of Everything Will Change the World…for the Better, and here is a quote:
+
+So what will the next decade of the Internet bring?
+
+    From the Internet of Things (IoT), where we are today, we are just beginning to enter a new realm: the Internet of Everything (IoE), where things will gain context awareness, increased processing power, and greater sensing abilities. Add people and information into the mix and you get a network of networks where billions or even trillions of connections create unprecedented opportunities and give things that were silent a voice.
+
+    Cisco defines IoE as bringing together people, process, data, and things to make networked connections more relevant and valuable than ever before—turning information into actions that create new capabilities, richer experiences, and unprecedented economic opportunity for businesses, individuals, and countries.
+
+The only point I don’t agree is that we are already on the Internet of Things. In my opinion we still need 5 to 10 years more to really enter into that era (i.e., when most of our devices will have an RFID chip).
+
+The article has a couple of interesting infographics and many insights to be gained though, so make sure to check it out.
+Related Posts
+
+    How to Change the World with Your Blog: 3 Ideas
+    Bring The World To Your WordPress Dashboard And Save Time!
+    Are You Going To Blog World 2008?
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+    jorge jacobo on November 8, 2012 3:33 pm
+
+    Thanks for sharing, I’m headed there.
+    Dean Saliba on November 8, 2012 9:57 pm
+
+    Oh wow you’re talking about dial-up internet made me hark back to when I first went online back when 28k was around, I still remember when 56k came on the scene and we thought it was blistering speed!
+    Raplus on November 8, 2012 10:31 pm
+
+    No doubt that internet will change the world. But most important thing is now we can’t live without internet. :-D
+    Iman on November 9, 2012 4:45 am
+
+    This year 2012, there is existing high speed technology in wireless modem – LTE – up to 300Mbps. Compared to 14.400 kbps dial-up modem 19 years ago. :D
+    Hamza Sheikh on November 10, 2012 10:26 am
+
+    Well, I also do remember the earlier days when we used to just open the light weight websites that works well on 28KBps modem, but after the introduction of 56KBps modem. Everything changed!
+    Daniel on November 10, 2012 10:29 pm
+
+    Things have certainly changed so fast…
+
+    When I got my first PC(I was a late Bloomer) around mid 2000′s, I also had dial up….which you think is just great, until you see how fast webpages are downloaded on ADSL, or even the “then–mid 2000′s” super fast offers….
+
+    My External memory card was 8 Mb’s…
+
+    I had to boost up my level of virtual memory to keep my PC above water(limited capacity for adding RAM with that model)….
+
+    Now a 2 T External drive is nada, and a PC or Laptop with 16 gigs of Ram, is no big deal…. and I’m loving it….
+    George from seekdefo on November 11, 2012 9:36 am
+
+    What’s an rfid chip
+

@@ -1,0 +1,11 @@
+
+
+Highlighting journalists on Google News
+Wednesday, November 2, 2011 1:36 PM
+Posted by Eric Weigle, Software Engineer
+
+Great journalism takes more than facts and figures -- it takes skilled reporters to knit together compelling stories. Knowing who wrote an article can help readers understand the article's context and quality, see more articles by that person, and even interact directly with them. Whole communities can form around prominent contributors, which is why we started showing information about content creators next to their material in Google Search.
+
+Accordingly, Google News is rolling out more information about journalists over the next several weeks, starting with English-language editions. When reporters link their Google profile with their articles, Google News now shows the writer’s name and how many Google+ users have that person in their circles. For the lead article for each story, Google News also shows that reporter’s profile picture and enables readers to add them to their Google+ circles right from the Google News homepage.
+
+If you are a journalist and would like to participate, please follow the instructions in our Help Center. If you are a reader, we hope you enjoy learning more about the faces behind the news.

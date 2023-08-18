@@ -1,0 +1,34 @@
+
+HyperDrive | 20 July 2012
+Connected cars open up to apps and the cloud
+Jon Stewart
+
+It used to be that upgrading your car would involve a trip to the garage for a new set of alloy wheels, a paint-job or perhaps a souped-up sound system.
+
+But those days could soon be over as an increasing number of cars connect to the web. In the same way as the smartphone was changed forever by the arrival of the app, car manufacturers are now betting on these small pieces of software to drive the future of the automobile. Soon, customising your wheels could be as simple as tapping your dashboard touchscreen to download the latest must-have app.
+
+“We already see many cars that have Google onboard, and Facebook and Bloomberg updates,” says Sven Beiker, the executive director for the center for automotive research at Stanford University in the US.
+
+But, he adds, apps could soon go a lot further than just letting you find your favourite music or communicating with your friends. By tapping into the mass of data your car produces, combined with the huge computing resources available on the web, apps could help save you – and everyone around you – fuel, time and money.
+
+And this is not a distant dream, he says. The groundwork for the fully connected car is being laid down now and could be with us sooner than you think.
+
+“Some people say that 2012 is the year when we will see a breakthrough in the connected car,” says Bieker.
+
+‘Car talk’
+
+Several manufacturers including Ford, BMW, Mercedes, Audi and most recently Honda already offer basic connected car systems that allow a vehicle to hook up to the web through mobile phone networks. They act as a portal to the net, but also provide practical benefits such as alerting the driver to collisions, or delays on the road ahead, and automatically finding new routes to avoid them.
+
+At the moment, these tend to be the preserve of top-end vehicles. But that too is changing. According to research firm ABI Research, 60.1% of cars will be connected to the web by 2017, whilst in Europe and North America, the figure will be closer to 80%. Soon, cars without connectivity will be a rarity rather than the other way around.
+
+One of the pioneering systems for in-car tech is Ford’s Sync, which connects your smartphone and MP3 player to the car's dashboard. It allows drivers to make telephone calls and control the car’s radio using their voice, amongst other things. It was developed with software giant Microsoft and was first released in 2007.
+
+Like most of today’s systems, the software is essentially a way of connecting the car to your smartphone. But, in 2010, Ford made the first steps towards blurring the boundaries between the mobile and the automobile when it released the Ford Sync API (application programming interface). This piece of code allowed trusted third-party developers to tap into Sync so that they could write apps that could work with – and be controlled by – the system. One of the first was the internet radio app Pandora.
+
+It is a model that is now used by several other manufacturers. For example, German car maker BMW recently announced that it would allow vetted third-party apps developed for Google’s Android phone software to work with its Connected Drive system (it already allowed the system to tap into some iPhone apps)
+
+But developments like this are just the start, according to Beiker. Modern cars are incredibly sophisticated, he says, with up to 80 different computer control units that monitor everything from engine performance and braking, to direction of travel, velocity and road conditions. At the moment cars tend to keep this information to themselves. Sharing it could open up a whole new world of possibilities.
+
+“We are talking about changing the car’s character from being introverted to being extroverted. So the car is just more talkative,” he says.
+
+To make this a reality requires at least two important things to happen. First, car manufacturers need to make the data from their cars available, ideally in a standard format. And secondly, the data needs to be easily shared.

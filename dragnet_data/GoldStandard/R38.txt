@@ -1,0 +1,48 @@
+How to Trigger 6 Strobes With A Single Slave
+
+    October 29, 2012
+    
+If you are using multiple strobes as a strobank (yes, strobank is a word) you may have stumbled on the issue of triggering. Triggering one strobe is one thing, but triggering a hole bank is a bit more challenging.
+
+The naive way to do it is to try and use a trigger splitter, in a similar way to a headphone splitter. This will probably work with 2, maybe 3 strobes, but what if you have 6 strobes or more lined up? You should just split it into 6 right? wrong. Most triggers just not enough juice in them to close the
+circuit on more than two strobes. So for six strobes it would take 3
+slaves.
+
+Of course there are several other ways you can make 6 strobes work together, and it pretty much depends on what slave mechanism they have and how similar they are. If all the strobes employ optical slaves, there is a good chance that you can trigger one strobe and have all the other strobes slaves feed of that.
+
+But if they don't have optical slaves, you would need to trigger them individually.
+
+The cool way to do it, is to build a PCB that can take up to 6 strobes and trigger them all together. Here is the front view of the photograph we have at the beginning of the post.
+
+That little PCB in the middle is what splits one slave into 6 strobes.
+
+Peter Y Lin shared the schematics, rational and even PCB diagrams for this kind of splitting device. If you own a Foursquare you will appreciate it.
+
+Here is what the circuit looks like from up close:
+
+Here is the electronic bits if you are interested:
+
+    Theory:
+
+    Most, if not all, manual radio/optical trigger works by pulling the
+    center pin to ground, creating a short in flash's circuitry, hence
+    triggering the flash. Knowing this, we can use a logic IC with enough
+    buffering capability to drive simple transistors to trigger multiple
+    flashes. Here, I am using CMOS HC logic gate series because
+
+    1. it works under wide range of voltage,
+    2. it has 10+mA driving capability, enough to drive a transistor
+    3. input impedence is high, so tying up six gates does not create too
+    much burden on the input.
+    4. it is FAST, response time is usually quoted in nano-seconds
+
+    So, as you can see in the schematics, the input is tied up to high so
+    all outputs of 74HC04 is low. When input trigger pulls down the input
+    pin, all outputs become HIGH, thus driving transistors to short. #
+
+P.S. here is a nice bonus, if you have 7 of those boards and 36 strobes, you can connect them together to fire all 36 strobes simultaneously. It does not say if you can fire 216 strobes together.
+
+Get the DIYP greatness via RSS, newsletter and Twitter
+Connect with the community: Facebook Page, Discussions
+Share Ideas, Setups, Images and Projects on DIYP's Flickr, visit Readers Photos
+

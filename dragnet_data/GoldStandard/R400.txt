@@ -1,0 +1,32 @@
+September 26, 2012
+PP/VE and vSphere 5.1 fixes out.
+
+For those who follow in RSS feeds – FYI, the vSphere 5.1 + PP/VE patch is out – and the blog post is updated with the fix details here.
+
+AFAIK – I’m not aware of outstanding “major” blocks to upgrade for EMC customers (we strive to have everything line up with VMware launches, including baking in platform support for new features in advance – you wouldn’t believe the amount of work that goes into that).   There are a few pieces to pull over the line (new VSI plugin for the web client as an example) – but they are non-critical.
+
+
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+
+Nice! Was waiting for this
+
+Posted by: Preston Gallwas  September 26, 2012 at 04:48 PM
+Travis
+
+The Recoverpoint SRA's are holding us back. When can we expect the SRA's to be certified for SRM 5.1?
+
+Posted by: Travis  September 27, 2012 at 08:30 AM
+Travis Foschini
+
+EMC's Recoverpoint support for SRM 5.1 is still a roadblock for us. Any idea when the SRA's for Recoverpoint will be updated and/or certified for SRM 5.1?
+
+Posted by: Travis Foschini  October 01, 2012 at 04:08 PM
+

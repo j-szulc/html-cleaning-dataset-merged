@@ -1,0 +1,52 @@
+The Making of Warcraft's Multiplayer
+by Patrick Wyatt [Design, Social/Online]
+
+November 12, 2012
+
+ArenaNet co-founder and former Blizzard employee Patrick Wyatt recounts the chaotic, spectacular dev process behind the original Warcraft. This is Part 3 of the story, crossposted from his blog. You can visit Wyatt's blog to read Part 1 and Part 2.
+
+The first-ever multiplayer game of Warcraft was a crushing victory, an abject defeat, and a tie, all at once. Wait, how is that possible? Well, therein lies a tale. This tale grew organically during the writing to include game AI, the economics of the game business, fog of war and more. Read on if you have lots of free time!
+
+After six months of development that started in September 1993, Warcraft: Orcs vs. Humans, the first product in what would eventually become the Warcraft series, was finally turning into a game instead of an extended tech demo.
+
+For several months I was the only full-time employee on the project, which limited the rate of development. I was fortunate to be assisted by other staff members, including Ron Millar, Stu Rose, and others, who did design work on the project. And several artists contributed prototype artwork when they found time in between milestones on other projects.
+
+The team was thinly staffed because the development of Warcraft was self-funded by the company from revenues received for developing titles for game publishers like Interplay and Sunsoft, and the company coffers were not deep.
+
+At that time we were developing four 16-bit console titles: The Lost Vikings 2 (the sequel to our critically-acclaimed but low-selling, side-scrolling "run-and-jump" puzzle game), Blackthorne (a side-scrolling "run-and-jump" game where the lead character gets busy with a shotgun), Justice League Task Force (a Street Fighter clone set in the DC Comics universe), and Death and Return of Superman (a side-scrolling beat 'em-up based on the DC Universe comic series of the same name).
+
+With the money received for developing these games and other odd jobs the company was able to pay initial development costs.
+
+Game Development Economics
+
+For most of the history of the game industry, independent game development studios -- which is to say studios that weren't owned by a retail game publishing company -- usually funded their projects by signing contracts with those publishing companies. Publishers would "advance" money for the development of the project. In addition to advances for development, publishers were responsible for publicity, marketing, manufacturing, retail distribution, customer support and so forth.
+
+Back in the early '90s, there were many more retail game publishers than exist today, but the increasing cost of game development and especially of game publishing led to massive industry consolidation due to bankruptcies and acquisitions. When you think of a retail game publisher today you'll probably think of Activision Blizzard, EA, or Ubisoft, instead of the myriad mid-sized companies that existed 20 years ago.
+
+As in all industries, the terms of contracts are drawn up to be heavily in the favor of the people with the money. This is the other golden rule: "he who has the money makes the rules". While in theory these agreements are structured so that the game developer is rewarded when a game sells well, as in the record and movie industries publishers capture the vast majority of profits, with developers receiving enough money to survive to sign another agreement -- if they're lucky.
+
+When I mentioned "advances" paid by the publisher, the more correct term is "advances against royalties", where the developer is effectively receiving a forgivable loan to be repaid from royalties for game sales. It sounds great: develop a game; get paid for each copy sold. But the mechanics work out such that the vast majority of game titles never earn enough money to recoup (pay for) the advances. Since development studios often had to give up the rights to their title and sequels, these agreements are often thinly disguised work-for-hire agreements.
+
+To aim for better deal terms, a common strategy employed by development studios was to self-fund an initial game prototype, then use the prototype to "pitch" a development deal to publishers. The longer a developer was able to self-fund game creation the better the eventual contract terms.
+
+Perhaps the best example of this strategy is Valve Software, where Gabe Newell used the wealth he earned at Microsoft to fund the development of Half-Life and thereby gain a measure of control over the launch schedule for the game -- releasing the game only when it was a high-quality product instead of rushing it out the door to meet quarterly revenue goals as Sierra Entertainment (the game's publisher) desired. More importantly, Gabe's financial wherewithal enabled Valve to obtain ownership of the online distribution rights for Half-Life just as digital downloads were becoming a viable strategy for selling games, and led to that studio's later -- vast -- successes.
+
+The downside to self-funding a prototype is the risk that the developer takes in the event that the game project is not signed by a publisher -- oftentimes resulting in the death of the studio.
+
+The company I worked for -- at that time named Silicon & Synapse -- was self-funding Warcraft, along with another project called Games People Play, which would include crossword puzzles, Boggle and similar games found on the shelves at airport bookstores to entertain stranded travelers.
+
+By developing two games that targeted radically different audiences, the company owners hoped to create multiple sources of revenue that would be more economically stable compared to betting all the company's prospects on the core entertainment market (that is, "hardcore" gamers like you 'n' me).
+
+Of course spreading bets across diverse game genres also has risks, inasmuch as a company brand can be diluted by creating products that don't meet the desires of its audiences. One of the great strengths of the Blizzard brand today is that users will buy its games sight-unseen because they believe in the company's vision and reputation. That reputation would have been more difficult to establish had the company released both lower-budget casual titles and high-budget triple-A+ games, as did Sierra Entertainment, which is now out of business after repeated struggles to find an audience.
+
+In any event, creating Games People Play turned out to be a misstep because developing a casual entertainment product was so demoralizing for the lead programmer that the project never matured and was later canceled. Or perhaps it wasn't a mistake, because the combination of Warcraft and Games People Play convinced Davidson & Associates, at that time the second largest educational software company in the world, to purchase Silicon & Synapse.
+
+!@#$%^&*()  COMMENTS
+
+
+
+Michael Hahn
+	
+12 Nov 2012 at 11:20 am PST
+	
+Great article! Thx for sharing 

@@ -1,0 +1,388 @@
+User Community and ROI
+
+Every time I give a talk, someone always asks, "That's all good and nice that helping users learn is the key to creating passionate users... but who's going to do all that extra work? Who's going to make the extra tutorials and better docs?" Answer: your user community. Think about all the things a strong user community can do for you: tech support, user training, marketing (evangelism, word of mouth), third-party add-ons, even new product ideas. And that's not including any extra sales you might make on community/tribe items like t-shirts, stickers, and other gear.
+
+Yes, there's still a budget... but we've all seen third-party fan/user groups that got no support at all from "the mother ship" and yet thrived and gave users a level of support and training the company didn't provide. But there's still that little of issue of getting users involved, and for that--the single biggest factor is getting users involved at a much earlier path on their learning journey than typically happens.
+
+This picture is from an earlier post:
+
+In Building a User Community Part 1 we talked about the importance of not only a strict "There Are No Dumb Questions" policy, but also an even more dedicated "There Are No Dumb Answers" message.
+
+Today, this post will offer a few more tips on how to use your marketing budget (tiny as it may be) to build, support, and grow a user community from the beginning.
+
+* Host some kind of discussion forum (can include chat, wikis, and blogs as well), and do whatever it takes to get people there as soon as possible, ideally while the thing is still in beta (but it's never too late to start!)
+
+* Look on other third-party forums where users are discussing (which usually means struggling) your product, and find the most active people. Reach out to your earliest adopters or strongest new users and offer them non-paid incentives for becoming active. Chances are, if you have any users at all and your product is even the least bit complicated, people are discussing it somewhere. This could be anywhere from Amazon product reviews to technical discussion boards and even comments on related blogs.
+
+* Make these folks life-time "charter members" with special privileges and recognition as 'founders' that nobody else will ever get.
+
+* Have levels and rewards for participating (but again, not money--that totally changes the motivation, or at least the perceived motivation). The rewards can simply be status, early access to betas, and especially restricted access to the developers where they can discuss their ideas or at least listen to the engineers and designers describe why they made the choices they did, etc. [Don't reward people for post quantity alone... if post-count is the only criteria, you end up with a zillion useless posts]. Study successful user group communities for examples (like, say, javaranch.com--3/4 million unique visitors a month).
+
+* Teach users how to help other members by creating documents (or getting other users to write them) on how to ask and answer questions in the most productive way.
+
+* Include some just-for-fun activities in your community, like one (usually ONLY one) totally off-topic forum.
+
+* Make sure there are interesting, easy-access ways for users to get to know more about one another. Be SURE to have user profile pages that include gender, photos, and some other personal info in addition to the specifics related to this particular community. Which leads to...
+
+* Encourage members to meet offline! Hold a dirt-cheap User's Conference, ideally in more than one city, to get things started. Start a forum from the people who sign-up for the conference, and offer user group or forum leaders free entry to the event (and be sure to have a private user group or forum leader cocktail reception). Tips for that are in this recent post on face-to-face). Create a document on How To Start A User Group, and make sure users know how to get it. There is a great series of posts on how to start a user group written by the guys behind the Edmonton .NET User Group. (Thanks guys)
+
+* Encourage forum moderators or other community leaders to have their own private discussion space.
+
+* Don't tolerate abuse of the beginners, but don't force the experts to have to put up with newbie issues. As any community matures, you must provide separate areas for newbies and experts... if the community culture is one of generosity and motivation, there will still be enough experts who want to spend time helping newbies.
+
+* Why not help your top community leaders get a book deal? You never know... if it's a tech topic, direct them (or yourself) over to Wiley publisher Joe Wikert for some excellent and candid advice (search his archives, and you'll find everything from how to write a proposal, whether you need an agent, etc.)
+
+* Consider starting a monthly "official" user group membership subscription, with something that comes in the real mail each month. Think about it. Think about how you feel when Fedex or UPS pulls up with that little Amazon box with the smile on the side. Each month, send them a newsletter or DVD. Where's the budget for that content? Get your users involved! Have them submit things, and use the small monthly membership fee to cover the cost of materials and mailing, etc. Maybe you can partner with a sponsor on this, to include other things in the monthly "kit."
+
+* Create limited-edition, not-for-sale t-shirts, stickers, and other gear JUST for the founding community members (if you're just getting started in building a community). For ongoing communities, do the same thing and distribute them randomly, for free. Use the principle of "intermittent variable reward" that works so well to make slot machines and twitter so addicting ; )
+
+* Make your community leaders or even just active participants HEROES. Create "superhero" Moo cards for them. Plaster their photos everywhere. (Cute story I heard from a reader here -- she met her husband online while they were both moderators for an Autodesk CAD forum.)
+
+* Host an offline retreat just for the key community leaders. Can't afford to do what Microsoft does with its Search Champs? Can't afford to put people up at the "W"? Have a campout. Supply the marshmallows.
+
+* Above all, keep teaching members to teach other members. Give everyone a crash course in learning theory. The better they become at helping others--the more skills they develop in mentoring/tutoring others--the more meaningful and motivating it is for them to keep on doing it..
+
+These are just a few tips for now. Stay tuned for more. And of course, please add your own... while I have quite a lot of user group/community experience having launched several groups from scratch, they were all technology-related, and many of you are from very different domains.
+
+Posted by Kathy on March 21, 2007  
+
+
+ URL for this entry:
+http://www.typepad.com/services/trackback/6a00d83451b44369e200d8341c533d53ef
+
+Listed below are links to weblogs that reference User Community and ROI:
+
+» User Community and ROI from Gubatron
+Hi Passionate Team!!!,Trackback from wedoit4you.com on User Community and ROI at http://www.wedoit4you.com/archive/2007/03/22 [Read More]
+
+Tracked on Mar 21, 2007 11:15:37 PM
+
+» Great tips on ramping up online user communities from RSS It All
+There is truth in every recomendation from the following post. Source: Creating Passionate Users: User [Read More]
+
+Tracked on Mar 22, 2007 10:28:31 AM
+
+» Facilitate Knowledge Transfer in Online Communities from scooblog by josh ledgard
+I'm often asked how products teams can best participate in their online communities. It would be simple [Read More]
+
+Tracked on Mar 22, 2007 12:44:45 PM
+
+» User Community and ROI from Kotska
+A truly excellent write-up about why to engage users. I tried to inject some of this in my GDC speech but didn't do nearly as good a job as Kathy does in this post. [Read More]
+
+Tracked on Mar 23, 2007 5:11:01 AM
+
+» Fixing User-supported Support Forums from The Progress Bar
+Creating Passionate Users is talking about building an online community. One particular point bothered me: getting people involved sooner by having them answer questions as son as they pass newbie stage instead of waiting until they are experts. There ... [Read More]
+
+Tracked on Mar 23, 2007 1:19:14 PM
+
+» Community ROI from rogerd's notebook
+The firms I talk to about community building seem to fall into two categories - those that want a Web community right now, and those that question the very value of communities. The latter group is skeptical for a variety of reasons, ranging from, &#... [Read More]
+
+Tracked on Mar 23, 2007 1:33:50 PM
+
+» Bloggers respond to threats: Follow-up from Ray Gun Robot
+This is a follow-up to an earlier post entitled "Bloggers respond to threats." Please read that post first in order to make sense of the following. Both Kathy Sierra and Robert Scoble have yet to make any new posts. However, Ms Sierra closed off comment [Read More]
+
+Tracked on Mar 29, 2007 9:02:36 PM
+
+» Resources from Confluence: Wiki Patterns
+Blogs How to Accelerate Enterprise Adoption of Web 2.0 Network Effects [Read More]
+
+Tracked on Sep 12, 2007 4:37:28 PM
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+I was meaning to say something about this in response to the post about "Why are we still going to conferences?"
+but I think it applies equally well here too.
+
+Something that motivates people to do a lot of things - participating in user groups and attending conferences included - is
+the opportunity to mix it up with the celebrities.
+It may lead to nothing more than an opportunity to name drop, but there is something enormously motivating about being told
+that you're doing good by someone that you consider to be an expert in your field.
+
+For your user community that primarily means that the founders of the community - the celebrities/experts - should
+try to be involved at all experience levels to offer encouragement and praise to people at whatever level they happen to be at.
+
+Posted by: omni  Mar 22, 2007 12:56:24 AM
+
+well, my basic rule is: be part of your community. like in 'fight club': "you are not special" just because you have the admin password. the community is bigger than you and your ego. the guys from the "mambo"-cms learned this the hard way.
+
+Posted by: f.enzenhofer  Mar 22, 2007 1:52:31 AM
+
+Maybe more communities should look at the structure of the Jedi Order.
+For example, in an Open Source project all could start from Apprentice move to Padawan if they want to get even more involved and benefit for the direct, one on one help of one of the Knights or Masters.
+
+Upon reaching Master level (successful training of a Padawan) one could receive CVS/SVN write access to The Source. Distinguished Masters could become Council Members and from that position be able to influence the direction of the project.
+
+If the project is successful and generates revenue (sponsorship for example) Maybe the top ranks could receive all kinds of "rewards" that will motivate the rest of the community too... after all... The Path is clear... and if you're willing to put in the effort required... you too can become a member of the elite.
+
+Posted by: Peter  Mar 22, 2007 3:53:55 AM
+
+Kathy, you are my heroine, my beloved, my muse.
+Thanks.
+
+Posted by: nik  Mar 22, 2007 4:36:25 AM
+
+Terrific couple posts and resulting discussion. We are going to launch a site that includes wikis, forums, chat, etc., and want to help foster a strong user community. Many of our users will be under 18 and we want to enable clean communities for them. The two goals often conflict, e.g. we don't want to moderate comments, but do want to moderate comments. Anyone have examples of communities that have done a good job managing these conflicts, e.g. some smaller vertical communities, or have thoughts on how to manage this tricky balance? This issue is becoming important as people like us start to build young, clean communities, schools and youth orgs go truly (user interactive) online, etc. It is particularly tricky during initial community building - when a few evil users can have a disproportionate effect. Thanks all for any input...
+
+Posted by: gz  Mar 22, 2007 8:00:54 AM
+
+Kathy, well-said, and I look forward to hearing more of your thoughts on this. The item that stands out the most to me is the notion of experts giving advice to newbies. As I think back on my own learning experiences over the years, I didn't really want the sometimes condescending, impatient expert to show me how it's done...I would have been far better served to have an intermediate user tell me. Why? Because they probably just learned the same thing or recently overcame the same obstacle that I'm now facing. It's likely that this task/topic is still very fresh in their mind, so I'd probably be able to relate much better to them. So the trick becomes this: How do we tap into, and record for all eternity (and later newbie use) the "a-ha" moments and points of discovery a newbie finds on the way to becoming an intermediate user?
+
+Posted by: Joe Wikert  Mar 22, 2007 10:37:42 AM
+
+My God, Kathy... you're a genius.
+
+This is brilliant stuff; I've been a part of a number of communities, and I can't think of anything you didn't cover here.
+
+qz — your question around moderation made me think, "why not spell out the rules, clean and clear? Those who break them are booted." Why not? It's your community, after all... it doesn't have to be a free-for-all. anarchous situation
+
+Joe — you mentioned recording those moments of discovery... what I'd suggest would be writing down (or recording somehow) the ones you remember, and then ask your users to do the same. Interview them, even. (Heck, start a wiki if you want...) And capture as much as you can in order to put it into a system.
+
+Another idea to blend with this (that I'm going to implement, thanks to Kathy's kickass ideas) is to have "moving up through the ranks" dependent on sharing what they've learned with the folks in the step below them. That way, it's not experts -> beginners, but just people who are a couple steps ahead. It's much more tangible for them then.
+
+Hope this makes sense... and thanks again, Kathy!
+
+Posted by: Adam Kayce : Monk At Work  Mar 22, 2007 1:51:04 PM
+
+Your whole concept seems to be based on the assumption that our product is in some way problematic to use. What if it isn't? Would you suggest suggest we make it difficult on purpose, to generate community communication?
+
+Posted by: Johny Zuper  Mar 23, 2007 4:29:42 AM
+
+"Look on other third-party forums where users are discussing (which usually means struggling) your product, and find the most active people."
+
+I think that this is one most companies miss because so many companies want to create their own community. My personal experience tells me that it is actually quite easy to do this if you really want to do outreach (I worked at PayPal & we never had discussion forums of our own; I went out to communities where people were talking about our Product).
+
+Posted by: Damon Billian  Mar 23, 2007 11:32:55 AM
+
+Once again you've been looking over my shoulder Kathy :)
+
+Tangler is right at this crucial stage and we are doing some of this well, some of it terribly and some of it not at all (yet).
+
+Less important to me is the budget - you can get a lot done for not much moola if you try (and have done it before). More important is the time. With only 217.32 hours in the standard week (I wish) and so much value at an early stage in improving the product, the allocation of time to all these important priorities is tricksy.
+
+I did one thing sort of against your principle to help me spend more time on the product, but I'll explain why. I hired our first Tangler Hero. She was the biggest user by far and after meeting her a couple of times I realised that she knew more about how a new user sees Tangler and how they 'learn' it then I did (I was still a n00b). So she, Rai, does an amazing job in helping new users get started, active users become champions and also bugs the tech team to make sure they are making things mega-easy to use.
+
+In short, she rocks. Yes, I pay her, but it's about quality certainly not quantity. Rai is invaluable.
+
+Other stuff, like writing the 'how to's and sending unique t-shirts has been reluctantly put on the back burner for now. We did this really well at Zapr, but Tangler is still teething, so first things first.
+
+That is my Sunday rambling response...
+
+Oh, and Tangler is amazingly useful for letting beta testers of web applications come together to talk about why your product rocks/sucks. Any companies wanting to get this community mojo around your product can email me beta tangler com
+
+Cheers
+
+Posted by: Mick Liubinskas  Mar 24, 2007 6:52:52 PM
+
+Just discovered your site and I wanted to drop you a line to say how great your blogs are. I just started a community-based site and I think your advice is really helpful and applicable to what I am doing - and many are original too!
+
+Keep up the attitude and I'm sure to check back often.
+
+Posted by: Tipping Monkey  Mar 25, 2007 7:54:55 AM
+
+Yet again, another piece of genius from Miss Kathy. At Parelli, we have a community in the Savvy Club, but I'm also looking at ways to ACTIVATE that Community. I also visit O.T. sites where there is Parelli chatter. Moo should also be happy - I ordered two sets of cards!
+
+Posted by: Norma Vela  Mar 25, 2007 8:48:51 PM
+
+I love this post, love the graphics.
+
+My question is this: How do single users assess the value of an online community? And how does assessment change from the "what's in it for me" mentality to the "does it benefit the greater good?" mentality?
+
+Posted by: Bud Caddell  Mar 26, 2007 11:07:58 AM
+
+Know there are people out here that support you and are willing to help anyway we can...even if that means just blogging about it.
+Sending good karma your way!
+
+Posted by: Heather-Anne  Mar 26, 2007 11:39:16 PM
+
+YOU FUCKING CUNT YOUR DAYS ARE NUMBERED. I'M COMING FOR YOU AND I' GOING TO SHOOT YOU IN YOUR CHEAP SLUT HEAD. YOU SHOULD HAVE STAYED AWAY FROM MY MAN... NOW YOU PAY THE PRICE.
+
+Posted by: Jeneane Sessum  Mar 27, 2007 4:19:20 AM
+
+An excellent article, thank you very much. The solidification of these facts have allowed me to view community building as one of the important aspects when creating the rest of my site.
+
+Posted by: Woolie  Mar 27, 2007 8:58:16 AM
+
+God there's some vicious sounding freaks on the net. Kathy you have my support 100%
+
+drunkenblogging.blogspot.com
+
+Posted by: j0nz  Mar 27, 2007 11:07:49 AM
+
+P.s. if i lived a little closer I would come around and provide some kick ass security for you!
+
+Posted by: j0nz  Mar 27, 2007 11:25:55 AM
+
+Kathy, I am appalled. I don’t know what else to say, as words seem to be part of the problem, at this point.
+
+For my part, I’ve used it as a springboard to do a little consciousness raising with male colleagues, some of whom don’t seem to think this issue exists, or matters.
+
+Peace
+deb
+
+Posted by: Deborah Hartmann  Mar 27, 2007 6:29:05 PM
+
+The internet has unfortunately brought home to all of us just what vile nests of snakes some people's minds are.
+If people behaved like that in public outside their small circle of creepy little friends they would soon be ostracised or prosecuted.
+The online world urgently needs to adopt more of the agreed norms of civil society.Starting with civility.
+It's always horrible and soul-wounding to be on the receiving end of human malice - Kathy I wish you all the best in overcoming this and hope that you are back with us again soon.
+We would all be poorer without your insights and your humour.
+
+
+Posted by: Kevin Daly  Mar 27, 2007 9:18:36 PM
+
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+IMMA KILL YOU
+
+Posted by: Desu  Mar 29, 2007 8:47:10 AM
+
+since you closed comments for your bitchy post about blog trolls: welcome to the internet, cunt. enjoy your stay.
+
+the internet: serious business.
+
+anonymous, legion, does not forgive, etc.
+
+Posted by: Anonymous  Mar 29, 2007 7:05:25 PM
+
+Keep the posts coming Kathy, you are a great read and I love the blog. I'd love your perspective on supporting user experience with more traditional online marketing activities. How does this play into natural search or viral marketing?
+
+Posted by: Paul  Mar 30, 2007 5:38:01 PM
+
+Really interesting read, brilliant stuff.
+Thanks
+
+Posted by: KNOCKS  Apr 3, 2007 11:57:13 PM
+
+I just found this site after an email from WXPNews...ugggg....I had no idea...this is not cyber bullying ...it is much much more...This problem is why I have been so on the sword about government involvment regarding cyberworld.so sorry Kathy!
+Cheryl
+
+Posted by: Cheryl Scott  Apr 4, 2007 3:38:52 PM
+
+The comments to this entry are closed.

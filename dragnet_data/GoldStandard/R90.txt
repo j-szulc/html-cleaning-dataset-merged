@@ -1,0 +1,76 @@
+Tuesday, October 16, 2012
+The Golden Spike Part 2 
+
+Today we made history in the Commonwealth of Massachusetts.   At 11:35am Governor Deval and his physician sent the Governor's healthcare record from Massachusetts General Hospital to Baystate Medical Center.   It arrived and was integrated into Baystate's Cerner medical record.
+
+The Massachusetts HIE is now open for business.
+
+Immediately following the Governor's record, institutions throughout the Commonwealth sent their own transactions.
+
+The record I exchanged had special significance to my family.
+
+When Kathy was diagnosed with breast cancer (a highly suspicious mammogram) at Newton Wellesley (a Partners hospital), she was told that Massachusetts had no healthcare information highway and she would have to drive her records and images to Beth Israel Deaconess where she chose to seek the care of oncologists,surgeons, and radiation oncologists.
+
+Two months after she began treatment, her health plan called and told her "we think you have cancer because you have incurred $25,000 in chemotherapy costs since December";.
+
+Her out of network caregivers had no visibility into her cancer care.
+
+Her care at multiple institutions was not aggregated for quality measurement.
+
+All of that ended today.   In front of the press and leaders of Massachusetts, I accessed her BIDMC records, with her consent, and sent them electronically to Partners Healthcare, a payer (Network Health), a private primary care provider (Dr. Ayobami Ojutalayo, MD at Ruhke Medical Center), and the Massachusetts eHealth Collaborative (a quality measurement and analytics service provider).    Within seconds, we broke down silos, demonstrating that care coordination, population health, and quality analytics based on healthcare information exchange is now possible in Massachusetts.   EHRs included Partners' LMR, eClincialWorks, a custom payer system, and self built analytic applications.
+
+Other transactions followed.
+
+Tufts New England Medical Center sent summaries to and received summaries from Vanguard Health Systems New England illustrating primary care physician to specialist closed loop workflow.   EHRs included Siemens Soarian and Meditech.
+
+Boston Children's sent pediatric patient summaries to Atrius Healthcare, a multi-specialty group, illustrating tertiary hospital to primary care giver coordination.
+
+All were successful and were documented in real time on the Twitter stream.  
+
+The Governor distributed golden spikes (photo above) made from actual railroad spikes salvaged from rail near  Promontory Point.
+
+Just as the original golden spike in 1869 issued in a new era of connectness, so does today's HIT golden spike change business as usual in Massachusetts.  Over the next year, we'll be building new "bridges", ensuring that every payer, provider, and payer can join the ecosystem.
+
+Here's to innovation!
+Posted by John Halamka at 11:00 AM 
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+Michael McBride said...
+
+    Congratulations Jon. All states should be watching and learning from Massachusetts what can and should be accomplished through public-private healthcare industry cooperation. Enjoy your kudos. You've earned them.
+
+    Michael McBride
+    October 16, 2012 11:57 AM 
+Anatoly Goldstein, Ph.D. said...
+
+    Dear Dr Halamka, Thanks for the great update and congratulations! A quick question: does this data exchange system support imaging data such as X-rays, MRIs, videos of vibrating vocal folds and the like? Asking because these files typically span from hundreds of megabytes to dozens of gigabytes and require more time and higher network bandwidth for transmission. Will most of the private doctors offices across Massachusetts have enough bandwidth to transmit the mentioned types of imaging data? Thanks again for your post! Anatoly Goldstein. e-mail: agoldstein1@partners.org
+    October 16, 2012 3:02 PM 
+James said...
+
+    Congratulations, John. A small step for EHRs and a giant step for patient care!
+    October 17, 2012 6:49 AM 
+Vish Anantraman said...
+
+    It would be interesting to know if discrete data was exchanged, while the standards bodies and MU regulations still promote CCD as the vehicle for transmission of data, most EHRs are unable to consume the data discretely.
+    October 18, 2012 11:32 AM 
+Anonymous said...
+
+    Very exciting news! Congratulations!
+
+
+
+    Guanglan Zhang
+    October 22, 2012 6:59 PM 
+vanessa said...
+
+    Dr Halamka,
+    Congratulations! It is great to see that all efforts and hard work are being achieved! This is a huge step towards the future of HIE! Thanks!
+
+    Vanessa
+    October 23, 2012 6:28 AM 

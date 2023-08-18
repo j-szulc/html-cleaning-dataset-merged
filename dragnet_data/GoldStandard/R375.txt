@@ -1,0 +1,27 @@
+November 06, 2012
+Researcher finds critical vulnerabilities in Sophos antivirus product
+Sophos antivirus should only be considered for low-value non-critical systems, the security researcher said
+
+Security researcher Tavis Ormandy discovered critical vulnerabilities in the antivirus product developed by U.K.-based security firm Sophos and advised organizations to avoid using the product on critical systems unless the vendor improves its product development, quality assurance and security response practices.
+
+Ormandy, who works as an information security engineer at Google, disclosed details about the vulnerabilities he found in a research paper entitled "Sophail: Applied attacks against Sophos Antivirus" that was published on Monday. Ormandy noted that the research was performed in his spare time and that the views expressed in the paper are his own and not those of his employer.
+
+[ Find out how to block the viruses, worms, and other malware that threaten your business, with hands-on advice from expert contributors in InfoWorld's "Malware Deep Dive" PDF guide. | Keep up with key security issues with InfoWorld's Security Adviser blog and Security Central newsletter. ]
+
+The paper contains details about several vulnerabilities in the Sophos antivirus code responsible for parsing Visual Basic 6, PDF, CAB and RAR files. Some of these flaws can be attacked remotely and can result in the execution of arbitrary code on the system.
+
+Ormandy even included a proof-of-concept exploit for the PDF parsing vulnerability which he claims requires no user interaction, no authentication and can be easily transformed into a self-spreading worm.
+
+The researcher built the exploit for the Mac version of Sophos antivirus, but noted that the vulnerability also affects Windows and Linux versions of the product and the exploit can easily be translated to those platforms.
+
+The PDF parsing vulnerability can be exploited by simply receiving an email in Outlook or Mail.app, Ormandy said in the paper. Because Sophos antivirus automatically intercepts input and output (I/O) operations, opening or reading the email is not even necessary.
+
+"The most realistic attack scenario for a global network worm is self-propagation via email," Ormandy said. "No users are required to interact with the email, as the vulnerability will be automatically exploited."
+
+However, other attack methods are also possible -- for example, by opening any file of any type provided by an attacker; visiting a URL (even in a sandboxed browser), or embedding images using MIME cid: URLs into an email that is opened in a webmail client,the researcher said. "Any method an attacker can use to cause I/O is enough to exploit this vulnerability."
+
+Ormandy also found that a component called the "Buffer Overflow Protection System" (BOPS) that's bundled with Sophos antivirus, disables the ASLR (address space layout randomization) exploit mitigation feature on all Windows versions that support it by default, including Vista and later.
+
+"It is simply inexcusable to disable ASLR systemwide like this, especially in order to sell a naive alternative to customers that is functionally poorer than that provided by Microsoft," Ormandy said.
+
+A website blacklisting component for Internet Explorer installed by Sophos antivirus cancels the protection offered by the browser's Protected Mode feature, the researcher said. In addition, the template used to display warnings by the blacklisting component introduces a universal cross-site scripting vulnerability that defeats the browser's Same Origin Policy.

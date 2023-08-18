@@ -1,0 +1,27 @@
+August 9, 2012
+How to record video of your Google Earth actions
+
+We often get emails asking how to record video of your actions in Google Earth to share with others. There are a number ways to do it, and we'll show you a few of them here.
+
+Google Earth Pro
+
+It comes with a price tag of $399/year, but Google Earth Pro offers some great features. Not only does it allow you to export movies, it gives you quite a few other data and visualization tools. Please note that it does not provide newer or better imagery -- simply better tools to use when exploring that imagery.
+
+Fraps
+
+My favorite tool for recording Google Earth is Fraps, as it does a great job and only costs $37. They even offer a trial version (which includes an ugly watermark) so you can try it out and make sure it works before you shell out the money.
+fraps.jpg
+
+Most of the videos I've created on the site, as well as other places like the Google Earth section on A Brighter Web, were created using Fraps.
+
+Jing
+
+I use Jing many times every day for sharing screenshots and short tutorials with clients. Jing tends to capture a lower framerate than Fraps in Google Earth, so I typically use Fraps for those kinds of projects. However, Jing certainly has some awesome features and is well worth trying out.
+
+Ultimately, any screen capture tool will be able to help you capture video in Google Earth, but the tools listed above are great ones to try out.
+
+Permissions
+
+All of that said, you need to watch out for copyright issues when posting video from Google Earth. Use the handy Geo Guidelines Permissions Tool to make sure your use of Google Earth imagery is acceptable with them.
+
+Have you made any great videos using Google Earth? Share them in the comments below.

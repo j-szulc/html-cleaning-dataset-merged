@@ -1,0 +1,14 @@
+
+November 8, 2012, 8:11 am
+Q&A: The Many Flavors of Android
+By J.D. BIERSDORFER
+Q.
+
+What is the difference between the software running on the Amazon Kindle and the Google Nexus 7? They’re both Android tablets, right?
+A.
+
+Amazon’s Kindle Fire line of tablets and Google’s Nexus 7 model are both considered to be Android tablets, but the Kindle Fire uses a customized version of the system. Unlike Apple’s tightly controlled iOS mobile operating system, the Android software, which is made by Google, has been adapted for use by many hardware manufacturers for their own phones and tablets.
+
+Amazon’s version of Android is focused on easy navigation for the content on the Kindle and getting to features like Amazon Prime Instant Video and other content from the enormous online store. The Kindle’s version of Android does not run as many apps as Google’s Nexus 7 with its unmodified Android system, but it supports the common ones: Twitter, Facebook, Pandora, Angry Birds and other popular pastimes. (While it is possible to manually install Android apps from other sources on the Kindle, many people just stick with the apps available for download right on the device.)
+
+The Google Nexus 7 is geared more to app lovers and people who like to tinker with tablets; a larger Nexus 10 is also available. Google’s tablets tend to get Android updates first and can run a huge amount of apps from the Google Play store, so if you are less interested in entertainment and more into apps, the Nexus 7 may be a better fit.

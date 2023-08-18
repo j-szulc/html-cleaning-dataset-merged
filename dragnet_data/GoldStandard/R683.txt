@@ -1,0 +1,160 @@
+November 8, 2012
+Micromorts
+
+Here's a great concept: a micromort:
+
+    Shopping for coffee you would not ask for 0.00025 tons (unless you were naturally irritating), you would ask for 250 grams. In the same way, talking about a 1/125,000 or 0.000008 risk of death associated with a hang-gliding flight is rather awkward. With that in mind. Howard coined the term "microprobability" (μp) to refer to an event with a chance of 1 in 1 million and a 1 in 1 million chance of death he calls a "micromort" (μmt). We can now describe the risk of hang-gliding as 8 micromorts and you would have to drive around 3,000km in a car before accumulating a risk of 8 mt, which helps compare these two remote risks.
+
+There's a related term, microlife, for things that reduce your lifespan. A microlife is 30 minutes off your life expectancy. So smoking two cigarettes has a cost of one microlife.
+
+
+
+!@#$%^&*()  COMMENTS
+
+
+
+
+
+Not to be confused with a "micro-ort", which is a barely visible scrap of food left on your plate.
+
+Posted by: Snarki, child of Loki at November 8, 2012 7:12 AM
+
+Sitting in traffic costs me 8 macromorts every day ...
+
+Posted by: kingsnake at November 8, 2012 7:22 AM
+
+Excellent idea. I wonder though whether it should also be per unit of time.
+
+Posted by: Andy at November 8, 2012 7:30 AM
+
+For the most precision it would be best to measure QALYs lost, rather than either years lost or proportion of life lost. For small measures QALH might be more appropriate - so if you have 50 quality years of life ahead of you and you go handgliding, that 8 micromort risk is equivalent to the lost of around 3.5 QALHs
+
+Posted by: Paul Crowley at November 8, 2012 7:50 AM
+
+There is a missing μ in the risk of driving 3000km.
+
+Posted by: lowdefinition at November 8, 2012 7:51 AM
+
+So.. if 1 µp is a chance of 1 to a million, please keep in mind that things that have a 1 to 1 million chance to succeed, but might happen, will work in one out of three cases...
+
+Posted by: bickerdyke at November 8, 2012 7:51 AM
+
+There can't be a microlife because of micromorts. It's impossible to say how much you life has been shortened by carrying out a task. You could die tomorrow from a hang gliding accident. What should be happen is that smoking should be quantified in terms of micromorts. So smoking ten a day increases your chance of dying by say 0.01mt. You can then compare hang gliding to smoking and decide which is worth while to perform taking into account the benefits you get from them. Both are drug delivery forms, adrenaline vs. nicotine.
+
+Posted by: SadButMadLad at November 8, 2012 7:55 AM
+
+Ah, "naturally irritating". That's the term I've been looking for. Time to update my résumé!
+
+Posted by: Alan Porter at November 8, 2012 8:19 AM
+
+I really doubt that you could calculate how much longer George Burns would have lived by multiplying 15 minutes times the monumental number of cigars he smoked in his lifetime.
+
+Posted by: Craig at November 8, 2012 8:20 AM
+
+In this week's "what if?" by Randall Munroe (www.what-if.xkcd.com), he calculates that "a Florida resident suffers an average of 0.64 femtodeaths per second from meteorite impacts."
+
+Posted by: Paul at November 8, 2012 8:27 AM
+
+I'd argue that smoking a cigarette has a cost of about 0.25-0.5 microlife just from the time the smoker expends finding some place to smoke and then standing around puffing.
+
+Posted by: bcs at November 8, 2012 8:58 AM
+
+It is interesting to know that your daily micromorts figure changes with age irrespective of what othe risks are in your life.
+
+For instance (IIRC) an average healthy male aged 20 has a daily 500micromort figure, however IF the same average person makes it to 60 it has risen to 5000micromorts.
+
+Now this gives an interesting consideration. If as a 20year old I go sky diving with say a 10micromort risk it represents a considerably higher % risk than if I was sixty...
+
+Oh and people over say 80years of age is into serious daily micromorts of 100,000micromorts so almost anything they chose to do will have a negligable effect on their life expectancy...
+
+@ Alan Porter
+
+Ah, "naturally irritating". That's the term I've been looking for. Time to update my résumé
+
+Where are you expectations?
+
+Me I can be "super-naturally irritating" as part of the generalised theory of "one-upmanship". If some doppy g1t trying to be a smart Alex asked me for 0.00025 of a ton of coffee I would say "Is that a metric or imperial ton as it makes a difference of around 2240:2200 but I know where to look it up if you want the exact figure to the nearest mass of a silicon atom in a standard gravity if you wish?"[1]. However if you can quote the difference in actual numbers of silicon atoms that makes you "un-naturaly Iritating" :-)
+
+[1] For those with a curiosity in "International Standards" (SI) and the units of measure and metrolology (not meteorology it makes a difference in wether you are talking about the weather or how you would standardise measuring the weather) you could do worse than start at, http://en.wikipedia.org/wiki/Metrology
+
+Posted by: Clive Robinson at November 8, 2012 9:19 AM
+
+As Stalin might have put it: a single death is a tragedy, but a millionth of a death is a statistic.
+
+Posted by: Paul Johnson at November 8, 2012 9:37 AM
+
+Duplicate of February 8th 2011 on this blog, i.e. https://www.schneier.com/blog/archives/2011/02/micromorts.html .
+
+Posted by: Dirk Praet at November 8, 2012 10:01 AM
+
+See also http://esr.ibiblio.org/?p=4683 , a proposal for the microzen, a unit of enlightenment.
+
+Posted by: conrad clark at November 8, 2012 10:29 AM
+
+So many μstats!
+
+Posted by: echowit at November 8, 2012 12:14 PM
+
+The microlife idea reminds me of the movie In Time.
+
+    "Living time", which can be transferred among individuals on body contact, is displayed on a clock implanted in people's forearms. When this clock reaches zero, one dies instantly... The poor...must work each day to earn a few more hours of life, which they must also use to pay for everyday necessities, since time has replaced money as currency. 
+
+Posted by: John Bachir at November 8, 2012 1:16 PM
+
+It surprised me that general anesthetic is as risky as scuba diving. I wonder how that compares to the risk of not getting a colonoscopy, which includes general anesthetic. A more complete list of various activities and their associated risks could be very useful for making rational decisions like this.
+
+Posted by: Dr. I. Needtob Athe at November 8, 2012 2:14 PM
+
+“Scientists have calculated that the chances of something so patently absurd actually existing are millions to one.
+
+But magicians have calculated that million-to-one chances crop up nine times out of ten.”
+― Terry Pratchett, Mort
+
+Posted by: Bob Roberts at November 8, 2012 3:51 PM
+
+@Clive Robinson:
+
+At which time the Alex will reply ``Why do you say mass? It's constant (if Einstein is right) regardless of gravity. Surely you mean weight?''
+
+Posted by: Terry Cloth at November 8, 2012 3:51 PM
+
+@paul
+You forgot to link!
+
+http://what-if.xkcd.com/19/
+
+Posted by: Mark at November 8, 2012 5:24 PM
+
+In UK (in my experience), colonoscopies are performed under (optional) sedation, not general anaesthetic.
+
+Posted by: Adam at November 8, 2012 7:06 PM
+
+@ Terry Cloth,
+
+If the Smart Alex said,
+
+`Why do you say mass? It's constant (if Einstein is right say mass? Surely you mean weight?'
+
+He would be right about Einstein but wrong about the way we measure things...
+
+The idea behind our current thinking on standards is to come up with just one or two fundementaly agreed methods such as counting and measuring a length. These are derived from logic via mathmatics for the likes of counting. However you end up with a problem of ratios and what your agreed standard is for "1 unit of measure" so you need primary standards that can converted to others by what are currently belived to be universal constants such as the speed of light.
+
+But there is an issue of scale with the primary method of counting... You have to be able to have things being "singular" and "visable" to count them both of which generaly don't apply to atoms (even though the origins of the word from Greek would haave you thinking otherwise).
+
+So with an agreement on time for which natural (almost) Universaly visable objects are good to 1 part in 10^14 stability wise, you can measure frequency (so many cycles per second) as this is related to Wavelength in a vacuum and relatavistic effects of gravity we can calculate a length by time.
+
+Now how do we take length to mass? when you cannot count atoms, well we do it via volume and density but all substances are compressable (even the stuff in black holes) it depends on gravity...
+
+As the irritating advert (in the UK for insurance) with the meercat says "Simpeellss".
+
+Posted by: Clive Robinson at November 9, 2012 12:46 AM
+
+@Craig "I really doubt that you could calculate how much longer George Burns would have lived by multiplying 15 minutes times the monumental number of cigars he smoked in his lifetime."
+
+Given the relation between probabilities in a large population and outcomes for a single individual, this might be your most well-founded doubt ever.
+
+Posted by: Jon Eliot at November 9, 2012 1:56 AM
+
+You would ask for 227 or 254 grams of coffee, actually. (I would ask for a short Americano, though.)
+
+Posted by: Dave Marcus at November 9, 2012 8:50 AM

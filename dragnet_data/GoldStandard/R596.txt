@@ -1,0 +1,12 @@
+Intel Recreates Musical 3D Animation in Real Life
+
+You may recall an incredible 3D animated video from years ago from Animusic called “Pipe Dream” which featured a musical ensamble of robotics.  Intel decided to recreate the performance for real in just 90 days. Unlike majority of our projects, this one doesn’t come with instructions so we’re posting it as inspiration for your future projects:
+
+Overall, the system uses 36 ball hoppers, 2300 balls, and creates 120 unique notes.  The display was created to show off Intel’s hardware (the used seven Intel processors and spent $160k), but we’d love to see a DIY version!  If you build one, let us know and we’ll pay you to post it on HacknMod!
+
+Popular Musical Projects:
+
+    Create Techno with a Laser Harp
+    Electric Organ Hacked into an 8-Bit Synthesizer
+    DIY Virtual Piano using Kinect
+

@@ -1,0 +1,36 @@
+Do more capable workers get better working conditions?
+Written By: Jason Shafrin - Oct• 29•12
+
+More capable workers typically do have the best working conditions.  The theory of compensating differentials, however, says that workers should be compensated in the form of higher wages for job amenities.  So why is this the case empirically?
+
+Today, I review the Hanbook of Labor Economics chapter by Sherwin Rosen titled “The Theory of Equalizing Differences” to find the answer.
+
+Overview of Theory of Compensating Differentials
+
+“The theory of equalizing differences refers to observed wage differentials required to equalize the total monetary and nonmonetary advantages or disadvantages among work activities and among workers themselves. The basic idea originates in the first ten chapters of Book I of The Wealth of Nations…
+
+Activities that offer favorable working conditions attract labor at lower than average wages, whereas jobs offering unfavorable working conditions must pay premiums as offsetting compensation in order to attract workers. Measurable job attributes on which compensating wage differentials have been shown to arise empirically include: (i) onerous working conditions, such as risks to life and health, exposure to pollution, and so forth; (ii) intercity and interregional wage differences associated with differences in climate, crime, pollution, and crowding; (iii) special work-time scheduling and related requirements, including shift work, inflexible work schedules, and possible risks of layoff and subsequent unemployment; and (iv) the composition of pay packages, including vacations, pensions, and other fringe benefits as substitutes for direct cash wage payments.
+Regional Variation in Wages
+
+“Fuchs (1967) clearly shows persistent differences in wages across regions in the United States from population census data, among workers with the same measured productivity (education, experience and the like). Wages in the South tend to be lower than elsewhere. A series of studies by Hoch (1974, 1977) attempts to decompose these differences into components reflecting differences in climate and differences in costs of living across areas. Fuchs also shows significant differences in wages among productively similar workers between cities of different sizes.”
+
+As shown in Muth (1969): “…limited availability of dwelling sites requires an equalizing differences on the valuation of land that is systematically decreasing in distance from the central city: people who live further out must commute longer distances and this is compensated by cheaper housing prices. It is conceptually straightforward to extend this argument to other intracity amenities, such as a hillside location, one with a lake view, access to fancy shops, and so forth. All of these locational amenities within cities get priced out in the value of land. No adjustment need occur at all in money wages. One could well imagine a similar adjustment process among cities as well as within them. For example, the price of land and housing services in highly desirable cities such as San Francisco and Los Angeles is very large relative to those cities that are less in favor, such as Detroit and Buffalo. To what extent do wages also have to adjust to equilibrate the market?
+Compensating Differentials and Commuting Cost
+
+Rees and Shultz (1970) “…find a systematic wage premium on journey to work. Employees traveling longer distances tend to be found on higher paying jobs. While it is implausible that an employer would be willing to pay identical workers different wages depending upon traveling distance, the result is best interpreted as a selection effect on a job search type of model: the acceptance wage in a search model should increase in commutation cost.”
+The (Potentially Confusing) Empirical Relationship between Job Amenities and Wages
+
+Although jobs with fewer amenities have to pay workers a compensating differential (or equalizing wage difference) to compensate workers for the disamenities, empirically higher paid workers may actually occupy jobs with more amenities.  Why is this the case?
+
+“Brown [1980] noted a possible bias in cross-section comparisons arising from a form of selection. If workers differ in their abilities and these differences are unobserved, and if the list of job attributes is incomplete, it is likely that more capable workers would be more probably found on jobs offering favorable working conditions…For example, income effects would imply this: workers with greater earning capacity would ‘spend’ some of it on more on-the-job consumption. This is the fundamental reason why low paying jobs tend to be the ‘worst’ jobs. A regression of observed wages on observed personal and job characteristics would therefore capture the fact that low ability workers are more frequently found on worse jobs due to these unobserved selection effects. The estimate of the pure equalizing difference would be biased against finding such effects.”
+
+Sources:
+
+    Sherwin Rosen (1986) Chapter 12 The theory of equalizing differences. Handbook of Labor Economics  Volume 1, 1986, Pages 641–692.
+    C. Brown  Equalizing differences in the labor market  Quarterly Journal of Economics (1980)
+    V. Fuchs  Differentials in hourly earnings by region and city size, 1959  New York NBER Occasional Paper 101 (1967)
+    I. Hoch  Climate, wages and the quality of life  Baltimore L. Wingo, H. Evans (Eds.), Public economics and the quality of life (1971)
+    I. Hoch  Inter-urban differences in the quality of life  New York J. Rothenberg, R. Heggis (Eds.), Transport and the urban environment (1974)
+    R. Muth  Cities and housing  Chicago  (1969)
+    A. Rees, G. Schultz  Workers and wages in an urban labor market  Chicago  (1970)
+
