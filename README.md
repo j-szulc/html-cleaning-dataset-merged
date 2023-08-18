@@ -22,7 +22,7 @@ To get a version stripped of any HTML tags and strip.py script to do that, which
 To run it, just do:
 ```
 pip3 install bs4
-python3 strip.py dataset-name/GoldStandard/ dataset-name/stripped
+python3 strip.py dataset-name/GoldStandard dataset-name/stripped
 ```
 To get all stripped datasets run:
 ```
