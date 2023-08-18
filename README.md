@@ -12,6 +12,7 @@ This repo contains:
 - Google news dataset: https://github.com/geodrome/page-signal,
 
 which have been all transformed into the same folder structure.
+I also added a version stripped of any HTML tags.
 
 Note that I do not own any rights to these datasets, I just merged already available, albeit some hard to find, datasets and mirrored them for ease of accessibility.
 All rights belong to their respective owners.
