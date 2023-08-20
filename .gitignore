@@ -1,2 +1,4 @@
 .idea/*
 **/stripped/*
+merged/*
+.DS_Store

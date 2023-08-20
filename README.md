@@ -29,3 +29,33 @@ To get all stripped datasets run:
 pip3 install bs4
 find . -maxdepth 1 -type d ! -name ".*" -exec bash -c 'echo Processing "$0" ; python3 strip.py "$0"/GoldStandard "$0"/stripped' {} \;
 ```
+
+To merge them into one dataset, just do:
+```
+#!/bin/bash
+
+rm -r merged || true
+# Create a new directory to store the merged directories
+mkdir -p merged/stripped
+mkdir -p merged/GoldStandard
+mkdir -p merged/input
+
+# Loop through each folder in the current directory
+for folder in */; do
+  # Skip the "merged" folder
+  if [ "$folder" == "merged/" ]; then
+    continue
+  fi
+  # Check if the GoldStandard directory exists inside the current folder
+  if [ -d "$folder/GoldStandard" ]; then
+    # Copy the contents of the GoldStandard directory to the merged GoldStandard directory
+    cp -R "$folder/GoldStandard/." merged/GoldStandard/
+  fi
+  if [ -d "$folder/stripped" ]; then
+    cp -R "$folder/stripped/." merged/stripped/
+  fi
+  if [ -d "$folder/input" ]; then
+    cp -R "$folder/input/." merged/input/
+  fi
+done
+```
